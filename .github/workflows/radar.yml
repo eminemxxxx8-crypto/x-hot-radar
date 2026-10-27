@@ -1,1 +1,60 @@
+name: X Celebrity Hot Radar (free)
 
+on:
+  schedule:
+    # Every 15 minutes (UTC); GitHub may delay scheduled runs.
+    - cron: '4,19,34,49 * * * *'
+  workflow_dispatch:
+    inputs:
+      send_test:
+        description: 'Send a Telegram connection test'
+        required: true
+        default: true
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: celebrity-hot-radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate code
+        run: python -m py_compile radar.py
+      - name: Test connection or check hotspots
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SEND_TEST: ${{ inputs.send_test }}
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          if [[ -z "$TELEGRAM_BOT_TOKEN" || -z "$TELEGRAM_CHAT_ID" ]]; then
+            echo 'Missing Telegram secrets; configure them in repository settings.'
+            exit 1
+          fi
+          if [[ "$EVENT_NAME" == "workflow_dispatch" && "$SEND_TEST" == "true" ]]; then
+            python radar.py --test
+          else
+            python radar.py
+          fi
+      - name: Save alert history
+        if: success()
+        run: |
+          if [[ -n "$(git status --porcelain -- data/state.json)" ]]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add data/state.json
+            git commit -m 'Update radar alert history [skip ci]'
+            git push
+          fi
