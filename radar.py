@@ -26,7 +26,7 @@ import xml.etree.ElementTree as ET
 LOG = logging.getLogger("hotradar")
 UTC = dt.timezone.utc
 STATE_PATH = Path("data/state.json")
-MAX_AGE_MINUTES = 105
+MAX_AGE_MINUTES = 180
 MAX_ALERTS_PER_RUN = 2
 COOLDOWN_HOURS = 8
 HTNS = "https://trends.google.com/trending/rss"
@@ -80,12 +80,18 @@ BORING_WORDS = (
 )
 
 # Google News publicly available RSS search. Limit the number of queries to be gentle.
+# Broad 24-hour index queries, then filter individual items to the last 180 minutes.
+# The earlier 4-hour compound searches returned zero matches on the first live run.
+# This is discovery, not proof of the event or its social-media reach.
 NEWS_QUERIES = [
-    '(("Mbappe" OR "Messi" OR "Ronaldo" OR "Harry Kane" OR "Yamal" OR "Neymar") (controversy OR apology OR sponsor OR scandal OR award OR viral)) when:4h',
-    '(("Justin Bieber" OR "Taylor Swift" OR "Drake" OR "Kanye" OR "Selena Gomez" OR "Kim Kardashian") (controversy OR breakup OR apology OR viral OR lawsuit OR statement)) when:4h',
-    '(("LeBron James" OR "Stephen Curry" OR "Elon Musk" OR "Shohei Ohtani") (controversy OR viral OR lawsuit OR apology OR statement)) when:4h',
-    '(("姆巴佩" OR "梅西" OR "C罗" OR "马斯克" OR "比伯" OR "亚马尔") (道歉 OR 争议 OR 解约 OR 代言 OR 金球奖 OR 回应)) when:4h',
+    '"Mbappe" when:1d',
+    '"Messi" OR "Cristiano Ronaldo" OR "Harry Kane" OR "Yamal" when:1d',
+    '"Justin Bieber" OR "Taylor Swift" OR "Kanye West" OR "Selena Gomez" when:1d',
+    '"Elon Musk" OR "LeBron James" OR "Stephen Curry" OR "Shohei Ohtani" when:1d',
+    '姆巴佩 OR 梅西 OR C罗 OR 亚马尔 when:1d',
+    '比伯 OR 马斯克 OR 詹姆斯 OR 泰勒斯威夫特 when:1d',
 ]
+
 
 
 def now_utc() -> dt.datetime:
@@ -113,6 +119,14 @@ def get_entity(text: str) -> str | None:
     return None
 
 
+def item_context(item: dict) -> str:
+    """Trend labels are often just a name: use linked article headlines as context."""
+    parts = [item.get("title", "")]
+    if item.get("kind") == "trend":
+        parts.extend(x.get("title", "") for x in item.get("related", [])[:5])
+    return " | ".join(p for p in parts if p)
+
+
 def event_type(text: str) -> str:
     t = normalized(text)
     if any(w in t for w in ("sponsor", "contract", "解约", "代言", "终止合作")):
@@ -129,23 +143,24 @@ def event_type(text: str) -> str:
 
 
 def score_item(item: dict) -> tuple[int, str | None]:
-    title = item["title"]
-    t = normalized(title)
+    title = item.get("title", "")
+    t = normalized(item_context(item))
+    # Require the recognisable person in the main title, not only a possibly unrelated
+    # article in the related-news list.
     entity = get_entity(title)
     if not entity:
         return 0, None
-    if any(term in t for term in BORING_WORDS):
+    if any(term in normalized(title) for term in BORING_WORDS):
         return 0, None
-    is_hot = any(term in t for term in ALERT_WORDS)
+    is_hot = any(normalized(term) in t for term in ALERT_WORDS)
     if not is_hot:
-        # A rising name without known event context is too noisy.
         return 0, None
     score = 4
-    if item["kind"] == "trend":
+    if item.get("kind") == "trend":
         score += 2
         if item.get("traffic", 0) >= 10000:
             score += 2
-    if any(w in t for w in ("apolog", "解约", "controvers", "道歉", "boycott", "sponsor", "scandal")):
+    if any(normalized(w) in t for w in ("apolog", "解约", "controvers", "道歉", "boycott", "sponsor", "scandal")):
         score += 2
     return score, entity
 
@@ -221,9 +236,9 @@ def fetch_sources() -> tuple[list[dict], int]:
             LOG.warning("Trends %s unavailable: %s", geo, type(exc).__name__)
     for idx, q in enumerate(NEWS_QUERIES, start=1):
         try:
-            lang = "zh-CN" if idx == 4 else "en-US"
-            geo = "CN" if idx == 4 else "US"
-            ceid = "CN:zh-Hans" if idx == 4 else "US:en"
+            lang = "zh-CN" if idx >= 5 else "en-US"
+            geo = "CN" if idx >= 5 else "US"
+            ceid = "CN:zh-Hans" if idx >= 5 else "US:en"
             url = "https://news.google.com/rss/search?" + urlencode({"q": q, "hl": lang, "gl": geo, "ceid": ceid})
             parsed = parse_news(http_get(url))
             all_items.extend(parsed)
@@ -284,11 +299,15 @@ def suggestion(text: str, category: str) -> str:
 
 
 def render_alert(item: dict, person: str) -> str:
-    category = event_type(item["title"])
+    category = event_type(item_context(item))
     published = item["published"]
     time_str = published.astimezone(dt.timezone(dt.timedelta(hours=8))).strftime("%m-%d %H:%M") if published else "时间待核实"
     views = f"\nGoogle搜索量级下限（非X曝光）：约{item['traffic']:,}+" if item["kind"] == "trend" and item.get("traffic") else ""
     headline = item["title"][:230]
+    if item.get("kind") == "trend" and item.get("related"):
+        article = item["related"][0].get("title", "")
+        if article:
+            headline += "\n关联报道标题：" + article[:200]
     extra_source = ""
     if item.get("related"):
         first = item["related"][0]
@@ -315,13 +334,19 @@ def eligible_recent(item: dict, now: dt.datetime) -> bool:
 
 def process(items: list[dict], state: dict, now: dt.datetime, *, deliver: bool = True) -> tuple[int, bool]:
     candidates = []
+    fresh_count = 0
+    named_count = 0
     for item in items:
         if not eligible_recent(item, now):
             continue
+        fresh_count += 1
+        if get_entity(item.get("title", "")):
+            named_count += 1
         score, person = score_item(item)
         if score >= 4 and person:
             candidates.append((score, item, person))
     candidates.sort(key=lambda v: (v[0], v[1]["published"]), reverse=True)
+    LOG.info("Filter: raw=%d, fresh=%d, named=%d, event_candidates=%d", len(items), fresh_count, named_count, len(candidates))
     if not state["initialized"]:
         # Safe first run: do not dump a backlog of old headlines into Telegram.
         keys = {key_for(x[1]) for x in candidates}
@@ -340,7 +365,7 @@ def process(items: list[dict], state: dict, now: dt.datetime, *, deliver: bool =
         key = key_for(item)
         if key in seen:
             continue
-        group = person + ":" + event_type(item["title"])
+        group = person + ":" + event_type(item_context(item))
         last = parse_when(cooldowns.get(group)) if group in cooldowns else None
         if last and (now - last).total_seconds() < COOLDOWN_HOURS * 3600:
             continue
