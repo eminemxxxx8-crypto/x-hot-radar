@@ -1,5 +1,11 @@
 {
-  "cooldowns": {},
+  "cooldowns": {
+    "姆巴佩:品牌合作": "Wed, 28 Oct 2026 00:44:30 +0000",
+    "姆巴佩:道歉回应": "Wed, 28 Oct 2026 00:44:30 +0000"
+  },
   "initialized": true,
-  "seen": []
+  "seen": [
+    "bf4c897ce4981aa9a0",
+    "d7e57b7ff5f358ffab"
+  ]
 }
