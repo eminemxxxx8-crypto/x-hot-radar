@@ -134,10 +134,50 @@
       "stages": [
         "争议线索"
       ]
+    },
+    {
+      "anchors": [
+        "ballon",
+        "football",
+        "france",
+        "numbers",
+        "points",
+        "reveals"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 30 Oct 2026 21:26:08 +0000",
+      "id": "d07c344eda4f2ea2d9",
+      "person": "姆巴佩",
+      "published": "Fri, 30 Oct 2026 19:58:21 +0000",
+      "reports": [
+        {
+          "key": "d07c344eda4f2ea2d9",
+          "phase": "公开回应",
+          "published": "Fri, 30 Oct 2026 19:58:21 +0000",
+          "publisher": "goal.com",
+          "rumor": false,
+          "source": "Goal.com",
+          "stage": "公开回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNFdUeGNIYjFpQ1cwX2htZF9WWGlmOWJGX19rZy1YazJnenlwdUFiemdqanhXbjY0cXNmMG1VZnNkNHBLRmRLOWpUZk9HYm12M0dkOGltalFhQ1R2dUlwcFhFUkpMSTl4aTdDYjVYdW9oVFRjbWVmZ0l5RHBNNUxwSnNOSmhxMG01MFIxam1XZlFTZngxblB0anRwamY3WkpNNUxlUnFmTmI4OU82SXNYS2t4T2dZUjAtUmQtRFMxQ0kwUQ?oc=5"
+        },
+        {
+          "key": "30c569cdac6d2bb99c",
+          "phase": "公开回应",
+          "published": "Fri, 30 Oct 2026 20:46:28 +0000",
+          "publisher": "goal.com",
+          "rumor": false,
+          "source": "Goal.com",
+          "stage": "公开回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMGt6Um8teDFGc0tGalZMbHRielc0c185bkZmVG5OOFM2MjJESGkwUnZWb2tnNDdqbmNDcXJOcjhUc3hBNU5tUHI3dVdwN2NKU21RLU9YczdrQm5DM21sREY4TlIzUGFYSm51Nlg3WFUwTXRQTGdJNFJIazVMUjdQUFV6LUhnSXNrOXpRWjktcUFLZ2gyeXFibmZFNkhrcFBSXzItS3pjNE1qS3VCVVdWcDRPTl80QWd2eEU1ZzFSY1drcEo3MVE?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Fri, 30 Oct 2026 17:06:10 +0000",
+  "last_run": "Fri, 30 Oct 2026 21:26:08 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
