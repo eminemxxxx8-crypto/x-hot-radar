@@ -1,17 +1,143 @@
 {
-  "cooldowns": {
-    "亚马尔:奖项": "Fri, 30 Oct 2026 16:15:15 +0000",
-    "凯恩:品牌合作": "Thu, 29 Oct 2026 23:37:22 +0000",
-    "凯恩:奖项": "Fri, 30 Oct 2026 16:15:15 +0000",
-    "凯恩:道歉回应": "Wed, 28 Oct 2026 11:24:30 +0000",
-    "姆巴佩:品牌合作": "Fri, 30 Oct 2026 02:58:33 +0000",
-    "姆巴佩:舆论争议": "Fri, 30 Oct 2026 09:39:01 +0000",
-    "姆巴佩:道歉回应": "Fri, 30 Oct 2026 09:39:01 +0000",
-    "梅西:奖项": "Thu, 29 Oct 2026 19:45:49 +0000",
-    "泰勒斯威夫特:舆论争议": "Thu, 29 Oct 2026 14:19:20 +0000",
-    "詹姆斯:舆论争议": "Fri, 30 Oct 2026 02:58:33 +0000"
-  },
+  "events": [
+    {
+      "anchors": [
+        "avendano",
+        "gorgy",
+        "inspirational",
+        "message",
+        "minor",
+        "question",
+        "rula",
+        "shares",
+        "vivamax"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 30 Oct 2026 17:06:10 +0000",
+      "id": "87c05e7af70d7ff640",
+      "person": "坎耶",
+      "published": "Fri, 30 Oct 2026 15:12:01 +0000",
+      "reports": [
+        {
+          "key": "87c05e7af70d7ff640",
+          "phase": "争议线索",
+          "published": "Fri, 30 Oct 2026 15:12:01 +0000",
+          "publisher": "wazzup.ph",
+          "rumor": false,
+          "source": "Wazzup.PH",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM0hSNng2RVRNeVVVSFRNb0EtSVBqVEVYbXFBT0Frb2pDMk4xdTFocHFYODBuQ3FraDZwMW5JNk1NSUd2UUtNUlVBaW5zbmhrQ01JaDJtcXNlWGJRZ1A3aU4weFBhbHh0UHVWUTQ1MkRNWUFocVIyTkEyY3otLWxzU2s3QQ?oc=5"
+        }
+      ],
+      "stages": [
+        "争议线索"
+      ]
+    },
+    {
+      "anchors": [
+        "banned",
+        "five",
+        "mls",
+        "reaches",
+        "won",
+        "works",
+        "yellows"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 30 Oct 2026 17:06:10 +0000",
+      "id": "cf313e99d234b87c82",
+      "person": "梅西",
+      "published": "Fri, 30 Oct 2026 16:04:00 +0000",
+      "reports": [
+        {
+          "key": "cf313e99d234b87c82",
+          "phase": "突发事件",
+          "published": "Fri, 30 Oct 2026 16:04:00 +0000",
+          "publisher": "sports.yahoo.com",
+          "rumor": false,
+          "source": "Yahoo Sports",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObzlJZ3hvdmZQdW9OUXlNSU5hNktNXzBNOXZ2WWMxRW0zTERUakRKQllGak50SDZkRzFJaTM0bUhKX3dwdDFRMkd1dTJMXzVLWGFGeUxIZzloMmpzMFpaR1pOakdQakpKWGFMcTJiZG5XQnZ5SUo3TV9NOTYwVjk4UkstQW5UN0E?oc=5"
+        }
+      ],
+      "stages": [
+        "突发事件"
+      ]
+    },
+    {
+      "anchors": [
+        "ballon",
+        "beating",
+        "flick",
+        "gives",
+        "hansi",
+        "lamine",
+        "verdict",
+        "yamal"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 30 Oct 2026 17:06:10 +0000",
+      "id": "f515c9d5366b354341",
+      "person": "凯恩",
+      "published": "Fri, 30 Oct 2026 17:00:00 +0000",
+      "reports": [
+        {
+          "key": "f515c9d5366b354341",
+          "phase": "法律进展:判决",
+          "published": "Fri, 30 Oct 2026 17:00:00 +0000",
+          "publisher": "barcablaugranes.com",
+          "rumor": false,
+          "source": "Barca Blaugranes",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLWZ1U0g5UlZmMXJHZVRTZzZJUmlxQ296VnJQdHhwd0g1MzFjYzRJRERrenBqZ05uMVROaFluSGczTVFvUWpJZHhEenF0SS1qWF9TUDB2RlpKZGNIVy04dnJOSlpvQ0V6NzNjTmM3Y2RIZkdncmFwZjNlMjdMeGItNzRvMnBsSEpxMndVcjBjYkszd2N4NDVjY0dxOVJ6SUJwaDhIRjBpdUh4MlQxVm5FOEwxZ2cyMVE?oc=5"
+        }
+      ],
+      "stages": [
+        "法律进展:判决"
+      ]
+    },
+    {
+      "anchors": [
+        "casting",
+        "couldn",
+        "handle",
+        "harry",
+        "job",
+        "potter",
+        "priority",
+        "snape",
+        "taken",
+        "work",
+        "wouldn"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 30 Oct 2026 17:06:10 +0000",
+      "id": "0d5439b651e831ae31",
+      "person": "Paapa Essiedu",
+      "published": "Fri, 30 Oct 2026 17:04:37 +0000",
+      "reports": [
+        {
+          "key": "0d5439b651e831ae31",
+          "phase": "争议线索",
+          "published": "Fri, 30 Oct 2026 17:04:37 +0000",
+          "publisher": "Variety",
+          "rumor": false,
+          "source": "Variety",
+          "stage": "争议线索",
+          "trusted": true,
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVXNwVnltUThqaHR5YUZBQVFJWlI1Ml9yTjRHanVKOUI0WURna3kwa3pWY1BiVlJUY05kdW1WV295TmZMN3dOTS1pR0NTYm16U3VkaWxXU2pJVEM3RDZYak5jdDJwV1VCVGFid21wUHA3ZFlHOEROU1FsWFl1TW1sWThRUVdNSFZBMlJIZkVMeXM4SVd2dlVBSUZ0bGRmX28?oc=5"
+        }
+      ],
+      "stages": [
+        "争议线索"
+      ]
+    }
+  ],
   "initialized": true,
+  "last_run": "Fri, 30 Oct 2026 17:06:10 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
@@ -37,5 +163,6 @@
     "d8b444f28a5fc0e7fa",
     "e03df6001d3a37e859",
     "e9996df85855d8f24f"
-  ]
+  ],
+  "version": 2
 }
