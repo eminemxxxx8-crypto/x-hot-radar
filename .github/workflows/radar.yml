@@ -2,36 +2,70 @@ name: X Celebrity Hot Radar (free)
 
 on:
   schedule:
-    # Every 15 minutes (UTC); GitHub may delay scheduled runs.
-    - cron: '4,19,34,49 * * * *'
+    # Every 10 minutes, away from the hour. GitHub may delay/drop scheduled runs.
+    - cron: '7,17,27,37,47,57 * * * *'
   workflow_dispatch:
     inputs:
       send_test:
-        description: 'Send a Telegram connection test'
+        description: 'Send a real Telegram connection test (otherwise run radar)'
         required: true
-        default: true
+        default: false
         type: boolean
+  pull_request:
+  push:
+    branches: [main]
+    paths:
+      - 'radar.py'
+      - 'tests/**'
+      - '.github/workflows/radar.yml'
 
 permissions:
-  contents: write
-
-concurrency:
-  group: celebrity-hot-radar
-  cancel-in-progress: false
+  contents: read
 
 jobs:
-  radar:
+  test:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 3
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Validate code
-        run: python -m py_compile radar.py
+      - name: Regression tests (no network or secrets)
+        run: python -m unittest discover -s tests -v
+
+  radar:
+    # PRs and code pushes run tests only. Manual delivery is restricted to main.
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
+    needs: test
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    permissions:
+      contents: write
+    concurrency:
+      group: celebrity-hot-radar-delivery
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Record execution gap
+        run: |
+          python - <<'PY'
+          import datetime as dt, email.utils, json, os
+          from pathlib import Path
+          state = json.loads(Path('data/state.json').read_text())
+          now = dt.datetime.now(dt.timezone.utc)
+          last = state.get('last_run')
+          gap = round((now-email.utils.parsedate_to_datetime(last)).total_seconds()/60, 1) if last else 'unknown (legacy state)'
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as summary:
+              summary.write(f'### Radar execution\nUTC start: {now.isoformat()}\n\nMinutes since last successful data run: {gap}\n\n')
+          print(f'Minutes since last successful data run: {gap}')
+          PY
       - name: Test connection or check hotspots
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -40,7 +74,7 @@ jobs:
           EVENT_NAME: ${{ github.event_name }}
         run: |
           if [[ -z "$TELEGRAM_BOT_TOKEN" || -z "$TELEGRAM_CHAT_ID" ]]; then
-            echo 'Missing Telegram secrets; configure them in repository settings.'
+            echo 'Existing Telegram secrets are missing or unavailable to this run.'
             exit 1
           fi
           if [[ "$EVENT_NAME" == "workflow_dispatch" && "$SEND_TEST" == "true" ]]; then
@@ -48,13 +82,15 @@ jobs:
           else
             python radar.py
           fi
-      - name: Save alert history
-        if: success()
+      - name: Save observations and accepted deliveries, including partial failures
+        if: ${{ always() && !cancelled() }}
         run: |
           if [[ -n "$(git status --porcelain -- data/state.json)" ]]; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
             git add data/state.json
-            git commit -m 'Update radar alert history [skip ci]'
-            git push
+            git commit -m 'Update radar event history [skip ci]'
+            # A code merge may have advanced main. Preserve it; never force-push.
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
