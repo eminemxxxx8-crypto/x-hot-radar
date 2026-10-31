@@ -381,10 +381,125 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "为皇",
+        "了风",
+        "停播",
+        "动真",
+        "发声",
+        "央视",
+        "展现",
+        "帅为",
+        "播本",
+        "本轮",
+        "歉展",
+        "现了",
+        "皇马",
+        "真格",
+        "穆帅",
+        "西甲",
+        "视动",
+        "轮西",
+        "道歉",
+        "风度",
+        "马发"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 31 Oct 2026 23:46:26 +0000",
+      "id": "a3f066ba603cae6ccf",
+      "person": "姆巴佩",
+      "published": "Sat, 31 Oct 2026 23:09:37 +0000",
+      "reports": [
+        {
+          "key": "a3f066ba603cae6ccf",
+          "phase": "道歉回应",
+          "published": "Sat, 31 Oct 2026 23:09:37 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "搜狐网",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFNLN3JBd01WVmJVbWptbXNkbjdCWm9UQnZmaFQ4RUhtNjJhMnh3YV85Y1M3aFh3SlVqX1JfMENkYjJwNHVka2VxQVcyckRndFFuTUZrYk1PQ29jVWFpVmsxWE1ULWs1clJkcVoxd1NZb3BibncxdG9HZy1UY3FBc3l3N2dSNmpnb1dJZA?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "万欧",
+        "下滑",
+        "入大",
+        "发的",
+        "大幅",
+        "幅下",
+        "引发",
+        "损失",
+        "收入",
+        "欧元",
+        "歉引",
+        "甲收",
+        "的风",
+        "西甲",
+        "道歉",
+        "风波"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 31 Oct 2026 23:46:26 +0000",
+      "id": "e86f0c26b3ff8e6da2",
+      "person": "姆巴佩",
+      "published": "Sat, 31 Oct 2026 23:14:58 +0000",
+      "reports": [
+        {
+          "key": "e86f0c26b3ff8e6da2",
+          "phase": "道歉回应",
+          "published": "Sat, 31 Oct 2026 23:14:58 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "搜狐网",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTFRibzI3RkdhWFhuaVJIa1F1cHROZzJ5ZWdlM1JleTNxRlkwNVJ3OUZucDBZVXlxYkxFMUJzckxac2hJWU0yREtXTU53MXBZaWFEeFoxSDBqZWZid2oybnZKWkNSNVdMU1c2QnIxb09SRGNqQkFFNDRRLTg0bmxueGZYNFY0bnN3VDF5VA?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "being",
+        "cards",
+        "despite",
+        "prevents",
+        "receiving",
+        "rule",
+        "strange",
+        "suspended",
+        "yellow"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 31 Oct 2026 23:46:26 +0000",
+      "id": "97ab9c6b04982cc7be",
+      "person": "梅西",
+      "published": "Sat, 31 Oct 2026 23:38:06 +0000",
+      "reports": [
+        {
+          "key": "97ab9c6b04982cc7be",
+          "phase": "突发事件",
+          "published": "Sat, 31 Oct 2026 23:38:06 +0000",
+          "publisher": "goal.com",
+          "rumor": false,
+          "source": "Goal.com",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOWQzOWg2bTRqZ21NMHMxQnBtT0YzWnFSMXJjYTNZd3RNSjNkQS1qR3E1Z3RTV3V5eFlYQmVMRFFwOWdOYnVlOTg4WkNwTU9FbHg2Y0FwSWJJTnlEVHZMZUdteloxSGQwbkRtSUt6dkdPZ0QwbW5FSUpqMDRqUDR4YVVYeGpJaXdCMzhIYVBKSm04RnhtRVI3TnpvNFFMaEFvU0hFb0xkQ1lxbmlsRnVxdk50T3l3SV9KVUJ6YVp4S0tTam10N3hR?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sat, 31 Oct 2026 20:41:41 +0000",
+  "last_run": "Sat, 31 Oct 2026 23:46:26 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
