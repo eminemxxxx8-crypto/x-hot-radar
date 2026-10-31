@@ -174,10 +174,114 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "apologise",
+        "china",
+        "laliga",
+        "mao",
+        "remarks",
+        "zedong"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 31 Oct 2026 00:56:59 +0000",
+      "id": "dcb4a3051e1e78b98b",
+      "person": "姆巴佩",
+      "published": "Fri, 30 Oct 2026 23:09:38 +0000",
+      "reports": [
+        {
+          "key": "dcb4a3051e1e78b98b",
+          "phase": "道歉回应",
+          "published": "Fri, 30 Oct 2026 23:09:38 +0000",
+          "publisher": "thedailystar.net",
+          "rumor": false,
+          "source": "The Daily Star",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORW5aYllfM016MzdyRnVNRmFfQmwtaDhub29wU2w5OFJ6VmhjTnpNZlhxZXlTZUdXYzlNblo2VFBxcTBDbmJCMVY1c1RiUU5RbzFEN1hmbzc1UkxfRGtLVThYZ2VZZHFEY2RFNDlWUko0N0RkOVJYa2M3WWpOZE0wV0NMR0Ywb0drRnJuTWdTeHU0eTZaQkhPVmtIUy1LZjVLTVlrbTNjNy1CR3ltb180X1h3?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "不是",
+        "世界",
+        "也没",
+        "了给",
+        "争议",
+        "他也",
+        "会有",
+        "只要",
+        "大马",
+        "拿都",
+        "有争",
+        "杯输",
+        "没问",
+        "球只",
+        "界杯",
+        "给他",
+        "要不",
+        "输了",
+        "都会",
+        "金球",
+        "问题",
+        "马丁"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 31 Oct 2026 00:56:59 +0000",
+      "id": "19452f4f844b4c47fd",
+      "person": "梅西",
+      "published": "Fri, 30 Oct 2026 23:15:41 +0000",
+      "reports": [
+        {
+          "key": "19452f4f844b4c47fd",
+          "phase": "争议线索",
+          "published": "Fri, 30 Oct 2026 23:15:41 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "搜狐网",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOFllcThoX3EwYmN3d1YzQ2FDeE1fUkxmbEFlblMwYUF1YnJTeldMazFabV9ycXRrMkloVkI5QVdELWFsc3NGeUhRZUh2aDctZVhObDlPamw2bklIekd3cnZEY2E3a3Q2OXhqYl9ENDhCUkpINm45YkpqMWp2Y29iVHFUaGVNTjV3?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "air",
+        "company",
+        "court",
+        "dismiss",
+        "motion",
+        "pollution",
+        "xai"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 31 Oct 2026 00:56:59 +0000",
+      "id": "0663d7afffdaf26951",
+      "person": "马斯克",
+      "published": "Sat, 31 Oct 2026 00:42:37 +0000",
+      "reports": [
+        {
+          "key": "0663d7afffdaf26951",
+          "phase": "法律进展:起诉",
+          "published": "Sat, 31 Oct 2026 00:42:37 +0000",
+          "publisher": "earthjustice.org",
+          "rumor": false,
+          "source": "Earthjustice",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjU1UWozbXdQREpnQmVqeFpSLWNHVGN5Rll5aVJaZTA2T0VzS0ZvUXhlX2pjWklOdTNfQ0ItaW5SaGhvWURSRDh5WmVPRXVSYVB1NHEwbmF2TE5DU1NNd05BY2s4VUM4UGpDRDA2ak43R1daUmJ6U1lGY1ZuYVlHSG03V2dWUkl6bUNsb1JvdkJyMGZyMXBJdnVtQi1NZFo2YnM4QVRTLUtfNUhhbm12RzlobG8zYTNnTmxRMw?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Fri, 30 Oct 2026 21:26:08 +0000",
+  "last_run": "Sat, 31 Oct 2026 00:56:59 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
