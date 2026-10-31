@@ -278,10 +278,113 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "backs",
+        "china",
+        "comments",
+        "mourinho"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 31 Oct 2026 20:41:41 +0000",
+      "id": "18c0d8718a0a87c69d",
+      "person": "姆巴佩",
+      "published": "Sat, 31 Oct 2026 18:55:14 +0000",
+      "reports": [
+        {
+          "key": "18c0d8718a0a87c69d",
+          "phase": "道歉回应",
+          "published": "Sat, 31 Oct 2026 18:55:14 +0000",
+          "publisher": "punchng.com",
+          "rumor": false,
+          "source": "Punch Newspapers",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3NJLUZmUHBaMzlBTUlFd1pXLUtJRHdHX2FsTGRwRmRodWdnZXpMWnZDY0ZJT2lmZWFyM1RTQUxETk1QWkRtZmJrblZwS1diMjdERXJCTE9kbzRnUVNyVnEwcWFfdDYtX0hXSTdOOWlHRTdKaUxOMHY3aElrOHN4X3B3?oc=5"
+        },
+        {
+          "key": "c81e1086097f0e575b",
+          "phase": "争议线索",
+          "published": "Sat, 31 Oct 2026 20:16:59 +0000",
+          "publisher": "Reuters",
+          "rumor": false,
+          "source": "Reuters",
+          "stage": "争议线索",
+          "trusted": true,
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkdaRjdrN052cWJ6QXRmSWJheXBJS3A3dFVTNFZyREY1NE52QlpEWDNoLUNzTWF2d0RpOENKRS1rUXh0a19saUpSMExybzVYdmJFRU9TZmZncTMxTDAzVlVGRmdrZ2dVNU9RcVZ4UFhPYkwtbjhFYXhDUXdmNXN0NmZSWEJndzdkRFBpb056d3NjRlVvYmxjdDBZT2tEZ1E0b0tmcFZIVQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "中媒",
+        "企未",
+        "友责",
+        "外企",
+        "媒批",
+        "家网",
+        "批这",
+        "未和",
+        "网友",
+        "自家",
+        "解约",
+        "责骂",
+        "这外",
+        "遭自"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 31 Oct 2026 20:41:41 +0000",
+      "id": "71ce6bddcc8b68bac3",
+      "person": "姆巴佩",
+      "published": "Sat, 31 Oct 2026 19:07:32 +0000",
+      "reports": [
+        {
+          "key": "71ce6bddcc8b68bac3",
+          "phase": "品牌解约",
+          "published": "Sat, 31 Oct 2026 19:07:32 +0000",
+          "publisher": "news.creaders.net",
+          "rumor": false,
+          "source": "万维读者网",
+          "stage": "品牌解约",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9neVFha0l2YTNLZ3d4aU1QV0VxYWdrUUlHQV9FSXdDT09hWVZ5cEI2M2dQUTg2cm9mWl9BOXM3dXV6MTJGMUlIR2k3akxNcWIxMWRFVmY2R3d0aThGZGdJM3ZIWjVJZw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "harry",
+        "potter",
+        "series",
+        "severus",
+        "snape"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 31 Oct 2026 20:41:41 +0000",
+      "id": "d7f8dd216359bb6be7",
+      "person": "Officially Addresses Casting",
+      "published": "Sat, 31 Oct 2026 19:34:15 +0000",
+      "reports": [
+        {
+          "key": "d7f8dd216359bb6be7",
+          "phase": "争议线索",
+          "published": "Sat, 31 Oct 2026 19:34:15 +0000",
+          "publisher": "screenrant.com",
+          "rumor": false,
+          "source": "ScreenRant",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM0xua3IycHlzcEJDbjdRUlZHQTVfT0VDQ1Zia1VQcmc2c3pib18yWEVjVXl2RFUzYmdhRGR0N1FRU09nN0x3SEN2QkhzTDkxTlFWb0NyYzBEeURMMFN6bzlOcGRtM2ZtNDlaY19xZkhaQ3VfMFhzYWpXazRJRV9oazJibnhUS3MwNXl1eVhB?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sat, 31 Oct 2026 13:06:38 +0000",
+  "last_run": "Sat, 31 Oct 2026 20:41:41 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
