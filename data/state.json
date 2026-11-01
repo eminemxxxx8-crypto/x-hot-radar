@@ -496,10 +496,73 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "apologize",
+        "changed",
+        "finals",
+        "game",
+        "johnson",
+        "kobe",
+        "magic",
+        "mind",
+        "watching"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 01 Nov 2026 02:40:29 +0000",
+      "id": "4b8dc08c2afb607da6",
+      "person": "詹姆斯",
+      "published": "Sun, 01 Nov 2026 00:45:53 +0000",
+      "reports": [
+        {
+          "key": "4b8dc08c2afb607da6",
+          "phase": "道歉回应",
+          "published": "Sun, 01 Nov 2026 00:45:53 +0000",
+          "publisher": "sports.yahoo.com",
+          "rumor": false,
+          "source": "Yahoo Sports",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQUhHZjRnaVI1bE9jZGdUQmlTSG5uUUtjcG5wRktUNjd1WVpPTjZqYnQ4MWF2UUIyWVJUenB4TEk2T1NsQmZPc19ONzBnRUhlMVRHZi0tMGxRalRaVmpHNUZ4TzNYbWE4WWswSjc5ZzRxQTJrQXdFSnplb0FSNDZ4djZmcFVZV0VsMW5NbXhR?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "anthem",
+        "finger",
+        "jokic",
+        "legend",
+        "national",
+        "nba",
+        "nikola",
+        "points"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 01 Nov 2026 02:40:29 +0000",
+      "id": "cc753e2cb63d82e105",
+      "person": "詹姆斯",
+      "published": "Sun, 01 Nov 2026 01:30:00 +0000",
+      "reports": [
+        {
+          "key": "cc753e2cb63d82e105",
+          "phase": "争议线索",
+          "published": "Sun, 01 Nov 2026 01:30:00 +0000",
+          "publisher": "aol.com",
+          "rumor": false,
+          "source": "AOL.com",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY0YxQ1B2WFdqaXJSSV9mOGRyQzF1M0ppM0NXZXE5S1U4bHZRcDh4VjRXbHBzc1dPbGJVZWp4OHExSE56eHRzZXBXdXV3UzVTZjVGX0ZRWjBBeWgtQk1STXFOV2lIV2NCR2N4ME1Pd1JVaElnYXJaWE1qZlBUUlpmcQ?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sat, 31 Oct 2026 23:46:26 +0000",
+  "last_run": "Sun, 01 Nov 2026 02:40:29 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
