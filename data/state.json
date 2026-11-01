@@ -671,10 +671,41 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "cctv",
+        "china",
+        "him",
+        "liga",
+        "showing",
+        "sponsors",
+        "still",
+        "three"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 01 Nov 2026 20:42:30 +0000",
+      "id": "c091e951d34711e728",
+      "person": "姆巴佩",
+      "published": "Sun, 01 Nov 2026 20:26:44 +0000",
+      "reports": [
+        {
+          "key": "c091e951d34711e728",
+          "phase": "道歉回应",
+          "published": "Sun, 01 Nov 2026 20:26:44 +0000",
+          "publisher": "latintimes.com",
+          "rumor": false,
+          "source": "Latin Times",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUa29QQWxOVFRrd1hXd3NuRURrNnlNN19rYUV1bmJqT3NnTmdRVlJ4eEUyVVM1dTg4MWVKTXNMdnpKZjdXYmNRN3c2aEsxQ2VoaG5PZjVJbmFRVkh1VUhVZmtlNHA0SHRDTXJwT0xudWx0QXlWX05JTlFfX3A?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sun, 01 Nov 2026 16:27:02 +0000",
+  "last_run": "Sun, 01 Nov 2026 20:42:30 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
