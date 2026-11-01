@@ -616,10 +616,65 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "ateez",
+        "dating",
+        "member",
+        "proof",
+        "rumor"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 01 Nov 2026 16:27:02 +0000",
+      "id": "86a0dc0af50246c3f3",
+      "person": "Suzy Embroiled",
+      "published": "Sun, 01 Nov 2026 14:40:34 +0000",
+      "reports": [
+        {
+          "key": "86a0dc0af50246c3f3",
+          "phase": "争议线索",
+          "published": "Sun, 01 Nov 2026 14:40:34 +0000",
+          "publisher": "koreaboo.com",
+          "rumor": true,
+          "source": "Koreaboo",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fRzQ0RDBWZEJ1T1VvcW5VVUc5SjRLR3RQVWNlX3MyTEVWdTZyQnplTUZ4Vk0yaVp4eEZtM0tRSWFjNXZNcnkzQnBxVmlKb2ttT2NqX2k0aE1UM3JBZjhBSDRGUVRmSEp4YjVmVzhORXBwLWg1azFPQWU3NA?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "aged",
+        "athlete",
+        "dies",
+        "olympic"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 01 Nov 2026 16:27:02 +0000",
+      "id": "1ac47d800d55d0f366",
+      "person": "Ciara Mageean",
+      "published": "Sun, 01 Nov 2026 15:23:35 +0000",
+      "reports": [
+        {
+          "key": "1ac47d800d55d0f366",
+          "phase": "突发事件",
+          "published": "Sun, 01 Nov 2026 15:23:35 +0000",
+          "publisher": "thejournal.ie",
+          "rumor": false,
+          "source": "The Journal",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NR3QtM0RKT0JoOUxFUzFIOGVTUTlPTlctQlBvSTlNWEROV01sc24wZWFlQ0kwbU8zVDE2THZEaDdWV0VWVWtHaFR0eG16TmRob25HVmhUYk43Z0JSeEVhbEVsc21yZURYNFNOSkxuSQ?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sun, 01 Nov 2026 09:45:33 +0000",
+  "last_run": "Sun, 01 Nov 2026 16:27:02 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
