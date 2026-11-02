@@ -784,6 +784,17 @@
           "stage": "争议线索",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGhCU3dJQlZCRlNPLTJkU19tUjBPZXRveW84cEVHZ3VPSmU0RTRsNENmT01lenozMGVTbFRPUTJoZFYyUXlZT1NoMHpqSFdSdVYxWFRIVzM0YzhCVkMzSExUeFBzYUw4UlFXUl85Ym1iWEpjdTM4SzZEYV81TXFMdnl5Nml5cnMyRWl0VWdvdGVxSjhyRFNwWHg1NWFKSFNG?oc=5"
+        },
+        {
+          "key": "a3c67b11fa6a638d0d",
+          "phase": "道歉回应",
+          "published": "Mon, 02 Nov 2026 10:43:00 +0000",
+          "publisher": "independent.co.uk",
+          "rumor": false,
+          "source": "The Independent",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmMxZEt3UEZ2OHJ6czVDTHlQdTBON3gzdXNFVDVtTUhORGYyV2ZxSVpadzlKR3F4QUUyT2M3VGZFd25SQ2xpeEJ0SVROVi1sVFFDVGhZSmVLdHBVd1hNOEhKb1VwOGNOX1pXOFdvN3piMExQcFY4MjFLOU9VX093QUh3RmJYM01rcVJjNF93SEstOFh2NVE?oc=5"
         }
       ],
       "stages": []
@@ -848,10 +859,94 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "bombay",
+        "joining",
+        "mumbai",
+        "protest",
+        "rap"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 02 Nov 2026 12:16:07 +0000",
+      "id": "f3b6fbfb8a6218db11",
+      "person": "Imran Khan",
+      "published": "Mon, 02 Nov 2026 10:56:11 +0000",
+      "reports": [
+        {
+          "key": "f3b6fbfb8a6218db11",
+          "phase": "道歉回应",
+          "published": "Mon, 02 Nov 2026 10:56:11 +0000",
+          "publisher": "indianexpress.com",
+          "rumor": false,
+          "source": "The Indian Express",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQTlMUUk2NndBRXdhQU5PV3VTM2RNcVRUT2txdVRHUWZrdHlvcVk0SlozcmI2aE5BWll0ZWRWMHh4cm0tYVRSNGVpMmJnSlJhWkFKMWRCRjhvd1BsdXNMNGZWTldmNUNzdVgzQWRaZ0pxSXhZbXhadmxtUWVYTkNoeUw2eHRVajJFdHNWcEU1MVh0d3NMT2llOE1oU3JGZ0ZPLUhtLWRLZXFmNlRhWFNsbXJqT2F0NlVseFVFWHBLczVwa3BXSm1Gb190VTQtSUxq0gHXAUFVX3lxTFBXUkZVS09JWkg5b0NUd1BxMFlRbW5MMGtjc1VEOEhEdkJ3RjFZS2dyTnZnbkRqOGRUNUhIOEJJTmRzT3BJMzlUanVLcTFUbkRCeDJTanBETkVUU08xUTY3NTN0VU9QNk5KMDBSVTBUclJQS0Nlc0o4YTRITGlSQkxHYVJBMFRlc3F2TkpPbkFnN3NXRjJNbG1OaDgySklLZk9fQmpGZTNKbGJwLTIzVUlJTlJ2YUN4YmdnVVRXMkNTWDdrUHlpSXhsa3BRcWg1UUlXdVJSU0xn?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "offers",
+        "participating",
+        "protests",
+        "unconditional"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 02 Nov 2026 12:16:07 +0000",
+      "id": "2d1d5d4db37d77b661",
+      "person": "Imran Khan",
+      "published": "Mon, 02 Nov 2026 11:05:52 +0000",
+      "reports": [
+        {
+          "key": "2d1d5d4db37d77b661",
+          "phase": "道歉回应",
+          "published": "Mon, 02 Nov 2026 11:05:52 +0000",
+          "publisher": "rediff.com",
+          "rumor": false,
+          "source": "Rediff",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOVFTVzd1LThLWEtMSWpWVlczR3o4ejRxdFJBOXVFaHE4NTFmcDVkNlcza3NnTmJDNm11MUxhbUlfQi10bU9La0EwYVRjYWpKX2o1aUt1NjcyNDJsZGdOVWQyRnFNLWFfcW1TTVFKdk9wcnF0SVVnQ0ZYaFRkS2gtU2hmdlFILWlydDFnMm0xYlVNTURjYVk2YXJ0WGx3Q1J6WGt4YWhOQzNCbnFkeFROelljbDlmMncxeFpKOXZ4eUwyY1ZUOWY1TkNQbE1ZaThvNndQVnZlTlF5TVdCQWV3RmNtSWFUZTVVRGU4UHJWSDXSAfMBQVVfeXFMTU15YkgxZV9MTjFMNlpaeHF2YnZoVG51ZUNlM0hWR2tGNndPdUlOZHVvV3JIbXFLY0pORzJfUkhvcERkUmJlYlEtbS1mXzNlbExQVDFkZDI3YkFmRVVYWEt1U0tQY1NQcUlHbTBaZ05ISVBfZ0tfMHZyQjFXXzAwVEltNXFmT0xYYkRUSVk4b3ZiSVJCZ2xFX2ZMaFdJMEJwT3puY0lyOTlxNUtrUWt4WWdzWldlRVBqWkhmZktWX0NhcTcyZndNcXVBOGFnYlJQM3YtNjVUSXdfYnVRcmpjWkUzVE42WTZRRnBVMzRTSnMyNmNZ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "gives",
+        "part",
+        "protest",
+        "tenders",
+        "undertaking",
+        "would"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 02 Nov 2026 12:16:07 +0000",
+      "id": "4a91c59a52ab2b9647",
+      "person": "Imran Khan",
+      "published": "Mon, 02 Nov 2026 11:08:32 +0000",
+      "reports": [
+        {
+          "key": "4a91c59a52ab2b9647",
+          "phase": "道歉回应",
+          "published": "Mon, 02 Nov 2026 11:08:32 +0000",
+          "publisher": "tribuneindia.com",
+          "rumor": false,
+          "source": "The Tribune",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVWNmWDJmejlsSWRmQVVWSnQ4VEsxNGIxNnFXYV9mbFdMUEdoNmJVcXdrUmJKTmdzTkU2UXBqSmJHbmtXc2lkM1dDZUo5VU1iOXhKQkJQMkE3cHVXWjJvcTFsd252YWhfUlg5N3FpSWYzUzc1SW03NkY5SzlyY0dsSDFKek90aTBvbW45Z3BPSmNxSUJOVldRXzAxVWVQVnpvNzQtdkphNDhDTGxPeUVZWHZmNUJ2c1lwak1rMHNwVzFNSWfSAccBQVVfeXFMTnBQTUVsYjU3NDZlWnlGaHVIUmNQaTRfRXNHQmtObDNqM2tPTWhmaGdEdnQ3NWFqQU5lSDhGcVV6WjYyV3BDWE0zNDFvcXlBWjZ1UTN4TjdmT3JUc1prT1FhVmFPZHU1ZUZ1RnZjOGNzS2U3SndueHJidmYxZGRfV3Ayd3FYYTk3QkhyQURWREFuSWlnUUxpMENNa0ctNFFDWGk2SThXOTV5b2tJRDZBZjZ5QnoyNDdaSHZKVGhVWkp2ZWNjZHFEWQ?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Mon, 02 Nov 2026 04:00:33 +0000",
+  "last_run": "Mon, 02 Nov 2026 12:16:07 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
