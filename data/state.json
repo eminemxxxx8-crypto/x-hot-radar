@@ -732,10 +732,126 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "madrid",
+        "scores",
+        "win"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 02 Nov 2026 04:00:33 +0000",
+      "id": "2758da1b52c51143a0",
+      "person": "姆巴佩",
+      "published": "Mon, 02 Nov 2026 02:15:17 +0000",
+      "reports": [
+        {
+          "key": "2758da1b52c51143a0",
+          "phase": "争议线索",
+          "published": "Mon, 02 Nov 2026 02:15:17 +0000",
+          "publisher": "observerbd.com",
+          "rumor": false,
+          "source": "Daily Observer",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvR09nRTFuRzJocDRWbTZKMnYzTjdkeUd6N2ViQzRselFrX2tlYUtnRGVrTE1VVi1XMlhoVlhqNW95YWJFaU05NV9B?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "beat",
+        "china",
+        "madrid",
+        "real",
+        "santander",
+        "strikes"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 02 Nov 2026 04:00:33 +0000",
+      "id": "9f839404cd01b8f84c",
+      "person": "姆巴佩",
+      "published": "Mon, 02 Nov 2026 02:27:10 +0000",
+      "reports": [
+        {
+          "key": "9f839404cd01b8f84c",
+          "phase": "争议线索",
+          "published": "Mon, 02 Nov 2026 02:27:10 +0000",
+          "publisher": "socceramerica.com",
+          "rumor": false,
+          "source": "Soccer America",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGhCU3dJQlZCRlNPLTJkU19tUjBPZXRveW84cEVHZ3VPSmU0RTRsNENmT01lenozMGVTbFRPUTJoZFYyUXlZT1NoMHpqSFdSdVYxWFRIVzM0YzhCVkMzSExUeFBzYUw4UlFXUl85Ym1iWEpjdTM4SzZEYV81TXFMdnl5Nml5cnMyRWl0VWdvdGVxSjhyRFNwWHg1NWFKSFNG?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "festival",
+        "ifa",
+        "islamic",
+        "odun",
+        "ogun",
+        "performance"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 02 Nov 2026 04:00:33 +0000",
+      "id": "18be558bc369d0079c",
+      "person": "Aminat Obirere",
+      "published": "Mon, 02 Nov 2026 03:19:15 +0000",
+      "reports": [
+        {
+          "key": "18be558bc369d0079c",
+          "phase": "争议线索",
+          "published": "Mon, 02 Nov 2026 03:19:15 +0000",
+          "publisher": "gazettengr.com",
+          "rumor": false,
+          "source": "Peoples Gazette Nigeria",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcy1pcEpzRGRjbjZwV285dmxYQWdkcTBsbGR1SGVMUXFDZi0yZVdNdl9XaG9zT05TLUtobEpkX3J6Z0k0STlOTW9qN3VmZUp0bmN6RHh3RHE5XzJOek53QkpGOGxYa3JpVXE5eWUwRElsUFZnQkFXSFp4Y3drNjBSMDRhZThsM3dOWkdNQ2JHWTBxSDRmOEpFOTVNZVRZeXplWlByN0pwZnkxLXNWMkJwQlh4bmQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "concert",
+        "diljit",
+        "dosanjh",
+        "graffiti",
+        "khalistan",
+        "pro",
+        "stations",
+        "targeting",
+        "three"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 02 Nov 2026 04:00:33 +0000",
+      "id": "03b7ad38628ed1ae38",
+      "person": "At Delhi Metro",
+      "published": "Mon, 02 Nov 2026 03:45:24 +0000",
+      "reports": [
+        {
+          "key": "03b7ad38628ed1ae38",
+          "phase": "法律进展:被捕",
+          "published": "Mon, 02 Nov 2026 03:45:24 +0000",
+          "publisher": "news.abplive.com",
+          "rumor": false,
+          "source": "ABP Live English",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNeDFHUk16R1owNk9xMGxJNVZMVFd3WmJwY0lVQ3RsZklMa28zNXZWTzJtTEdNNnR3akdnMVhEcnVudmpzbW1hSk4yd1FUSnhxVEpTYVhZM1R2NjRBRmdRUTQ5TFk4Qmp5TFl5ZWhyOEF4N3NXYklBTWdNNXpXWHF2RnBncE81QkVJblhfT3NjcXZ3ckd3RHEyWmQtY09pQjQzMlBmZW14eGRpS20wdXBFTVFZWUNkekU5d1hhLUdfMzdzeXNINVFoSnN3MVcydUxLMHlyTkFGel9iV0ZHZzJWVERlcV90SlRWcURzenltOHd5cC1IcXRoTkNlWmPSAYICQVVfeXFMTkdSdElLS0hKc2cwOXNOOXlGSFk2M3lKQnd2ZVZFUEw3RWY3b2VkekRyLWJFUzFRV0FHTDI2bDZlZGREa3FSZmtvRUtOR2hIcTlhaTdEWHI1LXIwS1BPV3FRaVRDNmlYWmc4TGY0bGVaVjQteGVYQzU1bTVPWHhiVlVhLTM1UjJOUjQ0WktWdVNNamtSZE82bXczZzBBNnV5Znk5aTVEcDk4Qy1XSlVDU0hQUXRhc1dES0Z3bWJGQXM1TlV4MGs5MWZiYUk3QUVsdGJySXhpb3NwQ08yT2E3eEF5N094TnJhbk4xQjZRcnRuUXU5dWJPYWx4ZmJmM0kwN1pn?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sun, 01 Nov 2026 23:54:55 +0000",
+  "last_run": "Mon, 02 Nov 2026 04:00:33 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
