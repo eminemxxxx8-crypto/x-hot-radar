@@ -34,6 +34,17 @@
           "stage": "争议线索",
           "trusted": true,
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkdaRjdrN052cWJ6QXRmSWJheXBJS3A3dFVTNFZyREY1NE52QlpEWDNoLUNzTWF2d0RpOENKRS1rUXh0a19saUpSMExybzVYdmJFRU9TZmZncTMxTDAzVlVGRmdrZ2dVNU9RcVZ4UFhPYkwtbjhFYXhDUXdmNXN0NmZSWEJndzdkRFBpb056d3NjRlVvYmxjdDBZT2tEZ1E0b0tmcFZIVQ?oc=5"
+        },
+        {
+          "key": "2a8e35bec0b976b785",
+          "phase": "争议线索",
+          "published": "Tue, 03 Nov 2026 10:01:49 +0000",
+          "publisher": "firstpost.com",
+          "rumor": false,
+          "source": "Firstpost",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdFJrVUJRV2VXVVl0STF4WnJVdTRFQmJIUjlHc1Jqb2VJWEpjNFczN1EyZlRoMlVVdXpxZWppVzZrYTFBaUdsMzdSR1hyOUlmc1c1ZnlCeC1YU3pKdzJVVEJwTXQ4TV90TFZOLUpNY0w0UTNxVWdrbGIzc005d2VrNEhYNDc4cGVtcXo1Sm9rUDByUjdjYXN5dmVRZW82Z0ZhbEswcXpJdXBWaGNxQkRTQ0RKMk56eUxnaUFHaFpxM1I3VUNIRkhaaldXcTlSOWZ0czIzMU9ydnFrdWF1SGdjMtIB5gFBVV95cUxNMXJRekZjeWx2YUlfSW5MVEt6UmlQV2xfZUdFUXRRaWNTZ3RoWm9oX3R1WG1Wc3Y3ZXlQcDBHOElWMDRRcXU1RVRIYUlIaHNQcmlJTnBHQUd1d3pmOW9Ua0lfT05wNkstd05jSGFiMWFFM09OQWVqQ2JWcUJDbzZfZll3RmNvN2RRV285NEpDUkREd0F1THBLTXZFZUZlZkIxaGNneUxDbkhIMXhFOUtFbTBzdjY5amZiQ3VQdGFLaWYwamZtVkk1alJCZ191MTd1VVJTU0QwLXRDY3pGWVRqRnF0YUMzdw?oc=5"
         }
       ],
       "stages": []
@@ -735,7 +746,7 @@
     }
   ],
   "initialized": true,
-  "last_run": "Tue, 03 Nov 2026 03:06:16 +0000",
+  "last_run": "Tue, 03 Nov 2026 10:44:39 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
