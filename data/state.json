@@ -743,10 +743,110 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "argentina",
+        "first",
+        "names",
+        "retirement",
+        "scaloni",
+        "since",
+        "squad"
+      ],
+      "concepts": [],
+      "first_seen": "Tue, 03 Nov 2026 18:05:04 +0000",
+      "id": "ef523e488cccbe3c39",
+      "person": "梅西",
+      "published": "Tue, 03 Nov 2026 16:47:32 +0000",
+      "reports": [
+        {
+          "key": "ef523e488cccbe3c39",
+          "phase": "突发事件",
+          "published": "Tue, 03 Nov 2026 16:47:32 +0000",
+          "publisher": "fotmob.com",
+          "rumor": false,
+          "source": "FotMob",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOblpDanhvSWpPY1NfM1FObTgyMTlpYjdmZHFUN1NtWXBEVzBoMkFHNnFJZWhvM1hxZTZjU3pvVVdNc2xGaWJqTVd2OXJZbkszcDIyNkF3OENzOXBFNlY5Sm5iMlI3RUJJbWlxMEZ0NHFaZGs3X2ZDWDlLam9OaHFSS3lhR08xblI2Z3lvQUU2VU1vQ1g3Y0kyUUo2SWRZMEl1UlFpbkVha0lGM24yQldGTkVn?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "世界",
+        "会赢",
+        "决赛",
+        "利斯",
+        "卡利",
+        "国家",
+        "家队",
+        "我无",
+        "接受",
+        "斯特",
+        "无法",
+        "有机",
+        "本有",
+        "机会",
+        "杯决",
+        "法接",
+        "界杯",
+        "赛本",
+        "退役",
+        "队退",
+        "麦卡"
+      ],
+      "concepts": [],
+      "first_seen": "Tue, 03 Nov 2026 18:05:04 +0000",
+      "id": "ce12fdc0ad7cd80ba6",
+      "person": "梅西",
+      "published": "Tue, 03 Nov 2026 17:10:23 +0000",
+      "reports": [
+        {
+          "key": "ce12fdc0ad7cd80ba6",
+          "phase": "突发事件",
+          "published": "Tue, 03 Nov 2026 17:10:23 +0000",
+          "publisher": "m.qie.tv",
+          "rumor": false,
+          "source": "企鹅体育",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHMnRZODNFY0k5WHk3TFFlSUlsenlTM29fazZtTkFkVHFRQ3dHZFdmTG5NVHVkYm85dDZVeW5qbW1KNEdVVXpHZzE2dGMtallKLTJHbVZpMDB3R24wdGU5Wg?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "attire",
+        "beloved",
+        "funeral"
+      ],
+      "concepts": [],
+      "first_seen": "Tue, 03 Nov 2026 18:05:04 +0000",
+      "id": "a387a3852657c05be3",
+      "person": "Sparks Unexpected",
+      "published": "Tue, 03 Nov 2026 17:24:39 +0000",
+      "reports": [
+        {
+          "key": "a387a3852657c05be3",
+          "phase": "争议线索",
+          "published": "Tue, 03 Nov 2026 17:24:39 +0000",
+          "publisher": "koreaboo.com",
+          "rumor": false,
+          "source": "Koreaboo",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRmJJU1gtYnY5OVZLOU5UYm5lNTV4b0dYN19kZngtSnZDVUFndktDVTFjaFhlVDBGRWlPd19LM0Uxa25MVkh1ZGJaRjlWYm4yQ0JNTjZYcWNOcUp6R3NnWE1GSDk1SnVkbUI1YnBRbnZnVmx5Y0NNbVVUUEE4WGdaS0tsMFBPVTVyczRMbkZaWjBuNDNyc1E?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Tue, 03 Nov 2026 10:44:39 +0000",
+  "last_run": "Tue, 03 Nov 2026 18:05:04 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
