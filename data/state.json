@@ -2,118 +2,6 @@
   "events": [
     {
       "anchors": [
-        "center",
-        "data",
-        "dismiss",
-        "fails",
-        "gas",
-        "memphis",
-        "naacp",
-        "spacex",
-        "turbines"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 01 Nov 2026 09:45:33 +0000",
-      "id": "3c3b4bff9678291ec9",
-      "person": "马斯克",
-      "published": "Sun, 01 Nov 2026 08:03:40 +0000",
-      "reports": [
-        {
-          "key": "3c3b4bff9678291ec9",
-          "phase": "法律进展:起诉",
-          "published": "Sun, 01 Nov 2026 08:03:40 +0000",
-          "publisher": "benzinga.com",
-          "rumor": false,
-          "source": "Benzinga",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzNRNjBtOVo5cjFLWW5YU0RwaURGVllzX1Rja1NBZTRtcUVJQTFuRF9EU3ZfYnVlRDVBSlJqNEFHUUlTUkZ4YUNONnZ4d2pmdzB2ZTR3cWprb2xpaGZvcFl5eURISzQ5V3I4b2dmQk1jWGt1TzAyakJvX3IxRTBkYzdxck9RZk45bmRfRXBoSGZIS0U1bEZVMXJha3FXY2JFUktWWE9Ua2QyYnR5NFQtT2hFc0VUQU5VX2k0bU1TVktHdkVBV3Q5ZW5wUHlSXzR3ckFsLWxB?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "incident",
-        "plane"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 01 Nov 2026 09:45:33 +0000",
-      "id": "052883b7135fb13ed7",
-      "person": "Selma Blair",
-      "published": "Sun, 01 Nov 2026 08:05:15 +0000",
-      "reports": [
-        {
-          "key": "052883b7135fb13ed7",
-          "phase": "道歉回应",
-          "published": "Sun, 01 Nov 2026 08:05:15 +0000",
-          "publisher": "livemint.com",
-          "rumor": false,
-          "source": "Livemint",
-          "stage": "道歉回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0dQbU16OC0wLXhZbXA4TWJ5NGtfVF9rblpqUjQ4X05MUGdaQWNsMVUzVkREZEpKT0k1MzZMWHhCMjYwNWxlR19TUjk2UDYzVVZGNzN1S0dhOE52WTczYTdTWHZMOEZPYTFDRkxEWEFfbl83M0Y0TjRnQVRqbVc0YzRMRjVWY1ZRUHZOdS1fOVdkVkNyUXQxTTByM2VNZFpCRm9HZw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "ateez",
-        "dating",
-        "member",
-        "proof",
-        "rumor"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 01 Nov 2026 16:27:02 +0000",
-      "id": "86a0dc0af50246c3f3",
-      "person": "Suzy Embroiled",
-      "published": "Sun, 01 Nov 2026 14:40:34 +0000",
-      "reports": [
-        {
-          "key": "86a0dc0af50246c3f3",
-          "phase": "争议线索",
-          "published": "Sun, 01 Nov 2026 14:40:34 +0000",
-          "publisher": "koreaboo.com",
-          "rumor": true,
-          "source": "Koreaboo",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fRzQ0RDBWZEJ1T1VvcW5VVUc5SjRLR3RQVWNlX3MyTEVWdTZyQnplTUZ4Vk0yaVp4eEZtM0tRSWFjNXZNcnkzQnBxVmlKb2ttT2NqX2k0aE1UM3JBZjhBSDRGUVRmSEp4YjVmVzhORXBwLWg1azFPQWU3NA?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "aged",
-        "athlete",
-        "dies",
-        "olympic"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 01 Nov 2026 16:27:02 +0000",
-      "id": "1ac47d800d55d0f366",
-      "person": "Ciara Mageean",
-      "published": "Sun, 01 Nov 2026 15:23:35 +0000",
-      "reports": [
-        {
-          "key": "1ac47d800d55d0f366",
-          "phase": "突发事件",
-          "published": "Sun, 01 Nov 2026 15:23:35 +0000",
-          "publisher": "thejournal.ie",
-          "rumor": false,
-          "source": "The Journal",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NR3QtM0RKT0JoOUxFUzFIOGVTUTlPTlctQlBvSTlNWEROV01sc24wZWFlQ0kwbU8zVDE2THZEaDdWV0VWVWtHaFR0eG16TmRob25HVmhUYk43Z0JSeEVhbEVsc21yZURYNFNOSkxuSQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "cctv",
         "china",
         "him",
@@ -715,10 +603,38 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "death",
+        "men",
+        "murder",
+        "suspicion",
+        "two"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 04 Nov 2026 18:16:09 +0000",
+      "id": "d43c0a5083831af21f",
+      "person": "Ezekiel Williams",
+      "published": "Wed, 04 Nov 2026 17:27:00 +0000",
+      "reports": [
+        {
+          "key": "d43c0a5083831af21f",
+          "phase": "法律进展:被捕",
+          "published": "Wed, 04 Nov 2026 17:27:00 +0000",
+          "publisher": "joe.co.uk",
+          "rumor": false,
+          "source": "Joe.co.uk",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSl9XOVhjVDdTWWpuUmRyMi1seTNVN0FPR2Q2ekQ3TWFVOWZmbHRXd1hFdVp5dHg2UzBWWjVucmVHTkpKRVI5dHZMdGdEUHhnV1V2dXdwT3NkUHM0WUZnS3NqclN0MndiN251SUdqNE1EbWZHR2pfcG9ORWNVNHh3N0tUMVItNXAxQjdqdUlEREF0RFZtbUlobE41MFdGMlNTMV9kSmZiUDhYd3hnMGZYclBLTUtGSFZhZTBLWTh3?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Wed, 04 Nov 2026 03:02:06 +0000",
+  "last_run": "Wed, 04 Nov 2026 18:16:09 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
