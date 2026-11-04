@@ -2,184 +2,6 @@
   "events": [
     {
       "anchors": [
-        "为皇",
-        "了风",
-        "停播",
-        "动真",
-        "发声",
-        "央视",
-        "展现",
-        "帅为",
-        "播本",
-        "本轮",
-        "歉展",
-        "现了",
-        "皇马",
-        "真格",
-        "穆帅",
-        "西甲",
-        "视动",
-        "轮西",
-        "道歉",
-        "风度",
-        "马发"
-      ],
-      "concepts": [],
-      "first_seen": "Sat, 31 Oct 2026 23:46:26 +0000",
-      "id": "a3f066ba603cae6ccf",
-      "person": "姆巴佩",
-      "published": "Sat, 31 Oct 2026 23:09:37 +0000",
-      "reports": [
-        {
-          "key": "a3f066ba603cae6ccf",
-          "phase": "道歉回应",
-          "published": "Sat, 31 Oct 2026 23:09:37 +0000",
-          "publisher": "m.sohu.com",
-          "rumor": false,
-          "source": "搜狐网",
-          "stage": "道歉回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFNLN3JBd01WVmJVbWptbXNkbjdCWm9UQnZmaFQ4RUhtNjJhMnh3YV85Y1M3aFh3SlVqX1JfMENkYjJwNHVka2VxQVcyckRndFFuTUZrYk1PQ29jVWFpVmsxWE1ULWs1clJkcVoxd1NZb3BibncxdG9HZy1UY3FBc3l3N2dSNmpnb1dJZA?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "万欧",
-        "下滑",
-        "入大",
-        "发的",
-        "大幅",
-        "幅下",
-        "引发",
-        "损失",
-        "收入",
-        "欧元",
-        "歉引",
-        "甲收",
-        "的风",
-        "西甲",
-        "道歉",
-        "风波"
-      ],
-      "concepts": [],
-      "first_seen": "Sat, 31 Oct 2026 23:46:26 +0000",
-      "id": "e86f0c26b3ff8e6da2",
-      "person": "姆巴佩",
-      "published": "Sat, 31 Oct 2026 23:14:58 +0000",
-      "reports": [
-        {
-          "key": "e86f0c26b3ff8e6da2",
-          "phase": "道歉回应",
-          "published": "Sat, 31 Oct 2026 23:14:58 +0000",
-          "publisher": "m.sohu.com",
-          "rumor": false,
-          "source": "搜狐网",
-          "stage": "道歉回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTFRibzI3RkdhWFhuaVJIa1F1cHROZzJ5ZWdlM1JleTNxRlkwNVJ3OUZucDBZVXlxYkxFMUJzckxac2hJWU0yREtXTU53MXBZaWFEeFoxSDBqZWZid2oybnZKWkNSNVdMU1c2QnIxb09SRGNqQkFFNDRRLTg0bmxueGZYNFY0bnN3VDF5VA?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "being",
-        "cards",
-        "despite",
-        "prevents",
-        "receiving",
-        "rule",
-        "strange",
-        "suspended",
-        "yellow"
-      ],
-      "concepts": [],
-      "first_seen": "Sat, 31 Oct 2026 23:46:26 +0000",
-      "id": "97ab9c6b04982cc7be",
-      "person": "梅西",
-      "published": "Sat, 31 Oct 2026 23:38:06 +0000",
-      "reports": [
-        {
-          "key": "97ab9c6b04982cc7be",
-          "phase": "突发事件",
-          "published": "Sat, 31 Oct 2026 23:38:06 +0000",
-          "publisher": "goal.com",
-          "rumor": false,
-          "source": "Goal.com",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOWQzOWg2bTRqZ21NMHMxQnBtT0YzWnFSMXJjYTNZd3RNSjNkQS1qR3E1Z3RTV3V5eFlYQmVMRFFwOWdOYnVlOTg4WkNwTU9FbHg2Y0FwSWJJTnlEVHZMZUdteloxSGQwbkRtSUt6dkdPZ0QwbW5FSUpqMDRqUDR4YVVYeGpJaXdCMzhIYVBKSm04RnhtRVI3TnpvNFFMaEFvU0hFb0xkQ1lxbmlsRnVxdk50T3l3SV9KVUJ6YVp4S0tTam10N3hR?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "apologize",
-        "changed",
-        "finals",
-        "game",
-        "johnson",
-        "kobe",
-        "magic",
-        "mind",
-        "watching"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 01 Nov 2026 02:40:29 +0000",
-      "id": "4b8dc08c2afb607da6",
-      "person": "詹姆斯",
-      "published": "Sun, 01 Nov 2026 00:45:53 +0000",
-      "reports": [
-        {
-          "key": "4b8dc08c2afb607da6",
-          "phase": "道歉回应",
-          "published": "Sun, 01 Nov 2026 00:45:53 +0000",
-          "publisher": "sports.yahoo.com",
-          "rumor": false,
-          "source": "Yahoo Sports",
-          "stage": "道歉回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQUhHZjRnaVI1bE9jZGdUQmlTSG5uUUtjcG5wRktUNjd1WVpPTjZqYnQ4MWF2UUIyWVJUenB4TEk2T1NsQmZPc19ONzBnRUhlMVRHZi0tMGxRalRaVmpHNUZ4TzNYbWE4WWswSjc5ZzRxQTJrQXdFSnplb0FSNDZ4djZmcFVZV0VsMW5NbXhR?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "anthem",
-        "finger",
-        "jokic",
-        "legend",
-        "national",
-        "nba",
-        "nikola",
-        "points"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 01 Nov 2026 02:40:29 +0000",
-      "id": "cc753e2cb63d82e105",
-      "person": "詹姆斯",
-      "published": "Sun, 01 Nov 2026 01:30:00 +0000",
-      "reports": [
-        {
-          "key": "cc753e2cb63d82e105",
-          "phase": "争议线索",
-          "published": "Sun, 01 Nov 2026 01:30:00 +0000",
-          "publisher": "aol.com",
-          "rumor": false,
-          "source": "AOL.com",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY0YxQ1B2WFdqaXJSSV9mOGRyQzF1M0ppM0NXZXE5S1U4bHZRcDh4VjRXbHBzc1dPbGJVZWp4OHExSE56eHRzZXBXdXV3UzVTZjVGX0ZRWjBBeWgtQk1STXFOV2lIV2NCR2N4ME1Pd1JVaElnYXJaWE1qZlBUUlpmcQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "center",
         "data",
         "dismiss",
@@ -799,10 +621,104 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "argentina",
+        "end",
+        "era",
+        "first",
+        "guard",
+        "hints",
+        "lionel",
+        "old",
+        "retirement",
+        "roster"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 04 Nov 2026 03:02:06 +0000",
+      "id": "3c12e4b804c5cd7511",
+      "person": "梅西",
+      "published": "Wed, 04 Nov 2026 01:03:56 +0000",
+      "reports": [
+        {
+          "key": "3c12e4b804c5cd7511",
+          "phase": "突发事件",
+          "published": "Wed, 04 Nov 2026 01:03:56 +0000",
+          "publisher": "forzafootball.com",
+          "rumor": false,
+          "source": "Forza Football",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcFc0S0Fybk1lOS1GaHQzSV9LcDR3Sy1NVVN6SVhPdlJtZ2lnSHEyZXZOeXQzZ0FaV2VxaW50VGJ6Ml9lQ1NpMTIwZFNVYVdaQUptZ092UlRPRnhRdWlzOTZxNmhpLS1aU1lteHRwODVieTRvRC1nRWR2aEFlbFBxYUdxSHZuNFV3dTRTcjNVRUtWaHItT3ZnaVhZbjdGSHp5ckFKSkNGb2Z1TF9zWEdVVjJfYUFGLWxZSDJUVk4tU3BiVFk5OHdr?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "athlete",
+        "clemson",
+        "dabo",
+        "midseason",
+        "retirement",
+        "swinney",
+        "veteran"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 04 Nov 2026 03:02:06 +0000",
+      "id": "93db4d3279a6ef0bc3",
+      "person": "Forced Into Medical",
+      "published": "Wed, 04 Nov 2026 01:05:51 +0000",
+      "reports": [
+        {
+          "key": "93db4d3279a6ef0bc3",
+          "phase": "公开回应",
+          "published": "Wed, 04 Nov 2026 01:05:51 +0000",
+          "publisher": "twaslnews1.twaslnews.com",
+          "rumor": false,
+          "source": "شبكة تواصل الإخبارية",
+          "stage": "公开回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ySnBDS0s4XzVtSVo3TEdaSEY2SlozN0xTYUdjN05VbWREeXRSQXJLZEQ4a2NaTmRXVkNCWmxXdjZZeU5rUUZDMUNvZEl5TjZtN0NN?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "doncic",
+        "lakers",
+        "luka",
+        "middle",
+        "officer",
+        "police",
+        "smith",
+        "spicy"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 04 Nov 2026 03:02:06 +0000",
+      "id": "bb1ecc33a098d529a7",
+      "person": "詹姆斯",
+      "published": "Wed, 04 Nov 2026 02:03:00 +0000",
+      "reports": [
+        {
+          "key": "bb1ecc33a098d529a7",
+          "phase": "法律进展:被捕",
+          "published": "Wed, 04 Nov 2026 02:03:00 +0000",
+          "publisher": "sports.yahoo.com",
+          "rumor": false,
+          "source": "Yahoo Sports",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQckdvRWJTeGFTR2VQXzNlZWs0UTVXNUtyWXB1VjBxbnFIM2YzRGxPeDN4TFJ5MGwxQ3RfOHV4bTZpbWNBRF9mSm9LZWxqY2dzUlJtcVN0cHpKZldLYVZBQ3JnZzNNaFhtT1hOdGZWODRPUlVzQ1BvbW85VktIUFNsT1B1aW1QWlZvS1E?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Tue, 03 Nov 2026 23:14:51 +0000",
+  "last_run": "Wed, 04 Nov 2026 03:02:06 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
