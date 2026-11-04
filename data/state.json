@@ -2,37 +2,6 @@
   "events": [
     {
       "anchors": [
-        "cctv",
-        "china",
-        "him",
-        "liga",
-        "showing",
-        "sponsors",
-        "still",
-        "three"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 01 Nov 2026 20:42:30 +0000",
-      "id": "c091e951d34711e728",
-      "person": "姆巴佩",
-      "published": "Sun, 01 Nov 2026 20:26:44 +0000",
-      "reports": [
-        {
-          "key": "c091e951d34711e728",
-          "phase": "道歉回应",
-          "published": "Sun, 01 Nov 2026 20:26:44 +0000",
-          "publisher": "latintimes.com",
-          "rumor": false,
-          "source": "Latin Times",
-          "stage": "道歉回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUa29QQWxOVFRrd1hXd3NuRURrNnlNN19rYUV1bmJqT3NnTmdRVlJ4eEUyVVM1dTg4MWVKTXNMdnpKZjdXYmNRN3c2aEsxQ2VoaG5PZjVJbmFRVkh1VUhVZmtlNHA0SHRDTXJwT0xudWx0QXlWX05JTlFfX3A?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "anyway",
         "experts",
         "irrelevant",
@@ -123,6 +92,17 @@
           "stage": "道歉回应",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmMxZEt3UEZ2OHJ6czVDTHlQdTBON3gzdXNFVDVtTUhORGYyV2ZxSVpadzlKR3F4QUUyT2M3VGZFd25SQ2xpeEJ0SVROVi1sVFFDVGhZSmVLdHBVd1hNOEhKb1VwOGNOX1pXOFdvN3piMExQcFY4MjFLOU9VX093QUh3RmJYM01rcVJjNF93SEstOFh2NVE?oc=5"
+        },
+        {
+          "key": "99ef7a9479d35db9d4",
+          "phase": "道歉回应",
+          "published": "Wed, 04 Nov 2026 22:12:45 +0000",
+          "publisher": "thedailystar.net",
+          "rumor": false,
+          "source": "The Daily Star",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTWozMThxOURXWUd6ZlI4amI3aFlvYUJHLXZTbE5ieHNTUTRaaU1CbzVrZ2tacEI2bllCTVVsa3pSNE9TeXoyYnFNUzRLcEFIc3Q1aGNqbjktY045LXlrVzNXRXNGSV9LZkMzVVd5UG5QclQ2ZHBjZ19SMGRncUpORVhRWHBCWWhXOXA1TFh2VHhhZnY4QVUtMGdVUUJmZWFwVmhEZzIyOVVOWEdKUmc?oc=5"
         }
       ],
       "stages": []
@@ -631,10 +611,42 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "according",
+        "alexis",
+        "allister",
+        "argentina",
+        "final",
+        "lionel",
+        "mac",
+        "may",
+        "retirement"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 04 Nov 2026 23:45:20 +0000",
+      "id": "cc48df7cc4b116bcfd",
+      "person": "梅西",
+      "published": "Wed, 04 Nov 2026 22:52:22 +0000",
+      "reports": [
+        {
+          "key": "cc48df7cc4b116bcfd",
+          "phase": "突发事件",
+          "published": "Wed, 04 Nov 2026 22:52:22 +0000",
+          "publisher": "worldsoccertalk.com",
+          "rumor": true,
+          "source": "World Soccer Talk",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcU00c2N4VUJmTE9nNUM2MmxjY1hsM2NQYmwtTnNIRHRtN3k0Ujg5S0dyUTN4LWV1SEVxZS02TmdsSXR0V3BHTkFLLWxINkpFZi1YY2pCeVJVNmJmT053aUhSWVU4TDM1RXh4OEJad3lkZ3FybVRsNTluM3ZlR1p5TzNaZS1vUURNTW1HWHh5VHpaN05wSHVISXlEZGlyNlhtYkYtU3VqTHNQbjh0dUYwVWNFMFNURjNIZkFrME9hQXjSAcQBQVVfeXFMT29ZdDBjNExobkxZaUdLMWszcXh0QnFRY1RSMi15TEp0a1R6VTFYMmVkaWNsbEJGZkFCc29uT1AwWGNXWkZxNW52RG5qV0dOeGJEVzlkNEFNZ0tRTzlTQTc0b0ZJMGtnZ3ZGLVBzV2RLVmxDTmYxM0RTQ3ZKYXVHZi0za0dQWTc2OXN6WVUtdXY4WFlDUmhObllmLVN6Ri1XVEhRWHlmeXpPa2hwQzVWRGlGaTZyb3Rvei1GU2NsdTV5RDVVNA?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Wed, 04 Nov 2026 18:16:09 +0000",
+  "last_run": "Wed, 04 Nov 2026 23:45:20 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
