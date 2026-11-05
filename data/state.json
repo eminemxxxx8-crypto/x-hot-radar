@@ -2,36 +2,6 @@
   "events": [
     {
       "anchors": [
-        "anyway",
-        "experts",
-        "irrelevant",
-        "make",
-        "retirement",
-        "save",
-        "savings"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 01 Nov 2026 23:54:55 +0000",
-      "id": "b070a9a6dc9ddf9cde",
-      "person": "马斯克",
-      "published": "Sun, 01 Nov 2026 22:47:00 +0000",
-      "reports": [
-        {
-          "key": "b070a9a6dc9ddf9cde",
-          "phase": "突发事件",
-          "published": "Sun, 01 Nov 2026 22:47:00 +0000",
-          "publisher": "thecooldown.com",
-          "rumor": false,
-          "source": "The Cool Down",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0xrSzFQWVBrMWlYX3lsMGRUdHh5SXBMbE9jOEwxUUI0aG1ka1FMNGRQdVZnc0VOR1pQYjVIdjhRaU9wbHNFYmxPU0Nuc0hDT0w2cU56Z0MzX3RVai1namkxdHlzZURWdTFmZkpDdzBmWmZtOXNEbUlFX3AtOGZFN3JTSG9GZXhVd25j?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "madrid",
         "scores",
         "win"
@@ -646,7 +616,7 @@
     }
   ],
   "initialized": true,
-  "last_run": "Wed, 04 Nov 2026 23:45:20 +0000",
+  "last_run": "Thu, 05 Nov 2026 03:46:18 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
