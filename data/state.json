@@ -2,144 +2,6 @@
   "events": [
     {
       "anchors": [
-        "madrid",
-        "scores",
-        "win"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 02 Nov 2026 04:00:33 +0000",
-      "id": "2758da1b52c51143a0",
-      "person": "姆巴佩",
-      "published": "Mon, 02 Nov 2026 02:15:17 +0000",
-      "reports": [
-        {
-          "key": "2758da1b52c51143a0",
-          "phase": "争议线索",
-          "published": "Mon, 02 Nov 2026 02:15:17 +0000",
-          "publisher": "observerbd.com",
-          "rumor": false,
-          "source": "Daily Observer",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvR09nRTFuRzJocDRWbTZKMnYzTjdkeUd6N2ViQzRselFrX2tlYUtnRGVrTE1VVi1XMlhoVlhqNW95YWJFaU05NV9B?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "beat",
-        "china",
-        "madrid",
-        "real",
-        "santander",
-        "strikes"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 02 Nov 2026 04:00:33 +0000",
-      "id": "9f839404cd01b8f84c",
-      "person": "姆巴佩",
-      "published": "Mon, 02 Nov 2026 02:27:10 +0000",
-      "reports": [
-        {
-          "key": "9f839404cd01b8f84c",
-          "phase": "争议线索",
-          "published": "Mon, 02 Nov 2026 02:27:10 +0000",
-          "publisher": "socceramerica.com",
-          "rumor": false,
-          "source": "Soccer America",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGhCU3dJQlZCRlNPLTJkU19tUjBPZXRveW84cEVHZ3VPSmU0RTRsNENmT01lenozMGVTbFRPUTJoZFYyUXlZT1NoMHpqSFdSdVYxWFRIVzM0YzhCVkMzSExUeFBzYUw4UlFXUl85Ym1iWEpjdTM4SzZEYV81TXFMdnl5Nml5cnMyRWl0VWdvdGVxSjhyRFNwWHg1NWFKSFNG?oc=5"
-        },
-        {
-          "key": "a3c67b11fa6a638d0d",
-          "phase": "道歉回应",
-          "published": "Mon, 02 Nov 2026 10:43:00 +0000",
-          "publisher": "independent.co.uk",
-          "rumor": false,
-          "source": "The Independent",
-          "stage": "道歉回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTmMxZEt3UEZ2OHJ6czVDTHlQdTBON3gzdXNFVDVtTUhORGYyV2ZxSVpadzlKR3F4QUUyT2M3VGZFd25SQ2xpeEJ0SVROVi1sVFFDVGhZSmVLdHBVd1hNOEhKb1VwOGNOX1pXOFdvN3piMExQcFY4MjFLOU9VX093QUh3RmJYM01rcVJjNF93SEstOFh2NVE?oc=5"
-        },
-        {
-          "key": "99ef7a9479d35db9d4",
-          "phase": "道歉回应",
-          "published": "Wed, 04 Nov 2026 22:12:45 +0000",
-          "publisher": "thedailystar.net",
-          "rumor": false,
-          "source": "The Daily Star",
-          "stage": "道歉回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTWozMThxOURXWUd6ZlI4amI3aFlvYUJHLXZTbE5ieHNTUTRaaU1CbzVrZ2tacEI2bllCTVVsa3pSNE9TeXoyYnFNUzRLcEFIc3Q1aGNqbjktY045LXlrVzNXRXNGSV9LZkMzVVd5UG5QclQ2ZHBjZ19SMGRncUpORVhRWHBCWWhXOXA1TFh2VHhhZnY4QVUtMGdVUUJmZWFwVmhEZzIyOVVOWEdKUmc?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "festival",
-        "ifa",
-        "islamic",
-        "odun",
-        "ogun",
-        "performance"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 02 Nov 2026 04:00:33 +0000",
-      "id": "18be558bc369d0079c",
-      "person": "Aminat Obirere",
-      "published": "Mon, 02 Nov 2026 03:19:15 +0000",
-      "reports": [
-        {
-          "key": "18be558bc369d0079c",
-          "phase": "争议线索",
-          "published": "Mon, 02 Nov 2026 03:19:15 +0000",
-          "publisher": "gazettengr.com",
-          "rumor": false,
-          "source": "Peoples Gazette Nigeria",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcy1pcEpzRGRjbjZwV285dmxYQWdkcTBsbGR1SGVMUXFDZi0yZVdNdl9XaG9zT05TLUtobEpkX3J6Z0k0STlOTW9qN3VmZUp0bmN6RHh3RHE5XzJOek53QkpGOGxYa3JpVXE5eWUwRElsUFZnQkFXSFp4Y3drNjBSMDRhZThsM3dOWkdNQ2JHWTBxSDRmOEpFOTVNZVRZeXplWlByN0pwZnkxLXNWMkJwQlh4bmQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "concert",
-        "diljit",
-        "dosanjh",
-        "graffiti",
-        "khalistan",
-        "pro",
-        "stations",
-        "targeting",
-        "three"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 02 Nov 2026 04:00:33 +0000",
-      "id": "03b7ad38628ed1ae38",
-      "person": "At Delhi Metro",
-      "published": "Mon, 02 Nov 2026 03:45:24 +0000",
-      "reports": [
-        {
-          "key": "03b7ad38628ed1ae38",
-          "phase": "法律进展:被捕",
-          "published": "Mon, 02 Nov 2026 03:45:24 +0000",
-          "publisher": "news.abplive.com",
-          "rumor": false,
-          "source": "ABP Live English",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNeDFHUk16R1owNk9xMGxJNVZMVFd3WmJwY0lVQ3RsZklMa28zNXZWTzJtTEdNNnR3akdnMVhEcnVudmpzbW1hSk4yd1FUSnhxVEpTYVhZM1R2NjRBRmdRUTQ5TFk4Qmp5TFl5ZWhyOEF4N3NXYklBTWdNNXpXWHF2RnBncE81QkVJblhfT3NjcXZ3ckd3RHEyWmQtY09pQjQzMlBmZW14eGRpS20wdXBFTVFZWUNkekU5d1hhLUdfMzdzeXNINVFoSnN3MVcydUxLMHlyTkFGel9iV0ZHZzJWVERlcV90SlRWcURzenltOHd5cC1IcXRoTkNlWmPSAYICQVVfeXFMTkdSdElLS0hKc2cwOXNOOXlGSFk2M3lKQnd2ZVZFUEw3RWY3b2VkekRyLWJFUzFRV0FHTDI2bDZlZGREa3FSZmtvRUtOR2hIcTlhaTdEWHI1LXIwS1BPV3FRaVRDNmlYWmc4TGY0bGVaVjQteGVYQzU1bTVPWHhiVlVhLTM1UjJOUjQ0WktWdVNNamtSZE82bXczZzBBNnV5Znk5aTVEcDk4Qy1XSlVDU0hQUXRhc1dES0Z3bWJGQXM1TlV4MGs5MWZiYUk3QUVsdGJySXhpb3NwQ08yT2E3eEF5N094TnJhbk4xQjZRcnRuUXU5dWJPYWx4ZmJmM0kwN1pn?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "bombay",
         "joining",
         "mumbai",
@@ -613,10 +475,961 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "announces",
+        "portugal",
+        "retirement",
+        "years"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 05 Nov 2026 11:37:36 +0000",
+      "id": "adb3e7de159436af83",
+      "person": "C罗",
+      "published": "Thu, 05 Nov 2026 09:51:00 +0000",
+      "reports": [
+        {
+          "key": "adb3e7de159436af83",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 09:51:00 +0000",
+          "publisher": "sports.yahoo.com",
+          "rumor": false,
+          "source": "Yahoo Sports",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWTNXeHVJeXhxVzdjVmVSMERtdENPTnJkU1Vsa0JuTEM2Q1BnaE4wOWE5cWVhejZRdUlTT0hNclAyZ1Jua3prb1BYdnh5bnZVeE5EWGxUVkdpbzZUTkFqbTdLZFQ4VG00SGV2RUFhWm5ySUJrNjNhMURXMUk0ZDJxbEV0LWNlOXM0RDM1SmR1UVdKRTBwSk1BdmhRLWI?oc=5"
+        },
+        {
+          "key": "7991d520e862433df4",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:31:18 +0000",
+          "publisher": "hindustantimes.com",
+          "rumor": false,
+          "source": "Hindustan Times",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0x6RDhKSF9BYW5JSG5peGRvb2VxUktqQWd4NjJ1c2lpR2ZDOVNpLTRoS29FVG05ZTJPa0w5ejdERzhzcDRyYmRxbXJqVEdLMndmUWNXQmZZTTRIWGpsMmJ1ZHlJeUw4bUYtX0t3T1RsbjMwcXBqSjRvS0lLREFYTUhVUkxGS2tKWGNfS2FDQURKQkk2Z3J4R19ScE1mWWpxLWdMUHp3U3BnSmVONk1XX294d2ZpYU1ONUtSSEZueDc2dnhlYkFCRnUxMkFReUHSAdQBQVVfeXFMT2Jyd0FROTU2a0pwWmNfRXB6ek03ZnI3VmFKQ3QxY2ZhWHE0TmdwZHVORmZNTjEzb2d2WHFEbUd4eHhOei1yQ1gydjR6aER5RkI1NVBxN3pUTjhXd29OVm5QZlowTUdaR1RyNERKWkxLalloTkR1dUcwOHRuWTRzbVFhTFQ3SGNkRjA5aTJYLUhYbVoyRnNWcG1Jc3VVSEJEcHI5MExMUjU1OUZNYUVMRUk3MjVqLWlxSGpHa0NLalcyd2dld2x5TDYyUTE1Q0FvNmRoVk8?oc=5"
+        },
+        {
+          "key": "0470706522b805ca10",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:32:30 +0000",
+          "publisher": "NYT",
+          "rumor": false,
+          "source": "The New York Times",
+          "stage": "突发事件",
+          "trusted": true,
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOHd2eWw4NEJaTnlrVW80bS1YODNwSVJuRnY1TTRseFRiWm82VGlNczV1RzhyTFdGZjZ3ZzMybjFGLVhxNGZIVFdnOWVacmFzajl0UGFSUFYwNmdiT0NoY3hyRVpicnV1eG1fWllhTXlyNEJDbGoxNnRwNHpLN3J5M1VnMUtFMS1sM2gwc0tHdlVMME01MG82eFFxaFhyTTBKZlFBcEJuNA?oc=5"
+        },
+        {
+          "key": "7f70494895e2b8c66d",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:08:10 +0000",
+          "publisher": "CNA-SG",
+          "rumor": false,
+          "source": "CNA",
+          "stage": "突发事件",
+          "trusted": true,
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdWRrcW53NmU4cDB4Sm5COTQ2QXVGUkJGc1AwZWJGaV8wWWRUSVFDVHV5NmhXdkZrS2tZb1RXUzVTZU9oUXB6SEJTSVhPMzRaZXZMWVl6RVoxQzc5SVJjWTdPbEV6RFlSOVNycVJldnNDYTIxN0dzSUxzRm9VOEFvOGQyN0RvWF82NDBXekJER3FOelFuRUtFQ1I4alJaOFFq?oc=5"
+        },
+        {
+          "key": "6612da73e83ffc32f1",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:34:34 +0000",
+          "publisher": "onefootball.com",
+          "rumor": false,
+          "source": "OneFootball",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYVpGSXNPVzhvUUd0ZmVUTzFROURMNzFpaEw4dnBuVG5PVzRwd1YwX2xjc3JwcnZKc1JvX2VVVTdiVFdScVNXY0NMMnQzWTlBT050d0JaLWtXRnZsWDg0YkkxR0NqYkZMYXY3dzNIOWZUT0xESGZjUGNkc1FkUkVGbnB2UnVvU1ZpWWJCZTJNNUFIcnlXbU40dEZpX3JyV3hfUS1TOA?oc=5"
+        },
+        {
+          "key": "29fd5803fcefdebb7d",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:38:00 +0000",
+          "publisher": "timesofindia.indiatimes.com",
+          "rumor": false,
+          "source": "The Times of India",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTHVXOHctaVdlRHpoeGRXX3lQcS1wQTBtMlRTSE5DellOMHZPTVVuMXprUG5oNFBWYUxVMzZJQ0VDS21XOTBBejlaREZmU3FIZ1Bpd3JBeGlRUnZ6WExOWXdiNUVDRzhlZU5fNEVKMWpSOG9WSUxzVE4tRHJqUk5mU0g1Tm1jankxTkdyLXExODNOSVRncWZHT3RBdHZzRW4zSG9Nd2RTbjNGOXRTSHp2UVdQYjRoUFluV0x2RlBjVVlwQUFzN2Fzdk5tOGFqTXZOb3h1Y1pTVGNIUdIB3wFBVV95cUxNQ29RWE5MSDlQa2hpd09ITDlhR2M4V1E3MEtNNWFOVGJBMldUQ3RrVGt2SDRfTEYxZjA2V0lnOEpwb1lLdm5FN3Z0Vm1wdzVkd2t6WlZwNmQ0c3RtVTlLUmJNc095QzlGbVU1eFVrWWpEVzBxVnBlNjJMSGZvVWtUT1VxZHJfY2pQbFc0dFdNWExsWkhPc0dBMkMxMHBoemZ1MUxHVWJyNDBpVjBPV2ktb2VSNHE3WEs2ejdGMnpwR05QeWFNQ2ZzeG9sU3ZrZjNlUFBGV0NjdmhvXzF0amNr?oc=5"
+        },
+        {
+          "key": "9e0e4779e306d03b85",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:42:36 +0000",
+          "publisher": "standard.co.uk",
+          "rumor": false,
+          "source": "London Evening Standard",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2FNT0lwZ2wtaGFsT0dvaUctMlpJcVF4QWs0cFRINmJEbFg0cERQemJPY05pdkhKOTVhaUlaUzhHeG5ZY1JMb2tFR3NaUmJmcEpVQzhSX1ZDcmhPTmRhZldHa3lob1Z0LWtaV0pZUTBRbE91dDZSWk0xTXZFekUtVE9EZFZ4SzRYTjhMM3V0eDgxZnR4ZTFaVDNTdGJfbDBDSWFPbndIdVVDb0NpTlZYMmdWSQ?oc=5"
+        },
+        {
+          "key": "686d49521d6b0258a7",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:03:13 +0000",
+          "publisher": "Reuters",
+          "rumor": false,
+          "source": "Reuters",
+          "stage": "突发事件",
+          "trusted": true,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVlZWHk4XzU4N190TEhTREdrcTJFU1R6QjZVRnp1VW9tYVN1OGc1ZUl3dkszbkFxQXN3TjhfbWpycVpIOGpYZXJST2FGRDdrUl9EbDUxeGNBeXpfZEZDT05XdHJoT25Tbkg3elc1ZF91YjFuZURRRV9GSVJSQVo0VmdDR0RucEEyaEN6VUhHWkVOY1U5by1lT0lLM2wwRVBKYU5sa3NvZVZHS1pqMEZUMFNScw?oc=5"
+        },
+        {
+          "key": "986588ab146d0d606a",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:43:48 +0000",
+          "publisher": "sports.ndtv.com",
+          "rumor": false,
+          "source": "NDTV Sports",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSmdRSTNFelRlc05SUU1RY19hejBBRE5obEx1TnFlbjVGS0ZHY2N0YTV0QXRnTFVoOVRlY1ZMMXRmM2NINkZWQXFUQ3FMVy1pRkVTQThqZ2xHWTdYYnp1VVEwQzVFbGNnTXdlRmh0dUwyaGFHbEtYZEd2QVUxZWlVUHJDajVLQzZqN2N4bnFoTnMzbll1eWV4dk5ST3FQQ2J6NEtOTlF6QjE2NWxDRG1VTXBuXzFtRExzVGc?oc=5"
+        },
+        {
+          "key": "77769849c878292ed8",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:44:00 +0000",
+          "publisher": "itv.com",
+          "rumor": false,
+          "source": "ITVX",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNG5xUEdOU29Mb3ZRQzl3OTlMTXpnbzl2dDAwQWlDVEFLYWdFNzZwaHNMNkxILXhDbTdwUzBrYnZQLXRwMGVEQ05heGNZQ1BFTWsxc3JWdjlqbG1aNnBGQ1ppWGJvTk1qYlI1SmdHY19VdXRlUUJuR25Zd2o1MlNoMWt3T21Mdmp3ZUdOVTdWbjFval82eXB1bVRYcW5NVlRqTE1uemZ1WlJ1Z0lRNzlEX2s2QkJpNWE0U2c?oc=5"
+        },
+        {
+          "key": "d87f8ff5f504c2867a",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:45:21 +0000",
+          "publisher": "france24.com",
+          "rumor": false,
+          "source": "France 24",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2JZSUFubEhRUlptNVRtWkZlMHA4eFB0SEhHVE5VY0MxQ2wzdTM5WnFUd0FXUncweDFnUHAyQVM4R25UdWlEbW5GaFNxeU9ZN0txSjVONzdsbElHX0R0SjlqVW5aeFByUFFHLVloeDFaTGZCMnlLeE53cXpXSW02RjFFZXVFVTZkZEJINDlvVmktb25XMDIxYkNpZmlVMGpybFNLMEkwVng3UjBMSnlxVQ?oc=5"
+        },
+        {
+          "key": "c4ce98738440b296e9",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:45:38 +0000",
+          "publisher": "Sky",
+          "rumor": false,
+          "source": "Sky Sports",
+          "stage": "突发事件",
+          "trusted": true,
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWTI5blhvYm5qZFd4ZkQzQnZwLWs3TXFIVmd6T2JacVpFTGRmTnVnTWoyZXFvT28wVHVTWldNRGFpM0I5WmdzM1didjBjeElsbWVpLTRGZFpRdkl2eDd3dC1CMFJDWVlLU1p4VVlaMDN1eGZRbldUVEFBMHgzdEgtU29SNEJ0VmFHdURlUzZJbTZ6RFpDeEw1OUhRNzZMR2J5SGdBQWlzRWlBNTAxTnZqZFFtcnZyLVFmMFBlU0RUMDBSSFpwVnpjRmhhZk1fZkhtV2ZYWVB3ZUczUXRPTU9NcmVqc2JMaHRlR0hSWEdR?oc=5"
+        },
+        {
+          "key": "11a36bb9da12b78fb7",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:49:54 +0000",
+          "publisher": "oskaloosa.com",
+          "rumor": false,
+          "source": "Oskaloosa Herald",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQTVJpaWtFOTBCV194VWFHWGN3UlRSRkFnT0Z2d0k2VU1BdUxZd1JGOG42Z0ZxTExTdHN6Y09tLThTRzVLcXJocnl3dV9iQjVHTlg4aUZBTDhQMEdCeGs5VVhKWUF4VVpNUnUzRnpjYzBCQXV4NHhyNF9lZGpfX2hyVXJjc3kzN1JLX1lINXlMR3IyT1MyQ01oZUNKa2xILVF2WTlGSjdPeGs1QXpHYTVNdEpIYXBjTi1NbWVkN1ctVnpEOU5fWGRYOER0Z0M5cFJwVDlqMnFyN184MjRlZDdFM0ZremtaSnJyRUNManFwdkxjeU9hNEM4cVZzdnV5MkpLZG5rQ0FpcjNBUk00QVVRaVVmTnU?oc=5"
+        },
+        {
+          "key": "2d0f61c77741fcfc8d",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:51:09 +0000",
+          "publisher": "plataformamedia.com",
+          "rumor": false,
+          "source": "Plataforma Media",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaFZ4eGxtQmJyX09CXzI4dVFLa2lieTZqNEZTbWVtLTRncldZSGFoVktJVTFhUXR4b210b3g2d01Oa2ppeUxISVJpd2lMRmwwZ19vTWtEQlZjcmRyalk2blhCYzBZZ1p2Y1RGZ0VYVHVnQ2VDX3lWOWE5YnRVS1JPV0Y1OE1aXzB5MUZpWmZfQXNZTVpkeTNWLUNld0xvd3BGZXR0Rk1WU3VlQjFfNnZqNjdhXzJFWmZFVG55dzd6clZSclFsYkotY1RhWGwwY1VVeXhkUGJGY05UbkdTUXc?oc=5"
+        },
+        {
+          "key": "2ecc878f043ad8ef9d",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:53:13 +0000",
+          "publisher": "firstpost.com",
+          "rumor": false,
+          "source": "Firstpost",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUEFjbFpIWWdLUVdGUENiZXFEaUVHOGZqLXpIS1FOaG9mT2hyYkNCMF9iNXNPNWxkSFZsS19ZS0pNbHVpZVFIc0pqWjkzWXRxeTBYTVd2U1R1N0RhS0JaZDAwSzZtMHNWZlB2Yk10Mk05MmRkR3V1aG5QcWlQNnBQNWRhVWpiM0ZnU25POWpoT2lTWVFQRHNsNGEySnRGTkNpTGlVLUxaeGFLYnJhRUFtYmRDY3FXZEttVVBTTVNVY01yN2l1TExFSmxISVlkUVp1elp3UUtLd282T2h6RTVHT04tYXBlMVowbS10NlgyQ295S2N1Mnd30gH8AUFVX3lxTE8xYTd2QWJZUXplcDVzTXlJaTNReTVvMG50MEliSTc2LUN1d2ZKNFRYY3o0cWZGbndXZkxtODQ3V3ZVQUhqd3dfSHJmNmR1R2g2MEdrdTNCem5lTWlzVGVzcmROcU92QXNNM2dNOFgzWEItRE8yMWNocGs2YWQtTHAwS3c5d1pHVmYzbTA4dGNfVHZpMGEwUUtGcGlJNkp6RWFxN0RoZW44LWI1N2J6R1E3NDZKaTNsWFVlTUFZV2xWbHBSWGxPMERuVTBVYlQtemdUWWJ4dnJCd0lSRGhndzYyaGZfSm40aE85ajNmSXhZN1ptSjNTeGMtczFIcQ?oc=5"
+        },
+        {
+          "key": "3b8cb43fb7ae0350f7",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:54:19 +0000",
+          "publisher": "rediff.com",
+          "rumor": false,
+          "source": "Rediff",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTU5GbU1XRURTeDNReGx0cHp1c2lVSTNSUl9wTkJpRDFyTC1EdzVURnFyRENZdjEyTmpnbFhkOXhfY2RaUV85LXo0QWhROVpUNGJ0QTFTTVotM2ZWQWptV3RGSmlqcG5ZdWp4dDE5Qlp1RHlPNlJFYlljaFpnbFZOT3ZkcU9idkdHS1UtM3VUMW9YSXlaUjdtV2Q2bEZnc01lcXdsQ3pHeXVEOXZqODhHTWswVHp3SGfSAboBQVVfeXFMTWs5RWJRR2pPV2lBTXpPclpWZ2JUd1ltbkpMYmNPajNleUhiZzRsZXlDeWNudHpPQndTc3pObUc0bVZYNmJGbjFtM1JoRWpwajFTWVI0bG5CQUlfdDczdng0cC1LaF9ud2lZQ3pPTTF6S0wxRWJsaURWT0tkS1RTTVNiZ2JOWUVmX2FPbmRDWG9uYzlkUGN2Um1CRnYxaVpkeURVenhZcTc5RFVuMjJneEtUN2stLUk2NWN3?oc=5"
+        },
+        {
+          "key": "547add6a81e534e3b4",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:55:27 +0000",
+          "publisher": "dawn.com",
+          "rumor": false,
+          "source": "Dawn",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUtCUlNSYWNlemt4WUN1Z3dDbjdUVWYyTXhENllURF9pZjRrOVVuTF9CUlRsLWN5VThwNFpTOGYwNVpUNVFaY1NTWVJRWWpNVW5NY1o4UEIwU1RQbl9GN005RUxEQk12NnJpVUZUc3F4MnozUDhkSFg0VmNPTnRMbGpISFFDTEdUOVotTWs5aVdqcThVWUNtU0N5TEo?oc=5"
+        },
+        {
+          "key": "dfe1c3e1aef1000ae2",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:56:03 +0000",
+          "publisher": "sports.yahoo.com",
+          "rumor": false,
+          "source": "Yahoo Sports",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcUtHdlY3RzBVeFQ0QUVCUGFZNUlqaEUtZ1FTMWNJUVRqcFMwLUZnTWVTOUN1QzFVUlR0TVNIZXd1YS11aVZzcllPY3p4amFMV1hxVW1tVDNWeWdnZGZScU56M0dkUlNEV0Jjc2dDV0JHWHpIODU1bjJMUE5tVWZIOU84UlRyNk03Z3hTTkZaTWxPTjUzMWxBN3RqVVg?oc=5"
+        },
+        {
+          "key": "c7f9780f9074472fee",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:59:21 +0000",
+          "publisher": "nbcmiami.com",
+          "rumor": false,
+          "source": "NBC 6 South Florida",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZU93WnJuYTVRX04tTDRtMXZCOW43LUV1bHZZNkI5Qmg3OG1QY19TMDlrd1JCYXA4SXNsOWVtN0UzMFFvTUhEMUlyYVBmUmFYUHNodzRyVGVmMGN1V1pWX0dYSnpYdDBhcGVrUjUwdDVBN20zVGd3eFZLMW5QWk9CS2d6bFl3Z1lZWGhjMGw2UDRjcWFZTDNjX19fVl9JWk1oZ2xRbFUwZDRkcnhqZUgzWVFXZ0ZMM2p3cXE2Vmln0gHGAUFVX3lxTE9EZldtNkhoZnd4MFpNUHFiTVFabWpDazZPQ2UzeVFjUXRLc3ZqNm9HQ3pLVkdEbTRVUW1vVnh4eHZJSlRuVlgwZDB4c1pMV2ljWk1YSkl0VnllYjVfMGt5LWZaNlNxeUhodGNTOS1jNmtnek1DeGIyS0JjYTJ6QlJHYjI4UkYtSEdOM2xZQ3dZRENYYm54YlhaUFZ5YkRVRUxLbE5jTTdMZmVsRlRFcWl1SUhlQzVqajM2a2Z6Vlo1YS1XZlZZUQ?oc=5"
+        },
+        {
+          "key": "453c4b8e7642f1afd8",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:59:34 +0000",
+          "publisher": "nine.com.au",
+          "rumor": false,
+          "source": "Nine.com.au",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdWZ0eXVlUGdwVVhMLW5aa2JvOE00cVU5eDlOZ1FLbDFvNEFKOWRPMmR4MVU3TXN5Z2UyeXJNNG1zLWN4dkVXMU9NNUUycHhLYlJwbGdLcndLZE5HUHAycWg2bkdzVENib00teGxRWXpRNW5qZWFOODZ1bGIzOWZwQ3BGTFlIM3pWc21KcXJJUTZtTTN2bEFlZFJSRVFSVUtBaHFwSUFsNE5jelpqVk8zeWNJUU9GUU9OczU2TlY5bGlaemJJZEd1WnNFb0FqTS0x?oc=5"
+        },
+        {
+          "key": "a673d48359949dcb13",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:00:34 +0000",
+          "publisher": "si.com",
+          "rumor": false,
+          "source": "Sports Illustrated",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHFHZFpUcFMyZk1HdUVjQU5pYThZUV9lZ2dGdW1BeF9XYm5ucTJvZ20yLUt6bGdBZmIzVlRUQzdyZy1xS3FVTFZlRVNZMTIxWlk1TzFEeFdZT2FXN1RwZWRuelNsZWJiUE9SbXhWNnV2dUtteERnOXJTcjYxc3VMSw?oc=5"
+        },
+        {
+          "key": "1ce9b65f17d4e6226e",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:05:12 +0000",
+          "publisher": "euronews.com",
+          "rumor": false,
+          "source": "Euronews.com",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVXlpWGVCSEVYUU9QNlRhc19hR2lRc1dIeEJ2MG1RbFpGR2dtNVVGZXdvOUY3ZUlSZ2dyODBlckNiR29senptdGNrTGg1WkZHaVl3MEg3YUgtSTQ0Y2dwelg3c1lTSGJKWWNZMFdmd2RuSElRT0dwQW5Ebl9KTjlvME1FU1JiN2g1SVBUUXY4WVJMQXhWaHE3eE5rWHN6Qm1RWkp5NU10RWsyWlAzb1F0QzVPR1BEeW9W?oc=5"
+        },
+        {
+          "key": "32007e1be974242cb2",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:13:19 +0000",
+          "publisher": "goal.com",
+          "rumor": false,
+          "source": "Goal.com",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS3VPLXNoS1hScUtyWVJnaUE2cXRTbi1YNTdncEV6MVpJOXJUWDdGRi1Ec3lBa0JjVmFUaE95eVhHRXhMVldQTVlkTGluZjBXdjEwbk9KMWtpRDQzM3lmSnR5SnVpMnRLRWYtNE5LNHRMd2FLR1FRVkVOb1Y0ckRwOW1IVklvdmRjdDAzc3RpTmJ3OTlnbHpwdVFFeExFQTlmb090aE9FT1NUT2lHWW5Pa1dkZG90ai1TNFRoVWZnclJwZ184RXp1bHk3dUhoQQ?oc=5"
+        },
+        {
+          "key": "ff0f2fe83378f04879",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:15:28 +0000",
+          "publisher": "livescore.com",
+          "rumor": false,
+          "source": "LiveScore",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWHp5a3JXZnZzaGZCMHBnenRxNllVRVpaeGVKeW9JRllTdVYyeVFkUF93UUVSdXRRSjZrNHVjM18yZG1pX0lueHMyUTZxdlQ4WG8zY3ZCYjVlUW9nVkRDU3J1QTc2VEJpLUhPN2N1WmR0ZHYyOF82WnRqRWlSTjkwWUlQY0NuMzU5Q0txZGxMYnBxVkhackdfbnd6SlhJa0xWc0xJUHF5ekYxWHh2RGZ1bks3Sk5UZFZKTEEwOEFTd2NOU2lxbGFFY2pmTHZLUnkxZS0wYUkweWtFU2s?oc=5"
+        },
+        {
+          "key": "154461e9c59fc1bec6",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:18:31 +0000",
+          "publisher": "thesun.my",
+          "rumor": false,
+          "source": "The Sun Malaysia",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUDNoOXdQWlc5TmpJbVZtZlQxS2M2LTkyQUhZSlFLcmItalFncFl2aFQ1bkliQXIwOHUwT1Y5ZlFROVp4bzctdGh4MVBPcFlSN1pmVEk2RlE2N3lPX1JhVUFlb3NubUt4UmZHNTVuS3ZQeDFqWThuQV9QR2k2c2tMaWcwdUZPay1OZ2FUSXNfUmFOVkZ4cVREby1neHJQSVBoZmhtaGtfVFRsX0E?oc=5"
+        },
+        {
+          "key": "0c62455a0ab8461bbe",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:19:44 +0000",
+          "publisher": "channelstv.com",
+          "rumor": false,
+          "source": "Channels Television",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUZlNnRlWU5EOGxQN2VOczY0anR1bWc1LTByb0t1MEw3UDFQaU1FNFRlcV9ES3dSbU5WREpIMWI3QUtHeUFZSkdxRldJVnl0Q2oydy1CTXFNMFpaU1J3dVlwXzZ5WFZ4bmpDNE1OQ0hLRmFaQzZvRjFoX2FNLXpzTkxOeExMT1V0UWVrb3FZcDVUQWVIRUJneUYzQjA4QXdHTGxJUkNCYjc1MlJQMjZxcnVHSQ?oc=5"
+        },
+        {
+          "key": "7b1ab306e59e17be7e",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:33:20 +0000",
+          "publisher": "nbcsports.com",
+          "rumor": false,
+          "source": "NBC Sports",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlJ6ZV9BMUVPaUx1S0VLdDZsNzZqZFZySC1ocVZJSHZ4UDJWNnQxeXZzTzlOdjFOZEpDaWttZnBwWVdJdllSSTlmaGhCSEt4TXFwRExTY25xSnJYYUlUQy1fVFlPcnNHSV8zc2xqZVd2WWxfVVJ2TXEyazF1RUM0Rm1ER3Jyd0dhQlpENURiVUQ0bWJjaHVaTk5NMl9pcjMwWEpXbGVBbw?oc=5"
+        }
+      ],
+      "stages": [
+        "突发事件"
+      ]
+    },
+    {
+      "anchors": [
+        "duty",
+        "portugal",
+        "retires"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 05 Nov 2026 11:37:36 +0000",
+      "id": "b086611ceca5f4ca4d",
+      "person": "C罗",
+      "published": "Thu, 05 Nov 2026 10:28:00 +0000",
+      "reports": [
+        {
+          "key": "b086611ceca5f4ca4d",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:28:00 +0000",
+          "publisher": "sports.yahoo.com",
+          "rumor": false,
+          "source": "Yahoo Sports",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONXZVSVBfSXI1ZEMyY2xHZVROVjlIVDQ0TDVSWXdIOGFtNjFMWWFpU29zR3R0dzl4cHNRbDlPbzlSNkhWWmRnRERCeVpRbWJXSTIzQUZsRE1OcWpHeG1vUnVPb2hGMnM2ZnhSTEZzWGhVa0d2TU9ONzVrVzBnaVM5aWszS1N2UTUzYkJDX1plNjlhSDBXeHpB?oc=5"
+        },
+        {
+          "key": "e509add76f5414d6f0",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:35:00 +0000",
+          "publisher": "ESPN",
+          "rumor": false,
+          "source": "ESPN",
+          "stage": "突发事件",
+          "trusted": true,
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOFpNN1dWbzhqaUM4bVlYVmVpSjhMUVpaQ0FzWnhpWEw1ajhseDBNUTg2YzUwWFFveHZOWVhIbS1YczZKd0NRMlMtcHh1V1BzYjZJVlRwRmN5TWNSV09Mdy1neHlqeE1aUVhDM0FKLW1YUFZET0RQWlNvRkFUb3F0S0thdHdzUUwwTG8yUWFKS0wzWEl3UmEwc21tek0?oc=5"
+        },
+        {
+          "key": "8167c6b20cc3d285fa",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:37:30 +0000",
+          "publisher": "indiatoday.in",
+          "rumor": false,
+          "source": "India Today",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNWVucUdZQXlyMU9tb0ZUYndibnVJbXF6TzVlR3VTNkdUODhPMWpTQkpJVm9tR1dIeFluczU3ZzkySFlybTZoREd0NlU1REt4c2RKOVNEeFlNa2FDQTlxQzVGdGFBRkNtb2ZQa2lRUFFqNlpBcWVaWmtuV1VnLVprc2FLTnVrUHlSMk93SnU1Q3BKTGdVX1hvUDBCRktjSVpMS3BGSzd5bUFPbjNHTkFkZGVxZEJRVTZqM0FOYkVDeHl5UFpIQTh4alFDcnpSa0pwTV9zMXFodE_SAd4BQVVfeXFMT1lfR2hHaGJOc3VYaWRLNDZLT1lybzBERU02Q1VvVXBNRml2OXFWNEl1dGVnM2NvSHI0ZURRbHVTTFR5ckV5U25PVG56SlJzZGJZcjBzcUczcFBiV084R1Myel9INDI2MzhBaHdqcVhiaDltTmQ2OXhTaXVibmdHbEpVc2d6VWRtT1NFOUtCd0RYRGF1M0xmVDBDdDhWZ2FWX1g2a1Zvc3EyM3BFR19SX1ZBZk14SXlZZjlnVzJ3U0FzcEJ5R05mT293Sk1jXzN5QmtqNk84QW80RUxBZ19R?oc=5"
+        },
+        {
+          "key": "62bb35c655c7b30888",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:39:00 +0000",
+          "publisher": "thesun.co.uk",
+          "rumor": false,
+          "source": "The Sun",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXQ2cVZ4Z180RWpaNnAyVXc0TUVHYkRrMXBEYWI4dHlCSzRrcEdZbTk1WWR0dW1aczdHdDlxMjJqMFFBMWVzV3dzZlFqdjZlZGhOYXhrS0xhUXhybm9GRHpDOThXaFltc2FoOEdfaFA3eXJ6MDM3YnQwZjY1NktLcmxUYjhKVXdq?oc=5"
+        },
+        {
+          "key": "e6b8bd4da5d398d36c",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:43:58 +0000",
+          "publisher": "BBC",
+          "rumor": false,
+          "source": "BBC",
+          "stage": "突发事件",
+          "trusted": true,
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aS0NnV3A0M3N6N09iMUl4OVN5SlhrVEw2a21FZFJ0dTh1LTNjdjlwbTBUWkhZU01obWxwNmY2WnNmUXRzN25lSEZXSHJpeGJ4QVY4VS1nVVQ3OUo4TXIybTRmVUZxRzht?oc=5"
+        },
+        {
+          "key": "41fcf2d03a836caaaa",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:46:00 +0000",
+          "publisher": "telegraph.co.uk",
+          "rumor": false,
+          "source": "The Telegraph",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnMtZnZJTTZ3Z1FoamhSd2lHc1lKVkhWazh4OHJkMGdIQ0laVzlnSmZUMktjZFU3NnJaU203X3Y5REVEUi00OExzdTZfYVQtdG1HbS1LU2hNY0RwbEFWVmVvaTJVQWg4QmpkZE1kdms2dy1iZVEwQ2Nhdkk0ekhuUlFtM2N1eWJrazVDMW1nc1pYTnM5ZWdtbS1Zc0k3aXhkSkRSNg?oc=5"
+        },
+        {
+          "key": "c79dba0e89798047a1",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:53:36 +0000",
+          "publisher": "transfermarkt.com",
+          "rumor": false,
+          "source": "Transfermarkt",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYXUyLUNVMnhIU1JWamxHdVV4Z1BwRHFSQ1dmMkxNQUZ0NmlUWFFoU2tKb2kwT3YxRFFvbm00V2VBWUcyc3E0N0dMcWNHendEcFU2b0g0bkRySTl4V016Z3RXYkhRYmp5ZVM3aWhpcDNfb25jODkyUVNXY0pqN1QzUk5TUVluaUVVZGh1YUFxeWdsU2dDdjkxSjVabFd5RUdOYktqSDV4ekJVaWJxTXFlZFZncG5vbmktTmVSQUdOcmtXc3I5dUYwZ0dR?oc=5"
+        },
+        {
+          "key": "d09eaaa8ead3ef30a1",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:56:11 +0000",
+          "publisher": "thenationalnews.com",
+          "rumor": false,
+          "source": "The National",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWTRqR1RIWEJ6d2YzVjVwLXFHWnNLSUFyQUdxVzNzVFhqOTJwc0pZelNRank4akswOFowSHBFMC1jNDR4UHctS1FMckFwdE81WGlpb0hDTWV0VUtfaEZHSk5QWEthTFBXaHJiS3dGZHRDMTh1ODV2VU13bUZxUmh1UEJCQUFmNENnRUs5WW4weXJaS3FxUEoxMXhiYXdleURJY2o5M0VtcWYycGIyUXV3NmJ0dnFROUgzYmowUUptMWhDMVpOdHVfMzZZZTR1emZWYUwydGFhTU1BWHdhUFBB?oc=5"
+        },
+        {
+          "key": "fb4414c8e631ca0bac",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:00:38 +0000",
+          "publisher": "portugalresident.com",
+          "rumor": false,
+          "source": "Portugal Resident",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY3BZUXdOTTlHS09HQ1RmaWFtNlR1dzVWU1NFT0QyVTd5a3gteHVBb1I0S1UxTGltM2R2R3BmYnlJRVhPcE83NEFDV0t4TnpjT1BMN2MybXpMOTE2dHM1U1NBMVNQb0U0VHVodEFad0FFOVd2Y0VFNk9Vc0V6bUZxcmZnOGZER2Q5WkstaGlHWXNCTmJ3T2c?oc=5"
+        },
+        {
+          "key": "fb930861892f28fb72",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:13:46 +0000",
+          "publisher": "football365.com",
+          "rumor": false,
+          "source": "Football365",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYmpEaWZnYU05Z29qNnY0VUluT1hUQnNOZ3YzX1FGUE8zdUozeVZTWUVnbW05alZTV0NTZ1ZBd281TFZGQTd1N1lXWjVVd1h3VHpKRFhRQVloMV9aeDhvT2l3NTJyb2VrV0lZYVNjdWt3c2tOR0FOcFI0YUlYZkFmZG1RVURTNlo3TVFtREJVaGpTaXBWY19oRzVDTzVkT2VWc2NXVDhjNWo4OGpWX1E?oc=5"
+        },
+        {
+          "key": "626e3e79fa0b2b6311",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:14:34 +0000",
+          "publisher": "clarin.com",
+          "rumor": false,
+          "source": "Clarin.com",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONTRSU3Q1ZFRsX2g5MnUwQlhTS0Myakpic3N1Wnh2dDA2dGtwSlBjZ2tkQ3QwVmVPNE5rTG93NjNuSV8wbzhhUHdoY0prQmFzS3k5X2hlV3dxOEpmXzdRdzhwNnFRa1BENzgybDhWLUoyeGp4QklZcW5CbHZObmh1VWxpTXpZckp2V0NKWkRDa2Z3VjVwd2FxWW1yRXNKYkpPZk1RUldQQ3dfWXVNa0x2aUpZQ3MwOTI5WElFVndzZEpua2wwR1VGaEF6cExDQdIB0wFBVV95cUxNazB6YUVsSHh1UGlPTVVneFBqeGx5T3JUNE5uSk5IOV91a1gtWS02VmhUd2dlR05CcmpJTTVTbGtuQ184RWJKUkRPOGc2MnJ4MlNORkhZZmhUQnNQMkw0N09EU1VZTFN4YzNIU29WZTl6UXpFQ1NLSEs5TmpiaW9GYmsyZTFzeU8xSzJvWTlaR0steWhsNERNY0JJUGgzX0dLcjkyWlFQMGZIMUkwWXp2VHdjRWNhY2NSQ1U4TGRPRXhzcUpyWUlGU1U3RS1ZMkg2cjA0?oc=5"
+        },
+        {
+          "key": "8ac17eb590a279fe7c",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:27:53 +0000",
+          "publisher": "hindustantimes.com",
+          "rumor": false,
+          "source": "Hindustan Times",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORGZBSFpUaXpldjFJMjdBaENNSzQ2ZldrUXpIUFluS2lDUmU3ZEFfektHVlZpVHVmSzluQXRRclFsNm5TRkRkREVGaXhqcjJBRUtHSm5mWThCNkxGdkRFVjk2V01Kejk0R1ZUWGdYcHdlaXVlQjN6TjZNOHg3ZU5EdktYNUt4R0c1dGFMbURMR21iczkxR1RId1FfNXczUGJ4U3kyRFNwMG5rZUprN2IyZDdtOEs1OVFMUmUyckd2NHlHaGIzU2J4OWwzSWQtWFVYczhWcFY1VmtucmZPWWZtaWtwT1VfX0FnQW1Bd3pZRmZSS2F0MzNQTtIB_gFBVV95cUxQY0p6enhDdVJHNEJCYkhUeFU2VDh2blNmNzFUOGV2Y2xGQU1UR2EtdGhma2FEWkFZX2l4UUExTjhteHB4TXBueDZFeERLalo4THJPaUVuQXl1THZoTmFRWVZLa2tYZzNSRUExeGQ0T1AyMThxSFN1Tm9xanF5WFlPdjI2YXZFLWQ1T0sxOENMYkMxRnVFR2tJTkxmOHc2SjNFZHozeHpkRWdGU21YOVNBMllVQ05ha1Z0VmZwR0VXT1k0NEVSQ21wZE9xQmhUX3FqXzl0a3N2cTRWTTB1Q2xaNk9tTVZ1MnNBN1hVQ0VKeXJwMUJQaFNLcXU3cEtpdw?oc=5"
+        }
+      ],
+      "stages": [
+        "突发事件"
+      ]
+    },
+    {
+      "anchors": [
+        "cristiano",
+        "follows",
+        "footsteps",
+        "leo",
+        "national",
+        "portugal",
+        "retires",
+        "ronaldo",
+        "team"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 05 Nov 2026 11:37:36 +0000",
+      "id": "4d37a38047ae5bb2e5",
+      "person": "梅西",
+      "published": "Thu, 05 Nov 2026 10:29:18 +0000",
+      "reports": [
+        {
+          "key": "4d37a38047ae5bb2e5",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:29:18 +0000",
+          "publisher": "marca.com",
+          "rumor": false,
+          "source": "MARCA",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObGhxdF9NUVNJd3J1SGRFak1sUUlsZDFKRThjMTFHTmhXcTlET3dVZGFUMkxBNXZEZlZfbFNXVXRkZHkycHFBalh1Z0V4ZWxHSERkRVMwdTNnOC1SV3J6Q0NZeENITWM1eFRKODE3cWJ0bnVORVdvVVV4aF9XZjNGbk5FMlE0TnN4eWljaXZYUzE5a2ZrYWU3dnd2eUZjMm8zZEx1RVJIdU05NFXSAasBQVVfeXFMUFFqS3pQT0FCN0pJUWZYS21YWTFkdzVMelo0YTBPbnYwLXoxTjhZbnF2dXpsQ3k3bGZLMDIzUUhnamtacXNSY3FJX0N4WWFrbXgzRDZYRHN3eUtvVEdpSENWWmFJdjBwREZ1T1Y2NTAzYjRCTGdybW5zZV9MVVBsZklueEhWMHg4RktJcWhhR3lSWjA0XzZ6N0hqR29GNFVOUGtiNV82SGhxb05Z?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "international",
+        "retires",
+        "soccer"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 05 Nov 2026 11:37:36 +0000",
+      "id": "374089efd13d92fda1",
+      "person": "C罗",
+      "published": "Thu, 05 Nov 2026 10:34:12 +0000",
+      "reports": [
+        {
+          "key": "374089efd13d92fda1",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:34:12 +0000",
+          "publisher": "CNN",
+          "rumor": false,
+          "source": "CNN",
+          "stage": "突发事件",
+          "trusted": true,
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNXRTd2VzMElBeGdvVGJvYTFkTEs2b2tIeGJiQW1MR1dmVjluNTg0b0RHdmpPV205T21zRmVrcGlOb1U5NjZ4T0ZoOUpPYnlFM3dGRXQ5WVY5M0FPYnR6cDJoRGFGT1BRcUw3dTd0Z2g3ZkxWdXlwYzUtVFpzZTFXLUw4WU1qREZfaWRxUURlTFE?oc=5"
+        },
+        {
+          "key": "ecad891882f72837ad",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:41:35 +0000",
+          "publisher": "news.sky.com",
+          "rumor": false,
+          "source": "Sky News",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVmdOVDhtZXE3d3BtWDFmT1RLNEFzRHk5eWh2TUpPc0hrVVRwYkl6SXpqQkRSUnBpeDkzN0d4SGJWYTB5anlUZ0dPS29zQml3SFlJLUFNM2l6am8yMHhUbjUxWXJHLTllX0ZRaW91azg0aVNnUGNLMUphY2hpcFRCMmRTdFVDTGNZSU1GWFZocnhWejA?oc=5"
+        },
+        {
+          "key": "fb6bf5e0659a44cee5",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:23:14 +0000",
+          "publisher": "northeastlivetv.com",
+          "rumor": false,
+          "source": "Northeast Live",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaGlPRXdUTzVTa3ZTSm5kWlJ2aVBNT3JKVDhYTG1jTXhlaEpPUHBhV2RZdjN3VHUtTlF3MnhPbDdXYVNXckNsY0h6LTFWa3Vxa0ZidTFPSWc0YjRFOEdnelFTM1pIS2FvYTE3dndIODJaTTROc2FuYWtCbl9BWWROSXBQWHMzWURxRjhVQnhMWXFpOE1zVmhwT1hmdlExN09uVTZFOS1ncWRZelpDRWdNNTkwOVVLbVpsUlBhY0Z3OURkZFBlRjRpMUV3V0V6NTVYVGFEZmNnOA?oc=5"
+        },
+        {
+          "key": "22723d89b11e9882ed",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:26:00 +0000",
+          "publisher": "independent.co.uk",
+          "rumor": false,
+          "source": "The Independent",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGVLWHg1cElKT1hESk5yWm84aWU2YVdaUnctZW1FQlkzUXlJMmdLUEhEcmw3X2kyanpnTmVmQkhyVFYxZS1oamJJLUx4MjIxSXE3UzZQeWJEcDlmZFU0eklkRGtXQ0lQcDluNTRKWWM2U0xmSFVSbTlma0hvQXkwT0ZwV3EyVkw5dHdpWWFaZkx0Ymp4WXFXeE9ISjRaZTdkbndZRnJ4ZzUxejlxTEFrbEwzSWtOOGhqcVZfNTdqdkdfeG1DZFZOWTRnaDdPX1U?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "从葡",
+        "国家",
+        "宣布",
+        "家足",
+        "布从",
+        "牙国",
+        "球队",
+        "萄牙",
+        "葡萄",
+        "足球",
+        "退役",
+        "队退"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 05 Nov 2026 11:37:36 +0000",
+      "id": "c3b025d83758dbaa5c",
+      "person": "C罗",
+      "published": "Thu, 05 Nov 2026 10:43:09 +0000",
+      "reports": [
+        {
+          "key": "c3b025d83758dbaa5c",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:43:09 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "搜狐网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMlZCaVRGSWlaa0VMNEp6UTh2VnNfMU5nQmV0ZjJGWGIybk1VNnNWZEZsZmF2cTQ0OFh5MWJtMmtjR3BFVnlvVXF0N1RYY09IYURuY3JBLXowVFdIVjV4TXphVDQwTUh1dF9xNm1YUkhncVJ5bWNGSEZyR2pOTTVleFgtNXhLZDZLWXI5VQ?oc=5"
+        },
+        {
+          "key": "bce61d8c8060903f28",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:51:40 +0000",
+          "publisher": "finance.sina.cn",
+          "rumor": false,
+          "source": "新浪财经",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Jc04wM3E2Tm9Ua0pGUTIyRjJkTGtKdEc5RXJmRmJ0a3dlVHBFS1NQYnY3R0ZBcXhqOVNpMlhLdTFqXzE4VkpJMmxhd2I0QlMzOFJNY2VhV1lWSGQ5SGxpbm5nQXVvRkV0ZDhITmZScnFUZw?oc=5"
+        },
+        {
+          "key": "c4a99db6ae31ac393f",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:53:56 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "搜狐网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFJPeEMxV0NrOC1PTERwcHJ2MENuMmtGenV1dGZudkxMSVFKNXAzb3FlOXF1SjhVTEg4N0xHaDdwY2k5UUtEem1ROE90RzkwSzRDVnF2SHJQTTNtWnh4S2tuQVNYOEJnM00yTndaUGZUWVZIcnVhSDdCNnFyUVFyXzVwUDV4ODY1?oc=5"
+        },
+        {
+          "key": "5a4c1538ec41e7adee",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:54:19 +0000",
+          "publisher": "CNS",
+          "rumor": false,
+          "source": "中国新闻网",
+          "stage": "突发事件",
+          "trusted": true,
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fYmF0LXlGNElJQlJ6aEV5WmJKSWR4TlRJRHNNZFR2N2Y2ODZWMjFBdmF2eDdjMjJxNWZFc1g1UUpZVk1BM0JCX0JtNWdjMm1qSk1wUnFCRmVhSFVRUTEzMkJZYldNOGFR?oc=5"
+        },
+        {
+          "key": "97d4a8a14eb0ade2de",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:05:34 +0000",
+          "publisher": "finance.sina.cn",
+          "rumor": false,
+          "source": "新浪财经",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sMkJhRTNVZ2c5TFhKOEt0YkNSRFFsMXVXRlhKSTFNMTZ0NzB5cFp5M1RnQnBwWmJvR1VRZGVOTWMwQzVqLVctQ21uY1pmY3d6eGl0cWVrYnNfZDVSNXduZE0xY0lFNzFQMFR3NHhiNGtNZw?oc=5"
+        },
+        {
+          "key": "5f72f0edb4372c4cd6",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:10:25 +0000",
+          "publisher": "m.zhibo8.cc",
+          "rumor": false,
+          "source": "直播吧",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tWEppdUt6ZzVBRVVacWlJeXlwaVRnMlhvVVg5RXZVNFNXMEd5TThFMzdQYjJPUldVUVlnWHpNYmVaSVBUM3Z0LVd6MDVzdnlfM2swcmRXRHlEb1R5dkJqZEFmMEhJeTdaRHJPdUM0RUFpT19ockRRNA?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "national",
+        "portuguese",
+        "retires",
+        "team"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 05 Nov 2026 11:37:36 +0000",
+      "id": "d556f4a185fa3752b9",
+      "person": "C罗",
+      "published": "Thu, 05 Nov 2026 10:57:00 +0000",
+      "reports": [
+        {
+          "key": "d556f4a185fa3752b9",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:57:00 +0000",
+          "publisher": "olympics.com",
+          "rumor": false,
+          "source": "Olympic Channel",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVWllVmUtV3VsaVdnbkFqTVk3aFZ2SmJDSjRTRU5hdHZVRDZjMDJuc1RzX0U5SWFrMTI3TzNlaV9TNnB6ajExMEJoemFhQ0FSUEtRUEs0WmpIQnExM3U4RmhRWEpWdldhU3JyQUJJUjdNYjlDSnUwT2Vza2liX3owZGJZS1lVZk04NHYtSUZCTWZfUQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "从国",
+        "修斯",
+        "偶像",
+        "区致",
+        "国家",
+        "在评",
+        "家队",
+        "尼修",
+        "敬偶",
+        "斯在",
+        "永远",
+        "维尼",
+        "致敬",
+        "论区",
+        "评论",
+        "远的",
+        "退役",
+        "队退"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 05 Nov 2026 11:37:36 +0000",
+      "id": "bf8a01b0c43e0d434f",
+      "person": "C罗",
+      "published": "Thu, 05 Nov 2026 10:57:45 +0000",
+      "reports": [
+        {
+          "key": "bf8a01b0c43e0d434f",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:57:45 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "搜狐网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSGY3bzV4UU5Kc3RXVDVkSndZTnB6WEZXNnlRMkpoaGJpdE1YdUt4bm5Od1pDOTJwZU5aWHpMU3Rma09LWUhRcGc4dEVKQjhYUjV4NWxXNG9KeFNKVXA0djcxUFFRSUk3Q0lFeTVfWE1ERkwxd0hLSWxlelBfNW4zV3dsa0dpWnJi?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "announced",
+        "football",
+        "international",
+        "retirement"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 05 Nov 2026 11:37:36 +0000",
+      "id": "30637db13a982b6fb7",
+      "person": "C罗",
+      "published": "Thu, 05 Nov 2026 10:59:07 +0000",
+      "reports": [
+        {
+          "key": "30637db13a982b6fb7",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 10:59:07 +0000",
+          "publisher": "facebook.com",
+          "rumor": false,
+          "source": "Facebook",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdXlTeFcwSXJ3dU81Rk5tUWRvUTNhWGtfZUZCVzk4aWN3WmVGNUVBYW1ZQnZIeEI2UEZialBSWTdnOU01RVJhVkFOdXRuR2owNERHS01tU0hTMk42R19uWVlneHJWODBkRGtYRm55bVJJSndlVzR2Y0Zka0tDSEJFaUZUeUNlZWw0Q0lYZDRLTmRKVkwwdGNuWUVhNVg1alczT0x2czhZOFY2cEpESTN2WmJxTXo0dnQtenFSaURzeFZrbjc2cGkxTHhReFQtVG9jLWFhYm5fb0R1UTdqMXkw?oc=5"
+        },
+        {
+          "key": "b821d625c9ab4b8148",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:13:23 +0000",
+          "publisher": "sports.ndtv.com",
+          "rumor": false,
+          "source": "NDTV Sports",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaEMyRUlJMkVSNHlXX2VhS1V0ZmtIVktFOVFRSHVzaUhBQmNyWUNtWFFUenh6Mzh0aVVxbzhOVTlBV2FkTGI5MGE3Qnpid3dnOE9yeFZzMS1scmdmYjJHS044bGQyakhaVjdyZVJlQXJSNEM5ZWo5MW80WTVEdjVCT2hLb0tCekNiMXpvR1Y4UmoyWDM2Yk1mWDg0V2g2Z1VXRXQ2cV9UNjhyeThBeXBvZ3g3eXpzQ0lWbWtv?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "caps",
+        "goals",
+        "retires",
+        "trophies"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 05 Nov 2026 11:37:36 +0000",
+      "id": "0197485fd42b3417cb",
+      "person": "C罗",
+      "published": "Thu, 05 Nov 2026 11:00:43 +0000",
+      "reports": [
+        {
+          "key": "0197485fd42b3417cb",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:00:43 +0000",
+          "publisher": "sofascore.com",
+          "rumor": false,
+          "source": "Sofascore",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUm9lQW52UHRDb0h5NmMzNEloRW5zcUVKNWc2YkNMRTZvcmdWc0Fhc2NlN1lsSnc5Mk1iakFneG1oX0VILUtodUV0WGFZamxnTl9NUEFicjZ3Wk1KOG9UZEdiUTFDNEpGVzU0R0tQNjdsMUxjWGM5T0dKOUFrT0FmelJpWEdibmRxZzU2aTJ2cFk4Q1oxaDJnTUltR0lNYkZZcTBv?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "你拥",
+        "你退",
+        "凡国",
+        "国家",
+        "官方",
+        "家队",
+        "役愉",
+        "愉快",
+        "拥有",
+        "方祝",
+        "曼联",
+        "有非",
+        "流言",
+        "生涯",
+        "祝你",
+        "祝福",
+        "祝贺",
+        "联官",
+        "言板",
+        "贺你",
+        "退役",
+        "队生",
+        "非凡"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 05 Nov 2026 11:37:36 +0000",
+      "id": "d44cc68eeeb0b2d63f",
+      "person": "C罗",
+      "published": "Thu, 05 Nov 2026 11:14:08 +0000",
+      "reports": [
+        {
+          "key": "d44cc68eeeb0b2d63f",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:14:08 +0000",
+          "publisher": "m.hupu.com",
+          "rumor": false,
+          "source": "虎扑体育网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0bmRvZTkzUFhUQVBIUUEzMWF1WW9XbkVfMTFLSHltMm1OME1uOXRlNE9VN01XNGU5QWkyYWFNcEt1djBTbS1qSzQ2Tlo4QQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "full",
+        "message",
+        "number",
+        "read",
+        "retirement",
+        "shirt",
+        "video"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 05 Nov 2026 11:37:36 +0000",
+      "id": "fe40361267808f64d0",
+      "person": "C罗",
+      "published": "Thu, 05 Nov 2026 11:17:39 +0000",
+      "reports": [
+        {
+          "key": "fe40361267808f64d0",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:17:39 +0000",
+          "publisher": "theweek.in",
+          "rumor": false,
+          "source": "The Week",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdk9nYm15ei1JMUNFb2hSNVV0VndXRk1XRWhudTBCa1kwcmw1ZjdnR2RCakhkR05kSWY3eFdFVXdLMjJWMzgzV2ZLakdNdzBudm1uMEFiRFhqZHZxYVNHamFkeFR6bFRkbjh4OXBHNHZFUzlTeEFfNW0zMkV5TjM4V1oyWXp5RG1aUF91M2VkTkJJblppZDdvUW01WEFGTk91SFVTUVBqckE5QVd3UXFGQ9IBtgFBVV95cUxOQy1jRFoycHNPS0tfbnpMTlNpbWpTMlhob1EtR3BSNWZtX3JCOC0tMTJLeDBjMVJRNXBnMlUwcGx2UjA3Sk5RVTlkYkt4dTNFeFBvYXlxeDhSRUJaRW02NEZlTW5yTmFqM09qZEN1eFFWU0x0ZXdNeHhIYUhRQXNIZnNMQmZ6eG9MOHBJN1N4alAzQWhwQUtKZFVEa21PTW9YdzVhdV9qWmlNdjFIaEFpLV90cENCUQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "behind",
+        "decision",
+        "long",
+        "overdue",
+        "retirement",
+        "secrets",
+        "surprise"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 05 Nov 2026 11:37:36 +0000",
+      "id": "48ac82abd3e9e568f7",
+      "person": "C罗",
+      "published": "Thu, 05 Nov 2026 11:24:11 +0000",
+      "reports": [
+        {
+          "key": "48ac82abd3e9e568f7",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:24:11 +0000",
+          "publisher": "goal.com",
+          "rumor": false,
+          "source": "Goal.com",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOGZ3SWZ3M3gtWF8ybUNlV2duMnFidlhvcUVVN2RLdGkxakJYVDFFNVg5M1B2bWhIblR6M25qckp1cHVjdEFWcE02VmFRSG16d2VfZ01leGl0Zm5BOU5uM0FVNzk1VjRieS1BdWZxU3Zad2xjYTM0NGhQdEZlNGhYMk5BMVRoMy01SVhHRTdiMEEwWkVaUVQwS29VVlE3TjFTUnB3blY5OTNvVlIwbm81YUs5ZlpxYnRHNDhXMk9WVzRpczNVZlpQcWZndGo?oc=5"
+        },
+        {
+          "key": "f33df6810ddbc66e1a",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:26:15 +0000",
+          "publisher": "goal.com",
+          "rumor": false,
+          "source": "Goal.com",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWlhDdjd2blRIM0RkRV95UFdXMFVSSEZiZTEtNEExb3RLSlI3VC15T3VWN29xWFhRd0hsV2xuaHNLZUEwUEk0NWptRlF4UVBhUnRTZjY1RHJGRE03R1ZoUjdxZlQ2NGJyRVE2RXlwTWpBQ0xtNUxMQTlfZUtnLV9EekRSUDZGSFZ1bjFyd0ROdU44UHlEdENIMzluQVdkenpKUUlTRHIwdWs4TEY3emMzNVlJM1V5S2toQzEyejkyMnV1d0NrRzU1R0FxQUtuVDlpYy1PVnRKM1h2VU9SdXc?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "announcement",
+        "makes",
+        "retirement"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 05 Nov 2026 11:37:36 +0000",
+      "id": "b4950f9f67efb5d9a0",
+      "person": "C罗",
+      "published": "Thu, 05 Nov 2026 11:24:21 +0000",
+      "reports": [
+        {
+          "key": "b4950f9f67efb5d9a0",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:24:21 +0000",
+          "publisher": "heavy.com",
+          "rumor": false,
+          "source": "Heavy.com",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPenBMRDRpSm9wZ29Bd0kwZ3FkM29BdF9EVzlNYktrdnpqSWxncXpYZ3BQWmlmUDlabFpFZldLajhEem5ucHl6UkpCYUJ2dWNmQkRFLXExRDNlb215S3U0al9zeTBnYnZFXzJiVkljMzJ6eEdtTG00bHo0Y1I1cXZsVzJkdmoxZFk?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "georgina",
+        "heartfelt",
+        "retirement",
+        "rodriguez",
+        "shares",
+        "tribute",
+        "wife"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 05 Nov 2026 11:37:36 +0000",
+      "id": "aea3ec4cf0cf912b8a",
+      "person": "C罗",
+      "published": "Thu, 05 Nov 2026 11:35:47 +0000",
+      "reports": [
+        {
+          "key": "aea3ec4cf0cf912b8a",
+          "phase": "突发事件",
+          "published": "Thu, 05 Nov 2026 11:35:47 +0000",
+          "publisher": "sportscapemagazine.com",
+          "rumor": false,
+          "source": "Sportscape Magazine",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY3dHNzhJUnlHdEtBNll6RW0tX2ZpWWRkbnFCRWJ5WTVBWkpmMk5oUC0wTWpBRk1BaXlmcEx0RjdDWTdhNTlZM1BmXzBCWlZXaTVnTjg2cXN4WW5hQzFYX0xGSEZnclBKakk4YWxtalZRNEVSMjlKOWZ2aG9ZRkdSVHFEcmRBVHJlakRFaEhaSVJYdGxZOFdYdHc5UGYxaDRGU2FSZlBMVkFWVUxKeU85R3hYRDdmSmFCemhXVlV6Q1ZqTE9U?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Thu, 05 Nov 2026 03:46:18 +0000",
+  "last_run": "Thu, 05 Nov 2026 11:37:36 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
@@ -641,7 +1454,46 @@
     "d7e57b7ff5f358ffab",
     "d8b444f28a5fc0e7fa",
     "e03df6001d3a37e859",
-    "e9996df85855d8f24f"
+    "e9996df85855d8f24f",
+    "adb3e7de159436af83",
+    "7991d520e862433df4",
+    "0470706522b805ca10",
+    "7f70494895e2b8c66d",
+    "6612da73e83ffc32f1",
+    "29fd5803fcefdebb7d",
+    "9e0e4779e306d03b85",
+    "686d49521d6b0258a7",
+    "986588ab146d0d606a",
+    "77769849c878292ed8",
+    "d87f8ff5f504c2867a",
+    "c4ce98738440b296e9",
+    "11a36bb9da12b78fb7",
+    "2d0f61c77741fcfc8d",
+    "2ecc878f043ad8ef9d",
+    "3b8cb43fb7ae0350f7",
+    "547add6a81e534e3b4",
+    "dfe1c3e1aef1000ae2",
+    "c7f9780f9074472fee",
+    "453c4b8e7642f1afd8",
+    "a673d48359949dcb13",
+    "1ce9b65f17d4e6226e",
+    "32007e1be974242cb2",
+    "ff0f2fe83378f04879",
+    "154461e9c59fc1bec6",
+    "0c62455a0ab8461bbe",
+    "7b1ab306e59e17be7e",
+    "b086611ceca5f4ca4d",
+    "e509add76f5414d6f0",
+    "8167c6b20cc3d285fa",
+    "62bb35c655c7b30888",
+    "e6b8bd4da5d398d36c",
+    "41fcf2d03a836caaaa",
+    "c79dba0e89798047a1",
+    "d09eaaa8ead3ef30a1",
+    "fb4414c8e631ca0bac",
+    "fb930861892f28fb72",
+    "626e3e79fa0b2b6311",
+    "8ac17eb590a279fe7c"
   ],
   "version": 2
 }
