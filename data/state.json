@@ -2,44 +2,6 @@
   "events": [
     {
       "anchors": [
-        "中国",
-        "中权",
-        "但没",
-        "分手",
-        "利弊",
-        "尊重",
-        "昂跑",
-        "权衡",
-        "沉默",
-        "没与",
-        "称尊",
-        "衡利",
-        "跑称",
-        "重中",
-        "默中"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 03 Nov 2026 03:06:16 +0000",
-      "id": "ff85afbbd717773640",
-      "person": "姆巴佩",
-      "published": "Tue, 03 Nov 2026 01:27:56 +0000",
-      "reports": [
-        {
-          "key": "ff85afbbd717773640",
-          "phase": "突发事件",
-          "published": "Tue, 03 Nov 2026 01:27:56 +0000",
-          "publisher": "ent.china.com",
-          "rumor": false,
-          "source": "中华网娱乐",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10V2pBcGRfZFRWTmJlMGlEQ1YtYTBWb2ZzbFhhWngwdTV1SXo4NnEyaHhBR3JaWlc2eE13UkVSUTVLWWpXNXhpX3BfRTdjYm5fRFo1QzlFMDRla2NMTVpUNVE1aHp2YzE2bTlmMm9VNE84YWR3?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "argentina",
         "first",
         "names",
@@ -1764,10 +1726,106 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "allegedly",
+        "assaulting",
+        "dies",
+        "doctor",
+        "irae",
+        "others",
+        "robbing"
+      ],
+      "concepts": [
+        "assault"
+      ],
+      "first_seen": "Fri, 06 Nov 2026 06:32:01 +0000",
+      "id": "c2a8dd5ee47f41c510",
+      "person": "Athulya Chandra",
+      "published": "Fri, 06 Nov 2026 04:47:48 +0000",
+      "reports": [
+        {
+          "key": "c2a8dd5ee47f41c510",
+          "phase": "法律进展:被捕",
+          "published": "Fri, 06 Nov 2026 04:47:48 +0000",
+          "publisher": "indianexpress.com",
+          "rumor": true,
+          "source": "The Indian Express",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPam9PVEdzVU42aE56OWdRWm92ejdmYm44RGlXVWtJUTkxWVNDRXJkVjBFLW5MdFBiT3JhZ3V5THRPNFN1YnN6X2hsRS05YWwzMWc5eURxN243STBhRE5oTmh3NkI4ZDhIQVU2ZzFOU19mNEpOOUgzQzJrUW1WRUZhOVhZOThxcmJTWERlQk1FU2VqU01MTXJVVENzWDJIRndVRG1QcGo2X0Q1T0VPUkI1d0lRTnI1alpNNGRpNWhQSG9ucFptcDIwamMwaW53VlVVOGoxcnRDeXkzeUFHTGxiNWQyenlXTHlFaFVvYWpn0gH0AUFVX3lxTE91RlZqajRubndIZ0gyWjR6OVZnOWRMM19qWG9ZQ2ZUZ1NUZlFyNDZtZ3lWVUxYWFVjSVFWc00xbGpwY1MxRERtdU9FU1BobGl2TnF3eGg3LTdxRXVuN2ZDbXJnSnZQNEV4bmdNbkJ4QkFOVzJ6TG1HMjJwQlhObVB3d3dkekhkNjl3NU9ZTVhSRWlmY0RFUGFjT1phWnVfSGpvM1JUU3FFOUhIanV3aUlGcFlmX0dGMXJBbkJiUXF5REp5NmR4c2x5WU5sOGZhNF9Ncl9HSXA4dEx0eEEzZlNmZ3BkeTFETWhyNXNrbUZ4MVNuSi0?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "不懂",
+        "发布",
+        "国际",
+        "子发",
+        "就问",
+        "帖子",
+        "役帖",
+        "懂就",
+        "扑社",
+        "球话",
+        "社区",
+        "虎扑",
+        "话题",
+        "足球",
+        "退役",
+        "际足",
+        "题区"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 06 Nov 2026 06:32:01 +0000",
+      "id": "23062aeda0d950a377",
+      "person": "梅西",
+      "published": "Fri, 06 Nov 2026 05:21:22 +0000",
+      "reports": [
+        {
+          "key": "23062aeda0d950a377",
+          "phase": "突发事件",
+          "published": "Fri, 06 Nov 2026 05:21:22 +0000",
+          "publisher": "m.hupu.com",
+          "rumor": false,
+          "source": "虎扑体育网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Qd0U5Wms3YmEycldpTGVpLXVPN29DQ05tbm9CdTc1aHJZUC1fQ0hjaXNCWk13ZWFpWkdvdlZDdjRQNTBRaFVnRmxkNzMzdw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "退役"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 06 Nov 2026 06:32:01 +0000",
+      "id": "ed869b0486ea60c7d0",
+      "person": "C罗",
+      "published": "Fri, 06 Nov 2026 05:44:26 +0000",
+      "reports": [
+        {
+          "key": "ed869b0486ea60c7d0",
+          "phase": "突发事件",
+          "published": "Fri, 06 Nov 2026 05:44:26 +0000",
+          "publisher": "m.hupu.com",
+          "rumor": false,
+          "source": "虎扑体育网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02UWJpWUJkZFJTbjBrbGxCOHI5OUpZZ2dxalRpUjJOMkJ5ZHB2UzFLWlRHSk9BUThzMlRWTWNHYXI1cWFDekNOdFFzOGx4dw?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Fri, 06 Nov 2026 00:06:34 +0000",
+  "last_run": "Fri, 06 Nov 2026 06:32:01 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
