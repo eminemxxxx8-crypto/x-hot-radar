@@ -2,106 +2,6 @@
   "events": [
     {
       "anchors": [
-        "argentina",
-        "first",
-        "names",
-        "retirement",
-        "scaloni",
-        "since",
-        "squad"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 03 Nov 2026 18:05:04 +0000",
-      "id": "ef523e488cccbe3c39",
-      "person": "梅西",
-      "published": "Tue, 03 Nov 2026 16:47:32 +0000",
-      "reports": [
-        {
-          "key": "ef523e488cccbe3c39",
-          "phase": "突发事件",
-          "published": "Tue, 03 Nov 2026 16:47:32 +0000",
-          "publisher": "fotmob.com",
-          "rumor": false,
-          "source": "FotMob",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOblpDanhvSWpPY1NfM1FObTgyMTlpYjdmZHFUN1NtWXBEVzBoMkFHNnFJZWhvM1hxZTZjU3pvVVdNc2xGaWJqTVd2OXJZbkszcDIyNkF3OENzOXBFNlY5Sm5iMlI3RUJJbWlxMEZ0NHFaZGs3X2ZDWDlLam9OaHFSS3lhR08xblI2Z3lvQUU2VU1vQ1g3Y0kyUUo2SWRZMEl1UlFpbkVha0lGM24yQldGTkVn?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "世界",
-        "会赢",
-        "决赛",
-        "利斯",
-        "卡利",
-        "国家",
-        "家队",
-        "我无",
-        "接受",
-        "斯特",
-        "无法",
-        "有机",
-        "本有",
-        "机会",
-        "杯决",
-        "法接",
-        "界杯",
-        "赛本",
-        "退役",
-        "队退",
-        "麦卡"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 03 Nov 2026 18:05:04 +0000",
-      "id": "ce12fdc0ad7cd80ba6",
-      "person": "梅西",
-      "published": "Tue, 03 Nov 2026 17:10:23 +0000",
-      "reports": [
-        {
-          "key": "ce12fdc0ad7cd80ba6",
-          "phase": "突发事件",
-          "published": "Tue, 03 Nov 2026 17:10:23 +0000",
-          "publisher": "m.qie.tv",
-          "rumor": false,
-          "source": "企鹅体育",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHMnRZODNFY0k5WHk3TFFlSUlsenlTM29fazZtTkFkVHFRQ3dHZFdmTG5NVHVkYm85dDZVeW5qbW1KNEdVVXpHZzE2dGMtallKLTJHbVZpMDB3R24wdGU5Wg?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "attire",
-        "beloved",
-        "funeral"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 03 Nov 2026 18:05:04 +0000",
-      "id": "a387a3852657c05be3",
-      "person": "Sparks Unexpected",
-      "published": "Tue, 03 Nov 2026 17:24:39 +0000",
-      "reports": [
-        {
-          "key": "a387a3852657c05be3",
-          "phase": "争议线索",
-          "published": "Tue, 03 Nov 2026 17:24:39 +0000",
-          "publisher": "koreaboo.com",
-          "rumor": false,
-          "source": "Koreaboo",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRmJJU1gtYnY5OVZLOU5UYm5lNTV4b0dYN19kZngtSnZDVUFndktDVTFjaFhlVDBGRWlPd19LM0Uxa25MVkh1ZGJaRjlWYm4yQ0JNTjZYcWNOcUp6R3NnWE1GSDk1SnVkbUI1YnBRbnZnVmx5Y0NNbVVUUEE4WGdaS0tsMFBPVTVyczRMbkZaWjBuNDNyc1E?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "assault",
         "complain",
         "cops",
@@ -787,6 +687,28 @@
           "stage": "突发事件",
           "trusted": true,
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FeHBOQi1scm1VTGtFWVVtTWVyN3JMMVktTm1DS19pZExQQTk0X0U0X2dvLUxGdVNBa0N0SFd5SGlYNlptNXV2Sk50S2ZVc3hab3BSUTAxZnBrelBLYi04YzQ0UnR3NDNJSXFn?oc=5"
+        },
+        {
+          "key": "cd9d8a912ab7c8dc63",
+          "phase": "突发事件",
+          "published": "Fri, 06 Nov 2026 19:40:16 +0000",
+          "publisher": "worldsoccertalk.com",
+          "rumor": true,
+          "source": "World Soccer Talk",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZHZmS1hYa3dBdy1zR29BU3hQbGotVFZTVFl4ZXF2MWcwX3ljNmplTU5RZW5panUyMFBoa2tUNWxUNjBaRTMzUVlDZzZhTF9pUThRWE5IVUduWTBMRVdIdk5zOWEyYTNIQ2d2cUc1aWVWd0FSQl9Ud18yOUNEdFRpaFNQQkttZ0hxZnM4VWNiLWlsMHRPRGNiajF6c0x5ZGNFa3JMOU10by1iSVVGUy1ZeDVYazlWMHNTUWNTRGpuQXVta0xuQ0lfU3FDMzF3T3p5V01sRWtEejVKWVZ3UmdDQlR5d3FvRlROMUxxTjNZZDNsSEnSAfcBQVVfeXFMT1dDbGdFWk1NQ2Z6UW9qdTJkOWFnWjNMRm41Wkx3czVEUV9JWWxJWjAtMWNBU1JNbklsRFRuQ0dDc1Q5cVNTd0hEc0l4STkxQ2tYaHhNMDRaNXVMNW1rZXU4RWM2RVZ6X0xyTTNZUE9qVmsyUEY2djJJS1hFak5CSFdfQ0hORzFMeTUxalF0MTVQWVFLcGpTdDAtcUVXc2w4Vy0tMzJscV9IOXo5NHZJZ1NNRnJyTTZIVTBNcl8ycEZGTEw5TEdsTHpDMTBRd093eU1tUVk3NlR4QVUzQVQ1TExkVEJSTzNzbEZLeVBEYnotbTlRR1hxWQ?oc=5"
+        },
+        {
+          "key": "bae251af9a6b1d219e",
+          "phase": "公开回应",
+          "published": "Fri, 06 Nov 2026 20:22:20 +0000",
+          "publisher": "worldsoccertalk.com",
+          "rumor": false,
+          "source": "World Soccer Talk",
+          "stage": "公开回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWVd1NVJyTlhoMGRQdXhZbFNEQ1dzeDhOWlBqblh3WUNFNHF4QzMySWM3WDBraThzZFB1ZEo4NjRVVEI3NkhVY0txZEFZakhBdnVRWXlZV1FUU1JaR3JxdHlIdGU5eV9Md0NhcGtmS0owUS1ZemhTZlpaaEpaa3dSc1c1aUFjV2pKUVNOcEUtWVVDSG82ZDVIT0FwcU9PX1V5RzRVQVFnZFFVTUtxZGh4M0E4ZkJKcGVWSktoY2FnaFVYLUw4elM1RVd1VmYyNm5nbURwZGpaZXRGckJ1R2ctSXVmS3c0OUVRTE00ekhNeWw5VWIwVDFpQkVIaS02RHRNbkRkWGJ0ZVJ3LVE20gGQAkFVX3lxTE5vaGplRHBlejM5eHdhdV85RGc1VEVUeWVWcHNLQ3B2NDZ4WGo4b1c2WnhqbVNUUU9mb0xXSzhWRElLZ09NWm44Sm9MVnlSVmRjU0hiNUNiY2t2QjVxQm1RSFFESWltajAySm5feWljS0p3Q0tkanFIY2dUbWpvU1FjSG5LRmlnakVUM0xGdWl4SmRXcVhvWUhkWWN2WkFfUndWYkVWcVplaHBzTjhzTkhGdmRub3ZIOHBHa2NSeHFWemQ1Z21IV3VMMkdiVUdIRWZFNUNac2cxUEl5Y3dMUnFCdHdhRDZZSHUtbkRUdmZXMDFlRFl6UWs2aEUzd0sweGpzWFduYTJHbUVDMzJNUVdW?oc=5"
         }
       ],
       "stages": [
@@ -958,6 +880,17 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaXpaVVdIVWMtU2VCR1NIU1U3OExLbm9OcC1HdFMxV0NRMGlpNEVtLWpHeUoydWx4OThZTnNrVlBkQzdwREplQzBXRU5sUnlCYlQ0X2ROU0FlcktyX3VvYVZyUnF2S2pHTXNXZWU1TmtVZEc0QmRJNWxadThCSlhYU2ZObFNydmNnVEtaRTFuRXgwZHVM?oc=5"
+        },
+        {
+          "key": "b14d2cd74756acdd28",
+          "phase": "突发事件",
+          "published": "Fri, 06 Nov 2026 19:05:34 +0000",
+          "publisher": "worldsoccertalk.com",
+          "rumor": false,
+          "source": "World Soccer Talk",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjdmd0RKUlU5ME1zVGU3SENIbGFwTmJSdXA5aDNtdEY4Wmg2bDFWTmxNRXdPQWx2VmRkVzJvZzM3T2UwZm52WjdZTXlKdUtsUW9MVEkwTnlTclhQY2RVRFdobTJac0FEMUZfNmFISklhbkRBU3BhS0pOYm1fRU5KdWZCandrb201Y2lWdjM3Z01YakZyYVpJWmsxbzU1UG5ObU1YcjV0YWhXVkZybTR5WnFuN0trTGhMcHNueEpnU2VYODDSAccBQVVfeXFMT2F6bXpEUkYtR3lNMzNNVHZkYXlKN19YdXJBWkJySDdjSHVRckctN3JUcmhLSmpyUE9JWVlETm9VTjV6ZXMxbEpGVkZyWHh3Wk16b0FYc21FeXpxSXhKWVgzNlFjSFY0Y0R0QUV2YUFQNjE5d0dXX2lSelc2andyOWFzMjAzeExJSzAtbUNfYTVEcEVNbXloYzR0V24wdGRKcnplYXZrX3VEVXBSWS1LUUpTbENXY3NHXzdVOWhOQi1leDlvUWhEQQ?oc=5"
         }
       ],
       "stages": [
@@ -1291,6 +1224,17 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQjMtUXNtZ0RhRHgtWkdmYld5R1RBc0xxcVk1RnAxZnN2WS04a2FLY2RQTmhjVnpCbW9HZE1FV2tMci1sTFpZWlZXNGVjbWM0RFlBM3ZFTTEtUGM5N2YyT0phLUVqSTJqdnNwbElIbkJFbHVHdzNzbDZIbjdtb01DSzlkaE50bkR6N3Zpa09qc1hCWE5yRnZkalc5VmdrdkR5bjdMeVhCQzVvaFREdmNwWm9PcUpfYXBf0gG4AUFVX3lxTFBCMy1Rc21nRGFEeC1aR2ZiV3lHVEFzTHFxWTVGcDFmc3ZZLThrYUtjZFBOaGNWekJtb0dkTUVXa0xyLWxMWllaVlc0ZWNtYzREWUEzdkVNMS1QYzk3ZjJPSmEtRWpJMmp2c3BsSUhuQkVsdUd3M3NsNkhuN21vTUNLOWRoTnRuRHo3dmlrT2pzWEJYTnJGdmRqVzlWZ2t2RHluN0x5WEJDNW9oVER2Y3Bab09xSl9hcF8?oc=5"
+        },
+        {
+          "key": "2295f37a9aec8d8596",
+          "phase": "突发事件",
+          "published": "Fri, 06 Nov 2026 18:55:22 +0000",
+          "publisher": "onefootball.com",
+          "rumor": false,
+          "source": "OneFootball",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXhsYjJ5MzBWSnRoX1pPLXA4ZFNwUVJPb045YlJWdDUxSjVFWVJMdFRocnRlWU9kQl9Eby1KMl9PeER4QnpTaGdZQXdjdWxoWEFDVlZ4TDdITEktcnRmckhLLWQ2Ykc2bWlROVVZdWpPOWhybWxBb3RxRUJPMG5XU3hmSUZVN3RrZ2M0TnVQV1pWUDM1UDVyTlJQZC1jYWQxX3RMTEVCOGw4a09faWpidUVR?oc=5"
         }
       ],
       "stages": [
@@ -2064,10 +2008,56 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "不会",
+        "从国",
+        "会直",
+        "冲击",
+        "击葡",
+        "协收",
+        "合同",
+        "国家",
+        "家队",
+        "役暂",
+        "据现",
+        "接冲",
+        "收入",
+        "暂不",
+        "有合",
+        "根据",
+        "现有",
+        "直接",
+        "葡媒",
+        "葡足",
+        "足协",
+        "退役",
+        "队退"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 06 Nov 2026 20:32:28 +0000",
+      "id": "129bbb1225f69c9a23",
+      "person": "C罗",
+      "published": "Fri, 06 Nov 2026 20:06:03 +0000",
+      "reports": [
+        {
+          "key": "129bbb1225f69c9a23",
+          "phase": "突发事件",
+          "published": "Fri, 06 Nov 2026 20:06:03 +0000",
+          "publisher": "m.zhibo8.com",
+          "rumor": false,
+          "source": "直播吧",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xWlBMNDJJdk8wcXRJUVV3YVZFSE5ZNkQtTm1yZEd6M0F4VVFFR01lTWhCd25BTVlVaWpYVGFIeHRvdUdhNmJGTURBMWNNajlqaDJjams1UlVkZkpyS3hVNE51aXBkUW9IQmRLd05jTmNFT2RZU1hYR1Vn?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Fri, 06 Nov 2026 14:33:27 +0000",
+  "last_run": "Fri, 06 Nov 2026 20:32:28 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
