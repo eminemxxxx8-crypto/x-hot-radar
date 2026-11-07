@@ -2,76 +2,6 @@
   "events": [
     {
       "anchors": [
-        "assault",
-        "complain",
-        "cops",
-        "exclusive",
-        "mad",
-        "smith",
-        "still"
-      ],
-      "concepts": [
-        "assault"
-      ],
-      "first_seen": "Tue, 03 Nov 2026 23:14:51 +0000",
-      "id": "8940648a61eab8257b",
-      "person": "詹姆斯",
-      "published": "Tue, 03 Nov 2026 21:24:00 +0000",
-      "reports": [
-        {
-          "key": "8940648a61eab8257b",
-          "phase": "法律进展:被捕",
-          "published": "Tue, 03 Nov 2026 21:24:00 +0000",
-          "publisher": "nypost.com",
-          "rumor": false,
-          "source": "New York Post",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN1dhcTJjX002ajdXZXplZnVXWndpR0x4X3Q5YzQzcEpXck00em95V0Q5Q0s4SWpZYURnMmY5aWU0ODh4UFREYlQwZnllaEV1V3poTmw1ZU9nT3RObHFvR0g5b01pbWp4QXNxRkpEMzhSVV9YMmVLN3lvS0wxOEJONXkyRE9GWWxTbXA3SXI3WUxmdm42ZXlMQlN3X1pTMkNRZzFld0RfX3BOd0NSWFE?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "caught",
-        "drinking",
-        "fan",
-        "hill",
-        "includes",
-        "jemele",
-        "job",
-        "one",
-        "philly",
-        "retirement",
-        "tour",
-        "whose",
-        "wrath"
-      ],
-      "concepts": [
-        "interview"
-      ],
-      "first_seen": "Tue, 03 Nov 2026 23:14:51 +0000",
-      "id": "4a1bf3f72282a8a403",
-      "person": "詹姆斯",
-      "published": "Tue, 03 Nov 2026 21:30:00 +0000",
-      "reports": [
-        {
-          "key": "4a1bf3f72282a8a403",
-          "phase": "突发事件",
-          "published": "Tue, 03 Nov 2026 21:30:00 +0000",
-          "publisher": "theshadowleague.com",
-          "rumor": false,
-          "source": "The Shadow League",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94ZlY3eUVObW1sQWEtcDlXMDdkUGJlSmlLaVJRb2ZvckhWazlXNWpQREY3QmY4NkFrTTZOZUY0RDZwUFlvaDFtNldRbjdBM0VhSmR4T0xzRFBhSVlRMGJXYzl0TGNiNzRHeXdvUFI3MkJJVmZzaTRKZ1ZJQVQ4OWs?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "argentina",
         "end",
         "era",
@@ -709,6 +639,17 @@
           "stage": "公开回应",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWVd1NVJyTlhoMGRQdXhZbFNEQ1dzeDhOWlBqblh3WUNFNHF4QzMySWM3WDBraThzZFB1ZEo4NjRVVEI3NkhVY0txZEFZakhBdnVRWXlZV1FUU1JaR3JxdHlIdGU5eV9Md0NhcGtmS0owUS1ZemhTZlpaaEpaa3dSc1c1aUFjV2pKUVNOcEUtWVVDSG82ZDVIT0FwcU9PX1V5RzRVQVFnZFFVTUtxZGh4M0E4ZkJKcGVWSktoY2FnaFVYLUw4elM1RVd1VmYyNm5nbURwZGpaZXRGckJ1R2ctSXVmS3c0OUVRTE00ekhNeWw5VWIwVDFpQkVIaS02RHRNbkRkWGJ0ZVJ3LVE20gGQAkFVX3lxTE5vaGplRHBlejM5eHdhdV85RGc1VEVUeWVWcHNLQ3B2NDZ4WGo4b1c2WnhqbVNUUU9mb0xXSzhWRElLZ09NWm44Sm9MVnlSVmRjU0hiNUNiY2t2QjVxQm1RSFFESWltajAySm5feWljS0p3Q0tkanFIY2dUbWpvU1FjSG5LRmlnakVUM0xGdWl4SmRXcVhvWUhkWWN2WkFfUndWYkVWcVplaHBzTjhzTkhGdmRub3ZIOHBHa2NSeHFWemQ1Z21IV3VMMkdiVUdIRWZFNUNac2cxUEl5Y3dMUnFCdHdhRDZZSHUtbkRUdmZXMDFlRFl6UWs2aEUzd0sweGpzWFduYTJHbUVDMzJNUVdW?oc=5"
+        },
+        {
+          "key": "dbfc2f4d315accbcf1",
+          "phase": "突发事件",
+          "published": "Fri, 06 Nov 2026 23:23:58 +0000",
+          "publisher": "sports.yahoo.com",
+          "rumor": false,
+          "source": "Yahoo Sports",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmFXWWxkUVNERnhJYVRWMS1UTEwzSDhWUWVQckNEQ3ZpbVRNdm9yYnVtWDg5dXFvTlpraUlHeUt4eEZBVGFHUlA4UHJrSm1iTHhWd0hscndyN05vZG0wdk5DMDQyOWVpZlJpWWZOblVMdnBQci16alZlYjdCa3VUVUVJZXdpLXZkMTM3ODBfNlc?oc=5"
         }
       ],
       "stages": [
@@ -2054,10 +1995,51 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "assault",
+        "crue",
+        "domestic",
+        "girlfriend",
+        "motley"
+      ],
+      "concepts": [
+        "assault"
+      ],
+      "first_seen": "Sat, 07 Nov 2026 00:16:27 +0000",
+      "id": "4da314a61bee8d4ef7",
+      "person": "Vince Neil",
+      "published": "Fri, 06 Nov 2026 22:28:40 +0000",
+      "reports": [
+        {
+          "key": "4da314a61bee8d4ef7",
+          "phase": "法律进展:被捕",
+          "published": "Fri, 06 Nov 2026 22:28:40 +0000",
+          "publisher": "aol.com",
+          "rumor": false,
+          "source": "AOL.com",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WVzM4d0tyby1LVGZhajVsdnVwSWdsX1RSWEJBNHVDVUhfX184N3h6MWVlLVZMbWhYR0o3TkQzTl9Oc0VScm02Rm41VkJ1b3VxUTc5RC1HS1MzbHl1d0R6VEs3Y0F1VFFVUzNkS09MRQ?oc=5"
+        },
+        {
+          "key": "db65c97dcb79ccfb8a",
+          "phase": "法律进展:被捕",
+          "published": "Fri, 06 Nov 2026 22:28:40 +0000",
+          "publisher": "latimes.com",
+          "rumor": false,
+          "source": "Los Angeles Times",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkdmeXVoNDBFNjRxT1J1Z2JYZ1lRQVNCam9uQ3lFdElaQWZZUnVsbmd3V3BvdU1qeHB3ekZlY0VtYWtjYmRjYW5ub2t0STZFdDlkVFUwdXkxbnd0V21wT193ZnZXMUxQS1l6RjZZU3NPOG1wQUxERnN6TGVubXAwcUhPRERDU21KNng3OXJLYzFKaTZwTmNnTU5IWWhaOUJVdEFOLTFOV1FfeHVOMlZjVHFIcWRlcUQyeGdndkdnQXlaYTQ?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Fri, 06 Nov 2026 20:32:28 +0000",
+  "last_run": "Sat, 07 Nov 2026 00:16:27 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
