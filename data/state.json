@@ -2099,10 +2099,37 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "celebrity",
+        "defend",
+        "fan",
+        "knicks"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 07 Nov 2026 13:02:23 +0000",
+      "id": "807741d3ecd97c3e62",
+      "person": "泰勒斯威夫特",
+      "published": "Sat, 07 Nov 2026 12:11:14 +0000",
+      "reports": [
+        {
+          "key": "807741d3ecd97c3e62",
+          "phase": "争议线索",
+          "published": "Sat, 07 Nov 2026 12:11:14 +0000",
+          "publisher": "thecsrjournal.in",
+          "rumor": false,
+          "source": "The CSR Journal",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOGY2MGFvdHk4VEZsT19CVkx1Z1RtcWpUVGRmR0RxYU5RV3dCbTVSSUdwTzRjVWdPMkJJXzBxQWVkVjNvc0hrNmU4TGdFWUZOTzVQc0VweTktMktLVG5SbzJxMjJva0tPQmtaSUE2NUN1MEJPUzVwQkRYRkZ1Ni1Xd2hyOUpOY3VEZGRiem1QNExmeFYzeEZRQ0ZfcERPeVRveTBrSGdnbGEzWl82OFVULTl6ZGRkTXhkTWpSSlByMlVfb1NxM1Yzdy1RUEdnampG?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sat, 07 Nov 2026 06:10:52 +0000",
+  "last_run": "Sat, 07 Nov 2026 13:02:23 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
