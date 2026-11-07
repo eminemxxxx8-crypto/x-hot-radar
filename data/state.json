@@ -567,6 +567,28 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVBDWTBLSk1LNkRHb3lDQ3p3RWtFMnUwQmpJTVg2WjAtY1F0YkZMeGJ1eE1qQ0xRXzAzQm8tT0dBRmloMUJLZ0E1MUUzUTM2ekVVdk11dEE0Y2lobUpfcDN5eTNySHVsSkYxQmxYQ3RfUzNDT1pfQ0paNU1GTWxKUWpsVE5tX1k2clRZYXBKLUlxUmto?oc=5"
+        },
+        {
+          "key": "93fa1a8bfe5898cc0e",
+          "phase": "突发事件",
+          "published": "Sat, 07 Nov 2026 16:56:37 +0000",
+          "publisher": "sports.yahoo.com",
+          "rumor": false,
+          "source": "Yahoo Sports",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOGExTURPMWFfck85UnNuQ0hLekZPbXhLTEhYYzF0YnJ6QXhpOEVtVWdTM0FETVg2ZW5Xc3JENU04M051MXh1NFBJdjhuYWZyUndQOU1UOFZWbmVhbmpjaUtvNmdESVFnZUo3Qk1MTGRTLWhvcVVPSzVzanpsTXl4RzVNR3JjUUhROG5wVWhEUQ?oc=5"
+        },
+        {
+          "key": "8be68112a3bf09d732",
+          "phase": "突发事件",
+          "published": "Sat, 07 Nov 2026 17:14:55 +0000",
+          "publisher": "1news.co.nz",
+          "rumor": false,
+          "source": "1News",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQamtveE1GV3h3MVhZUGVnSjFSTXR1aUJWOE9xY3BTb3QtWHZTRnhZQmlpTElkNkstcks2YXF5Rk1zMzNrNDRwVWJZeTUtQU5fMjViczk0b3dCVHBSTnc2S2JFZFpnc2M3SGZnSVF1Y1RTYVYzNThGZUVPSWpYd1hqcHpsRUNaVU9BMHpzUkVNd2oxb0hvMXU2SnB0NFVWUHRXX190Rg?oc=5"
         }
       ],
       "stages": [
@@ -2126,10 +2148,159 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "alleged",
+        "claims",
+        "home",
+        "nba",
+        "son",
+        "stalker"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 07 Nov 2026 17:59:48 +0000",
+      "id": "cf1d967541068b5461",
+      "person": "詹姆斯",
+      "published": "Sat, 07 Nov 2026 16:00:00 +0000",
+      "reports": [
+        {
+          "key": "cf1d967541068b5461",
+          "phase": "法律进展:被捕",
+          "published": "Sat, 07 Nov 2026 16:00:00 +0000",
+          "publisher": "al.com",
+          "rumor": true,
+          "source": "AL.com",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3Z4d0pscERiaklqTXBYclM5RWNjTElxY3IxdGZvbncwSzh0Y0x5RWUzWDhqcU55bUQta0hzMVBnV2dPa1RSSmRna0JGc3ZOZEJ1UWx5T3c0Y2VmVkU4WjRFRGotSlZlQUExZVlrMWhEaXBkS3RGa0t5b3BWb3VrT2REYTZ4YTF1b0dTRU1iaFNkYmdLWVNKYTFfbjNtMGRTUEFIY0tScmVXaHlIZlg5NUNRSDJwdw?oc=5"
+        },
+        {
+          "key": "357adbd3c2aa76494d",
+          "phase": "法律进展:被捕",
+          "published": "Sat, 07 Nov 2026 17:11:00 +0000",
+          "publisher": "thesun.co.uk",
+          "rumor": false,
+          "source": "The Sun",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1ZDQ2VfbEI1eTBqWjdHNlE1N0UyRDRnOHRLSkdCQ1dqRkxJdWI2dGowN1Y3TmZPdGhDaWhXSElwTTk2d2ZfdVREeEl5cmVIV1ZQT0QyTmJFSWlKazdCQ3U0NnBVN1dRYU5Ha09VMndMb1M0NG5ERXlPall1NFZON3d4SW1qS2VyVWhjN1FwRUo?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "tmz",
+        "他儿",
+        "住宅",
+        "儿子",
+        "可疑",
+        "处形",
+        "子在",
+        "宅处",
+        "形迹",
+        "我是",
+        "捕时",
+        "时称",
+        "是他",
+        "杉矶",
+        "洛杉",
+        "男子",
+        "矶住",
+        "被捕",
+        "迹可"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 07 Nov 2026 17:59:48 +0000",
+      "id": "20f54fb3239d0a5dd1",
+      "person": "詹姆斯",
+      "published": "Sat, 07 Nov 2026 16:29:16 +0000",
+      "reports": [
+        {
+          "key": "20f54fb3239d0a5dd1",
+          "phase": "法律进展:被捕",
+          "published": "Sat, 07 Nov 2026 16:29:16 +0000",
+          "publisher": "sports.sina.cn",
+          "rumor": false,
+          "source": "新浪网",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOVp5ZC1MQ3JvVWRaUEZTNVBVUENiS2V4VEtDYXJnS3NCaUthU2VEWmpHWGZCRklEdmlkb3FualVjWHBINWR1ZVlvNmk4cmdaZXFYMG5QSlpjTHRQQnp2RlJyTllPUEQ2N1dlM2YzV2VoNFF5eXlrb0hNR1pwRU9NN1hWbzk?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "home",
+        "man",
+        "stalking"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 07 Nov 2026 17:59:48 +0000",
+      "id": "17f385b3d1e13d882f",
+      "person": "詹姆斯",
+      "published": "Sat, 07 Nov 2026 16:37:36 +0000",
+      "reports": [
+        {
+          "key": "17f385b3d1e13d882f",
+          "phase": "法律进展:被捕",
+          "published": "Sat, 07 Nov 2026 16:37:36 +0000",
+          "publisher": "larrybrownsports.com",
+          "rumor": false,
+          "source": "Larry Brown Sports",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU3RSTU9JUFlFcmR2ZkxPdmN0RVNWRERZbGFNdV90NDgyaUVsSERPdEJBMzF5TElXLUtHYzBzZVh5RjVHVGRfd3hTUlYzS3ZBQU5Mb1ZWc05sVHZKMWVEUkZlek54SmZUNXFmMEoyZFBKa1lYRTVqTGRUUkpJczB4YmlqS1Z1R1AwN21IVmQ2RQ?oc=5"
+        },
+        {
+          "key": "abdde746e05a346a01",
+          "phase": "法律进展:被捕",
+          "published": "Sat, 07 Nov 2026 17:33:29 +0000",
+          "publisher": "sports.yahoo.com",
+          "rumor": true,
+          "source": "Yahoo Sports",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdzBic2VRblBHWm5vSGFqbVZleU4xQVlLMWxOa3FGRGRVN1VoQmFXR2xNYWJHMWxNbzBkNnZjVmdEaXhWSXVIMkN3TURCaS1oajYtcWE3SEpmS2VpbzFjdVZNYWJ6STUtQlp0SU5nandPZFk2UE53clJjWHI1VEpvWnM0VGxKZEFVUThyVEM4SGtlQ25VZlJV?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "claim",
+        "close",
+        "cops",
+        "home",
+        "makes",
+        "stalker",
+        "wild"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 07 Nov 2026 17:59:48 +0000",
+      "id": "db648147071c677257",
+      "person": "詹姆斯",
+      "published": "Sat, 07 Nov 2026 17:04:00 +0000",
+      "reports": [
+        {
+          "key": "db648147071c677257",
+          "phase": "法律进展:被捕",
+          "published": "Sat, 07 Nov 2026 17:04:00 +0000",
+          "publisher": "nypost.com",
+          "rumor": false,
+          "source": "New York Post",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSVJseERscUdFZmNScDg3elNJaEdfWmRQTFhTejQ5alBxdm1BUThGZkh4N0R0TXpEbjlWTGg2dF9WQ01KeUpwQjdjN2kxeWt2THRHeTY4dWxpd3d2RGw2ZUNJdkM4V05GRG1ZbG1ZZ01tU2FPTWhGVHhHQlhPNnV4VG5TMTA4QQ?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sat, 07 Nov 2026 13:02:23 +0000",
+  "last_run": "Sat, 07 Nov 2026 17:59:48 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
