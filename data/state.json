@@ -2,34 +2,6 @@
   "events": [
     {
       "anchors": [
-        "death",
-        "men",
-        "murder",
-        "suspicion",
-        "two"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 04 Nov 2026 18:16:09 +0000",
-      "id": "d43c0a5083831af21f",
-      "person": "Ezekiel Williams",
-      "published": "Wed, 04 Nov 2026 17:27:00 +0000",
-      "reports": [
-        {
-          "key": "d43c0a5083831af21f",
-          "phase": "法律进展:被捕",
-          "published": "Wed, 04 Nov 2026 17:27:00 +0000",
-          "publisher": "joe.co.uk",
-          "rumor": false,
-          "source": "Joe.co.uk",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSl9XOVhjVDdTWWpuUmRyMi1seTNVN0FPR2Q2ekQ3TWFVOWZmbHRXd1hFdVp5dHg2UzBWWjVucmVHTkpKRVI5dHZMdGdEUHhnV1V2dXdwT3NkUHM0WUZnS3NqclN0MndiN251SUdqNE1EbWZHR2pfcG9ORWNVNHh3N0tUMVItNXAxQjdqdUlEREF0RFZtbUlobE41MFdGMlNTMV9kSmZiUDhYd3hnMGZYclBLTUtGSFZhZTBLWTh3?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "according",
         "alexis",
         "allister",
@@ -2185,6 +2157,28 @@
           "stage": "法律进展",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1ZDQ2VfbEI1eTBqWjdHNlE1N0UyRDRnOHRLSkdCQ1dqRkxJdWI2dGowN1Y3TmZPdGhDaWhXSElwTTk2d2ZfdVREeEl5cmVIV1ZQT0QyTmJFSWlKazdCQ3U0NnBVN1dRYU5Ha09VMndMb1M0NG5ERXlPall1NFZON3d4SW1qS2VyVWhjN1FwRUo?oc=5"
+        },
+        {
+          "key": "b6376f4b5d8280c06a",
+          "phase": "法律进展:被捕",
+          "published": "Sat, 07 Nov 2026 21:18:15 +0000",
+          "publisher": "nbclosangeles.com",
+          "rumor": false,
+          "source": "NBC Los Angeles",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd19qeFFtOGNNM1RyTWVDaFBRLXZVRVZDYldsc2NKeUlpclc0VW5vSUJBZXM5alRsVUdEeVZNeXowQlhRejlZbENOaV9ueFFJZWcxdWxJOXI3WWNRbjV5d2tFZE5aTXFFeXVrWUR1VDBfWlpIUWR3NUVzam8zTmhtd0FGV1LSAYwBQVVfeXFMTmFpWVNDYTZBLXVBWTNKRVgycHFNUDNPZE8yUkJHNnA0cS1DZjFxNzFJWkx3bi1YYnR6aTZKV0tXaHZtSklvT3kzY1FZMnZvZDRNZ0tkUDRFamtlWjhpQlVBRnJEelQ0MzJzdzdWY25iN3hiVnhyNUNCSVhPd0g2Y2RfRE85WW5fWGlBTXQ?oc=5"
+        },
+        {
+          "key": "4e671919c7ab67075c",
+          "phase": "法律进展:被捕",
+          "published": "Sat, 07 Nov 2026 21:20:24 +0000",
+          "publisher": "basketballnetwork.net",
+          "rumor": true,
+          "source": "Basketball Network",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSk43R2hrZWpTRDhJOThkcHE2LXN2bEtaRDNpMWVsRWdUaWtxdnRxVDZYZU02cXVfWHF0TzZreW5NVHR0Tkltdy1fYnhkc0RNd3B2dGU5eTI0MjJTM1BFdXpLQ3gxeHo5UWM1S3lLb1V6MnpRWnkyVDdtd1RNY1FQRDNUeHU5OThDUzBqVGQ1Zlg4TnRZa2J0MXlpNDJFN3VnTUtvdW5iQk93SW5rLUl5X0t0aw?oc=5"
         }
       ],
       "stages": []
@@ -2264,9 +2258,33 @@
           "stage": "法律进展",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdzBic2VRblBHWm5vSGFqbVZleU4xQVlLMWxOa3FGRGRVN1VoQmFXR2xNYWJHMWxNbzBkNnZjVmdEaXhWSXVIMkN3TURCaS1oajYtcWE3SEpmS2VpbzFjdVZNYWJ6STUtQlp0SU5nandPZFk2UE53clJjWHI1VEpvWnM0VGxKZEFVUThyVEM4SGtlQ25VZlJV?oc=5"
+        },
+        {
+          "key": "0091fdf18254eb3acd",
+          "phase": "法律进展:被捕",
+          "published": "Sat, 07 Nov 2026 20:42:04 +0000",
+          "publisher": "mynewsla.com",
+          "rumor": false,
+          "source": "MyNewsLA.com",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObXNVRF9TNVFxUG1tN0hZVExlbGZnWEhkRDJKV1hQdHp2QW9rUXJkZ1pCR3dwdXFkX1JiTFpxR2tFOVdsLXgtdTkxN0JYaE81c2VVUi1GdzhZcG11UkN0LS11RVpPZUhodVRNTDBaWWUxYVFHaWJLeF9lSDN4MHAwN3VqRElUU1pLNm1MUTdLcHdUQU1HYTRFd0RWUDRnV1lFMUxKNnpsajh4cmxsUG5lZWdFaFE?oc=5"
+        },
+        {
+          "key": "df76bda3a93f7527c4",
+          "phase": "法律进展:被捕",
+          "published": "Sat, 07 Nov 2026 20:47:50 +0000",
+          "publisher": "NYT",
+          "rumor": false,
+          "source": "The New York Times",
+          "stage": "法律进展",
+          "trusted": true,
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObjFFYWp2MjlQeWRtcGVfbUdnRDdKTFl5aS1oNGFGN1poM1BRa2ZLS1BydkN3RlFvNDA0ZTlKSEduajR5XzNlQVF0SndFcEpLempsUnNuUnlyVTB2ZHFJVk5HakVLRnZObm1FX2F4NXRzaWFEV01JZ1U1Q0YtXzlPQV9LZmxMUVllWEpZWkh1Wlk4OHJnM3VR?oc=5"
         }
       ],
-      "stages": []
+      "stages": [
+        "法律进展:被捕"
+      ]
     },
     {
       "anchors": [
@@ -2294,13 +2312,65 @@
           "stage": "法律进展",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSVJseERscUdFZmNScDg3elNJaEdfWmRQTFhTejQ5alBxdm1BUThGZkh4N0R0TXpEbjlWTGg2dF9WQ01KeUpwQjdjN2kxeWt2THRHeTY4dWxpd3d2RGw2ZUNJdkM4V05GRG1ZbG1ZZ01tU2FPTWhGVHhHQlhPNnV4VG5TMTA4QQ?oc=5"
+        },
+        {
+          "key": "804d6beb203dcb467d",
+          "phase": "法律进展:被捕",
+          "published": "Sat, 07 Nov 2026 20:27:00 +0000",
+          "publisher": "independent.co.uk",
+          "rumor": false,
+          "source": "The Independent",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTUlfSEhqRnJTdnBoQnlHY0tVX1pZbGdySlhKWnlBb1RhWUpXcUxfa2pUZWdYX0tkWkxWTmpTcDhxUDlDczFyc0sxVkRpM01BNEZYZG9TMGo4a0tHTVVJblRvM2dHUXQ5TTBkbk1QYVV2b21xbGJKbkhRb3dwelpZdWNhZ241bGd4Z0Jmb1ZlMA?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "了我",
+        "人难",
+        "从国",
+        "他真",
+        "国家",
+        "家队",
+        "尼洛",
+        "帮了",
+        "役让",
+        "很多",
+        "我很",
+        "的帮",
+        "真的",
+        "让人",
+        "达尼",
+        "退役",
+        "队退",
+        "难过"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 07 Nov 2026 21:44:15 +0000",
+      "id": "94e07a412f478569de",
+      "person": "C罗",
+      "published": "Sat, 07 Nov 2026 20:53:00 +0000",
+      "reports": [
+        {
+          "key": "94e07a412f478569de",
+          "phase": "突发事件",
+          "published": "Sat, 07 Nov 2026 20:53:00 +0000",
+          "publisher": "m.dongqiudi.com",
+          "rumor": false,
+          "source": "懂球帝",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOcFF1Mk9kdWJ1R2pNT3VJSUhCXzR2eWhMenBIREdLeDB3d1k1aE5CZlE2aU11RVZJZk9vXzdyUVVZS2NkbjktQzRJTzFQRHJBU191ZEhORQ?oc=5"
         }
       ],
       "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sat, 07 Nov 2026 17:59:48 +0000",
+  "last_run": "Sat, 07 Nov 2026 21:44:15 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
@@ -2366,7 +2436,9 @@
     "626e3e79fa0b2b6311",
     "8ac17eb590a279fe7c",
     "4e98aae85db42e350f",
-    "bea1a0de4b41d109f8"
+    "bea1a0de4b41d109f8",
+    "0091fdf18254eb3acd",
+    "df76bda3a93f7527c4"
   ],
   "version": 2
 }
