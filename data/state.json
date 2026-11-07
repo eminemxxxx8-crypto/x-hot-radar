@@ -2,100 +2,6 @@
   "events": [
     {
       "anchors": [
-        "argentina",
-        "end",
-        "era",
-        "first",
-        "guard",
-        "hints",
-        "lionel",
-        "old",
-        "retirement",
-        "roster"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 04 Nov 2026 03:02:06 +0000",
-      "id": "3c12e4b804c5cd7511",
-      "person": "梅西",
-      "published": "Wed, 04 Nov 2026 01:03:56 +0000",
-      "reports": [
-        {
-          "key": "3c12e4b804c5cd7511",
-          "phase": "突发事件",
-          "published": "Wed, 04 Nov 2026 01:03:56 +0000",
-          "publisher": "forzafootball.com",
-          "rumor": false,
-          "source": "Forza Football",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcFc0S0Fybk1lOS1GaHQzSV9LcDR3Sy1NVVN6SVhPdlJtZ2lnSHEyZXZOeXQzZ0FaV2VxaW50VGJ6Ml9lQ1NpMTIwZFNVYVdaQUptZ092UlRPRnhRdWlzOTZxNmhpLS1aU1lteHRwODVieTRvRC1nRWR2aEFlbFBxYUdxSHZuNFV3dTRTcjNVRUtWaHItT3ZnaVhZbjdGSHp5ckFKSkNGb2Z1TF9zWEdVVjJfYUFGLWxZSDJUVk4tU3BiVFk5OHdr?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "athlete",
-        "clemson",
-        "dabo",
-        "midseason",
-        "retirement",
-        "swinney",
-        "veteran"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 04 Nov 2026 03:02:06 +0000",
-      "id": "93db4d3279a6ef0bc3",
-      "person": "Forced Into Medical",
-      "published": "Wed, 04 Nov 2026 01:05:51 +0000",
-      "reports": [
-        {
-          "key": "93db4d3279a6ef0bc3",
-          "phase": "公开回应",
-          "published": "Wed, 04 Nov 2026 01:05:51 +0000",
-          "publisher": "twaslnews1.twaslnews.com",
-          "rumor": false,
-          "source": "شبكة تواصل الإخبارية",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ySnBDS0s4XzVtSVo3TEdaSEY2SlozN0xTYUdjN05VbWREeXRSQXJLZEQ4a2NaTmRXVkNCWmxXdjZZeU5rUUZDMUNvZEl5TjZtN0NN?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "doncic",
-        "lakers",
-        "luka",
-        "middle",
-        "officer",
-        "police",
-        "smith",
-        "spicy"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 04 Nov 2026 03:02:06 +0000",
-      "id": "bb1ecc33a098d529a7",
-      "person": "詹姆斯",
-      "published": "Wed, 04 Nov 2026 02:03:00 +0000",
-      "reports": [
-        {
-          "key": "bb1ecc33a098d529a7",
-          "phase": "法律进展:被捕",
-          "published": "Wed, 04 Nov 2026 02:03:00 +0000",
-          "publisher": "sports.yahoo.com",
-          "rumor": false,
-          "source": "Yahoo Sports",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQckdvRWJTeGFTR2VQXzNlZWs0UTVXNUtyWXB1VjBxbnFIM2YzRGxPeDN4TFJ5MGwxQ3RfOHV4bTZpbWNBRF9mSm9LZWxqY2dzUlJtcVN0cHpKZldLYVZBQ3JnZzNNaFhtT1hOdGZWODRPUlVzQ1BvbW85VktIUFNsT1B1aW1QWlZvS1E?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "death",
         "men",
         "murder",
@@ -650,6 +556,17 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmFXWWxkUVNERnhJYVRWMS1UTEwzSDhWUWVQckNEQ3ZpbVRNdm9yYnVtWDg5dXFvTlpraUlHeUt4eEZBVGFHUlA4UHJrSm1iTHhWd0hscndyN05vZG0wdk5DMDQyOWVpZlJpWWZOblVMdnBQci16alZlYjdCa3VUVUVJZXdpLXZkMTM3ODBfNlc?oc=5"
+        },
+        {
+          "key": "230bef2026199481cd",
+          "phase": "突发事件",
+          "published": "Sat, 07 Nov 2026 05:43:26 +0000",
+          "publisher": "football360.com.au",
+          "rumor": false,
+          "source": "football360.com.au",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVBDWTBLSk1LNkRHb3lDQ3p3RWtFMnUwQmpJTVg2WjAtY1F0YkZMeGJ1eE1qQ0xRXzAzQm8tT0dBRmloMUJLZ0E1MUUzUTM2ekVVdk11dEE0Y2lobUpfcDN5eTNySHVsSkYxQmxYQ3RfUzNDT1pfQ0paNU1GTWxKUWpsVE5tX1k2clRZYXBKLUlxUmto?oc=5"
         }
       ],
       "stages": [
@@ -832,6 +749,17 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjdmd0RKUlU5ME1zVGU3SENIbGFwTmJSdXA5aDNtdEY4Wmg2bDFWTmxNRXdPQWx2VmRkVzJvZzM3T2UwZm52WjdZTXlKdUtsUW9MVEkwTnlTclhQY2RVRFdobTJac0FEMUZfNmFISklhbkRBU3BhS0pOYm1fRU5KdWZCandrb201Y2lWdjM3Z01YakZyYVpJWmsxbzU1UG5ObU1YcjV0YWhXVkZybTR5WnFuN0trTGhMcHNueEpnU2VYODDSAccBQVVfeXFMT2F6bXpEUkYtR3lNMzNNVHZkYXlKN19YdXJBWkJySDdjSHVRckctN3JUcmhLSmpyUE9JWVlETm9VTjV6ZXMxbEpGVkZyWHh3Wk16b0FYc21FeXpxSXhKWVgzNlFjSFY0Y0R0QUV2YUFQNjE5d0dXX2lSelc2andyOWFzMjAzeExJSzAtbUNfYTVEcEVNbXloYzR0V24wdGRKcnplYXZrX3VEVXBSWS1LUUpTbENXY3NHXzdVOWhOQi1leDlvUWhEQQ?oc=5"
+        },
+        {
+          "key": "826acaa722bf44fd0b",
+          "phase": "突发事件",
+          "published": "Sat, 07 Nov 2026 05:19:30 +0000",
+          "publisher": "newscord.org",
+          "rumor": false,
+          "source": "NewsCord",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZzg5RFJySGNSN1c1M28yUlIxZkM5U1g0czE1bXZSbWt0SE0xc0NZLU1ydm5na0pIa2JUTzVwajZ1aEdPVkw1ZGxpWlhqX3dsQmNpbElzLUVZX2NKU3FSQUphd0RwNzVRM2pqOEJ3dngtbXdNMGQzQXZ3cm5MM29feGowX3hnREFkRHJId2E3THRUYjA5aGZOcjlBU004TXB0ajhzTWtOYm0ySkx3ajNuQ0g5VWhHVzAxX3luSGtmSDczZzhwODRPNzhB?oc=5"
         }
       ],
       "stages": [
@@ -936,6 +864,17 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVFmNmlLemNOSk5fUEV6RldiYmFlc0RhTWJTZWhKRmUzVkdTUy1PbTc2cHlJbHlUWlN1Nm5QTTloNVFURFFVYjJfSFgwUi1uYUc2aTQzTWl6SG9qczM3bHZNaE1HWnlmT3R6SFVicGx5cWxFR3gzOUQyUENkaFJMN01TT3lGbUZlR3RUZHNR?oc=5"
+        },
+        {
+          "key": "2d3691c64557e052db",
+          "phase": "突发事件",
+          "published": "Sat, 07 Nov 2026 04:51:25 +0000",
+          "publisher": "kshb.com",
+          "rumor": false,
+          "source": "KSHB 41 Kansas City",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczR6OXFlUm5EZUUwUXpYSGFubC1EdjNrSXJmZVpkT1hxTlVpRms0MUlCYmpPVlNfc3NNNmhiLWxONmhfd242R3VtMVBMeS0xVHJHemh5YlJmeFR1bHUxLTVtRFkyQVBJVXJSa0xLTnowbGl0TzB1bXVFeG5wd0xSV2hKZ3BWSFpGam5WMnlabGlMdDJVbl82YTR6UFY5dGdXOE5SMDNjVk1HRFNx?oc=5"
         }
       ],
       "stages": []
@@ -1176,6 +1115,17 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXhsYjJ5MzBWSnRoX1pPLXA4ZFNwUVJPb045YlJWdDUxSjVFWVJMdFRocnRlWU9kQl9Eby1KMl9PeER4QnpTaGdZQXdjdWxoWEFDVlZ4TDdITEktcnRmckhLLWQ2Ykc2bWlROVVZdWpPOWhybWxBb3RxRUJPMG5XU3hmSUZVN3RrZ2M0TnVQV1pWUDM1UDVyTlJQZC1jYWQxX3RMTEVCOGw4a09faWpidUVR?oc=5"
+        },
+        {
+          "key": "fd2cd9b7da733e37a6",
+          "phase": "公开回应",
+          "published": "Sat, 07 Nov 2026 05:30:36 +0000",
+          "publisher": "hindustantimes.com",
+          "rumor": false,
+          "source": "Hindustan Times",
+          "stage": "公开回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdG92S000dXpFblF4c3JacmZ1bzBpTGRGd3NFVUdCNHF0UWFXWG1oNlNBbW44LWExVVo3VVhXR0RUTmVMS2QzM0x0UktpWkR2YkozanFsUEJEeklTdTY5Wkd3REZBa2RYR0JGNWI1NWVpb2cwX1FQOHhlS3ZHRm8yMW00c1JTcFdxYjFobzFtSmk0Y0tWS0tzY2NZR0U4R3ZNb1R3ekV5T0lSTl9RS2NuMlZ2SUJRUGFhSHREbDNWSGNlWEtka2V0RFMtc0FFdVZsWWUtX2R1U0VlbTFzdGZzZ3JoWWs2Z2V1R1I5ZllyMWxQTFVWMV9BbWI0SWNicHFf0gGGAkFVX3lxTE9nd0dsREVCNWVLek9zY3RZMDh4N3VYeHlGV1l2RGx3emVBVG1aZThxZG4wM05UdnNBZjZaNkNhcmlHYXhoY2dkSjVaYzU0UG8wTko2WTNaaVZkUzZXbUFzblltV29Dck5JUmdNa1ByNGlXZkRIeHJFWVhEMUg1akdBZVRWb3RzQ2k5YTZTYkd4dzB1Sk9yWkNMWjRoRWhBUkQ1M1dyQjljXzJhbkpTQm56M2VYNU1COTRNRzMyUFlMTWRnVkdmSjMyeUNVWFhURTJyaXkyZnRQM2NwVFRVNVNtWEFBb2Y4ZS1WMkpJNTBYUHNfQ2VubFRXbWU3emxicXo2NHBzamc?oc=5"
         }
       ],
       "stages": [
@@ -2036,10 +1986,123 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "二天",
+        "协改",
+        "厅布",
+        "变总",
+        "大厅",
+        "宣布",
+        "布置",
+        "布退",
+        "录报",
+        "役第",
+        "总部",
+        "改变",
+        "敬他",
+        "第二",
+        "置致",
+        "致敬",
+        "葡足",
+        "记录",
+        "足协",
+        "退役",
+        "部大"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 07 Nov 2026 06:10:52 +0000",
+      "id": "c39b0d5a63e36390d5",
+      "person": "C罗",
+      "published": "Sat, 07 Nov 2026 04:19:00 +0000",
+      "reports": [
+        {
+          "key": "c39b0d5a63e36390d5",
+          "phase": "突发事件",
+          "published": "Sat, 07 Nov 2026 04:19:00 +0000",
+          "publisher": "m.dongqiudi.com",
+          "rumor": false,
+          "source": "懂球帝",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kenB1RGNjTnR4eFJLeU96Q0kxa2lJSVdvMVhLckV3Vm1CeVE4eG5GNko1QTEtN2t2OTNJak9FN3ljQ2d4el9NQ0JDN0JBbHJXUG4wTk9Fdw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "主力",
+        "主要",
+        "候选",
+        "前锋",
+        "力前",
+        "号主",
+        "后拉",
+        "奥是",
+        "役后",
+        "成主",
+        "拉莫",
+        "斯有",
+        "有望",
+        "望成",
+        "莫斯",
+        "莱奥",
+        "葡媒",
+        "要候",
+        "退役"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 07 Nov 2026 06:10:52 +0000",
+      "id": "b39e0a95f25cf601d3",
+      "person": "C罗",
+      "published": "Sat, 07 Nov 2026 04:36:00 +0000",
+      "reports": [
+        {
+          "key": "b39e0a95f25cf601d3",
+          "phase": "突发事件",
+          "published": "Sat, 07 Nov 2026 04:36:00 +0000",
+          "publisher": "m.dongqiudi.com",
+          "rumor": false,
+          "source": "懂球帝",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoNFc5S2dEZVVyQUlJSWlfanFJemFjSjFNWVRPVjkwb0JXSm5fZWNkSTV1WTVNelJsQXJuMmFsaGcxODZZYm1zQWdzWEFPOVNLN3dzeFlwZw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "era",
+        "greatness",
+        "lionel",
+        "mls"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 07 Nov 2026 06:10:52 +0000",
+      "id": "40e4f1eded7968cb70",
+      "person": "梅西",
+      "published": "Sat, 07 Nov 2026 04:45:57 +0000",
+      "reports": [
+        {
+          "key": "40e4f1eded7968cb70",
+          "phase": "争议线索",
+          "published": "Sat, 07 Nov 2026 04:45:57 +0000",
+          "publisher": "sportsgrid.com",
+          "rumor": false,
+          "source": "SportsGrid",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdV9tTFNmSlUyNlRNZVZLV0Z2Zmlkdjh0VWFsSTlJelAwTmtGS0Mxb0l6V2ItV0YxZmo1VGliT1RxQ2F6aUtOSVZkU0FnYWtPNDFyUnl4aEhJVkFYSi01U1J3U0R6VjZWSHhxeWw2a24xOTN6SkZISEg0TTlzLWc0WUszZ3d0cjN0VzdINTEwN09DNUVha19yTVlucw?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sat, 07 Nov 2026 00:16:27 +0000",
+  "last_run": "Sat, 07 Nov 2026 06:10:52 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
