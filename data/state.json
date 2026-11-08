@@ -2,146 +2,6 @@
   "events": [
     {
       "anchors": [
-        "万赞",
-        "国家",
-        "家队",
-        "小时",
-        "已超",
-        "役帖",
-        "时获",
-        "罗国",
-        "退役",
-        "队退"
-      ],
-      "concepts": [],
-      "first_seen": "Thu, 05 Nov 2026 18:59:54 +0000",
-      "id": "62bf86d2a1f9b1a885",
-      "person": "梅西",
-      "published": "Thu, 05 Nov 2026 18:02:00 +0000",
-      "reports": [
-        {
-          "key": "62bf86d2a1f9b1a885",
-          "phase": "突发事件",
-          "published": "Thu, 05 Nov 2026 18:02:00 +0000",
-          "publisher": "m.dongqiudi.com",
-          "rumor": false,
-          "source": "懂球帝",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kZUVIbkZzRDlsY1hISTRIakZjY0x1NDNqeEdNTGlmWkl3blFXOEpUeHRFZXR6NkdWZU0yYjQ5aWNlbUkyYXhKazNIZW1BNUlpQTdmY1cycw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "一段",
-        "享受",
-        "受退",
-        "国家",
-        "官方",
-        "家队",
-        "役生",
-        "方致",
-        "无比",
-        "曼联",
-        "段无",
-        "比辉",
-        "活吧",
-        "煌的",
-        "生活",
-        "生涯",
-        "的国",
-        "联官",
-        "辉煌",
-        "退役",
-        "队生"
-      ],
-      "concepts": [],
-      "first_seen": "Thu, 05 Nov 2026 18:59:54 +0000",
-      "id": "a086ccd11d404bee00",
-      "person": "C罗",
-      "published": "Thu, 05 Nov 2026 18:02:28 +0000",
-      "reports": [
-        {
-          "key": "a086ccd11d404bee00",
-          "phase": "突发事件",
-          "published": "Thu, 05 Nov 2026 18:02:28 +0000",
-          "publisher": "news.sina.com.cn",
-          "rumor": false,
-          "source": "新浪新闻_手机新浪网",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWWGFIU3JJZ3NqX3VmQUxXQXlJOHJTdnpBR1lYWmRQbnN4aGtMSGd6aE9NYnJNaFpfNllZa0dqYWRwVHg5S2tMaVN0ZGYyVTZqUnRid2ZpcHEtM3pvTTBBUm9ybFZjU2hwbHJzYXV0MkM1dw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "contrast",
-        "great",
-        "international",
-        "nature",
-        "retirement",
-        "rival",
-        "ronaldo",
-        "stark"
-      ],
-      "concepts": [],
-      "first_seen": "Thu, 05 Nov 2026 18:59:54 +0000",
-      "id": "d3e8e5fc1379a7e790",
-      "person": "梅西",
-      "published": "Thu, 05 Nov 2026 18:15:00 +0000",
-      "reports": [
-        {
-          "key": "d3e8e5fc1379a7e790",
-          "phase": "突发事件",
-          "published": "Thu, 05 Nov 2026 18:15:00 +0000",
-          "publisher": "audacy.com",
-          "rumor": false,
-          "source": "Audacy",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXZDUVhkZ0FqWFFpRFN3cmF6SDJUaVBfdm1DallCOVhDM09oa0hzdm9zSDdvQS1KSDVfYlNsQjZuWXpNMlFYQVZhMUp4WGoxS0p2T0NKUWFFZmlQWjFUQzdJNzl5RUYzWmQ0NjN4NXJaZkpGc1g1amNMUnZucjdobnMyeDBxRnNIenZDd2dhRXk1ZDVYS2MxV211WU9Mc2VV?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "answer",
-        "doubt",
-        "needs",
-        "raises",
-        "retirement",
-        "sister",
-        "something",
-        "still",
-        "there"
-      ],
-      "concepts": [],
-      "first_seen": "Thu, 05 Nov 2026 18:59:54 +0000",
-      "id": "6ef39ca251da5ee176",
-      "person": "C罗",
-      "published": "Thu, 05 Nov 2026 18:19:47 +0000",
-      "reports": [
-        {
-          "key": "6ef39ca251da5ee176",
-          "phase": "突发事件",
-          "published": "Thu, 05 Nov 2026 18:19:47 +0000",
-          "publisher": "en.as.com",
-          "rumor": false,
-          "source": "Diario AS",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ0FwajE0ZWI0X19VWXVDVWFOQ3ZyVkpCYktCUG1qRXB4Y3FXcTlXUWNWNzF4TGZGSkl1SkJDSVFhQWZHLThPNmhMOXBDOHB6U2xKOUVWZ0VOWTYxd3U4YUkzNUJ5VG9WUEw2cWdLOTVjTEFfTnoxR24zT0FMUmtsdzNLYzFmV2hJLURlRFVuQ2ZTQUh0cW9PUEpDQnBsLTRjWmxjbFo0VXlzck81bnNaWXZIc1RLTTJIbmd3V3BDX2c0enFpSDVOQl8wcmloemZrazhEMlBiSl_SAewBQVVfeXFMT2JpUnY0bHpPaTFDeDdIckswTERjVk9JaDBZUlJ4cjNudmJXdWt5TXFRMlpwWG13ZTNPN3N5aExmdG5DdzlVUnlqSHI1UGotOG96eFdCVlhGYzZoQWwzSERvNjRVb0FLNE9kYnVSZTNHb29DYXItUjJ3SmpTcnlkWG5iZXkwNlhnZ3lIN284X29qYVM0TmlFRkFseG41VUhpeVdTNktCVFRHRFl0cjl6cXJLZkJIVlFMb3JQT1JhWHVGNWtidjVjNE1MSzcwN2d1UVdyY05CdllzaEc5UjBZb3ZZSlc0OVRqb1JLMTI?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "beverly",
         "dies",
         "hills"
@@ -1286,6 +1146,17 @@
           "stage": "争议线索",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTXRraThUQmdXSzQ0aGhjVVVjaGQ0ZFlTd19XbzdWNTR5WWVYNmgxaEt3Z2RYdW5ld2JfUXh0UWtxSzVBQVlwcU5IT0owTjFJSDA5RnZ1d3JpWmRXR0Z3OElfVmRkVFoyM2dRZmlnX2JralplTlQ1c0hoZDRLSlZUR0hB?oc=5"
+        },
+        {
+          "key": "f70584c677ffdf0aaf",
+          "phase": "道歉回应",
+          "published": "Sun, 08 Nov 2026 21:00:11 +0000",
+          "publisher": "usmagazine.com",
+          "rumor": false,
+          "source": "Us Weekly",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeTNtMHZHa1ZGZFExbUk0M3JRak1XV2NRZW44aFpGdHJCLU53NEpQbTM2OGxENHVlSVZBZHR3bFBQSE5qUUhFNVdGVXN4ZzUwaFZIU3NvTUprbVdnUHNJR0IxWmRKSUcwM0lVN3FBcjIzeXNQRDVSMHdVdjlPb2FMazBGNXlpb2ZXTV9QS0R2NTNLMWE0V2xRZ0JB?oc=5"
         }
       ],
       "stages": []
@@ -1351,10 +1222,68 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "enough",
+        "fashion",
+        "knicks",
+        "kolek",
+        "swiftie",
+        "true",
+        "tyler"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 08 Nov 2026 22:31:46 +0000",
+      "id": "d2b60240704b224f08",
+      "person": "泰勒斯威夫特",
+      "published": "Sun, 08 Nov 2026 20:34:58 +0000",
+      "reports": [
+        {
+          "key": "d2b60240704b224f08",
+          "phase": "道歉回应",
+          "published": "Sun, 08 Nov 2026 20:34:58 +0000",
+          "publisher": "hitc.com",
+          "rumor": false,
+          "source": "HITC",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnBxTkVzVnZ6UlBoUDMxbzhNR3F6Z1l4THNZeXgtRDVRbk9aOXF3Q0w2dlNhaUJlWUVjUE1tV3hjUG8wc0JHaGd4QTBZaGtKcWxnQ0ZiWE1RSUEtUktIR1NtYm1sTWZiVi16Ukt2LWNVS1hkWnhudlY0M3lVbll0b1RZMFpGWHdOX1BmbG9JeFFyUzhCeFRUdVFoSi1rSmhxV3dWZ0pMcjBoWWlGa3lhM0MyZw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "exposes",
+        "knicks",
+        "teammate",
+        "video",
+        "york"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 08 Nov 2026 22:31:46 +0000",
+      "id": "af1e5b2084f88ed2b1",
+      "person": "泰勒斯威夫特",
+      "published": "Sun, 08 Nov 2026 20:35:03 +0000",
+      "reports": [
+        {
+          "key": "af1e5b2084f88ed2b1",
+          "phase": "道歉回应",
+          "published": "Sun, 08 Nov 2026 20:35:03 +0000",
+          "publisher": "heavy.com",
+          "rumor": false,
+          "source": "Heavy.com",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMko5Yml2TmRoOEVWdC1uaUpPSkRoRGpldHM2Qmp4ZFJEZzA0Rmh4OVNjUmxBQ0hmV1VTdmZrSFgwQ2dBZWZhMEhmR2xvLTNlOFdVTUR1S3N0bTdPVG5DV0VJazVvSnhIUWQ4NmxCRm1VdkpfcmMtdWJNbk1nc3FBa1dCWFV6ZjZqWDdlRFk1YzBBTmRiUTZGcXB5bw?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sun, 08 Nov 2026 18:46:35 +0000",
+  "last_run": "Sun, 08 Nov 2026 22:31:46 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
