@@ -2477,10 +2477,94 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "万欧",
+        "享受",
+        "休赛",
+        "受生",
+        "回到",
+        "国家",
+        "宅度",
+        "家队",
+        "度假",
+        "欧的",
+        "沙特",
+        "特联",
+        "生活",
+        "的豪",
+        "联休",
+        "豪宅",
+        "退役",
+        "队退"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 08 Nov 2026 06:55:06 +0000",
+      "id": "23bff61c6d300f8d8b",
+      "person": "C罗",
+      "published": "Sun, 08 Nov 2026 05:12:27 +0000",
+      "reports": [
+        {
+          "key": "23bff61c6d300f8d8b",
+          "phase": "突发事件",
+          "published": "Sun, 08 Nov 2026 05:12:27 +0000",
+          "publisher": "news.zhibo8.com",
+          "rumor": false,
+          "source": "直播吧",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83T3NiNElMZDkxOU9KbVZ1TWdJSllSNVpzTy1xOElZcnJPaHFGZktsMnlqdjZ0WmNWMFBoZnRqQm5LdGVjWkpQVm0yOVJfTTJ0ZTJYMHBjWnA3ZDVjQlFjbDZxT1hKb1d4U1hOaUhiMHZ3Zw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "下届",
+        "世界",
+        "主帅",
+        "再退",
+        "出葡",
+        "前主",
+        "发声",
+        "后再",
+        "届世",
+        "帅发",
+        "引前",
+        "杯后",
+        "牙队",
+        "界杯",
+        "盼下",
+        "萄牙",
+        "葡萄",
+        "退出",
+        "退役",
+        "队引"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 08 Nov 2026 06:55:06 +0000",
+      "id": "6ac5536ce161e16270",
+      "person": "C罗",
+      "published": "Sun, 08 Nov 2026 05:33:47 +0000",
+      "reports": [
+        {
+          "key": "6ac5536ce161e16270",
+          "phase": "突发事件",
+          "published": "Sun, 08 Nov 2026 05:33:47 +0000",
+          "publisher": "k.sina.com.cn",
+          "rumor": false,
+          "source": "手机新浪网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTzBQdl9aYWZ0RmFORjhDWV9lczFfY3JHZU5qR1dEYXh1NVhuUl85VmxkY0s3NGx3M3JPanpkcmthVFRLRmtrbzJhNWU2WGl5c19LWmY2bmNSMzRFWXRhX0lzd2VnT1Q2ZU5pVmlBV3VPMWx4SndtNU9VQ0ZRWFAwcWd3?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sun, 08 Nov 2026 00:55:45 +0000",
+  "last_run": "Sun, 08 Nov 2026 06:55:06 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
