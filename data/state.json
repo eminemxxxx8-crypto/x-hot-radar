@@ -2,38 +2,6 @@
   "events": [
     {
       "anchors": [
-        "according",
-        "alexis",
-        "allister",
-        "argentina",
-        "final",
-        "lionel",
-        "mac",
-        "may",
-        "retirement"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 04 Nov 2026 23:45:20 +0000",
-      "id": "cc48df7cc4b116bcfd",
-      "person": "梅西",
-      "published": "Wed, 04 Nov 2026 22:52:22 +0000",
-      "reports": [
-        {
-          "key": "cc48df7cc4b116bcfd",
-          "phase": "突发事件",
-          "published": "Wed, 04 Nov 2026 22:52:22 +0000",
-          "publisher": "worldsoccertalk.com",
-          "rumor": true,
-          "source": "World Soccer Talk",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcU00c2N4VUJmTE9nNUM2MmxjY1hsM2NQYmwtTnNIRHRtN3k0Ujg5S0dyUTN4LWV1SEVxZS02TmdsSXR0V3BHTkFLLWxINkpFZi1YY2pCeVJVNmJmT053aUhSWVU4TDM1RXh4OEJad3lkZ3FybVRsNTluM3ZlR1p5TzNaZS1vUURNTW1HWHh5VHpaN05wSHVISXlEZGlyNlhtYkYtU3VqTHNQbjh0dUYwVWNFMFNURjNIZkFrME9hQXjSAcQBQVVfeXFMT29ZdDBjNExobkxZaUdLMWszcXh0QnFRY1RSMi15TEp0a1R6VTFYMmVkaWNsbEJGZkFCc29uT1AwWGNXWkZxNW52RG5qV0dOeGJEVzlkNEFNZ0tRTzlTQTc0b0ZJMGtnZ3ZGLVBzV2RLVmxDTmYxM0RTQ3ZKYXVHZi0za0dQWTc2OXN6WVUtdXY4WFlDUmhObllmLVN6Ri1XVEhRWHlmeXpPa2hwQzVWRGlGaTZyb3Rvei1GU2NsdTV5RDVVNA?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "announces",
         "portugal",
         "retirement",
@@ -1977,6 +1945,17 @@
           "stage": "法律进展",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkdmeXVoNDBFNjRxT1J1Z2JYZ1lRQVNCam9uQ3lFdElaQWZZUnVsbmd3V3BvdU1qeHB3ekZlY0VtYWtjYmRjYW5ub2t0STZFdDlkVFUwdXkxbnd0V21wT193ZnZXMUxQS1l6RjZZU3NPOG1wQUxERnN6TGVubXAwcUhPRERDU21KNng3OXJLYzFKaTZwTmNnTU5IWWhaOUJVdEFOLTFOV1FfeHVOMlZjVHFIcWRlcUQyeGdndkdnQXlaYTQ?oc=5"
+        },
+        {
+          "key": "c0a2cb51303bea3e84",
+          "phase": "法律进展:被捕",
+          "published": "Sat, 07 Nov 2026 23:09:47 +0000",
+          "publisher": "mezha.net",
+          "rumor": false,
+          "source": "Mezha.net",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbXhKTko4Q25GWDVCMF9IcXI5WldIdVVNQUIzZnNyOWdNQ2lMUmtHcTl6LUJqQzIxNGxhNnExejcwWXRqNFJ1M3pKcFlGTmhSLVdhOF9oUzlNRi1VWV91VmdCWWlWc0ZJeURrMG02LXk3b25PUVhCY3Y0ajI1VHhpaGp2MA?oc=5"
         }
       ],
       "stages": []
@@ -2280,6 +2259,17 @@
           "stage": "法律进展",
           "trusted": true,
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObjFFYWp2MjlQeWRtcGVfbUdnRDdKTFl5aS1oNGFGN1poM1BRa2ZLS1BydkN3RlFvNDA0ZTlKSEduajR5XzNlQVF0SndFcEpLempsUnNuUnlyVTB2ZHFJVk5HakVLRnZObm1FX2F4NXRzaWFEV01JZ1U1Q0YtXzlPQV9LZmxMUVllWEpZWkh1Wlk4OHJnM3VR?oc=5"
+        },
+        {
+          "key": "acb3201394af8639ba",
+          "phase": "法律进展:被捕",
+          "published": "Sun, 08 Nov 2026 00:21:34 +0000",
+          "publisher": "foxla.com",
+          "rumor": false,
+          "source": "FOX 11 Los Angeles",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd2JnTS15eC00YW9tbGhjU3BuVDZzUUxBSzJueUhuR1JtVTVKQllmb0RSUUJvaHhRZEZ5dHV2Y1UzblV3cVBYQzNSLXRoR2JJNF9vMnZKeExYVW10WmdvNDI5LWd6RDR4clNLSTJYUVVsN1IxOC1ydzJibFFWMjFpcUM2YlBYZFB6Y2JSeHZn?oc=5"
         }
       ],
       "stages": [
@@ -2367,10 +2357,130 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "不大",
+        "两次",
+        "义不",
+        "了两",
+        "已经",
+        "役意",
+        "意义",
+        "次退",
+        "毕竟",
+        "点评",
+        "球迷",
+        "经退",
+        "调侃",
+        "迷点",
+        "退了",
+        "退役",
+        "首次"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 08 Nov 2026 00:55:45 +0000",
+      "id": "41c60f0df6af99fc94",
+      "person": "梅西",
+      "published": "Sat, 07 Nov 2026 23:14:20 +0000",
+      "reports": [
+        {
+          "key": "41c60f0df6af99fc94",
+          "phase": "突发事件",
+          "published": "Sat, 07 Nov 2026 23:14:20 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "搜狐网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWHk5NjV3QW5jTV9meTRDU0xBQWR6X2VRX3V4RXBkS0l0SlR2TnJFZmxmYVFMQ3BPbFpwT3RuMVJDUWY3V21HMElELXNxNUJySWtRVDE1OEF1WHE5UndFcjQxbnBvWGhuekh6OTNaUGc1ZkRKM0xXOEVuUTF0aUN4Y1Foby1ueW9iOWp0bA?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "主帅",
+        "决定",
+        "帅热",
+        "拒绝",
+        "斯拒",
+        "热苏",
+        "牙主",
+        "绝道",
+        "苏斯",
+        "萄牙",
+        "葡萄",
+        "退队",
+        "道歉",
+        "队决"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 08 Nov 2026 00:55:45 +0000",
+      "id": "818be28d2b7dedbc2e",
+      "person": "C罗",
+      "published": "Sat, 07 Nov 2026 23:52:34 +0000",
+      "reports": [
+        {
+          "key": "818be28d2b7dedbc2e",
+          "phase": "争议线索",
+          "published": "Sat, 07 Nov 2026 23:52:34 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "搜狐网",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVNieHpZdF9fbHdIMkI0UlNnZVc3Ry1zUkVfb0ZpQzdnQ24yUHhvV1JjSkVJeGpOX09hbjBxM1gyM1BleXppTjBDQzdqNlBTODBOaGpIVElId1VBRmcwRm9uOVctSFV5NzV1aFVHR3hzR3BJeXMxVXE3SU9MM3ppbnBHeUZWZU5LOWozWg?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "中锋",
+        "主力",
+        "争议",
+        "仅发",
+        "力中",
+        "发握",
+        "情未",
+        "手表",
+        "指责",
+        "握手",
+        "新主",
+        "未致",
+        "牙新",
+        "致敬",
+        "萄牙",
+        "葡萄",
+        "表情",
+        "遇指",
+        "遭遇",
+        "锋仅"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 08 Nov 2026 00:55:45 +0000",
+      "id": "e3d090e9b5be0a270c",
+      "person": "C罗",
+      "published": "Sun, 08 Nov 2026 00:00:38 +0000",
+      "reports": [
+        {
+          "key": "e3d090e9b5be0a270c",
+          "phase": "争议线索",
+          "published": "Sun, 08 Nov 2026 00:00:38 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "搜狐网",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYkRaRnhvUjRVc3cyeUJ0anU4MC1EbHdsTHhuOFJvdEdrTDFmZGpvV1FHR253NkZGWk9PbzdBTHIzZ016aFc0SmoxX2o0UWtteU1yMWhMTDlUOGwwNjEzZzlUZ3Zxb2w1N2NZT0h1OU5rVGcwOW5SMjQ1R2hlbXFVZDQ3NzdZeWJGQlNkSQ?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sat, 07 Nov 2026 21:44:15 +0000",
+  "last_run": "Sun, 08 Nov 2026 00:55:45 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
