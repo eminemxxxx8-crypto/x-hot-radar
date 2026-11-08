@@ -1321,10 +1321,40 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "around",
+        "followers",
+        "girlfriend",
+        "million",
+        "mysterious",
+        "surprises",
+        "virus"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 08 Nov 2026 18:46:35 +0000",
+      "id": "376ba96ee70d5286c3",
+      "person": "亚马尔",
+      "published": "Sun, 08 Nov 2026 17:50:45 +0000",
+      "reports": [
+        {
+          "key": "376ba96ee70d5286c3",
+          "phase": "争议线索",
+          "published": "Sun, 08 Nov 2026 17:50:45 +0000",
+          "publisher": "goal.com",
+          "rumor": false,
+          "source": "Goal.com",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd0phd0FWSlpBcDhwUFA3WmtzelBzM3FfSUFYeFZzczZ2ekRpejZDZjZmNGstajU1ZktCb0RydF9BS09tVFFCdUNkUjg0ckhxa0VWVzdkckVILUt5dkZJWTFZNjd2TndDRjZwS05BTVlMRnFQTy1IMjdjU2V6X0p2Qk41WXZGMkZzanNwdEFXSFZGd0RicUVKVkRtYmp1UERzaHg4cUNtNlhMaU1LTDhVNTZHZk5BaVFMZDMyQWs4ZzRoWEJ1OTRYVTNCMHlpb0RWcTVvSXhWeUVMbzBSVVNqTHZzRXgzM056dWNfQQ?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sun, 08 Nov 2026 14:02:17 +0000",
+  "last_run": "Sun, 08 Nov 2026 18:46:35 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
