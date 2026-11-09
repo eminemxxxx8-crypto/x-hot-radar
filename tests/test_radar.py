@@ -42,6 +42,25 @@ class RadarTests(unittest.TestCase):
         self.assertIsNone(r.get_entity('Acme Phone controversy'))
         self.assertIsNotNone(r.candidate(item('Singer Jane Smith apologizes after racism backlash'), NOW))
 
+    def test_gap_catchup_reports_are_labeled_delayed(self):
+        st = state()
+        st['last_run'] = email.utils.format_datetime(NOW-dt.timedelta(hours=7))
+        reports = [item('Messi racism backlash grows', age=250),
+                   item('Racism scandal engulfs Messi', host='bbc.com', age=240)]
+        result, st, send = self.run_process(reports, st)
+        self.assertEqual(result[0], 1)
+        self.assertIn('延迟发现', send.call_args.args[0])
+        self.assertEqual(self.run_process(reports, st)[0][0], 0)
+
+    def test_catchup_is_bounded_and_preserves_source_checks(self):
+        st = state()
+        st['last_run'] = email.utils.format_datetime(NOW-dt.timedelta(hours=15))
+        self.assertEqual(r.catchup_window(st, NOW)[0], 720)
+        self.assertEqual(self.run_process([item('Messi apologizes for racism', age=900)], st)[0][0], 0)
+        other = state()
+        other['last_run'] = email.utils.format_datetime(NOW-dt.timedelta(hours=7))
+        self.assertEqual(self.run_process([item('Messi apologizes for racism', host='blog.test', age=250)], other)[0][0], 0)
+
     def test_old_future_and_retrospective(self):
         for it in (item(age=121), item(age=-6), item('Messi racism backlash resurfaces'),
                    item('Messi去年争议回顾'), item('Messi racism controversy last year')):
