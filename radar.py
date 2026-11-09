@@ -25,6 +25,8 @@ LOG = logging.getLogger("hotradar")
 UTC = dt.timezone.utc
 STATE_PATH = Path("data/state.json")
 MAX_AGE_MINUTES = 120
+# Catch up after missed scheduled starts; delayed items are explicitly labeled.
+MAX_CATCHUP_MINUTES = 12 * 60
 MAX_ALERTS_PER_RUN = 2
 RETENTION_HOURS = 72
 HTNS = "https://trends.google.com/trending/rss"
@@ -357,15 +359,25 @@ def same_event(a: dict, b: dict) -> bool:
     return bool((ac & bc) - {"interview", "social-post"}) or (len(aw & bw) >= 2 and overlap >= .5) or (not aw and not bw)
 
 
-def eligible_recent(item: dict, now: dt.datetime) -> bool:
+def eligible_recent(item: dict, now: dt.datetime, max_age_minutes: int = MAX_AGE_MINUTES) -> bool:
     published = item.get("published")
-    return isinstance(published, dt.datetime) and -5 <= (now-published).total_seconds()/60 <= MAX_AGE_MINUTES
+    return isinstance(published, dt.datetime) and -5 <= (now-published).total_seconds()/60 <= max_age_minutes
 
 
-def candidate(item: dict, now: dt.datetime) -> dict | None:
+def catchup_window(state: dict, now: dt.datetime) -> tuple[int, float | None]:
+    """Include missed scan intervals without replaying reports older than twelve hours."""
+    previous = parse_when(state.get("last_run", ""))
+    if previous is None or previous > now:
+        return MAX_AGE_MINUTES, None
+    gap = max(0., (now - previous).total_seconds() / 60)
+    window = min(MAX_CATCHUP_MINUTES, max(MAX_AGE_MINUTES, int(gap + 46)))
+    return window, round(gap, 1)
+
+
+def candidate(item: dict, now: dt.datetime, max_age_minutes: int = MAX_AGE_MINUTES) -> dict | None:
     title = item.get("title", "")
     text = normalized(title)
-    if item.get("kind") != "news" or not eligible_recent(item, now):
+    if item.get("kind") != "news" or not eligible_recent(item, now, max_age_minutes):
         return None
     if title.rstrip().endswith(("?", "？")) or RETROSPECTIVE.search(text) or OPINION.search(text) or any(w in text for w in BORING_WORDS):
         return None
@@ -409,7 +421,7 @@ def suggestion(person: str, stage: str, rumor: bool = False) -> str:
 
 
 def render_alert(item: dict, person: str, *, stage: str | None = None, sources: list[dict] | None = None,
-                 rumor: bool = False, trend: bool = False) -> str:
+                 rumor: bool = False, trend: bool = False, delayed: bool = False) -> str:
     stage = stage or event_type(item["title"]) or "争议线索"
     esc = html.escape
     when = item["published"].astimezone(dt.timezone(dt.timedelta(hours=8))).strftime("%m-%d %H:%M")
@@ -422,7 +434,8 @@ def render_alert(item: dict, person: str, *, stage: str | None = None, sources: 
         if url:
             links.append(f'<a href="{esc(url, quote=True)}">{esc(source.get("source", "来源")[:40])}</a>')
     label = "传闻/指控，尚未证实" if rumor else "媒体报道，尚未独立核实"
-    return (f"<b>{esc(person)} · {esc(stage)}</b>\n{esc(content)}\n\n"
+    return (("⚠️ 延迟发现：定时任务运行间隔过长，此线索可能已错过热点早期。\n" if delayed else "")
+            + f"<b>{esc(person)} · {esc(stage)}</b>\n{esc(content)}\n\n"
             f"报道：{when}（北京时间）\n事件发生时间：RSS 未提供，待核实\n"
             f"性质：{label}\n来源：{' · '.join(links)}\n"
             + ("发现信号：关联报道进入 Google 趋势\n" if trend else "")
@@ -437,7 +450,9 @@ def process(items: list[dict], state: dict, now: dt.datetime, *, deliver: bool =
     events[:] = [e for e in events if (now-parse_when(e["first_seen"])).total_seconds() < RETENTION_HOURS*3600]
     baseline = not state.get("initialized", False)
     seen = set(state.get("seen", []))
-    candidates = [c for item in items if (c := candidate(item, now))]
+    window, gap = catchup_window(state, now)
+    LOG.info("Scan gap_minutes=%s lookback_minutes=%d (catchup cap=%d)", gap if gap is not None else "unknown", window, MAX_CATCHUP_MINUTES)
+    candidates = [c for item in items if (c := candidate(item, now, window))]
     candidates.sort(key=lambda c: (c["item"]["published"], c["key"]))
     batches = {}
     for c in candidates:
@@ -472,7 +487,7 @@ def process(items: list[dict], state: dict, now: dt.datetime, *, deliver: bool =
         # Only corroborate the proposed development, not old reports about an
         # earlier phase. A demand for apology cannot confirm an actual apology.
         reports = [r for r in event["reports"] if r.get("phase", r["stage"]) == phase and
-                   -5 <= (now-parse_when(r["published"])).total_seconds()/60 <= MAX_AGE_MINUTES]
+                   -5 <= (now-parse_when(r["published"])).total_seconds()/60 <= window]
         publishers = {r["publisher"] for r in reports}
         trusted = any(r["trusted"] for r in reports)
         age = (now-c["item"]["published"]).total_seconds()/60
@@ -502,7 +517,8 @@ def process(items: list[dict], state: dict, now: dt.datetime, *, deliver: bool =
             if report.get("phase", report["stage"]) == c["phase"] and report["publisher"] not in source_groups and report.get("url"):
                 sources.append(report)
                 source_groups.add(report["publisher"])
-        text = render_alert(c["item"], c["person"], stage=c["stage"], sources=sources, rumor=c["rumor"], trend=trend)
+        text = render_alert(c["item"], c["person"], stage=c["stage"], sources=sources, rumor=c["rumor"], trend=trend,
+                            delayed=(now-c["item"]["published"]).total_seconds()/60 > MAX_AGE_MINUTES)
         if deliver:
             send_message(text)
         else:
