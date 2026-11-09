@@ -2,52 +2,6 @@
   "events": [
     {
       "anchors": [
-        "不会",
-        "从国",
-        "会直",
-        "冲击",
-        "击葡",
-        "协收",
-        "合同",
-        "国家",
-        "家队",
-        "役暂",
-        "据现",
-        "接冲",
-        "收入",
-        "暂不",
-        "有合",
-        "根据",
-        "现有",
-        "直接",
-        "葡媒",
-        "葡足",
-        "足协",
-        "退役",
-        "队退"
-      ],
-      "concepts": [],
-      "first_seen": "Fri, 06 Nov 2026 20:32:28 +0000",
-      "id": "129bbb1225f69c9a23",
-      "person": "C罗",
-      "published": "Fri, 06 Nov 2026 20:06:03 +0000",
-      "reports": [
-        {
-          "key": "129bbb1225f69c9a23",
-          "phase": "突发事件",
-          "published": "Fri, 06 Nov 2026 20:06:03 +0000",
-          "publisher": "m.zhibo8.com",
-          "rumor": false,
-          "source": "直播吧",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xWlBMNDJJdk8wcXRJUVV3YVZFSE5ZNkQtTm1yZEd6M0F4VVFFR01lTWhCd25BTVlVaWpYVGFIeHRvdUdhNmJGTURBMWNNajlqaDJjams1UlVkZkpyS3hVNE51aXBkUW9IQmRLd05jTmNFT2RZU1hYR1Vn?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "assault",
         "crue",
         "domestic",
@@ -318,6 +272,17 @@
           "stage": "法律进展",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb0prRGNPV0hwaFlkbGlJOEZNOEx6dFhlZEwzcWN3d1d3d2REM043aGw1SmlNVlpjMlZCaW9vQ2RHSjR5VlREdGFxTENkaktrUnpBdlRTY09vbFVlLWVJSEw0Z3FCd1JjM0FVTVZHRVVfc1Z2UkhRbVVvb0FVRGd5R3BEVk4tQWJEdFh1VHEzdGZweFJXNEt5aUt4ME1RbUszSmNtQQ?oc=5"
+        },
+        {
+          "key": "45040d72983629bf09",
+          "phase": "法律进展:被捕",
+          "published": "Mon, 09 Nov 2026 22:11:50 +0000",
+          "publisher": "seattletimes.com",
+          "rumor": true,
+          "source": "The Seattle Times",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWNOSDF3TEVYaUE0WHE3bk5aQWdlVnR6TzlyMVkxOUpOUFNDdG9LaXZvMl9yN0U5eFlhdTBGSThKemlTVnBoM1pxdUJ1OS1wTV95S2xuTEN4TEpfdEZqd3UwZHJpNHNPM0prUTVvR0Y5d0U2cVhkNU5TVGtXaGZrXzhvY291T1pvZGV2N1poZGJaSEFDUWthcWxtbWVjQ0xTRFhBZVREOW1YTlBHRVZ5d3NoNjl2V0JwTDE0VGxpVXNxTktU?oc=5"
         }
       ],
       "stages": []
@@ -1102,10 +1067,161 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "attempt",
+        "challenging",
+        "dismiss",
+        "federal",
+        "gas",
+        "judge",
+        "naacp",
+        "southaven",
+        "spacexai",
+        "temporary",
+        "turbines",
+        "use"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 09 Nov 2026 23:59:32 +0000",
+      "id": "ea3485ca03b41b03ba",
+      "person": "马斯克",
+      "published": "Mon, 09 Nov 2026 19:10:32 +0000",
+      "reports": [
+        {
+          "key": "ea3485ca03b41b03ba",
+          "phase": "法律进展:起诉",
+          "published": "Mon, 09 Nov 2026 19:10:32 +0000",
+          "publisher": "yahoo.com",
+          "rumor": false,
+          "source": "Yahoo",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeFg0cVJiUjM4VjJxUjZ5QzI2SGMyd012bF9TRWVJX0w5ajgwLWRxU29oOHRDNzJOeFlseXAyeXJiVnlnaGJVTEhSVDVuWDNtUjBUdkJ5ckRzZmJkZEhlXzVTTk5aV3FpdTNIR1dUeTZMenVmN3RySDlGSTd6dG9LZWRKVjBldw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "control",
+        "damage",
+        "deaf",
+        "ears",
+        "falls",
+        "forced",
+        "girlfriend",
+        "knicks",
+        "kolek",
+        "tyler"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 09 Nov 2026 23:59:32 +0000",
+      "id": "a87bb90c79688bffb4",
+      "person": "泰勒斯威夫特",
+      "published": "Mon, 09 Nov 2026 20:55:18 +0000",
+      "reports": [
+        {
+          "key": "a87bb90c79688bffb4",
+          "phase": "道歉回应",
+          "published": "Mon, 09 Nov 2026 20:55:18 +0000",
+          "publisher": "sports.yahoo.com",
+          "rumor": false,
+          "source": "Yahoo Sports",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMWI3cFZKTTg5T1BGbENTRl9SWF8zbDNudDlKVDVsTjlVdGVlT29CalJ4ZUdVOWh0WDBEZkktcUFtSmhXOXpVMENCdXVzbVBrX0I1SGM1Y2hyMkhBdlFyV3VmUEFOUlA5MkxIRE9Ibm1Lc0FPVnNQUlBrX1lTblRjUWtMRTBEY01tWTlYWmFR?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "announces",
+        "international",
+        "retirement"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 09 Nov 2026 23:59:32 +0000",
+      "id": "29fd5803fcefdebb7d",
+      "person": "C罗",
+      "published": "Mon, 09 Nov 2026 22:56:27 +0000",
+      "reports": [
+        {
+          "key": "29fd5803fcefdebb7d",
+          "phase": "突发事件",
+          "published": "Mon, 09 Nov 2026 22:56:27 +0000",
+          "publisher": "caribbeanlife.com",
+          "rumor": false,
+          "source": "Caribbean Life News",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPazVrY3gwbkpyeHh5UnNsRmowS3NSMzVBcnc3cGVsQWxsQmJyR1hCcEFxSjNhMU9KZzkxcDdXMS0xVjdqZDFybzJOWWxkWVdubW52OE1jNW9iS08xY1NmRVBQWHZMdDdLQWhHMGRIYU4tY3hfUlR1VVlKdFFuX3RzLVlfeE5ZU1o3RlhV?oc=5"
+        },
+        {
+          "key": "85d5d5161ee7874a17",
+          "phase": "突发事件",
+          "published": "Mon, 09 Nov 2026 23:22:10 +0000",
+          "publisher": "worldsoccertalk.com",
+          "rumor": false,
+          "source": "World Soccer Talk",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONUJCb3hIMFhXdmhQRkFnd09yN1RGbzJGTmFKQmpnbTJsSGRuUGctZnJZM0JyV01ZdldnUVJCTmR3cnNtVnNrcWZZb1dNOGM2WUxlcFlpYk5URjNhQmU0NGlHMnJ5SUtUb3VLVGpvUXM2U3M0c3lyMXJhX0ZGSUdMRFZaY2dTakt1RnpQdUtic054NVVGd1JTWlFjTFV0SmxJZFpwd091VENVWldSNXFZV0FNeW9xTzBBRXgtZHgxV1hKa3RxNlR3NGpOS2p0LU5ZTUN0STdIbGVMR1FQVXZUek0ybkVoSVdyTWloTHpLWWVUT3JXTXQ0dGJESEVQa1Q0UXFvSUdfMDFlQlJuUmfSAZICQVVfeXFMTkZwVGRNaGxhbUFpcWhwTF8tLVFGUVRzSjItSjFCQ1FTNzcwclRDTkxleHM2QklJeTF4c2t0RzQxVTBoUVlHZUFqbU16QTZPTW5TcVZBcGJWWk9DSXl1NFpxMHlESHZUY1MzdW5BNTZyakNfYmNCelhGOXg1dVhRMDU2ai1YZzZhMTZBNi1fbXhtR1J3NmQxSHNiR3VXVkd6V1JQck0wSzM4VjJ2SkhVY21ubVBPU0lPdzAxcDF6czY0UGg4SjhRWnhZTVlzX0c3c0NnVS1qTHlmQ3RXNWtVVjI0ZTc3akU4eWNnUkptMVVYdWVVX2xxdnluVmc0VmNsT2FvODQtZUMtbDhlbERlaFRsZw?oc=5"
+        }
+      ],
+      "stages": [
+        "突发事件"
+      ]
+    },
+    {
+      "anchors": [
+        "主首",
+        "争议",
+        "仅排",
+        "佳阵",
+        "凯恩",
+        "前锋",
+        "奖得",
+        "年度",
+        "度最",
+        "得主",
+        "恩仅",
+        "排前",
+        "无缘",
+        "最佳",
+        "次无",
+        "球奖",
+        "缘年",
+        "金球",
+        "锋第",
+        "阵容",
+        "首次"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 09 Nov 2026 23:59:32 +0000",
+      "id": "514a5582d627d7ada5",
+      "person": "C罗",
+      "published": "Mon, 09 Nov 2026 23:20:53 +0000",
+      "reports": [
+        {
+          "key": "514a5582d627d7ada5",
+          "phase": "争议线索",
+          "published": "Mon, 09 Nov 2026 23:20:53 +0000",
+          "publisher": "m.qie.tv",
+          "rumor": false,
+          "source": "企鹅体育",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GdXI4c2N1b2l5WE5TX2ZZSW5aSlhfRURMbjBpNmVOR0ppeTVuQWRNdW9PUFZNdWtYSnVBMW41THFaQ1BLNmZzUGdLX0N6amwxOXFrQ1E1aXIwNTUyVm14Zg?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Mon, 09 Nov 2026 19:44:22 +0000",
+  "last_run": "Mon, 09 Nov 2026 23:59:32 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
