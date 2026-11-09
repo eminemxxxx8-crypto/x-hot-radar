@@ -2,171 +2,6 @@
   "events": [
     {
       "anchors": [
-        "appears",
-        "cybertruck",
-        "dead",
-        "tesla"
-      ],
-      "concepts": [],
-      "first_seen": "Fri, 06 Nov 2026 14:33:27 +0000",
-      "id": "340c153ef5b05bef0c",
-      "person": "马斯克",
-      "published": "Fri, 06 Nov 2026 13:12:00 +0000",
-      "reports": [
-        {
-          "key": "340c153ef5b05bef0c",
-          "phase": "争议线索",
-          "published": "Fri, 06 Nov 2026 13:12:00 +0000",
-          "publisher": "independent.co.uk",
-          "rumor": false,
-          "source": "The Independent",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMUh0Unoxa296emtqTzFXd2JuZFVHUzV2QWF2UklUeXA3Zy1pNTBIdHJVLWtxMVp4amZCWmt0bzJxam1pRWJWSmtzamlQRnVGQUE1VHFKeTd0RlY0VXZJancxV2lxQ2FocEZkSHAtQVpad2NDZE53dmx4V1JQdVlPTzNjMVJpWU51UGdETlliOC0xS3JGV1lIQVNOaWs?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "一台",
-        "一天",
-        "万镑",
-        "乔治",
-        "入一",
-        "台路",
-        "同一",
-        "国家",
-        "天退",
-        "太阳",
-        "娜花",
-        "家队",
-        "役国",
-        "治娜",
-        "购入",
-        "路虎",
-        "退役",
-        "镑购",
-        "阳报"
-      ],
-      "concepts": [],
-      "first_seen": "Fri, 06 Nov 2026 14:33:27 +0000",
-      "id": "863f5bb82c1d0ccc12",
-      "person": "C罗",
-      "published": "Fri, 06 Nov 2026 13:15:00 +0000",
-      "reports": [
-        {
-          "key": "863f5bb82c1d0ccc12",
-          "phase": "突发事件",
-          "published": "Fri, 06 Nov 2026 13:15:00 +0000",
-          "publisher": "m.dongqiudi.com",
-          "rumor": false,
-          "source": "懂球帝",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CejNiSlVtZnBWanE1N3hVbm5Oc0pqeUIwTXpSMTFMbFdYTV9rX2hyQTRGdVBzUW5ub1FqOUpqMW5sY0lvQ1p4Ymx4Nko4WGRUWTZDRE5NNA?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "bravo",
-        "dwayne",
-        "pays",
-        "retirement",
-        "tribute"
-      ],
-      "concepts": [],
-      "first_seen": "Fri, 06 Nov 2026 14:33:27 +0000",
-      "id": "8d707b3e282078136d",
-      "person": "C罗",
-      "published": "Fri, 06 Nov 2026 13:22:10 +0000",
-      "reports": [
-        {
-          "key": "8d707b3e282078136d",
-          "phase": "突发事件",
-          "published": "Fri, 06 Nov 2026 13:22:10 +0000",
-          "publisher": "thenewsmill.com",
-          "rumor": false,
-          "source": "The News Mill",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLXJ3M2hIYnVMTXVnQzd4dF9ad1ZWdWhWM2Z5bE5kUm05ZTFteDVOS25sQzAtVFJzc2xxdDBTZUtuRmhXLUQ3REVycFNPbjhmVjVhN3lYZmgyRy0zdlUtc2MzNm8yTkJZRFNLNU4zWjRHSUZuaXNvQkV4S01BbEpKOGlIeV90bndlTzJOUXdpdzcwbUtDc3lUdDROMTQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "donald",
-        "football",
-        "retires",
-        "trump"
-      ],
-      "concepts": [],
-      "first_seen": "Fri, 06 Nov 2026 14:33:27 +0000",
-      "id": "6e1be147abfb3f3714",
-      "person": "C罗",
-      "published": "Fri, 06 Nov 2026 13:32:41 +0000",
-      "reports": [
-        {
-          "key": "6e1be147abfb3f3714",
-          "phase": "突发事件",
-          "published": "Fri, 06 Nov 2026 13:32:41 +0000",
-          "publisher": "chosun.com",
-          "rumor": false,
-          "source": "조선일보",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUjNlNmlmMldjbzhXUlpabjIwYmFVLTBibmxzT3VQVDFxdEJDR3RPOEFBMVhDU3l3ZUZmNVBESUlHMzM5VXF0VkxYSjBtVF9HdHloUi0wLUR3WkpqUWllUDB4Tmg4X2dpamJjV2xVbUc1dExpMlNSaGJPaFNKTldPU1dWNU95UQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "他的",
-        "他谈",
-        "停赛",
-        "决定",
-        "和他",
-        "尊重",
-        "必须",
-        "我必",
-        "期间",
-        "没和",
-        "热苏",
-        "的决",
-        "苏斯",
-        "谈过",
-        "赛期",
-        "重他",
-        "间没",
-        "须尊"
-      ],
-      "concepts": [],
-      "first_seen": "Fri, 06 Nov 2026 14:33:27 +0000",
-      "id": "97994120de93ab1be3",
-      "person": "C罗",
-      "published": "Fri, 06 Nov 2026 13:53:00 +0000",
-      "reports": [
-        {
-          "key": "97994120de93ab1be3",
-          "phase": "突发事件",
-          "published": "Fri, 06 Nov 2026 13:53:00 +0000",
-          "publisher": "m.dongqiudi.com",
-          "rumor": false,
-          "source": "懂球帝",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xOGJxRVU1Yk1PTjdsSXZEYndIRnRLLWhYWmtkTlhYUmhHRVg0R1ZUZHhVS2NzSTJCLVIwbFFMVmVHLVNBRmI3YjQ2VUtET3hDbjJXLWR4VQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "不会",
         "从国",
         "会直",
@@ -472,6 +307,17 @@
           "stage": "法律进展",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc1FGSC04ZWt0MDl4a3RLRU4tRDdpMFZ3TzBibVFaeGRjS29wQ3BlRnZsQnlBZWhVT2NWckJYS0JMcm01RFJOTEFsU2ZvN0pKNENDZmlMSVdJRmh2dHQ0ZkdpZzYzSDNHanpIWDZTWnNjNHdEM3l1R3ZpNnk0aHhYMEgxbUtxS00wUmR0VXJkYWlacUxkZU55UzNPY1k5dVdqbnpfdmxSbGwtZ2puSkNIM2paWi05Y3VsbjBqMVdaT2FsMjNFVi1QYlNB?oc=5"
+        },
+        {
+          "key": "5decb7e58af2fc6fb1",
+          "phase": "法律进展:被捕",
+          "published": "Mon, 09 Nov 2026 17:54:52 +0000",
+          "publisher": "latimes.com",
+          "rumor": true,
+          "source": "Los Angeles Times",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb0prRGNPV0hwaFlkbGlJOEZNOEx6dFhlZEwzcWN3d1d3d2REM043aGw1SmlNVlpjMlZCaW9vQ2RHSjR5VlREdGFxTENkaktrUnpBdlRTY09vbFVlLWVJSEw0Z3FCd1JjM0FVTVZHRVVfc1Z2UkhRbVVvb0FVRGd5R3BEVk4tQWJEdFh1VHEzdGZweFJXNEt5aUt4ME1RbUszSmNtQQ?oc=5"
         }
       ],
       "stages": []
@@ -1195,10 +1041,71 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "chinese",
+        "clad",
+        "huang",
+        "jensen",
+        "leather",
+        "spy",
+        "tech"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 09 Nov 2026 19:44:22 +0000",
+      "id": "3bc0c8fce7fb1567b0",
+      "person": "泰勒斯威夫特",
+      "published": "Mon, 09 Nov 2026 18:35:00 +0000",
+      "reports": [
+        {
+          "key": "3bc0c8fce7fb1567b0",
+          "phase": "争议线索",
+          "published": "Mon, 09 Nov 2026 18:35:00 +0000",
+          "publisher": "thetimes.com",
+          "rumor": false,
+          "source": "The Times",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd3VMaE90bVpHX3BYM3ZFY2I0RVhKTVN3SGpqVVl2UlMxZDM3UmtHMWlQcXJPeG5Kc09CeWxLcTUzVGU0WERUamFjRkl4SldoSktnczZXZ1RBN3IxdVpXVWpoeXo1UVljU3hpY1RkM3c0Zmx0R0YxV1hISk05TGdmQmtqN0l3aEpTanY4bmdfR2R6MW9IMU56bk94WmdBTUNLUUNGaw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "jesus",
+        "jorge",
+        "journalist",
+        "just",
+        "portugal",
+        "retirement",
+        "reveals",
+        "whether"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 09 Nov 2026 19:44:22 +0000",
+      "id": "0687286505730dd25f",
+      "person": "C罗",
+      "published": "Mon, 09 Nov 2026 18:52:52 +0000",
+      "reports": [
+        {
+          "key": "0687286505730dd25f",
+          "phase": "突发事件",
+          "published": "Mon, 09 Nov 2026 18:52:52 +0000",
+          "publisher": "worldsoccertalk.com",
+          "rumor": false,
+          "source": "World Soccer Talk",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaGRWalJRZE14MmFVNFRScWw2RE5RaG83RmVUakVQbXh4aFNIYmt3bnlGZ3lWakp6LURqX3VObl9vNEtQSW9jak5lTFhjQVNsZkZOcEdmYURaNUZRb2c5b3dfOXhuSmNRVXA4T1RSc2RIXzZQNGtHRzVQcmF4LWdlZnExNWN3R1RmUERPdU5xLWRuV25JTmQ5YzBxWElyYnVQY3gtZE14UHVhd0I0MjNvaUdLTllucTRJTFl5SUVkR2NJeHgyYVI3X0w2NEgxRzNhT0U0Q1AydWRFSzBWV01hb1JuN1RDelI5Ym1PTHEwRVp0QkFEU2RCZmtn0gH-AUFVX3lxTE50QmFwRmF3T2NHR2JHenNpWnB6RE1EbWRNM2w4NUtySjFBNWViWFFuNXFELUF6dW5CdkF6dGY5UjR0aWN3dUJpd0FOZkFyUnhxbEltZkE0RlRZaGFtc1ZYSE5zWkF2RTdqNDl4NlA0cjZpeUwwTmN5NjlORlhxTHU4N1JzdHZrMTZrTEFQa1R6ajItSGppWWk1NnBTbjRjV2hrVE5LT2V3amVIaHVlM014UjRRNklyZnN3ekVpaUR3NkJRellDVWgtdmUzUDktZVJoUnUyLWpXckR2M1MxeDdtREt3dWY2UWdyckluUnotR01ydlZ2WEt1blRzb0FB?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Mon, 09 Nov 2026 09:00:29 +0000",
+  "last_run": "Mon, 09 Nov 2026 19:44:22 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
