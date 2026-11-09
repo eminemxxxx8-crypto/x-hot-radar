@@ -2,162 +2,6 @@
   "events": [
     {
       "anchors": [
-        "beverly",
-        "dies",
-        "hills"
-      ],
-      "concepts": [],
-      "first_seen": "Fri, 06 Nov 2026 00:06:34 +0000",
-      "id": "7e5af54e1fa3687a21",
-      "person": "Kimmarie Johnson",
-      "published": "Thu, 05 Nov 2026 22:13:52 +0000",
-      "reports": [
-        {
-          "key": "7e5af54e1fa3687a21",
-          "phase": "突发事件",
-          "published": "Thu, 05 Nov 2026 22:13:52 +0000",
-          "publisher": "goodmorningamerica.com",
-          "rumor": false,
-          "source": "Good Morning America",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWUpWMVRjNmY0amVGU2VYRnJJN3RqQUUyZmFlQ1UyQWFCZHVqQUE3QmhSdldFeEpwWG4zV3pfQkhrRXBMNHloaG1lc2otbk5HcjlSOWxtck9jNTJ3Zzg5TERRbm52UnA3MFFldzJFU0t5dFoySENHTUt6cUNFMXBsWXk5ZHBsV2pxcXBRTWdNZGVvbGlfcDlaMnVxUW9VNmdWdHNITERzZGFJWXJmaktjLTFCSzhNUdIBtgFBVV95cUxPWUpWMVRjNmY0amVGU2VYRnJJN3RqQUUyZmFlQ1UyQWFCZHVqQUE3QmhSdldFeEpwWG4zV3pfQkhrRXBMNHloaG1lc2otbk5HcjlSOWxtck9jNTJ3Zzg5TERRbm52UnA3MFFldzJFU0t5dFoySENHTUt6cUNFMXBsWXk5ZHBsV2pxcXBRTWdNZGVvbGlfcDlaMnVxUW9VNmdWdHNITERzZGFJWXJmaktjLTFCSzhNUQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "不满",
-        "主动",
-        "仍未",
-        "他执",
-        "别赛",
-        "加告",
-        "动退",
-        "参加",
-        "只要",
-        "告别",
-        "就拒",
-        "执教",
-        "拒参",
-        "择主",
-        "教就",
-        "斯仍",
-        "未道",
-        "满热",
-        "热苏",
-        "苏斯",
-        "要他",
-        "退队",
-        "选择",
-        "道歉"
-      ],
-      "concepts": [],
-      "first_seen": "Fri, 06 Nov 2026 00:06:34 +0000",
-      "id": "ffd4ecc9ddaad4787a",
-      "person": "C罗",
-      "published": "Thu, 05 Nov 2026 23:21:00 +0000",
-      "reports": [
-        {
-          "key": "ffd4ecc9ddaad4787a",
-          "phase": "争议线索",
-          "published": "Thu, 05 Nov 2026 23:21:00 +0000",
-          "publisher": "m.qie.tv",
-          "rumor": false,
-          "source": "企鹅体育",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jeVFVN09qWllteHBmUjJNeVU3Ul9WRTh2Z3pkTlh3NmViY0tsZG9OUlQwR0ljLUNHMnZfX01aQXFnQUpGWFpFc19tbm1IeEZhVWJCVlVlc0FiNUtqWVJVVw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "为了",
-        "了你",
-        "人都",
-        "从国",
-        "你的",
-        "博尔",
-        "喜从",
-        "国家",
-        "家队",
-        "尔特",
-        "恭喜",
-        "成为",
-        "所有",
-        "有人",
-        "特致",
-        "球迷",
-        "的球",
-        "致敬",
-        "退役",
-        "都成",
-        "队退"
-      ],
-      "concepts": [],
-      "first_seen": "Fri, 06 Nov 2026 00:06:34 +0000",
-      "id": "d9b4b135f8eefeba2d",
-      "person": "C罗",
-      "published": "Thu, 05 Nov 2026 23:23:00 +0000",
-      "reports": [
-        {
-          "key": "d9b4b135f8eefeba2d",
-          "phase": "突发事件",
-          "published": "Thu, 05 Nov 2026 23:23:00 +0000",
-          "publisher": "m.dongqiudi.com",
-          "rumor": false,
-          "source": "懂球帝",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02QndFaTNqTWotMUx5bG1wQVd0SGFNbHdMMXdJUXFqT29FckYyTVVQbVB1bkxWV0lmTXlvcGF1OFFXa0tMUGFYUk1BMmNJTEItekl5WXRJbw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "不允",
-        "允许",
-        "则不",
-        "号球",
-        "国际",
-        "无法",
-        "法退",
-        "牙无",
-        "球衣",
-        "联规",
-        "萄牙",
-        "葡萄",
-        "规则",
-        "足联",
-        "退役",
-        "际足"
-      ],
-      "concepts": [],
-      "first_seen": "Fri, 06 Nov 2026 00:06:34 +0000",
-      "id": "2898504d3b1f5504b9",
-      "person": "C罗",
-      "published": "Thu, 05 Nov 2026 23:28:00 +0000",
-      "reports": [
-        {
-          "key": "2898504d3b1f5504b9",
-          "phase": "突发事件",
-          "published": "Thu, 05 Nov 2026 23:28:00 +0000",
-          "publisher": "m.dongqiudi.com",
-          "rumor": false,
-          "source": "懂球帝",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtRHFiakFfeFFuWFVVNFRfUFhadk1VWDNFQ2JQVV9BcEdKNkQyWjlvY1E1WVBrRV9iVjlLbnFzYXdXcVhtTzBjR2JFYWNfUzYzT0p6ekdhOA?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "allegedly",
         "assaulting",
         "dies",
@@ -713,6 +557,17 @@
           "stage": "法律进展",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSk43R2hrZWpTRDhJOThkcHE2LXN2bEtaRDNpMWVsRWdUaWtxdnRxVDZYZU02cXVfWHF0TzZreW5NVHR0Tkltdy1fYnhkc0RNd3B2dGU5eTI0MjJTM1BFdXpLQ3gxeHo5UWM1S3lLb1V6MnpRWnkyVDdtd1RNY1FQRDNUeHU5OThDUzBqVGQ1Zlg4TnRZa2J0MXlpNDJFN3VnTUtvdW5iQk93SW5rLUl5X0t0aw?oc=5"
+        },
+        {
+          "key": "2b4bf683bc070c7cd7",
+          "phase": "法律进展:被捕",
+          "published": "Mon, 09 Nov 2026 01:13:00 +0000",
+          "publisher": "basketballnetwork.net",
+          "rumor": true,
+          "source": "Basketball Network",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc1FGSC04ZWt0MDl4a3RLRU4tRDdpMFZ3TzBibVFaeGRjS29wQ3BlRnZsQnlBZWhVT2NWckJYS0JMcm01RFJOTEFsU2ZvN0pKNENDZmlMSVdJRmh2dHQ0ZkdpZzYzSDNHanpIWDZTWnNjNHdEM3l1R3ZpNnk0aHhYMEgxbUtxS00wUmR0VXJkYWlacUxkZU55UzNPY1k5dVdqbnpfdmxSbGwtZ2puSkNIM2paWi05Y3VsbjBqMVdaT2FsMjNFVi1QYlNB?oc=5"
         }
       ],
       "stages": []
@@ -825,6 +680,17 @@
           "stage": "法律进展",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd2JnTS15eC00YW9tbGhjU3BuVDZzUUxBSzJueUhuR1JtVTVKQllmb0RSUUJvaHhRZEZ5dHV2Y1UzblV3cVBYQzNSLXRoR2JJNF9vMnZKeExYVW10WmdvNDI5LWd6RDR4clNLSTJYUVVsN1IxOC1ydzJibFFWMjFpcUM2YlBYZFB6Y2JSeHZn?oc=5"
+        },
+        {
+          "key": "6b191688ba64f79f69",
+          "phase": "法律进展:起诉",
+          "published": "Mon, 09 Nov 2026 01:17:04 +0000",
+          "publisher": "abcnews.com",
+          "rumor": false,
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yeFdMN2hSaDBwZTVUMjY0VUhjUElzZGVieEd4SFJwYUZBZGpQaVlKMjNpMUE4T2pqNFdMT2E3eF9xVGMwODNSb0oxRlA?oc=5"
         }
       ],
       "stages": [
@@ -1280,10 +1146,128 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "addresses",
+        "family",
+        "home",
+        "safety",
+        "stalker"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 09 Nov 2026 01:55:14 +0000",
+      "id": "9f005724bec11bc1d8",
+      "person": "詹姆斯",
+      "published": "Mon, 09 Nov 2026 00:19:00 +0000",
+      "reports": [
+        {
+          "key": "9f005724bec11bc1d8",
+          "phase": "法律进展:被捕",
+          "published": "Mon, 09 Nov 2026 00:19:00 +0000",
+          "publisher": "sports.yahoo.com",
+          "rumor": false,
+          "source": "Yahoo Sports",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb3JISnBLZjZWU2NOclpveFVxNFJjNXU2YTlpWlhhc1BOQ0llNlZ0QnJRUy01UDJUYy1ySmhJSlZmYVZPQVFieXZxTmM3YzFXWS1CdTFNbmVHTkRjZ0tjelduM0k3N25kd0FvVGdkNHhZdHNrT2I2cF9BSUEyVmJ2Njh1WHd2YlRWUFgwdmhR?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "chappelle",
+        "charlie",
+        "dave",
+        "erika",
+        "joke",
+        "kirk",
+        "leaked"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 09 Nov 2026 01:55:14 +0000",
+      "id": "016f4ca4f7a80e500f",
+      "person": "马斯克",
+      "published": "Mon, 09 Nov 2026 00:56:15 +0000",
+      "reports": [
+        {
+          "key": "016f4ca4f7a80e500f",
+          "phase": "争议线索",
+          "published": "Mon, 09 Nov 2026 00:56:15 +0000",
+          "publisher": "complex.com",
+          "rumor": false,
+          "source": "Complex",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYTBCSTVxQk1YUkZtamlndHpQejhoQXg2aUprMm5sM1dJWjNXeXhBV01WeGl6OGE0Ql93RmllWVdXbXRQT0VIZXA5aFliLXV1cXQtUFBTTVAyTVBVZ1JZZUlucnNsR2dQUF9waTMxeHFqa1dZOVZnT3A4dWhzcmRQRl9fNUdzRXh1QXZ3T2NyTklUSjQ2ZDA5dlpaZw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "哲学",
+        "大骂",
+        "学教",
+        "授向",
+        "教授",
+        "智障",
+        "歉了",
+        "的哲",
+        "道歉"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 09 Nov 2026 01:55:14 +0000",
+      "id": "b191041829d2ee2205",
+      "person": "马斯克",
+      "published": "Mon, 09 Nov 2026 01:11:57 +0000",
+      "reports": [
+        {
+          "key": "b191041829d2ee2205",
+          "phase": "道歉回应",
+          "published": "Mon, 09 Nov 2026 01:11:57 +0000",
+          "publisher": "tech.ifeng.com",
+          "rumor": false,
+          "source": "凤凰网科技",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QVFNTcHRta3U5SWR1M2F3ZmxzbGF6YzlKM2JPdUtNZ05idlBBNkhNV3NHXzJKRUJXcEMtNjI4YUdpNkZhT2Z3bUYwWDU?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "breakup",
+        "kelce",
+        "lead",
+        "speculation",
+        "travis"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 09 Nov 2026 01:55:14 +0000",
+      "id": "6a728483fc4bfed889",
+      "person": "泰勒斯威夫特",
+      "published": "Mon, 09 Nov 2026 01:30:00 +0000",
+      "reports": [
+        {
+          "key": "6a728483fc4bfed889",
+          "phase": "突发事件",
+          "published": "Mon, 09 Nov 2026 01:30:00 +0000",
+          "publisher": "uk.news.yahoo.com",
+          "rumor": false,
+          "source": "Yahoo News UK",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ETUE1dEFNOHh0VHcwWVpYOGhJdWg0SUlkM3dyUjFQY1dMc1pPeFUzOHVSOWFMV3B0ZmgtZUNZcDNZNi1DdGZaYl8zY2lQQzFhc215a3NoUExSTHl3d2I4NW93LW1LSlIyYk1QNzNPbzRrcEMwSlRuc25uRQ?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sun, 08 Nov 2026 22:31:46 +0000",
+  "last_run": "Mon, 09 Nov 2026 01:55:14 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
