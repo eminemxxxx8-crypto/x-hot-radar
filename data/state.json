@@ -2,58 +2,6 @@
   "events": [
     {
       "anchors": [
-        "assault",
-        "crue",
-        "domestic",
-        "girlfriend",
-        "motley"
-      ],
-      "concepts": [
-        "assault"
-      ],
-      "first_seen": "Sat, 07 Nov 2026 00:16:27 +0000",
-      "id": "4da314a61bee8d4ef7",
-      "person": "Vince Neil",
-      "published": "Fri, 06 Nov 2026 22:28:40 +0000",
-      "reports": [
-        {
-          "key": "4da314a61bee8d4ef7",
-          "phase": "法律进展:被捕",
-          "published": "Fri, 06 Nov 2026 22:28:40 +0000",
-          "publisher": "aol.com",
-          "rumor": false,
-          "source": "AOL.com",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WVzM4d0tyby1LVGZhajVsdnVwSWdsX1RSWEJBNHVDVUhfX184N3h6MWVlLVZMbWhYR0o3TkQzTl9Oc0VScm02Rm41VkJ1b3VxUTc5RC1HS1MzbHl1d0R6VEs3Y0F1VFFVUzNkS09MRQ?oc=5"
-        },
-        {
-          "key": "db65c97dcb79ccfb8a",
-          "phase": "法律进展:被捕",
-          "published": "Fri, 06 Nov 2026 22:28:40 +0000",
-          "publisher": "latimes.com",
-          "rumor": false,
-          "source": "Los Angeles Times",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMkdmeXVoNDBFNjRxT1J1Z2JYZ1lRQVNCam9uQ3lFdElaQWZZUnVsbmd3V3BvdU1qeHB3ekZlY0VtYWtjYmRjYW5ub2t0STZFdDlkVFUwdXkxbnd0V21wT193ZnZXMUxQS1l6RjZZU3NPOG1wQUxERnN6TGVubXAwcUhPRERDU21KNng3OXJLYzFKaTZwTmNnTU5IWWhaOUJVdEFOLTFOV1FfeHVOMlZjVHFIcWRlcUQyeGdndkdnQXlaYTQ?oc=5"
-        },
-        {
-          "key": "c0a2cb51303bea3e84",
-          "phase": "法律进展:被捕",
-          "published": "Sat, 07 Nov 2026 23:09:47 +0000",
-          "publisher": "mezha.net",
-          "rumor": false,
-          "source": "Mezha.net",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbXhKTko4Q25GWDVCMF9IcXI5WldIdVVNQUIzZnNyOWdNQ2lMUmtHcTl6LUJqQzIxNGxhNnExejcwWXRqNFJ1M3pKcFlGTmhSLVdhOF9oUzlNRi1VWV91VmdCWWlWc0ZJeURrMG02LXk3b25PUVhCY3Y0ajI1VHhpaGp2MA?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "二天",
         "协改",
         "厅布",
@@ -1218,10 +1166,40 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "informal",
+        "lee",
+        "ran",
+        "senior",
+        "speech",
+        "using",
+        "won"
+      ],
+      "concepts": [],
+      "first_seen": "Tue, 10 Nov 2026 02:25:32 +0000",
+      "id": "90483e285206b751ab",
+      "person": "Kim Young",
+      "published": "Tue, 10 Nov 2026 00:00:00 +0000",
+      "reports": [
+        {
+          "key": "90483e285206b751ab",
+          "phase": "争议线索",
+          "published": "Tue, 10 Nov 2026 00:00:00 +0000",
+          "publisher": "biz.chosun.com",
+          "rumor": false,
+          "source": "Chosunbiz",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZnJ2V2J4NjcwLVNwTHZGZ3ljMWh1TEhNQ3lYT1pGS3F4aTZjY1FwVmdyeDczWm9yOEJnS0FQSXhBa3N0b21MUmJ4MGdManJaSGh3QzRNRmE0ZFVscWcxRmFNUGRrS2VVT2h5Z3MxOHpHTjVYR21sNVdSWDBnMGxmMzUzejNSZFY10gGcAUFVX3lxTE9NT05UeHp2bUpkMDdsSHc1UnAweElFc2tKZjRNMXFaNko3bE5lUi03U0E5TTJWRlhZbmJYaVZqVUJhZVVRSXlEazRudWtZSkdnN0hhc1U4SzllSkVMd3NsLXMxX2tiOTQzcW84elpIeVdlUi0yUlJBNVBiRG1fb0VIWFdWNmZSX2lTb2xvWUp6bGFYTERDMmlOc2loOA?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Mon, 09 Nov 2026 23:59:32 +0000",
+  "last_run": "Tue, 10 Nov 2026 02:25:32 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
