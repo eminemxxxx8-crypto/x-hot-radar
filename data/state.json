@@ -2,105 +2,6 @@
   "events": [
     {
       "anchors": [
-        "around",
-        "followers",
-        "girlfriend",
-        "million",
-        "mysterious",
-        "surprises",
-        "virus"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 08 Nov 2026 18:46:35 +0000",
-      "id": "376ba96ee70d5286c3",
-      "person": "亚马尔",
-      "published": "Sun, 08 Nov 2026 17:50:45 +0000",
-      "reports": [
-        {
-          "key": "376ba96ee70d5286c3",
-          "phase": "争议线索",
-          "published": "Sun, 08 Nov 2026 17:50:45 +0000",
-          "publisher": "goal.com",
-          "rumor": false,
-          "source": "Goal.com",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd0phd0FWSlpBcDhwUFA3WmtzelBzM3FfSUFYeFZzczZ2ekRpejZDZjZmNGstajU1ZktCb0RydF9BS09tVFFCdUNkUjg0ckhxa0VWVzdkckVILUt5dkZJWTFZNjd2TndDRjZwS05BTVlMRnFQTy1IMjdjU2V6X0p2Qk41WXZGMkZzanNwdEFXSFZGd0RicUVKVkRtYmp1UERzaHg4cUNtNlhMaU1LTDhVNTZHZk5BaVFMZDMyQWs4ZzRoWEJ1OTRYVTNCMHlpb0RWcTVvSXhWeUVMbzBSVVNqTHZzRXgzM056dWNfQQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "enough",
-        "fashion",
-        "knicks",
-        "kolek",
-        "swiftie",
-        "true",
-        "tyler"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 08 Nov 2026 22:31:46 +0000",
-      "id": "d2b60240704b224f08",
-      "person": "泰勒斯威夫特",
-      "published": "Sun, 08 Nov 2026 20:34:58 +0000",
-      "reports": [
-        {
-          "key": "d2b60240704b224f08",
-          "phase": "道歉回应",
-          "published": "Sun, 08 Nov 2026 20:34:58 +0000",
-          "publisher": "hitc.com",
-          "rumor": false,
-          "source": "HITC",
-          "stage": "道歉回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnBxTkVzVnZ6UlBoUDMxbzhNR3F6Z1l4THNZeXgtRDVRbk9aOXF3Q0w2dlNhaUJlWUVjUE1tV3hjUG8wc0JHaGd4QTBZaGtKcWxnQ0ZiWE1RSUEtUktIR1NtYm1sTWZiVi16Ukt2LWNVS1hkWnhudlY0M3lVbll0b1RZMFpGWHdOX1BmbG9JeFFyUzhCeFRUdVFoSi1rSmhxV3dWZ0pMcjBoWWlGa3lhM0MyZw?oc=5"
-        },
-        {
-          "key": "5df756b7f7c216627c",
-          "phase": "道歉回应",
-          "published": "Wed, 11 Nov 2026 01:36:00 +0000",
-          "publisher": "aol.com",
-          "rumor": false,
-          "source": "AOL.com",
-          "stage": "道歉回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3BjbV9ZbVlFa0t4elAtakxPQ0FkR2YyTkRUdVhabkFvX3pINE1Lb2RDNUNPcXNjUXB3WlAtamRwWUZSNjVqbUxOMXppSC1RTVdTcTRvUV85ZlNjb3o4QnE5Q2VpRnZRVUlmVzJ3dF9Zajg2N1lUQlk2azA0Z0JsM1ktM0cwanM?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "exposes",
-        "knicks",
-        "teammate",
-        "video",
-        "york"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 08 Nov 2026 22:31:46 +0000",
-      "id": "af1e5b2084f88ed2b1",
-      "person": "泰勒斯威夫特",
-      "published": "Sun, 08 Nov 2026 20:35:03 +0000",
-      "reports": [
-        {
-          "key": "af1e5b2084f88ed2b1",
-          "phase": "道歉回应",
-          "published": "Sun, 08 Nov 2026 20:35:03 +0000",
-          "publisher": "heavy.com",
-          "rumor": false,
-          "source": "Heavy.com",
-          "stage": "道歉回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMko5Yml2TmRoOEVWdC1uaUpPSkRoRGpldHM2Qmp4ZFJEZzA0Rmh4OVNjUmxBQ0hmV1VTdmZrSFgwQ2dBZWZhMEhmR2xvLTNlOFdVTUR1S3N0bTdPVG5DV0VJazVvSnhIUWQ4NmxCRm1VdkpfcmMtdWJNbk1nc3FBa1dCWFV6ZjZqWDdlRFk1YzBBTmRiUTZGcXB5bw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "addresses",
         "family",
         "home",
@@ -406,6 +307,17 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONUJCb3hIMFhXdmhQRkFnd09yN1RGbzJGTmFKQmpnbTJsSGRuUGctZnJZM0JyV01ZdldnUVJCTmR3cnNtVnNrcWZZb1dNOGM2WUxlcFlpYk5URjNhQmU0NGlHMnJ5SUtUb3VLVGpvUXM2U3M0c3lyMXJhX0ZGSUdMRFZaY2dTakt1RnpQdUtic054NVVGd1JTWlFjTFV0SmxJZFpwd091VENVWldSNXFZV0FNeW9xTzBBRXgtZHgxV1hKa3RxNlR3NGpOS2p0LU5ZTUN0STdIbGVMR1FQVXZUek0ybkVoSVdyTWloTHpLWWVUT3JXTXQ0dGJESEVQa1Q0UXFvSUdfMDFlQlJuUmfSAZICQVVfeXFMTkZwVGRNaGxhbUFpcWhwTF8tLVFGUVRzSjItSjFCQ1FTNzcwclRDTkxleHM2QklJeTF4c2t0RzQxVTBoUVlHZUFqbU16QTZPTW5TcVZBcGJWWk9DSXl1NFpxMHlESHZUY1MzdW5BNTZyakNfYmNCelhGOXg1dVhRMDU2ai1YZzZhMTZBNi1fbXhtR1J3NmQxSHNiR3VXVkd6V1JQck0wSzM4VjJ2SkhVY21ubVBPU0lPdzAxcDF6czY0UGg4SjhRWnhZTVlzX0c3c0NnVS1qTHlmQ3RXNWtVVjI0ZTc3akU4eWNnUkptMVVYdWVVX2xxdnluVmc0VmNsT2FvODQtZUMtbDhlbERlaFRsZw?oc=5"
+        },
+        {
+          "key": "0bab08004017a4e36f",
+          "phase": "突发事件",
+          "published": "Wed, 11 Nov 2026 19:58:07 +0000",
+          "publisher": "worldsoccertalk.com",
+          "rumor": false,
+          "source": "World Soccer Talk",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOaGFlaERhMDJGUWxSWk9VTmtZSjNFdUpHOVRsLUR0UU5KN1NCYUxMREl1QzBRS1BXMGx5Y01aLURwMzNsNFk4aGRJa1hrNkt2LWVqc3IwU0htVnlfX2ZqVzN2X3VWaDlyZkJrMHhzNlhzNG96bzlfRlN4bUtLNEF5TEFUZzFzdlNhSHU2TUVBNEdpSlB3NG1WVXo2eXFOR1NaZkNWcmUzQVZzOEZ6LXhOdi13d3JPNUJLd3hOVHlhNWN5Q0o0WmxxSDNnOEVmWVA2RHpBc0JoQnFrNUxPQ1RXZ2ZOb0pWbmpKM1lfYlc3RVBHdWtGbEJNVnlNaXdlQUU2S3kzdnRMTll3aWxoUlHSAZICQVVfeXFMUHktVkdCbGhtZEUtd2NBQWxXNE1hUFdEc3hXRUp2amgtbVJnTVRsRkY4QW41OW1GQkx4am5IQk83UzVlMnRWYnptMGpsSU1nY0RMamEwMmRBZXdZSXowVU51QlFVUE0zUjMzX3ZnX3RqeWhKcktqOU1rNzB0bURxUVQxSi1UZUFiZkJhdHY4R2pWTDdBVXFwQnhkS2piQWp0RFpzQTE1djV1Vy1sM2pkQVRVU1ZCT0g3VHZqcFhoTkIxMHhxRUZCcVU3clllUTVqNVhZOEFNQWlnY2FuUWFfR205WTJqd3Y5eWY2N1lURjE1YlBZWHhFQ3ZSazN6dHNNRDE0TW90dWhBdXVBaVJDY09Qdw?oc=5"
         }
       ],
       "stages": [
@@ -1008,6 +920,17 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0lweDJ6MkR2QVJLZER6WnB6aFFQNDVxNlNwTjN3N1FlWWlTSzc5NWE4YkVCaHV0c1ZFb01QcDdTTmdtMkhFSjlPb21FM1JsZWJ5dG5uLU5SV2J2VS1ZX2xKR3FUd2ZGLW0tZUlsN2NfaGJJZ21BRnBlSlBBS3NlNnRiQUpqNmVqa0hWeGRSbHVURWN2M0MybXBNb2Y2VFZLbmJtV081b3JaNW1vZXR4T0pyc19odG9UcloyTDEwMXhuTDY5TFdnRmtjME8wb3pLZ1liWQ?oc=5"
+        },
+        {
+          "key": "116742910216acb940",
+          "phase": "突发事件",
+          "published": "Wed, 11 Nov 2026 18:24:25 +0000",
+          "publisher": "uefa.com",
+          "rumor": false,
+          "source": "UEFA.com",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0lweDJ6MkR2QVJLZER6WnB6aFFQNDVxNlNwTjN3N1FlWWlTSzc5NWE4YkVCaHV0c1ZFb01QcDdTTmdtMkhFSjlPb21FM1JsZWJ5dG5uLU5SV2J2VS1ZX2xKR3FUd2ZGLW0tZUlsN2NfaGJJZ21BRnBlSlBBS3NlNnRiQUpqNmVqa0hWeGRSbHVURWN2M0MybXBNb2Y2VFZLbmJtV081b3JaNW1vZXR4T0pyc19odG9UcloyTDEwMXhuTDY5TFdnRmtjME8wb3pLZ1liWQ?oc=5"
         }
       ],
       "stages": []
@@ -1524,10 +1447,101 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "arrival",
+        "camp",
+        "delayed",
+        "fuente",
+        "privileges",
+        "spain",
+        "special"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 11 Nov 2026 23:35:52 +0000",
+      "id": "bca1fa98ab2e51bbd0",
+      "person": "亚马尔",
+      "published": "Wed, 11 Nov 2026 20:21:12 +0000",
+      "reports": [
+        {
+          "key": "bca1fa98ab2e51bbd0",
+          "phase": "公开回应",
+          "published": "Wed, 11 Nov 2026 20:21:12 +0000",
+          "publisher": "oskaloosa.com",
+          "rumor": false,
+          "source": "Oskaloosa Herald",
+          "stage": "公开回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNd1RVZHNCdG83cENGbnRvbkJxWkxqenpLdDhyQjhLR2pJdC15TzVIUHF6aVlpTy1uSVhmbXBhYzBCUWZxUDBLX2xnQmNiOXF1ek9YTndSS295aUlua0lPMTg3bE5hMHRiX0xvN1REY1lVN0hFeVVOMnBmenBSeGhpVFVIZUNPOUNURmVCQlN5Slkta3YxeVJTbTZ5b3BUX1JLUGZvR3UzTmVqU1FJZmgxczRCUHhYZzFleG5uS3piOHNuQUhURUxMLS1PVTFwd0x5UGRIN3pqN2dYSG0yejVUNnl1dmJkY1VibnF5aVJKQThXaUNuVE84WlFLcVRmWlRhSmZNVl9raF96ZVFYTXB3TW5SQTYwVXBTSnc?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "career",
+        "portugal",
+        "post",
+        "retirement",
+        "social",
+        "teases",
+        "venture"
+      ],
+      "concepts": [
+        "social-post"
+      ],
+      "first_seen": "Wed, 11 Nov 2026 23:35:52 +0000",
+      "id": "08b6f6bad5136f790e",
+      "person": "C罗",
+      "published": "Wed, 11 Nov 2026 20:43:31 +0000",
+      "reports": [
+        {
+          "key": "08b6f6bad5136f790e",
+          "phase": "突发事件",
+          "published": "Wed, 11 Nov 2026 20:43:31 +0000",
+          "publisher": "yahoo.com",
+          "rumor": false,
+          "source": "Yahoo",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0ZIaHAtSHlkeTdCbVRxTnpuUkQxVzRUT202ZWNJQnBzU3A1Z2RfbVFQaE81RnZMWnVvX3U3ZDROcGhrekpHZGFXOEx5Ql8zenZIYzVRWEFXOWl4UVhydWJ4MW53ekxUWGpkcHR3T2xKR1lRNVR4aGRRaW40ZkN0SWNxNXg1b3RuWTFyaGFlbEVEaW1HTE1KMWlXcjNiR2Q2Rmx2UA?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "contact",
+        "criticism",
+        "george",
+        "harsh",
+        "paul",
+        "reaction"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 11 Nov 2026 23:35:52 +0000",
+      "id": "579cb182202091a013",
+      "person": "詹姆斯",
+      "published": "Wed, 11 Nov 2026 21:43:48 +0000",
+      "reports": [
+        {
+          "key": "579cb182202091a013",
+          "phase": "争议线索",
+          "published": "Wed, 11 Nov 2026 21:43:48 +0000",
+          "publisher": "marca.com",
+          "rumor": false,
+          "source": "MARCA",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQV1Zkb19DSEp2ci1wei12bnpBamNpSlhiZ3RtbjZrbGtzRVNBbERnei1WQ203aVd3dHZHLXBjZ0FGLTA3RE0tSXhHTlVjWnV6b0hDMVJQQTlqR2FheUV1NGRoNGFjSnFrTFlGeC02b0JSdDdHNjgwOENtclAtWnJnTVRwN2JCUG02YlVFemxCREstWnZTYURDWHJ1aG1WN1Y5bDVGRnR0LXFaajhra3Y0VHFhWFUwcUh5UWpOc2VyZjR5aENfU0J3SER2T1h2aWFnMU5pZXFrWFRGRWlySkNIZ3lFbHFhU1ZKRHR4blFvRHlVQ0XSAfMBQVVfeXFMT1R2V0gyYUg4WHFob0JTX1AtekJZSURsYkx4WHpFOVFReTR1SFo1VlBTS1ppNmNnQW9IOE45UXFJLVZ6Y3Z0WHFzcHFiQlF4cTVORUliVkNOWXJVVFZhTl9adDBzcDl3VTg3T1hxSU4wWnJSVDNDWjc3dkU4aVJGZkdIbkh2Q1A1MEpjZGIyTVRfTjdkVUY1WFNTZ3BOVjVSZWVXdWRCOEoteTRGSUVUR1Y1eFdWN1R3WTlKNUs5d29LYUREaVNEcnRJaF90b3NpVlk4Z1NsMlFYY1Q5aVVYMmVDM0ZuWVJLWDhUUnBSRFJBZnBr?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Wed, 11 Nov 2026 17:24:45 +0000",
+  "last_run": "Wed, 11 Nov 2026 23:35:52 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
