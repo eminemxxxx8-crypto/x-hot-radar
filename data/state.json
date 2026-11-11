@@ -2,82 +2,6 @@
   "events": [
     {
       "anchors": [
-        "fun",
-        "game",
-        "knicks",
-        "kolek",
-        "poke",
-        "pre",
-        "routine",
-        "tyler",
-        "unique",
-        "york"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 08 Nov 2026 14:02:17 +0000",
-      "id": "4c448a7a0bf09feb5c",
-      "person": "泰勒斯威夫特",
-      "published": "Sun, 08 Nov 2026 12:15:00 +0000",
-      "reports": [
-        {
-          "key": "4c448a7a0bf09feb5c",
-          "phase": "争议线索",
-          "published": "Sun, 08 Nov 2026 12:15:00 +0000",
-          "publisher": "sports.yahoo.com",
-          "rumor": false,
-          "source": "Yahoo Sports",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTXRraThUQmdXSzQ0aGhjVVVjaGQ0ZFlTd19XbzdWNTR5WWVYNmgxaEt3Z2RYdW5ld2JfUXh0UWtxSzVBQVlwcU5IT0owTjFJSDA5RnZ1d3JpWmRXR0Z3OElfVmRkVFoyM2dRZmlnX2JralplTlQ1c0hoZDRLSlZUR0hB?oc=5"
-        },
-        {
-          "key": "f70584c677ffdf0aaf",
-          "phase": "道歉回应",
-          "published": "Sun, 08 Nov 2026 21:00:11 +0000",
-          "publisher": "usmagazine.com",
-          "rumor": false,
-          "source": "Us Weekly",
-          "stage": "道歉回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeTNtMHZHa1ZGZFExbUk0M3JRak1XV2NRZW44aFpGdHJCLU53NEpQbTM2OGxENHVlSVZBZHR3bFBQSE5qUUhFNVdGVXN4ZzUwaFZIU3NvTUprbVdnUHNJR0IxWmRKSUcwM0lVN3FBcjIzeXNQRDVSMHdVdjlPb2FMazBGNXlpb2ZXTV9QS0R2NTNLMWE0V2xRZ0JB?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "apologies",
-        "chinese",
-        "enough",
-        "games",
-        "kylian",
-        "madrid",
-        "off",
-        "real",
-        "storm"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 08 Nov 2026 14:02:17 +0000",
-      "id": "d39ec392099d6f1184",
-      "person": "姆巴佩",
-      "published": "Sun, 08 Nov 2026 12:44:08 +0000",
-      "reports": [
-        {
-          "key": "d39ec392099d6f1184",
-          "phase": "道歉回应",
-          "published": "Sun, 08 Nov 2026 12:44:08 +0000",
-          "publisher": "onefootball.com",
-          "rumor": false,
-          "source": "OneFootball",
-          "stage": "道歉回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU1pNWmdkeExrdTRMYmJJYlZTM2ZZOXVwLWJXY19mcFFpQXB4aFVtRHFXMklIZUYtcVVIc053OXpmcEtJNjdzVEc5OWRBM24zWDNMNHVucEwxSHpTeDZBSXJsNGRoTFltSE4wSjZ5YnZIMlExTFhzRTRWSDVRQmJBbEE1RW5RZURDUl84dzZRaGZ5TUp3TGp5elhibm1iVlA5Y1ZBdGUwUnZNcFB4YzZxdVNIbHE0XzFH?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "around",
         "followers",
         "girlfriend",
@@ -1346,6 +1270,17 @@
           "stage": "争议线索",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNTlCMTEwZ1ZmcHNuMXh1dGlqNnRuVmItRTREcENRcHRaMTI4NDdpTjhmRkx6YnlXMDhOZ3cwZ0RVU0ZSWklyWl9hQ2FuV2syYWM2eEtrQ29BWGZEVUg0N0ItTWJ1bDdqVmRSaXVJai1qWmZoY3RVOV96TzROaTYyRGhScFk0VjZFZHBJZVdIR0lRWEkxX3k2ZTIxYkJnVndjUTRpMWpDR1BvR2IxUkM2YlQ2dnVzSHpu?oc=5"
+        },
+        {
+          "key": "a36c83331f8fe8e3a4",
+          "phase": "争议线索",
+          "published": "Wed, 11 Nov 2026 10:41:34 +0000",
+          "publisher": "fox8.com",
+          "rumor": false,
+          "source": "FOX 8 News",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOazhWUFgwWnpqQldRNHIxdXljam5UZkpMS2szWkJRYnJLTFdacElVc1A3YXFSSXp0VEhjUTEyaU9tdlVVSzdvT0FGSDdNTUxlLUlWT0ZQUTB1Yng2T0c2MWZuazg5cFB5djV3X0RPcVB3WUllRjduMFphMF9RSGZNeDI0dXdybGN2LWl1Q3I1QTdSaWxuTWswNTJBVjFjTElDSmJBNHI4UldRUVFwLXJxMm9PMlliVTNwSGpuTmhiVQ?oc=5"
         }
       ],
       "stages": []
@@ -1457,10 +1392,142 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "spacex",
+        "仁勋",
+        "分手",
+        "划遭",
+        "和黄",
+        "披露",
+        "新计",
+        "最新",
+        "要和",
+        "计划",
+        "遭披",
+        "黄仁"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 11 Nov 2026 17:24:45 +0000",
+      "id": "a9b883cbe14aeb30ba",
+      "person": "马斯克",
+      "published": "Wed, 11 Nov 2026 10:37:46 +0000",
+      "reports": [
+        {
+          "key": "a9b883cbe14aeb30ba",
+          "phase": "突发事件",
+          "published": "Wed, 11 Nov 2026 10:37:46 +0000",
+          "publisher": "cj.sina.cn",
+          "rumor": false,
+          "source": "新浪财经_金融信息服务商",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5aEJTWjdNUy0xTWVnSkdmSkxXU0YtSy0yZE5MRll5c1NpYVNuQmpFMUFLbEMyejlieHQ0MkN0S2hveVRBelJ6bTZEYnZBczJwYmQxakJZZHVjWUw4bDRPeGJrR1QxZzZLeEZfQjJ3?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "caused",
+        "choice",
+        "fury",
+        "huge",
+        "one",
+        "pictures",
+        "viral",
+        "wedding"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 11 Nov 2026 17:24:45 +0000",
+      "id": "11ac88ab6b9508065b",
+      "person": "泰勒斯威夫特",
+      "published": "Wed, 11 Nov 2026 12:00:00 +0000",
+      "reports": [
+        {
+          "key": "11ac88ab6b9508065b",
+          "phase": "争议线索",
+          "published": "Wed, 11 Nov 2026 12:00:00 +0000",
+          "publisher": "heatworld.com",
+          "rumor": false,
+          "source": "Heatworld",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMENkNUtBVnlyU1loMFAwNUQ2a0dOc0VuMG5FTVRjemotVVlTWndqS2JPTzg0M0FaOWJMbzNDWDhvcHFCNW9qdnZLSjhOQWJqUWhRUlNwOEtFbWI1U3hYeTlUUXFOSFVtTGdfREFJS2YtX0gycjJKeWpIMEswVnF6U1psYlM5M3JXTjZudTRHZ1FFaTZnWm5ia18yd21aLTRiMzNCbHRkVll4RkpVY0FWc0ZDVTZqcFpIM3h4Q3BmeVBNSXVLc012RmFkSGNFNnFYVmc?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "breakup",
+        "connor",
+        "dramas",
+        "hellebuyck",
+        "lyrics",
+        "nhl",
+        "ongoing",
+        "song",
+        "trade"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 11 Nov 2026 17:24:45 +0000",
+      "id": "091d46e3b81ad91b8a",
+      "person": "泰勒斯威夫特",
+      "published": "Wed, 11 Nov 2026 13:20:42 +0000",
+      "reports": [
+        {
+          "key": "091d46e3b81ad91b8a",
+          "phase": "突发事件",
+          "published": "Wed, 11 Nov 2026 13:20:42 +0000",
+          "publisher": "bleacherreport.com",
+          "rumor": false,
+          "source": "Bleacher Report",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNEZDczFxdjNFMXczU1Rqd3VoUnlqQnE0bk1JSmJqcVR4Uk9OdGlLQ3Z5c3RvOTdkTzB6anBlUVlyeWZtMThxSzZWdU8xdzIyVWtBdXJBWnFVdHV4QWlLb2pUSGV5MUVjemwxWXhrbzFsR19HTXl5bXRiMUNNYU9CaHFXbjFkOUIzcWJ4NjFzQkt2Zkx4UHVPMG5yV2thYjQ5VkU3cHBVU1BIR0NNaXhrQW1sZEtKOTVnbGVGbW5SckRBZw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "apologize",
+        "blocking",
+        "boy",
+        "fear",
+        "garnett",
+        "kevin",
+        "longer",
+        "players",
+        "saw",
+        "shot",
+        "young"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 11 Nov 2026 17:24:45 +0000",
+      "id": "86ebbe45cb86290f1e",
+      "person": "詹姆斯",
+      "published": "Wed, 11 Nov 2026 14:31:00 +0000",
+      "reports": [
+        {
+          "key": "86ebbe45cb86290f1e",
+          "phase": "道歉回应",
+          "published": "Wed, 11 Nov 2026 14:31:00 +0000",
+          "publisher": "basketballnetwork.net",
+          "rumor": false,
+          "source": "Basketball Network",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQUdxQ3hMcFktLWZmeXJTMjMyRnlkendIVWZ3MDJ6ZDVLV2RNajdaWUdkRlJGeTZRLXcyQXRDeGJGNV8xaEl1VWN5LWRmOXVlekpVSVdpZm41eTd5SUhoRG9uZzc1b2hlUGVJek16X2wxVFBzUEpFbWtUZXR6V2h2dDVETFZaQkdLUmdVa2FsN3Z2ellpM3FkVExQNkVfeDlPenNkUy11dWZDQQ?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Wed, 11 Nov 2026 09:29:43 +0000",
+  "last_run": "Wed, 11 Nov 2026 17:24:45 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
