@@ -2,126 +2,6 @@
   "events": [
     {
       "anchors": [
-        "不大",
-        "两次",
-        "义不",
-        "了两",
-        "已经",
-        "役意",
-        "意义",
-        "次退",
-        "毕竟",
-        "点评",
-        "球迷",
-        "经退",
-        "调侃",
-        "迷点",
-        "退了",
-        "退役",
-        "首次"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 08 Nov 2026 00:55:45 +0000",
-      "id": "41c60f0df6af99fc94",
-      "person": "梅西",
-      "published": "Sat, 07 Nov 2026 23:14:20 +0000",
-      "reports": [
-        {
-          "key": "41c60f0df6af99fc94",
-          "phase": "突发事件",
-          "published": "Sat, 07 Nov 2026 23:14:20 +0000",
-          "publisher": "m.sohu.com",
-          "rumor": false,
-          "source": "搜狐网",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWHk5NjV3QW5jTV9meTRDU0xBQWR6X2VRX3V4RXBkS0l0SlR2TnJFZmxmYVFMQ3BPbFpwT3RuMVJDUWY3V21HMElELXNxNUJySWtRVDE1OEF1WHE5UndFcjQxbnBvWGhuekh6OTNaUGc1ZkRKM0xXOEVuUTF0aUN4Y1Foby1ueW9iOWp0bA?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "主帅",
-        "决定",
-        "帅热",
-        "拒绝",
-        "斯拒",
-        "热苏",
-        "牙主",
-        "绝道",
-        "苏斯",
-        "萄牙",
-        "葡萄",
-        "退队",
-        "道歉",
-        "队决"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 08 Nov 2026 00:55:45 +0000",
-      "id": "818be28d2b7dedbc2e",
-      "person": "C罗",
-      "published": "Sat, 07 Nov 2026 23:52:34 +0000",
-      "reports": [
-        {
-          "key": "818be28d2b7dedbc2e",
-          "phase": "争议线索",
-          "published": "Sat, 07 Nov 2026 23:52:34 +0000",
-          "publisher": "m.sohu.com",
-          "rumor": false,
-          "source": "搜狐网",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMVNieHpZdF9fbHdIMkI0UlNnZVc3Ry1zUkVfb0ZpQzdnQ24yUHhvV1JjSkVJeGpOX09hbjBxM1gyM1BleXppTjBDQzdqNlBTODBOaGpIVElId1VBRmcwRm9uOVctSFV5NzV1aFVHR3hzR3BJeXMxVXE3SU9MM3ppbnBHeUZWZU5LOWozWg?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "中锋",
-        "主力",
-        "争议",
-        "仅发",
-        "力中",
-        "发握",
-        "情未",
-        "手表",
-        "指责",
-        "握手",
-        "新主",
-        "未致",
-        "牙新",
-        "致敬",
-        "萄牙",
-        "葡萄",
-        "表情",
-        "遇指",
-        "遭遇",
-        "锋仅"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 08 Nov 2026 00:55:45 +0000",
-      "id": "e3d090e9b5be0a270c",
-      "person": "C罗",
-      "published": "Sun, 08 Nov 2026 00:00:38 +0000",
-      "reports": [
-        {
-          "key": "e3d090e9b5be0a270c",
-          "phase": "争议线索",
-          "published": "Sun, 08 Nov 2026 00:00:38 +0000",
-          "publisher": "m.sohu.com",
-          "rumor": false,
-          "source": "搜狐网",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYkRaRnhvUjRVc3cyeUJ0anU4MC1EbHdsTHhuOFJvdEdrTDFmZGpvV1FHR253NkZGWk9PbzdBTHIzZ016aFc0SmoxX2o0UWtteU1yMWhMTDlUOGwwNjEzZzlUZ3Zxb2w1N2NZT0h1OU5rVGcwOW5SMjQ1R2hlbXFVZDQ3NzdZeWJGQlNkSQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "万欧",
         "享受",
         "休赛",
@@ -1376,10 +1256,143 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "aespa",
+        "discussing",
+        "friendship",
+        "karina"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 11 Nov 2026 02:14:26 +0000",
+      "id": "6a8072a2cb7c5b1a8c",
+      "person": "Han Soo",
+      "published": "Tue, 10 Nov 2026 22:40:00 +0000",
+      "reports": [
+        {
+          "key": "6a8072a2cb7c5b1a8c",
+          "phase": "争议线索",
+          "published": "Tue, 10 Nov 2026 22:40:00 +0000",
+          "publisher": "global.mediafine.co.kr",
+          "rumor": false,
+          "source": "미디어파인",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ORFNJSlh5Z1VDNlZkUl9jd1lzbXhPRjZVbEtreE9FUnpDMmFoa0N2QjZVVHl5ZFZLWnBtM21nNDNjOVVNS0p5V2hnTDR0OGNlSThQVTFKLWtLWmdCZUxrT1hCX2NlR01QVW1PVXNmMHBnTmRxNzNxc2lHdGg?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "friendship",
+        "karina",
+        "memories",
+        "receives",
+        "sharing"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 11 Nov 2026 02:14:26 +0000",
+      "id": "ad1217ffa312411ab5",
+      "person": "Han Su",
+      "published": "Tue, 10 Nov 2026 23:50:00 +0000",
+      "reports": [
+        {
+          "key": "ad1217ffa312411ab5",
+          "phase": "争议线索",
+          "published": "Tue, 10 Nov 2026 23:50:00 +0000",
+          "publisher": "biz.chosun.com",
+          "rumor": false,
+          "source": "Chosunbiz",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb25HSkwtaHlzTjNjWHgzMVBoa1ktblFzVDgyRjVNVjZLQUhzbzF3ZVNnelJXVFE2d2owZGJEMEFaeTRnNlhuSGIwS0RCN2IyNkJuck85bERVTnd3VnV4SHMtb2N1MTRYSzlRWFdaZGh3SGRrZlFfSlZQLUFBV0d3WWZHcENoRGhv0gGcAUFVX3lxTE11eTVZdk0zRWFGRDZqdXpnYlRDSEF4alZmWW14NW5yTHFoa0c3QU80ZjVBd0JmdGFoYnhMS3NZRXdKQ2JfWG1sa1gwdEJTY2NjUGJPREdxVjdWRXZFMWxSNUgxYVhSOHlOM0NwREp4VHVKU0k4OXlGTlFjVVNTN1VQMEtHeTBEOV9NWVd1WklyRTd4ejhEWGJiU0t6OA?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "一封",
+        "京酿",
+        "仁勋",
+        "信引",
+        "全球",
+        "关注",
+        "动了",
+        "发全",
+        "启动",
+        "围剿",
+        "封道",
+        "引发",
+        "杀令",
+        "歉信",
+        "浪潮",
+        "球关",
+        "美国",
+        "色浪",
+        "蓝色",
+        "追杀",
+        "道歉",
+        "酿馆",
+        "黄仁"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 11 Nov 2026 02:14:26 +0000",
+      "id": "02b57d2073d52f1d4e",
+      "person": "马斯克",
+      "published": "Tue, 10 Nov 2026 23:57:25 +0000",
+      "reports": [
+        {
+          "key": "02b57d2073d52f1d4e",
+          "phase": "道歉回应",
+          "published": "Tue, 10 Nov 2026 23:57:25 +0000",
+          "publisher": "news.china.com",
+          "rumor": false,
+          "source": "中华网",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yRlpvVlN1cGJpV3ViRlVTVE5QWmVySEdDUXNUS0MxRHgyZUhVOUVZekU4TC1FeVpzTEIybE9kMUdqLUFsbXBMNGFIZEY4b2JvWHdtSzBxS0RZNHBEbzlKOUZMWGVPM0tmR0tlSV9Tczg?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "around",
+        "changes",
+        "draws",
+        "home",
+        "kelce",
+        "landscaping",
+        "northeast",
+        "ohio",
+        "travis"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 11 Nov 2026 02:14:26 +0000",
+      "id": "314d2c16dd4fea1540",
+      "person": "泰勒斯威夫特",
+      "published": "Wed, 11 Nov 2026 02:03:00 +0000",
+      "reports": [
+        {
+          "key": "314d2c16dd4fea1540",
+          "phase": "争议线索",
+          "published": "Wed, 11 Nov 2026 02:03:00 +0000",
+          "publisher": "fox8.com",
+          "rumor": false,
+          "source": "FOX 8 News",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUzVCM1lpeGViYTVvdkw4OTJBeDluaTZ0djZJZm9LN21STXZRWmlJSFdzNFM4N3piS09kWEI4RTNnR3hhUTNHT2tHWlVQdDRMT0ZESXVPODR6NkZHa001ZFpHOGpNVy13cnRRWnJRV3hzdHVKcF9raDhjd1dNa3ZiN3FjTFhPQktWS1Y1cTA1NzJUTEtPd1hSX1JNa29hdmJBRXgyN3RCMnRCNHdXY29ZNmdMMThVckVCbTJQZWhZYjQ4UQ?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Tue, 10 Nov 2026 22:37:01 +0000",
+  "last_run": "Wed, 11 Nov 2026 02:14:26 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
