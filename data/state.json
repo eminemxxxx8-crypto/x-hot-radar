@@ -2,90 +2,6 @@
   "events": [
     {
       "anchors": [
-        "万欧",
-        "享受",
-        "休赛",
-        "受生",
-        "回到",
-        "国家",
-        "宅度",
-        "家队",
-        "度假",
-        "欧的",
-        "沙特",
-        "特联",
-        "生活",
-        "的豪",
-        "联休",
-        "豪宅",
-        "退役",
-        "队退"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 08 Nov 2026 06:55:06 +0000",
-      "id": "23bff61c6d300f8d8b",
-      "person": "C罗",
-      "published": "Sun, 08 Nov 2026 05:12:27 +0000",
-      "reports": [
-        {
-          "key": "23bff61c6d300f8d8b",
-          "phase": "突发事件",
-          "published": "Sun, 08 Nov 2026 05:12:27 +0000",
-          "publisher": "news.zhibo8.com",
-          "rumor": false,
-          "source": "直播吧",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83T3NiNElMZDkxOU9KbVZ1TWdJSllSNVpzTy1xOElZcnJPaHFGZktsMnlqdjZ0WmNWMFBoZnRqQm5LdGVjWkpQVm0yOVJfTTJ0ZTJYMHBjWnA3ZDVjQlFjbDZxT1hKb1d4U1hOaUhiMHZ3Zw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "下届",
-        "世界",
-        "主帅",
-        "再退",
-        "出葡",
-        "前主",
-        "发声",
-        "后再",
-        "届世",
-        "帅发",
-        "引前",
-        "杯后",
-        "牙队",
-        "界杯",
-        "盼下",
-        "萄牙",
-        "葡萄",
-        "退出",
-        "退役",
-        "队引"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 08 Nov 2026 06:55:06 +0000",
-      "id": "6ac5536ce161e16270",
-      "person": "C罗",
-      "published": "Sun, 08 Nov 2026 05:33:47 +0000",
-      "reports": [
-        {
-          "key": "6ac5536ce161e16270",
-          "phase": "突发事件",
-          "published": "Sun, 08 Nov 2026 05:33:47 +0000",
-          "publisher": "k.sina.com.cn",
-          "rumor": false,
-          "source": "手机新浪网",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTzBQdl9aYWZ0RmFORjhDWV9lczFfY3JHZU5qR1dEYXh1NVhuUl85VmxkY0s3NGx3M3JPanpkcmthVFRLRmtrbzJhNWU2WGl5c19LWmY2bmNSMzRFWXRhX0lzd2VnT1Q2ZU5pVmlBV3VPMWx4SndtNU9VQ0ZRWFAwcWd3?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "fun",
         "game",
         "knicks",
@@ -216,6 +132,17 @@
           "stage": "道歉回应",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnBxTkVzVnZ6UlBoUDMxbzhNR3F6Z1l4THNZeXgtRDVRbk9aOXF3Q0w2dlNhaUJlWUVjUE1tV3hjUG8wc0JHaGd4QTBZaGtKcWxnQ0ZiWE1RSUEtUktIR1NtYm1sTWZiVi16Ukt2LWNVS1hkWnhudlY0M3lVbll0b1RZMFpGWHdOX1BmbG9JeFFyUzhCeFRUdVFoSi1rSmhxV3dWZ0pMcjBoWWlGa3lhM0MyZw?oc=5"
+        },
+        {
+          "key": "5df756b7f7c216627c",
+          "phase": "道歉回应",
+          "published": "Wed, 11 Nov 2026 01:36:00 +0000",
+          "publisher": "aol.com",
+          "rumor": false,
+          "source": "AOL.com",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3BjbV9ZbVlFa0t4elAtakxPQ0FkR2YyTkRUdVhabkFvX3pINE1Lb2RDNUNPcXNjUXB3WlAtamRwWUZSNjVqbUxOMXppSC1RTVdTcTRvUV85ZlNjb3o4QnE5Q2VpRnZRVUlmVzJ3dF9Zajg2N1lUQlk2azA0Z0JsM1ktM0cwanM?oc=5"
         }
       ],
       "stages": []
@@ -1386,13 +1313,154 @@
           "stage": "争议线索",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUzVCM1lpeGViYTVvdkw4OTJBeDluaTZ0djZJZm9LN21STXZRWmlJSFdzNFM4N3piS09kWEI4RTNnR3hhUTNHT2tHWlVQdDRMT0ZESXVPODR6NkZHa001ZFpHOGpNVy13cnRRWnJRV3hzdHVKcF9raDhjd1dNa3ZiN3FjTFhPQktWS1Y1cTA1NzJUTEtPd1hSX1JNa29hdmJBRXgyN3RCMnRCNHdXY29ZNmdMMThVckVCbTJQZWhZYjQ4UQ?oc=5"
+        },
+        {
+          "key": "d0e3bb87cd13e2ed49",
+          "phase": "争议线索",
+          "published": "Wed, 11 Nov 2026 02:03:00 +0000",
+          "publisher": "fox8.com",
+          "rumor": false,
+          "source": "FOX 8 News",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR0ZnT1VJSFBScmJwMElxbkFNMEZadjZKLTdFVVJQVDlXNDlGMXg4OW5UdXYtRkY0WHpiX180RmpTQ3FjM2NVcUQ2OWhlMVNwaVlOMjhQSWVicnZ0M2gwS0ZsU2tRVHdDdnA1LTJQMjBGNjhJRmpLakMzbUpScWVjM2s3SVBHWlp0SGVXdGIxWTVhWklxMjV1N2tGZDZ3ZFhvdnBObVZTY3I3U3pTdjlFaUEwVXp4NVFjVmphbFVCXzk?oc=5"
+        },
+        {
+          "key": "fc8bc84de342a02ff2",
+          "phase": "争议线索",
+          "published": "Wed, 11 Nov 2026 02:26:12 +0000",
+          "publisher": "fox8.com",
+          "rumor": false,
+          "source": "FOX 8 News",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWWFGckE3Mmsyai1qMUMzaEVZbEpzdFFMcUEzSEpvRC1OMEZQMmZiTld6eVJaVl9fU1hZS2hmRHhZNy1HS0RZS0JuY0l0VHhFU1FhVEZCLUpsWk10ME04VjI1cjhXQVZwQ2Q2WUZTekJpRUxqMTR4endsVkZFcng4T1A1V1ZqVUtfQ3RsdU9NMzd5MVl6eGRSMWp0TVFBeHFad1dsTWFod3dTREnSAbABQVVfeXFMTkJpZVhBaGhQclpTb1BvUld5MDhWems2LU04eVpjdjRpRkNQeWo1cnNrWHVQVlZ1RllMb3VJYkc0elBFOGUyY1drc19udVlnVE9pZXVoU24zYmpJRHFENUVndkhzMFUxYkw4bU8zcWdERjZXM0h2SzFoYWNTNmFLRnpVYy1JWkt3c3M4ODlQZk5ZT2E2TDQ5SnZUVzJpWnd2MExxaElSNHAtNVNVSnE0dVc?oc=5"
+        },
+        {
+          "key": "51f8571e7bf0436973",
+          "phase": "争议线索",
+          "published": "Wed, 11 Nov 2026 02:58:00 +0000",
+          "publisher": "fox8.com",
+          "rumor": false,
+          "source": "FOX 8 News",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNTlCMTEwZ1ZmcHNuMXh1dGlqNnRuVmItRTREcENRcHRaMTI4NDdpTjhmRkx6YnlXMDhOZ3cwZ0RVU0ZSWklyWl9hQ2FuV2syYWM2eEtrQ29BWGZEVUg0N0ItTWJ1bDdqVmRSaXVJai1qWmZoY3RVOV96TzROaTYyRGhScFk0VjZFZHBJZVdIR0lRWEkxX3k2ZTIxYkJnVndjUTRpMWpDR1BvR2IxUkM2YlQ2dnVzSHpu?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "casting",
+        "harry",
+        "potter",
+        "racist",
+        "reboot",
+        "snape"
+      ],
+      "concepts": [
+        "racism"
+      ],
+      "first_seen": "Wed, 11 Nov 2026 09:29:43 +0000",
+      "id": "659339b5e8a2f00f6e",
+      "person": "Opens Up",
+      "published": "Wed, 11 Nov 2026 03:06:00 +0000",
+      "reports": [
+        {
+          "key": "659339b5e8a2f00f6e",
+          "phase": "争议线索",
+          "published": "Wed, 11 Nov 2026 03:06:00 +0000",
+          "publisher": "cbr.com",
+          "rumor": false,
+          "source": "Comic Book Resources",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XZ2xSR2tlRVUwcWZUY2d3S3BrWF80VU85VjlxZl9qMnI5bm1uZm1mdFRsUjR1VTAtanBxbU5oZnNTRXNRa1BINkxiQVVqMlVZRmRJMzFyOGVsRzVFYmdRb3F4MXFBNTJsTlpvOW5EQQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "争议",
+        "佳阵",
+        "其谦",
+        "分却",
+        "劳霍",
+        "却排",
+        "品格",
+        "容引",
+        "引争",
+        "忆其",
+        "排替",
+        "替补",
+        "最佳",
+        "美职",
+        "职联",
+        "联最",
+        "谦逊",
+        "追忆",
+        "逊品",
+        "阵容",
+        "阿劳",
+        "霍追"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 11 Nov 2026 09:29:43 +0000",
+      "id": "a2c94b13381942c6a3",
+      "person": "梅西",
+      "published": "Wed, 11 Nov 2026 06:34:00 +0000",
+      "reports": [
+        {
+          "key": "a2c94b13381942c6a3",
+          "phase": "争议线索",
+          "published": "Wed, 11 Nov 2026 06:34:00 +0000",
+          "publisher": "k.sina.com.cn",
+          "rumor": false,
+          "source": "手机新浪网",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdFQ3VmZoVjBINXlObVUyWVhySGxxeHk4bGRZOHRFVzBZTTVlYjdDV1Z3dUNLN0RWVlJyb2E1Q2lwbGpHLUlFWlFrLUlobEtDdnFuYXI4UllLa3doWV9XR1QzYzJ2M1BQWmd3eENsanhBUWpueVE3Zzh3U0dDeTBqaHYxNDJrLWV1M3lQQzRzWlBnZw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "媒掉",
+        "宣布",
+        "布退",
+        "掉粉",
+        "牙社",
+        "社媒",
+        "萄牙",
+        "葡萄",
+        "退役"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 11 Nov 2026 09:29:43 +0000",
+      "id": "a6d84eea7dbc5d8961",
+      "person": "C罗",
+      "published": "Wed, 11 Nov 2026 06:45:42 +0000",
+      "reports": [
+        {
+          "key": "a6d84eea7dbc5d8961",
+          "phase": "突发事件",
+          "published": "Wed, 11 Nov 2026 06:45:42 +0000",
+          "publisher": "sports.sina.cn",
+          "rumor": false,
+          "source": "新浪网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdmVWTVliTmF0Qy1BcGl0WGkwTjFJd3gxU0JBVEcxLTVxVUJhVGp4cDRWcFpHSnQ1dVE0MDRBMGdkcGQ3ZGJRTFczNkVTbkRmcktfMGlTVEhFUFlVdHZUcXZiZEIxQW9oR3ZZSGtEcnVkbTBLRXdMZm5jbGNBemFGWmhR?oc=5"
         }
       ],
       "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Wed, 11 Nov 2026 02:14:26 +0000",
+  "last_run": "Wed, 11 Nov 2026 09:29:43 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
