@@ -2,124 +2,6 @@
   "events": [
     {
       "anchors": [
-        "addresses",
-        "family",
-        "home",
-        "safety",
-        "stalker"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 09 Nov 2026 01:55:14 +0000",
-      "id": "9f005724bec11bc1d8",
-      "person": "詹姆斯",
-      "published": "Mon, 09 Nov 2026 00:19:00 +0000",
-      "reports": [
-        {
-          "key": "9f005724bec11bc1d8",
-          "phase": "法律进展:被捕",
-          "published": "Mon, 09 Nov 2026 00:19:00 +0000",
-          "publisher": "sports.yahoo.com",
-          "rumor": false,
-          "source": "Yahoo Sports",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb3JISnBLZjZWU2NOclpveFVxNFJjNXU2YTlpWlhhc1BOQ0llNlZ0QnJRUy01UDJUYy1ySmhJSlZmYVZPQVFieXZxTmM3YzFXWS1CdTFNbmVHTkRjZ0tjelduM0k3N25kd0FvVGdkNHhZdHNrT2I2cF9BSUEyVmJ2Njh1WHd2YlRWUFgwdmhR?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "chappelle",
-        "charlie",
-        "dave",
-        "erika",
-        "joke",
-        "kirk",
-        "leaked"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 09 Nov 2026 01:55:14 +0000",
-      "id": "016f4ca4f7a80e500f",
-      "person": "马斯克",
-      "published": "Mon, 09 Nov 2026 00:56:15 +0000",
-      "reports": [
-        {
-          "key": "016f4ca4f7a80e500f",
-          "phase": "争议线索",
-          "published": "Mon, 09 Nov 2026 00:56:15 +0000",
-          "publisher": "complex.com",
-          "rumor": false,
-          "source": "Complex",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYTBCSTVxQk1YUkZtamlndHpQejhoQXg2aUprMm5sM1dJWjNXeXhBV01WeGl6OGE0Ql93RmllWVdXbXRQT0VIZXA5aFliLXV1cXQtUFBTTVAyTVBVZ1JZZUlucnNsR2dQUF9waTMxeHFqa1dZOVZnT3A4dWhzcmRQRl9fNUdzRXh1QXZ3T2NyTklUSjQ2ZDA5dlpaZw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "哲学",
-        "大骂",
-        "学教",
-        "授向",
-        "教授",
-        "智障",
-        "歉了",
-        "的哲",
-        "道歉"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 09 Nov 2026 01:55:14 +0000",
-      "id": "b191041829d2ee2205",
-      "person": "马斯克",
-      "published": "Mon, 09 Nov 2026 01:11:57 +0000",
-      "reports": [
-        {
-          "key": "b191041829d2ee2205",
-          "phase": "道歉回应",
-          "published": "Mon, 09 Nov 2026 01:11:57 +0000",
-          "publisher": "tech.ifeng.com",
-          "rumor": false,
-          "source": "凤凰网科技",
-          "stage": "道歉回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QVFNTcHRta3U5SWR1M2F3ZmxzbGF6YzlKM2JPdUtNZ05idlBBNkhNV3NHXzJKRUJXcEMtNjI4YUdpNkZhT2Z3bUYwWDU?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "breakup",
-        "kelce",
-        "lead",
-        "speculation",
-        "travis"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 09 Nov 2026 01:55:14 +0000",
-      "id": "6a728483fc4bfed889",
-      "person": "泰勒斯威夫特",
-      "published": "Mon, 09 Nov 2026 01:30:00 +0000",
-      "reports": [
-        {
-          "key": "6a728483fc4bfed889",
-          "phase": "突发事件",
-          "published": "Mon, 09 Nov 2026 01:30:00 +0000",
-          "publisher": "uk.news.yahoo.com",
-          "rumor": false,
-          "source": "Yahoo News UK",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ETUE1dEFNOHh0VHcwWVpYOGhJdWg0SUlkM3dyUjFQY1dMc1pPeFUzOHVSOWFMV3B0ZmgtZUNZcDNZNi1DdGZaYl8zY2lQQzFhc215a3NoUExSTHl3d2I4NW93LW1LSlIyYk1QNzNPbzRrcEMwSlRuc25uRQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "boycott",
         "declare",
         "gaibandha",
@@ -735,6 +617,17 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQc3R2QnJsUnNnUnpDM0NZMTBtMkhXNXlfcFhkQTlaYWlYY2hlU1FVb3BYcFM3REVpQ1BBNGprUDJ0ZXdqNjd2X2c4OTE2aHdXMjVvRjBKdTAyVlhGb1B5emZ3eXBkYkNKX1Y5ci1EMV82QWJXQlpZUFJ5VVdjdFo3eUROd1B1R0ZjZVBneXV3ZHBkNHYzS1o2X3NZRmdsdWFvbTVjV3Zod3h5NVh1ZlJ4NmtLWnpXQnliUDMwcVNySlFBQUNRN29zVGsxcFZ4WDFjdE9QTEFGV1FhSXZTTDVxdFlNSTNRUy00QnZfNUdfamVNWGhMMFYyTXdUV29uMVpvRHU2dWxnZHRqN0dyQVVUQW5hR25mVXlRcmJYMmQzZGdSRGJpa1MzZERoaUg5QXlTY0s0M21FSFNkZ0xFTmdnRnhUVm4?oc=5"
+        },
+        {
+          "key": "1702938c490d858f59",
+          "phase": "突发事件",
+          "published": "Wed, 11 Nov 2026 23:17:13 +0000",
+          "publisher": "thechronicle.com.au",
+          "rumor": false,
+          "source": "Toowoomba Chronicle",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaE9kLUFkMnZGWU9wdjc0QVE0ZGpMeTZabDNFT1h5d0xwWHZZcVlLWGU4YnVWU1BudW1HTnY0b1Q0eGVHN0tmazIzNGQzdlFCQmIwcFBuWVNYNGhKbzBsV2UxTDN3bmFhSXR5RGVzZFk3a05WdHU5RGpyRHJVbElXcm5kWVJyVllpR2s4RHNBMTJVZDdlMHdfdzhMYTZTNnNEZ1B6N1l5UWotX3BSMHFJaWhuR3JXTHBWZ3RGZXVIbXczNEtoajh4OEZ0d1c?oc=5"
         }
       ],
       "stages": []
@@ -1538,10 +1431,91 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "佛州",
+        "州新",
+        "州邀",
+        "州长",
+        "当选",
+        "德州",
+        "拉迁",
+        "斯拉",
+        "新当",
+        "特斯",
+        "请特",
+        "迁址",
+        "选州",
+        "道歉",
+        "邀请",
+        "长向"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 12 Nov 2026 04:10:10 +0000",
+      "id": "3b6d0d569cc3aa765e",
+      "person": "马斯克",
+      "published": "Wed, 11 Nov 2026 23:40:00 +0000",
+      "reports": [
+        {
+          "key": "3b6d0d569cc3aa765e",
+          "phase": "道歉回应",
+          "published": "Wed, 11 Nov 2026 23:40:00 +0000",
+          "publisher": "news.ifeng.com",
+          "rumor": false,
+          "source": "凤凰网",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51YUdsclNPcmluUnFUcUdUU3AxNEF3ZEN6YlBuckswQ3g5aTdTY05WZURRREZkN1l0ZElQVjNTcnJ2MjJNUk4yWDJZckU?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "上任",
+        "从国",
+        "位太",
+        "刚刚",
+        "发声",
+        "国家",
+        "太惊",
+        "家队",
+        "岗位",
+        "工作",
+        "式上",
+        "怪从",
+        "惊喜",
+        "新岗",
+        "新工",
+        "正式",
+        "退役",
+        "队退",
+        "难怪"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 12 Nov 2026 04:10:10 +0000",
+      "id": "7fcbecd505493a555b",
+      "person": "C罗",
+      "published": "Thu, 12 Nov 2026 02:21:29 +0000",
+      "reports": [
+        {
+          "key": "7fcbecd505493a555b",
+          "phase": "突发事件",
+          "published": "Thu, 12 Nov 2026 02:21:29 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdVhWM2lQcFphOGJ3TFFvUXkzUm5FaG9TZkFVcU5GbUhyMGloNTlpM1hCQXJZemlRZGhJek5jZEFkMUdRVlhoTFVvUzB0OFYxcU9FR0t0M2JUT0IyN1l5MTg2LUZVMERISHJVQjN4OXNIUThaMGlEUm9HTTZERkk4OWF2c3VwaTd1TW55LQ?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Wed, 11 Nov 2026 23:35:52 +0000",
+  "last_run": "Thu, 12 Nov 2026 04:10:10 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
