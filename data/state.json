@@ -2,244 +2,6 @@
   "events": [
     {
       "anchors": [
-        "cybertruck",
-        "亏损",
-        "停产",
-        "向大",
-        "否认",
-        "因亏",
-        "大量",
-        "客户",
-        "将向",
-        "户退",
-        "损停",
-        "订金",
-        "还订",
-        "退还",
-        "量客"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 10 Nov 2026 10:12:55 +0000",
-      "id": "6dbe5a219ff4c2fd5b",
-      "person": "马斯克",
-      "published": "Tue, 10 Nov 2026 03:58:18 +0000",
-      "reports": [
-        {
-          "key": "6dbe5a219ff4c2fd5b",
-          "phase": "公开回应",
-          "published": "Tue, 10 Nov 2026 03:58:18 +0000",
-          "publisher": "m.sohu.com",
-          "rumor": false,
-          "source": "搜狐网",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMjBZeFItSXFyMmtFa2NnclU0MVRubHplcWlPX0VhalR3N1dXLWhDeE1JU2kyb1ZILW5Id184SEEzQ080SkhFakU4NmxTd3lGRXRhd1dlNW9oWkh5eDV0Y1NKTXRaajZFQXRWbi1yYzNtclZqdFdyd2Zwd0QzQkxIc3J0WWhPYXp0?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "cools",
-        "satellite",
-        "starlink",
-        "tie",
-        "ukraine"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 10 Nov 2026 10:12:55 +0000",
-      "id": "1c9272d76bcae39a2d",
-      "person": "马斯克",
-      "published": "Tue, 10 Nov 2026 05:00:29 +0000",
-      "reports": [
-        {
-          "key": "1c9272d76bcae39a2d",
-          "phase": "争议线索",
-          "published": "Tue, 10 Nov 2026 05:00:29 +0000",
-          "publisher": "ft.com",
-          "rumor": false,
-          "source": "Financial Times",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yOFlRYmpwWF9XR2NBRFRtcHZFQldmTEQtNU5YVzhMUXpYQTdyODdJYS1wQ01jTUQ5eGR5SjBEblFQQVk0WWlZRXphZHNjNHQ3RVJFRC14OW83bmF5Nmk5U2NOcEJZUU4xZFBFVllSWTI?oc=5"
-        },
-        {
-          "key": "8f6ccdef638a986214",
-          "phase": "争议线索",
-          "published": "Tue, 10 Nov 2026 05:07:00 +0000",
-          "publisher": "tradingview.com",
-          "rumor": false,
-          "source": "TradingView",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQWlTYVVJYjZMSXNsdzRaYkFQQUxweWNEY0ZXUFdmVXNDd3NkdTFLa2NOTlVjQUwxQXUyRS1rLTVGUEdaOTd3TE9NcllsUUw2ZmcyLUVVRENHWmNiX1R1UUYtY3NFeFlScnpFVWlxSGZjbkZySFVaQUYyTXpydUV0Uk5BdkRuaDRMSzV6VTZCQUVDMGFFU0ZtcXVSaEJ2U1NNazM0SUpua09jVkc1Y0FBWTdqZURXS1dwR0hSM2wtcWhleWNmMEVqeHUxLWJvR1JYU1hiX0dUTjhYNm9BVU9v?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "starlink",
-        "乌克",
-        "争议",
-        "作的",
-        "克兰",
-        "兰争",
-        "卫星",
-        "发乌",
-        "合作",
-        "在埃",
-        "埃隆",
-        "对与",
-        "度降",
-        "引发",
-        "态度",
-        "时报",
-        "星合",
-        "的态",
-        "融时",
-        "议后",
-        "金融",
-        "降温"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 10 Nov 2026 10:12:55 +0000",
-      "id": "b735a69ceaf748e553",
-      "person": "马斯克",
-      "published": "Tue, 10 Nov 2026 05:18:48 +0000",
-      "reports": [
-        {
-          "key": "b735a69ceaf748e553",
-          "phase": "争议线索",
-          "published": "Tue, 10 Nov 2026 05:18:48 +0000",
-          "publisher": "news.futunn.com",
-          "rumor": false,
-          "source": "富途牛牛",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ0NXS3JHVzlRMFR2XzZGbG13cldzal91V3pZd2hISlNIblBhNk5vSHFDSGpkd25FdGh4azhrN1g1TXBWc3FKYnVsVl95TWg2YnhEenM3TW4xc1NwcGR2MFhrQnM2UHhaRUhOcmEwVEdheXNkRENjbFRQVExQMEx6QVRvbWRqd25RNURjNFp1MEhYdEU0Q1N6a0VR?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "battle",
-        "clasico",
-        "cucurella",
-        "defender",
-        "job",
-        "madrid",
-        "marc",
-        "prefer",
-        "real",
-        "winning"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 10 Nov 2026 10:12:55 +0000",
-      "id": "256e81f308481636d5",
-      "person": "亚马尔",
-      "published": "Tue, 10 Nov 2026 07:21:57 +0000",
-      "reports": [
-        {
-          "key": "256e81f308481636d5",
-          "phase": "公开回应",
-          "published": "Tue, 10 Nov 2026 07:21:57 +0000",
-          "publisher": "barcauniversal.com",
-          "rumor": false,
-          "source": "Barca Universal",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcnprRjRLaXpXTS01UzhJTk9fVDlkWXlZcUVEbEtXOXVXZTk5OTQ5b1J1WF9ZQUVnbmZXVmN5VlRhNFp0MEJWTVp6NXpTeVlwNEt5cXZsYkpQT2dTamZJdUxZc2t4emdoMktYbURoTEJoV0JxWGpOVEVFNlpvaWtSanR1ckZJVlV4MXpBd19sOWJBX0Vfajh1c1I0NWR0QzVlMngxRzlvODV5MnFHOTBxMVdsYWMwM2JCTVVVaGcyWWpoRGw4ekpaMTVyV2w5M0RFeWxUOFFqUEVLQQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "主党",
-        "党拟",
-        "员角",
-        "国民",
-        "拟调",
-        "民主",
-        "焦解",
-        "美国",
-        "联邦",
-        "聚焦",
-        "角色",
-        "解雇",
-        "调查",
-        "邦雇",
-        "雇员",
-        "雇联"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 10 Nov 2026 10:12:55 +0000",
-      "id": "72407220f20fdcd8f5",
-      "person": "马斯克",
-      "published": "Tue, 10 Nov 2026 07:55:06 +0000",
-      "reports": [
-        {
-          "key": "72407220f20fdcd8f5",
-          "phase": "突发事件",
-          "published": "Tue, 10 Nov 2026 07:55:06 +0000",
-          "publisher": "military.china.com",
-          "rumor": false,
-          "source": "中华军事",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mQ2FZc25yLTZINklCcUtkNTZqRzhTeGFZUW5Ic2VwZ0Z0cXNma09pUnExbU5BeEpIZk9MVGZ6YnlfMjA1Y3VwQktNMmlGa1FIZlM5TEprWXFmeFVNMnQ5LTFWeHpMZDg1eTNhRS1KVEE?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "spacex",
-        "starlink",
-        "乌克",
-        "争议",
-        "作英",
-        "信暂",
-        "克兰",
-        "兰争",
-        "合作",
-        "响星",
-        "国电",
-        "影响",
-        "旗下",
-        "星链",
-        "暂缓",
-        "电信",
-        "的合",
-        "缓与",
-        "英国",
-        "议影",
-        "链合"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 10 Nov 2026 10:12:55 +0000",
-      "id": "8b1e9b37d873640bfc",
-      "person": "马斯克",
-      "published": "Tue, 10 Nov 2026 09:11:00 +0000",
-      "reports": [
-        {
-          "key": "8b1e9b37d873640bfc",
-          "phase": "争议线索",
-          "published": "Tue, 10 Nov 2026 09:11:00 +0000",
-          "publisher": "cnbeta.com.tw",
-          "rumor": false,
-          "source": "cnBeta.COM",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kY0Z2bEg4Tnlya1djX0szUFhTbEZyV0hLR3JFVHFmVEE1UUtIVkJkUnk5akhtWFhSNjRnSGJaSXlnMUMzd0c0aUoxR3hWcUFnY0M5c1ozN0tBY3cwNTdEUg?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "calling",
         "celebrity",
         "fakest",
@@ -1898,6 +1660,28 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zTVhzM0F0Vi1qV0lyT0s3Zk80eXBYVXB0X0pfbkRKUGkxYUVtNGhGTnBzZklEWFBNMzZHdDZPTURWcUY1WTBzTTZPNmxGRnhLOFE?oc=5"
+        },
+        {
+          "key": "d378cb5052b0bbeea9",
+          "phase": "突发事件",
+          "published": "Fri, 13 Nov 2026 10:28:12 +0000",
+          "publisher": "k.sina.com.cn",
+          "rumor": false,
+          "source": "手机新浪网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0NPd1lHWHNuR2dkRmc4YnpLS0VMQ05ydjlRSUlRZWQ4dTJzRWFGYTJVMzJ2UnlFUGtEVWV6VUIzTmluMjNRUEU0R3ZWbmlUSkF5cWVDMWxHa0JXNjFuX1Njdzgtc25OV0ExR3NNVGJrcXNWTmprMjMwa0N5RjJXZQ?oc=5"
+        },
+        {
+          "key": "033a8c71905e811eab",
+          "phase": "突发事件",
+          "published": "Fri, 13 Nov 2026 14:11:00 +0000",
+          "publisher": "cnbeta.com.tw",
+          "rumor": false,
+          "source": "cnBeta.COM",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hc2ZMWmRPYjNTekhTcVgzSlo1Qmx2b3hjT1V2WF9VRHlJOWxZSjhyREIwTU9KVWEtQUxOQ0hXeE11eFpTeTBqTTVodEViSjQzanJPVzBZY0dLRm5felpIaQ?oc=5"
         }
       ],
       "stages": []
@@ -2015,10 +1799,212 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "业核",
+        "产业",
+        "人物",
+        "仁勋",
+        "关注",
+        "勋辞",
+        "去留",
+        "回应",
+        "引关",
+        "心人",
+        "核心",
+        "片产",
+        "物去",
+        "留引",
+        "芯片",
+        "辞职",
+        "黄仁"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 13 Nov 2026 16:42:35 +0000",
+      "id": "7284db9700cb643571",
+      "person": "马斯克",
+      "published": "Fri, 13 Nov 2026 10:28:12 +0000",
+      "reports": [
+        {
+          "key": "7284db9700cb643571",
+          "phase": "突发事件",
+          "published": "Fri, 13 Nov 2026 10:28:12 +0000",
+          "publisher": "k.sina.com.cn",
+          "rumor": false,
+          "source": "手机新浪网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSHVyclZqbHdqUUJqWVc1RENNbDV4RTdZNG84RUNkLVE5ZDk3R0NndU44NlViVTRwM2NvcG5iTEx6SGpablczaEl2RVJoLWVmaDRVUGlBYUJJZC1EejlrM3JlRVNOc2FDcUhGWjRlb29WV29hYWJuVUt3bUg5aUYtSg?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "了葡",
+        "他早",
+        "卡萨",
+        "早该",
+        "毁了",
+        "自私",
+        "萄牙",
+        "萨诺",
+        "葡萄",
+        "该退",
+        "退役"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 13 Nov 2026 16:42:35 +0000",
+      "id": "74b34f8da49e116d0c",
+      "person": "C罗",
+      "published": "Fri, 13 Nov 2026 11:14:42 +0000",
+      "reports": [
+        {
+          "key": "74b34f8da49e116d0c",
+          "phase": "突发事件",
+          "published": "Fri, 13 Nov 2026 11:14:42 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUpSQmpXSGpydG1zTkpjSU5jZDZGd3BqbEJYVEpkdlJhS0dESENzRVM5TXNYUnlXT1dSZkx5Y05UNzFudVdxUUI1Vm5PNzh3ZW9wTHA3SDNSeVE5T2loZzJkU2g5QTNjSk1tLUVCdFVCaDBpeDM3aG95LVlBYW9EbnJzd3UtMFZY?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "international",
+        "portugal",
+        "retirement",
+        "shirts",
+        "squad",
+        "tribute",
+        "ultimate",
+        "wear"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 13 Nov 2026 16:42:35 +0000",
+      "id": "e02a7c9129fb557f91",
+      "person": "C罗",
+      "published": "Fri, 13 Nov 2026 12:23:41 +0000",
+      "reports": [
+        {
+          "key": "e02a7c9129fb557f91",
+          "phase": "突发事件",
+          "published": "Fri, 13 Nov 2026 12:23:41 +0000",
+          "publisher": "goal.com",
+          "rumor": false,
+          "source": "Goal.com",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc29UZ29DUGlha3dvdFNsUGZxUGo1TTBzSzZfOHF5OGZvZlFlTWRrSmVlYkpHTUhSUU1HSWdWT2NidG9oa3pZRmdJQ09QZHlvZjZEU3FNVzZtUFFpS2JwTVlqVkpMR3d5VEJrWUpYajU2TmQzZ2ltT3NMdXJBbjhaakZZQURvbmFFN25BUlVHZkhUSGI3ZzdhaTg1S2Vab3prVHBEOEdXV1pHeWY2ZmxSMmY1ZmI1WklNUGROWA?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "care",
+        "defends",
+        "joe",
+        "music",
+        "rogan"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 13 Nov 2026 16:42:35 +0000",
+      "id": "3dd60f716e63decb6d",
+      "person": "泰勒斯威夫特",
+      "published": "Fri, 13 Nov 2026 13:14:11 +0000",
+      "reports": [
+        {
+          "key": "3dd60f716e63decb6d",
+          "phase": "争议线索",
+          "published": "Fri, 13 Nov 2026 13:14:11 +0000",
+          "publisher": "sports.ndtv.com",
+          "rumor": false,
+          "source": "NDTV Sports",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc05PTmRvR0w1dXZ6eXkyRlZoa3FVSHdtWEV2MHNxbWdOUU1kSDh1MFhjZHlQU3gzay1MUnRhTFQwQUd0MVQ1S2M5ZzVkbVk4ZUp1S2RBVXhRajhsYU9LZjZpNmMxZ1hmY2ZFdS1YVExGbHRWM3AtQS1XdWs0MHgzWHk0aVViV0szdGpVTlhHWGtGWXV6UFhHUy1rS05ZeWtOVks1NEpwbmtqWEVEeGJVOVI0R0VraFVUTHc?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "camp",
+        "plans",
+        "portugal",
+        "retire",
+        "retirement",
+        "revealed",
+        "room",
+        "surprise",
+        "training",
+        "tributes"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 13 Nov 2026 16:42:35 +0000",
+      "id": "37714bc3749426e553",
+      "person": "C罗",
+      "published": "Fri, 13 Nov 2026 14:04:00 +0000",
+      "reports": [
+        {
+          "key": "37714bc3749426e553",
+          "phase": "突发事件",
+          "published": "Fri, 13 Nov 2026 14:04:00 +0000",
+          "publisher": "thesun.co.uk",
+          "rumor": false,
+          "source": "The Sun",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVVFzZmU1eXhVcVJRQ0l2LUZxNkF4a0hlZkNIWWYxa0htZldHaDA4b29mTzlBdnVxcVVlR3lzSDh2eVo4TzJGLVQ4NHBOM3NoRkpCUWtGMWZ0YkFHOEdISGpyUEttYnVBTElCWE81WmxWcFlRbTV2RkxPRkJxYThzc19MM2hheDlNX0VtcF9kVERTM01oU3A2SDJBTFJXS2Nja21rVEhR?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "california",
+        "claims",
+        "cut",
+        "dead",
+        "heart",
+        "jesus",
+        "loser",
+        "maga",
+        "muslims",
+        "one",
+        "sparking",
+        "want",
+        "wants"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 13 Nov 2026 16:42:35 +0000",
+      "id": "ecd74424e914fbe4a9",
+      "person": "Who Played",
+      "published": "Fri, 13 Nov 2026 15:45:00 +0000",
+      "reports": [
+        {
+          "key": "ecd74424e914fbe4a9",
+          "phase": "争议线索",
+          "published": "Fri, 13 Nov 2026 15:45:00 +0000",
+          "publisher": "thenerdstash.com",
+          "rumor": false,
+          "source": "The Nerd Stash",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR0RvOC1OLVF4Z1V4QWNfOFdhWXBpZ0M1eGJpRmZwQUpyZE5nMU9rWmRfNEFiYktxNnZzOVVRVDBHXy1YcWo3a0R3NDBmTWRKcGt0VkJWSm1YVVRUbmpSX0w4NXc4MW9zSWJxYXQ4Rm9BYjFlbkNYTTBhR0IySkE1XzZKbjlNWW1meEJ5dnUtbzNCYmNIc0tsa3U1Ynp1cXpxRzAzd0h2UUpPVDMxYjFmZUJZcFo5WWw0WHhQY0tFSkNIa3BGSEloOXBfQnR0dXJtVWdydlBpbTljaTRXeWRWNmE1eWYtZUk?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Fri, 13 Nov 2026 08:30:14 +0000",
+  "last_run": "Fri, 13 Nov 2026 16:42:35 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
