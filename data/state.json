@@ -2,273 +2,6 @@
   "events": [
     {
       "anchors": [
-        "calling",
-        "celebrity",
-        "fakest",
-        "fan",
-        "guard",
-        "knicks",
-        "kolek",
-        "tyler"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 10 Nov 2026 17:52:07 +0000",
-      "id": "d40cf5a0e3ddb37e32",
-      "person": "泰勒斯威夫特",
-      "published": "Tue, 10 Nov 2026 11:01:19 +0000",
-      "reports": [
-        {
-          "key": "d40cf5a0e3ddb37e32",
-          "phase": "争议线索",
-          "published": "Tue, 10 Nov 2026 11:01:19 +0000",
-          "publisher": "news.ssbcrack.com",
-          "rumor": false,
-          "source": "SSBCrack",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWlpVYjlKX2VoLUdxSUlqU3Vqc01UVkF4bGgxT3BFalJRRnZGakRJVDNmSHU2NVlQdEE2UWxlVzFHOWg3S2ZRbEtMOVVibUFLdlE1dzdYa3VfUlpDUEtETW45ZUZndmgwelM4eWFDVVdrS1JzWVZvYnVrZnU1LUxzbTlqNDU0U205Nk8tSFZDbjI5bTNMNndON3VGVmJMZHdNOVBzelNQTEd5RW1ON3BIZkRR?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "billion",
-        "center",
-        "data",
-        "fired",
-        "gas",
-        "plans",
-        "plant",
-        "power",
-        "spacex",
-        "texas"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 10 Nov 2026 17:52:07 +0000",
-      "id": "8f0105308ba27178d6",
-      "person": "马斯克",
-      "published": "Tue, 10 Nov 2026 12:26:30 +0000",
-      "reports": [
-        {
-          "key": "8f0105308ba27178d6",
-          "phase": "突发事件",
-          "published": "Tue, 10 Nov 2026 12:26:30 +0000",
-          "publisher": "benzinga.com",
-          "rumor": true,
-          "source": "Benzinga",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWC1NZVBxdEpaT3R6Rnd6T2ZJTmV6SDUwTXd2dVRlZV9IQV9JRjNjWGJOaUtQbzc2UXdHUU9fQkhvWXBFLWJjNE5MS1FjVHlabXhjTzV3WWNlWk8zR2FHYUdPcTE2OEhIZS05RWdJbWVYem9fS2VIeG11eTAzNS1Ua29MTVNsR3QtWlBWOEZrQXQ1THBJN1JLbEVDbTJ4ek1XQmlmLVdfNFBleG9sak10MzhJRnNkWUtFSW81Znp4WmpQQVZkeDdxMzZuSTgzVmRFVG1XMkxXR1RRM2o5VlNqRUNB?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "araujo",
-        "argentina",
-        "best",
-        "despite",
-        "international",
-        "lionel",
-        "liverpool",
-        "loanee",
-        "losing",
-        "powerhouse",
-        "remain",
-        "retirement",
-        "ronald",
-        "uruguay",
-        "warns",
-        "world"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 10 Nov 2026 17:52:07 +0000",
-      "id": "84afc296162167f5a0",
-      "person": "梅西",
-      "published": "Tue, 10 Nov 2026 13:07:22 +0000",
-      "reports": [
-        {
-          "key": "84afc296162167f5a0",
-          "phase": "突发事件",
-          "published": "Tue, 10 Nov 2026 13:07:22 +0000",
-          "publisher": "livescore.com",
-          "rumor": false,
-          "source": "LiveScore",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQc3R2QnJsUnNnUnpDM0NZMTBtMkhXNXlfcFhkQTlaYWlYY2hlU1FVb3BYcFM3REVpQ1BBNGprUDJ0ZXdqNjd2X2c4OTE2aHdXMjVvRjBKdTAyVlhGb1B5emZ3eXBkYkNKX1Y5ci1EMV82QWJXQlpZUFJ5VVdjdFo3eUROd1B1R0ZjZVBneXV3ZHBkNHYzS1o2X3NZRmdsdWFvbTVjV3Zod3h5NVh1ZlJ4NmtLWnpXQnliUDMwcVNySlFBQUNRN29zVGsxcFZ4WDFjdE9QTEFGV1FhSXZTTDVxdFlNSTNRUy00QnZfNUdfamVNWGhMMFYyTXdUV29uMVpvRHU2dWxnZHRqN0dyQVVUQW5hR25mVXlRcmJYMmQzZGdSRGJpa1MzZERoaUg5QXlTY0s0M21FSFNkZ0xFTmdnRnhUVm4?oc=5"
-        },
-        {
-          "key": "1702938c490d858f59",
-          "phase": "突发事件",
-          "published": "Wed, 11 Nov 2026 23:17:13 +0000",
-          "publisher": "thechronicle.com.au",
-          "rumor": false,
-          "source": "Toowoomba Chronicle",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaE9kLUFkMnZGWU9wdjc0QVE0ZGpMeTZabDNFT1h5d0xwWHZZcVlLWGU4YnVWU1BudW1HTnY0b1Q0eGVHN0tmazIzNGQzdlFCQmIwcFBuWVNYNGhKbzBsV2UxTDN3bmFhSXR5RGVzZFk3a05WdHU5RGpyRHJVbElXcm5kWVJyVllpR2s4RHNBMTJVZDdlMHdfdzhMYTZTNnNEZ1B6N1l5UWotX3BSMHFJaWhuR3JXTHBWZ3RGZXVIbXczNEtoajh4OEZ0d1c?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "calendar",
-        "christmas",
-        "cryptic",
-        "post",
-        "skims"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 10 Nov 2026 17:52:07 +0000",
-      "id": "c1b5b585d835147b31",
-      "person": "金卡戴珊",
-      "published": "Tue, 10 Nov 2026 13:09:42 +0000",
-      "reports": [
-        {
-          "key": "c1b5b585d835147b31",
-          "phase": "争议线索",
-          "published": "Tue, 10 Nov 2026 13:09:42 +0000",
-          "publisher": "tyla.com",
-          "rumor": false,
-          "source": "Tyla",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGdqTFQ3OWpzUmVRZjcyV2N2YmpjTDlERk5ZS2VJZldkUEdKa1RwTjd6a2Z3RXpXN3Jzb1RjR2FrTWFtTFpKbFFpUGFiSWw0UVhlTjdpdWJPTThCTWtYaFhkMmFwUlpjRHhMVXM0Zm9CZ3AtZ3FVSW13WlplR011YjdwalBTTmQxWkhIMGMtNU03dVdEMldpeFhRTmh0YkNuWW1UXzVLcUJUN09uYzNFNg?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "comes",
-        "defense",
-        "ended",
-        "pop",
-        "robbie",
-        "songwriting",
-        "taylor",
-        "williams"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 10 Nov 2026 17:52:07 +0000",
-      "id": "f834687e2d46cf2358",
-      "person": "泰勒斯威夫特",
-      "published": "Tue, 10 Nov 2026 14:30:16 +0000",
-      "reports": [
-        {
-          "key": "f834687e2d46cf2358",
-          "phase": "争议线索",
-          "published": "Tue, 10 Nov 2026 14:30:16 +0000",
-          "publisher": "ca.style.yahoo.com",
-          "rumor": false,
-          "source": "Yahoo Lifestyle Canada",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFNzR4dlRvM0thQXJ4SVBRblpNQnBTMm00S3dMckZaZzNJc0pmTm1aaXlOaC14TU1XUkYtOXBjWHh6WGJPNHFvb001QVU0cUhxZzdtWjhQS1VzYkd1QUNCQW9xR05vM0JhMEtGUXVmNHBNeXBXMU93dEtpSWM?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "ballon",
-        "china",
-        "frame",
-        "good",
-        "heartbreak",
-        "ibrahima",
-        "insists",
-        "konate",
-        "kylian",
-        "madrid",
-        "mind",
-        "real",
-        "very"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 10 Nov 2026 17:52:07 +0000",
-      "id": "8e9ea386a91495d6af",
-      "person": "姆巴佩",
-      "published": "Tue, 10 Nov 2026 14:30:17 +0000",
-      "reports": [
-        {
-          "key": "8e9ea386a91495d6af",
-          "phase": "争议线索",
-          "published": "Tue, 10 Nov 2026 14:30:17 +0000",
-          "publisher": "goal.com",
-          "rumor": false,
-          "source": "Goal.com",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY0R2QmNQdUpIT2NXVDUzQ0NWWHh0b3owQ3lRZnB1bWJfWDROUTg0WW5LOWxwelVpc05MYXR0NURGcHMyYldNNUljS3QydnNONmV3SHVZb1RjdzJaU1lHLWFuSUlsNmdHU2p3U2VVTEJLZDNjQ0ExTlRlYmpKaGZtb0lXMmZBMjFjc0RlUHp3UG52d1ktQjJxTEtVU3VhMGg1QXc?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "allegedly",
-        "family",
-        "man",
-        "property",
-        "safe",
-        "trespassing"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 10 Nov 2026 17:52:07 +0000",
-      "id": "bdb1a5d94a63b6e9cf",
-      "person": "詹姆斯",
-      "published": "Tue, 10 Nov 2026 15:26:43 +0000",
-      "reports": [
-        {
-          "key": "bdb1a5d94a63b6e9cf",
-          "phase": "法律进展:被捕",
-          "published": "Tue, 10 Nov 2026 15:26:43 +0000",
-          "publisher": "aol.com",
-          "rumor": true,
-          "source": "AOL.com",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95aVRRTzNHZmI1YkxmU3l0V0k5VERIUV9DazFodTFuSFl4ZzBCZENaNVd3UFpWVWxIRmNlc2pzSi1rUGZhbnZRT3RwRHFLMkNWa0pjSE1LWUFMU1BwckJCYmdaOUgxNUpqWWpNQldfZDZ4a3NlZDlBbXY5Z2RMZw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "advent",
-        "calendar",
-        "full",
-        "promises",
-        "refunds",
-        "skims"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 10 Nov 2026 17:52:07 +0000",
-      "id": "dc1227acf32cd76117",
-      "person": "金卡戴珊",
-      "published": "Tue, 10 Nov 2026 17:06:22 +0000",
-      "reports": [
-        {
-          "key": "dc1227acf32cd76117",
-          "phase": "争议线索",
-          "published": "Tue, 10 Nov 2026 17:06:22 +0000",
-          "publisher": "hypefresh.com",
-          "rumor": false,
-          "source": "Hypefresh Magazine, Inc.",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQkx2QkMyLWFqcTRSQldieHJFVVB2elpnWWJNbjhPa29hRkp5akhBemtYTlcwMGlybWwxenZGT04tdVpKMU94amlmS05aT2dmS2VwaXQySC1Wcno1d29IanhMVi1DckU1V3dNY2NJOUZqVks0T1hxVTR3UjBRdmRqNWRQTk11YS1pTkN5dXlIcWJpS3RYS2lkdThpOEZYeUJEbXF2bFk4bEE?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "appearances",
         "capped",
         "europe",
@@ -1358,6 +1091,17 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpSDNUbV9LTF9hdUpoUlE2bW85dEEyazRINGlFR2lQWjZ5anhEWS1QTndac2sxOUc2Y2oxWG9YbTVlWXJkS1N1TkJiZjI0b2JacFZVMFJlWmREeUJ4SjJsUmFCVDBSSlROTC1lQ1Z4UTI?oc=5"
+        },
+        {
+          "key": "ef885eff0ee146a35c",
+          "phase": "突发事件",
+          "published": "Fri, 13 Nov 2026 18:25:56 +0000",
+          "publisher": "k.sina.com.cn",
+          "rumor": false,
+          "source": "手机新浪网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MWmQ1NTFjVm9GSmFSYlRrVjBJNUhVUjRUSVpBOTFIZkZKZ0FpQmdZaHIxTHJyQVRZOFNkZXpDWmUzNnZKVzJNRUhTTk1WY0dXNENmbE45Sl9TcnpPZjRhNVhGS0NiUnp1SnYwbEtRMjdzQVE?oc=5"
         }
       ],
       "stages": []
@@ -2001,10 +1745,85 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "celebrity",
+        "charities",
+        "comedian",
+        "donating",
+        "gam",
+        "money",
+        "prize",
+        "ranganathan",
+        "reality",
+        "refugee",
+        "romesh",
+        "spoken",
+        "traitors",
+        "wave",
+        "won"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 13 Nov 2026 22:12:42 +0000",
+      "id": "74b543f6471fd90f4c",
+      "person": "Sebastian Croft",
+      "published": "Fri, 13 Nov 2026 18:16:10 +0000",
+      "reports": [
+        {
+          "key": "74b543f6471fd90f4c",
+          "phase": "争议线索",
+          "published": "Fri, 13 Nov 2026 18:16:10 +0000",
+          "publisher": "facebook.com",
+          "rumor": false,
+          "source": "Facebook",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS0lYX2dlc1hOaDRoR1BmVktkOFhhX1FMUndzODRLYlhjR3ItYTBsZWJXY0J1alZZNDBJenR2dkNVQmN5cGw0TXdUeTJucnhxZkxaUVZOOFRNNkEyZklrQV9vVVFjNkxTRXJWUEVBQUIzbkZSSVRZWVZCbFBEUnVoZnVpa2JrSXB3bEhfMDQwQ3hLU2tCRFBDN2REdE5lTjNDTWlyWk56TkkzaGEtcmNlMVpidFFVZjU4cTgtZ0NPdkI2TmdwYkRCX2FBWTFwQlhDZkpuNnc4RXJOZVAxVEtF?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "之后",
+        "人物",
+        "仁勋",
+        "勋辞",
+        "新闻",
+        "果然",
+        "点新",
+        "热点",
+        "然轮",
+        "职之",
+        "轮到",
+        "辞职",
+        "闻人",
+        "黄仁"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 13 Nov 2026 22:12:42 +0000",
+      "id": "f6322c02ab243851bf",
+      "person": "马斯克",
+      "published": "Fri, 13 Nov 2026 18:25:56 +0000",
+      "reports": [
+        {
+          "key": "f6322c02ab243851bf",
+          "phase": "突发事件",
+          "published": "Fri, 13 Nov 2026 18:25:56 +0000",
+          "publisher": "k.sina.com.cn",
+          "rumor": false,
+          "source": "手机新浪网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nTzYweDFtNTVYNEZ2eEZiQlp6WTctWU1fRnpnNjduaElZdmZIbldwVGtuZmRSUk9fWEJJWDIzZUNyU3ZBalJjR3FwaEZ5eFdPUGdQNUMxREh6TGpGTFg5dENPd0x3NGNWQ0h2N0MzMC1KOGs?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Fri, 13 Nov 2026 16:42:35 +0000",
+  "last_run": "Fri, 13 Nov 2026 22:12:42 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
