@@ -2,97 +2,6 @@
   "events": [
     {
       "anchors": [
-        "arrival",
-        "camp",
-        "delayed",
-        "fuente",
-        "privileges",
-        "spain",
-        "special"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 11 Nov 2026 23:35:52 +0000",
-      "id": "bca1fa98ab2e51bbd0",
-      "person": "亚马尔",
-      "published": "Wed, 11 Nov 2026 20:21:12 +0000",
-      "reports": [
-        {
-          "key": "bca1fa98ab2e51bbd0",
-          "phase": "公开回应",
-          "published": "Wed, 11 Nov 2026 20:21:12 +0000",
-          "publisher": "oskaloosa.com",
-          "rumor": false,
-          "source": "Oskaloosa Herald",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNd1RVZHNCdG83cENGbnRvbkJxWkxqenpLdDhyQjhLR2pJdC15TzVIUHF6aVlpTy1uSVhmbXBhYzBCUWZxUDBLX2xnQmNiOXF1ek9YTndSS295aUlua0lPMTg3bE5hMHRiX0xvN1REY1lVN0hFeVVOMnBmenBSeGhpVFVIZUNPOUNURmVCQlN5Slkta3YxeVJTbTZ5b3BUX1JLUGZvR3UzTmVqU1FJZmgxczRCUHhYZzFleG5uS3piOHNuQUhURUxMLS1PVTFwd0x5UGRIN3pqN2dYSG0yejVUNnl1dmJkY1VibnF5aVJKQThXaUNuVE84WlFLcVRmWlRhSmZNVl9raF96ZVFYTXB3TW5SQTYwVXBTSnc?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "career",
-        "portugal",
-        "post",
-        "retirement",
-        "social",
-        "teases",
-        "venture"
-      ],
-      "concepts": [
-        "social-post"
-      ],
-      "first_seen": "Wed, 11 Nov 2026 23:35:52 +0000",
-      "id": "08b6f6bad5136f790e",
-      "person": "C罗",
-      "published": "Wed, 11 Nov 2026 20:43:31 +0000",
-      "reports": [
-        {
-          "key": "08b6f6bad5136f790e",
-          "phase": "突发事件",
-          "published": "Wed, 11 Nov 2026 20:43:31 +0000",
-          "publisher": "yahoo.com",
-          "rumor": false,
-          "source": "Yahoo",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0ZIaHAtSHlkeTdCbVRxTnpuUkQxVzRUT202ZWNJQnBzU3A1Z2RfbVFQaE81RnZMWnVvX3U3ZDROcGhrekpHZGFXOEx5Ql8zenZIYzVRWEFXOWl4UVhydWJ4MW53ekxUWGpkcHR3T2xKR1lRNVR4aGRRaW40ZkN0SWNxNXg1b3RuWTFyaGFlbEVEaW1HTE1KMWlXcjNiR2Q2Rmx2UA?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "contact",
-        "criticism",
-        "george",
-        "harsh",
-        "paul",
-        "reaction"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 11 Nov 2026 23:35:52 +0000",
-      "id": "579cb182202091a013",
-      "person": "詹姆斯",
-      "published": "Wed, 11 Nov 2026 21:43:48 +0000",
-      "reports": [
-        {
-          "key": "579cb182202091a013",
-          "phase": "争议线索",
-          "published": "Wed, 11 Nov 2026 21:43:48 +0000",
-          "publisher": "marca.com",
-          "rumor": false,
-          "source": "MARCA",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQV1Zkb19DSEp2ci1wei12bnpBamNpSlhiZ3RtbjZrbGtzRVNBbERnei1WQ203aVd3dHZHLXBjZ0FGLTA3RE0tSXhHTlVjWnV6b0hDMVJQQTlqR2FheUV1NGRoNGFjSnFrTFlGeC02b0JSdDdHNjgwOENtclAtWnJnTVRwN2JCUG02YlVFemxCREstWnZTYURDWHJ1aG1WN1Y5bDVGRnR0LXFaajhra3Y0VHFhWFUwcUh5UWpOc2VyZjR5aENfU0J3SER2T1h2aWFnMU5pZXFrWFRGRWlySkNIZ3lFbHFhU1ZKRHR4blFvRHlVQ0XSAfMBQVVfeXFMT1R2V0gyYUg4WHFob0JTX1AtekJZSURsYkx4WHpFOVFReTR1SFo1VlBTS1ppNmNnQW9IOE45UXFJLVZ6Y3Z0WHFzcHFiQlF4cTVORUliVkNOWXJVVFZhTl9adDBzcDl3VTg3T1hxSU4wWnJSVDNDWjc3dkU4aVJGZkdIbkh2Q1A1MEpjZGIyTVRfTjdkVUY1WFNTZ3BOVjVSZWVXdWRCOEoteTRGSUVUR1Y1eFdWN1R3WTlKNUs5d29LYUREaVNEcnRJaF90b3NpVlk4Z1NsMlFYY1Q5aVVYMmVDM0ZuWVJLWDhUUnBSRFJBZnBr?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "佛州",
         "州新",
         "州邀",
@@ -2229,6 +2138,17 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNWU0dHpvZlF5Rkp2LW5aMkFROGo2UDluanF5alhPTlFERnNYVUhQbm4tWGZjVzFSaTdRb1dEc05kSnZIdWZSWkVUMmllNVFEcWNWNjdPUkxJUEppZ1dYMzhZVF9XUHFLSHplNlFKTENsX2huZDdObFhLRVQzbnRWeWxIbmdrb3FMOTJiQTVyeC1WcktPZ0ZRbUNKb0FmM0k?oc=5"
+        },
+        {
+          "key": "f1d908cce5475157d4",
+          "phase": "突发事件",
+          "published": "Sat, 14 Nov 2026 22:14:48 +0000",
+          "publisher": "talksport.com",
+          "rumor": false,
+          "source": "talkSPORT",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXZCOW1kbzNkNlVEa2F5U1ZUc2NSR0FXaExJRXYzdmJmZXdPLWg3RDZhbWo3NTAzaEJqZ1JtcjhyUnNJeW95V2xscU84c01FVnh1U2cxUXNZOWZlczZ3OTdIMzFURFR4cnNNMlE1QktZLXdyS0lrTWlyQ19wTlMtNUhLa2djdnNqT2NULTZWM3RqNTZ1Tkdfalc0Yw?oc=5"
         }
       ],
       "stages": []
@@ -2386,10 +2306,96 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "和阿",
+        "国家",
+        "均遭",
+        "失利",
+        "家队",
+        "廷首",
+        "役后",
+        "战均",
+        "根廷",
+        "流言",
+        "牙和",
+        "萄牙",
+        "葡萄",
+        "言板",
+        "退役",
+        "遭失",
+        "队退",
+        "阿根",
+        "首战"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 14 Nov 2026 23:59:46 +0000",
+      "id": "ce3e16e231eb8a1398",
+      "person": "梅西",
+      "published": "Sat, 14 Nov 2026 21:46:58 +0000",
+      "reports": [
+        {
+          "key": "ce3e16e231eb8a1398",
+          "phase": "突发事件",
+          "published": "Sat, 14 Nov 2026 21:46:58 +0000",
+          "publisher": "bbs.hupu.com",
+          "rumor": false,
+          "source": "虎扑",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3aWk0U2xHM0lHSFVaXy0zNDVtMFpoTzFGMm5MSy1JZjRvOWFjd1ZlNG5TRUxlM0VhUzk3T0t5eWtBbW5EMWpURk5HOA?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "丹麦",
+        "后葡",
+        "役后",
+        "惨败",
+        "牙首",
+        "萄牙",
+        "葡萄",
+        "败丹",
+        "退役",
+        "首战"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 14 Nov 2026 23:59:46 +0000",
+      "id": "ea24199e4a86ecb1c6",
+      "person": "C罗",
+      "published": "Sat, 14 Nov 2026 22:34:00 +0000",
+      "reports": [
+        {
+          "key": "ea24199e4a86ecb1c6",
+          "phase": "突发事件",
+          "published": "Sat, 14 Nov 2026 22:34:00 +0000",
+          "publisher": "k.sina.com.cn",
+          "rumor": false,
+          "source": "手机新浪网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdHRBU1Axb3JsLUVLaEE2ck9FVDAyU2lLN3pkYWhCa3lYNWt1SUp0bWtRaXZ1aXdidVlzTWtoX3lpSUx1enNpNGRYSnQ4LUt6ZmIzMU5rclVJUnRjQkxpVkc1blU2Y3oycWJicFJaMVVsbVQ1aW41MW9yellWS3dmRA?oc=5"
+        },
+        {
+          "key": "723d76d2911174e76e",
+          "phase": "突发事件",
+          "published": "Sat, 14 Nov 2026 22:52:53 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZTR1eS1QQTZkaFRSR1g2OWpYVjNGMWtxWDdJWkxMeFE1U21SVVdtTUdHclN6WW1sVUlxS1FpWXJDMF9UU3pKX0JiczlzMVdIMUhOSF9nSmtSdkZtWXNMWWxQZVpMNlBXWkp6UmhFcWZFU0lIU1RvYVNkeDRzRjZXNW5TVUF3cWZsYl9RSw?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sat, 14 Nov 2026 20:17:44 +0000",
+  "last_run": "Sat, 14 Nov 2026 23:59:46 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
