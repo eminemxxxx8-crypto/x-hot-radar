@@ -2,114 +2,6 @@
   "events": [
     {
       "anchors": [
-        "casting",
-        "harry",
-        "potter",
-        "racist",
-        "reboot",
-        "snape"
-      ],
-      "concepts": [
-        "racism"
-      ],
-      "first_seen": "Wed, 11 Nov 2026 09:29:43 +0000",
-      "id": "659339b5e8a2f00f6e",
-      "person": "Opens Up",
-      "published": "Wed, 11 Nov 2026 03:06:00 +0000",
-      "reports": [
-        {
-          "key": "659339b5e8a2f00f6e",
-          "phase": "争议线索",
-          "published": "Wed, 11 Nov 2026 03:06:00 +0000",
-          "publisher": "cbr.com",
-          "rumor": false,
-          "source": "Comic Book Resources",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XZ2xSR2tlRVUwcWZUY2d3S3BrWF80VU85VjlxZl9qMnI5bm1uZm1mdFRsUjR1VTAtanBxbU5oZnNTRXNRa1BINkxiQVVqMlVZRmRJMzFyOGVsRzVFYmdRb3F4MXFBNTJsTlpvOW5EQQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "争议",
-        "佳阵",
-        "其谦",
-        "分却",
-        "劳霍",
-        "却排",
-        "品格",
-        "容引",
-        "引争",
-        "忆其",
-        "排替",
-        "替补",
-        "最佳",
-        "美职",
-        "职联",
-        "联最",
-        "谦逊",
-        "追忆",
-        "逊品",
-        "阵容",
-        "阿劳",
-        "霍追"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 11 Nov 2026 09:29:43 +0000",
-      "id": "a2c94b13381942c6a3",
-      "person": "梅西",
-      "published": "Wed, 11 Nov 2026 06:34:00 +0000",
-      "reports": [
-        {
-          "key": "a2c94b13381942c6a3",
-          "phase": "争议线索",
-          "published": "Wed, 11 Nov 2026 06:34:00 +0000",
-          "publisher": "k.sina.com.cn",
-          "rumor": false,
-          "source": "手机新浪网",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdFQ3VmZoVjBINXlObVUyWVhySGxxeHk4bGRZOHRFVzBZTTVlYjdDV1Z3dUNLN0RWVlJyb2E1Q2lwbGpHLUlFWlFrLUlobEtDdnFuYXI4UllLa3doWV9XR1QzYzJ2M1BQWmd3eENsanhBUWpueVE3Zzh3U0dDeTBqaHYxNDJrLWV1M3lQQzRzWlBnZw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "媒掉",
-        "宣布",
-        "布退",
-        "掉粉",
-        "牙社",
-        "社媒",
-        "萄牙",
-        "葡萄",
-        "退役"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 11 Nov 2026 09:29:43 +0000",
-      "id": "a6d84eea7dbc5d8961",
-      "person": "C罗",
-      "published": "Wed, 11 Nov 2026 06:45:42 +0000",
-      "reports": [
-        {
-          "key": "a6d84eea7dbc5d8961",
-          "phase": "突发事件",
-          "published": "Wed, 11 Nov 2026 06:45:42 +0000",
-          "publisher": "sports.sina.cn",
-          "rumor": false,
-          "source": "新浪网",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdmVWTVliTmF0Qy1BcGl0WGkwTjFJd3gxU0JBVEcxLTVxVUJhVGp4cDRWcFpHSnQ1dVE0MDRBMGdkcGQ3ZGJRTFczNkVTbkRmcktfMGlTVEhFUFlVdHZUcXZiZEIxQW9oR3ZZSGtEcnVkbTBLRXdMZm5jbGNBemFGWmhR?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "spacex",
         "仁勋",
         "分手",
@@ -1904,6 +1796,28 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZjh2ajdIY0NLX0xZUFY0M184SHQ3VGdnOHYzc3BhVUNETEhCLUExdklzOTlqamVMMTFTSjdwbm1GSEFSR3M0Yi16a1VzZHR5RUU5WjJuZmNidFY0OTVQRGNXSnJIY2ZYcTdvSVgyY2k2QllYUVc0Zm55dEhGMml0WnZmbUpwWHJtUVR6TlVJRHhmT2ZzQm0yLVZLSzZuWGQ1?oc=5"
+        },
+        {
+          "key": "7432d99091dc29f59f",
+          "phase": "突发事件",
+          "published": "Sat, 14 Nov 2026 11:17:36 +0000",
+          "publisher": "batimes.com.ar",
+          "rumor": false,
+          "source": "Buenos Aires Times",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORy1VRXZlcnZCZ1FqMjBCWGpqblh4QjEweVh3bjZCb3JYZERMLXhwNTJKTDdMLXVxeDVBZVJTRzR4OEtxa3pNa1ZCMEZ5cnViTGdhUnRiWVg5cUpiT1NURk9oa2lSVmRiNXBMRzlmSmlDN09HQW94eE9ZWEQxT01UR1ZIN1hfVHEzQjh6TkN3TURpVmtVLS1fNEpnLUt5YzNUVUVvYWNCQlpGUdIBrwFBVV95cUxOVk1vMEdMSFVRUEMwMHRIcmJQSTZEUzJoX3R6U3RTRFJFVGdUeGpCaDVZMlgxcFY0bEpva3Vvc09mZGJObGpLcHllWjJQaWVEZkZ2ZVNvVzZHSlFQNzNPcmlYM1FTTXB6RnNKR0NaVm9ObG9TUFZLaTJqOWt6WXEtYW9jZUtLeGhsczdOSFQ2VXM3cVBqYURwMUpFeXpHMWV2TmVVVnJGVkZoLTRCcUNZ?oc=5"
+        },
+        {
+          "key": "30e41ae4723a017ba8",
+          "phase": "突发事件",
+          "published": "Sat, 14 Nov 2026 13:48:00 +0000",
+          "publisher": "the42.ie",
+          "rumor": false,
+          "source": "The 42",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53aWo5dmpudHZhQ09vcEhIck5KdlB6WmRUVEp0VGNtUTBhNHNFNkN3Q1ZiSlFQZkMyN3RYSXk3eDRDT1hZVlc0bE5JUWdUcGtQNm1NTG9Ya0VRUmNvcHBrbzRCVGN6cnJZb1JCWFN1LUlsbE8xa0xF?oc=5"
         }
       ],
       "stages": [
@@ -2300,10 +2214,149 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "不应",
+        "仁勋",
+        "体声",
+        "佬集",
+        "前不",
+        "声援",
+        "大佬",
+        "应解",
+        "拯救",
+        "救黄",
+        "束前",
+        "查结",
+        "硅谷",
+        "等硅",
+        "结束",
+        "解雇",
+        "调查",
+        "谷大",
+        "集体",
+        "黄仁"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 14 Nov 2026 15:54:23 +0000",
+      "id": "d330512052527e0ae9",
+      "person": "马斯克",
+      "published": "Sat, 14 Nov 2026 10:25:24 +0000",
+      "reports": [
+        {
+          "key": "d330512052527e0ae9",
+          "phase": "突发事件",
+          "published": "Sat, 14 Nov 2026 10:25:24 +0000",
+          "publisher": "k.sina.com.cn",
+          "rumor": false,
+          "source": "手机新浪网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GLUI4RzFFT0RxYmFpZEZrXy1uYVpqeENUYzV6MlV6NHo3VTd6V1lpWU1SX0luemVCbUpNU3VjNEREMUdyelJFalhjTXlMQlRxMGFkSkM5TjlOVEctT0M2ZG56ZDBRX1cyc2NhM3poWHBuS28?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "before",
+        "decider",
+        "england",
+        "face",
+        "fit",
+        "fuente",
+        "group",
+        "madrid",
+        "special",
+        "treatment"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 14 Nov 2026 15:54:23 +0000",
+      "id": "30234203ec7e37c043",
+      "person": "亚马尔",
+      "published": "Sat, 14 Nov 2026 13:11:46 +0000",
+      "reports": [
+        {
+          "key": "30234203ec7e37c043",
+          "phase": "公开回应",
+          "published": "Sat, 14 Nov 2026 13:11:46 +0000",
+          "publisher": "ibtimes.com.au",
+          "rumor": false,
+          "source": "International Business Times Australia",
+          "stage": "公开回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZEFRTmJ3MEU2SW9OdGMxdUlUV0tEQjAtNE9tVm5HMWlEeWY0anplMnp5ZTNTWFV6d0ZsbzkwazJ0SFN1SEx4UTBHajVTemVnMlBfaVVES0gyN0w2cm1FcFhhOEVlVkY4eGVRbGtGeHo4eWtJel9pOXljMmp3aTQ1SVFyY2toalUtc3lYTg?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "万赞",
+        "外媒",
+        "子获",
+        "帖子",
+        "役帖",
+        "得了",
+        "罗退",
+        "获得",
+        "退役"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 14 Nov 2026 15:54:23 +0000",
+      "id": "ff7ee987690a183788",
+      "person": "梅西",
+      "published": "Sat, 14 Nov 2026 15:40:02 +0000",
+      "reports": [
+        {
+          "key": "ff7ee987690a183788",
+          "phase": "突发事件",
+          "published": "Sat, 14 Nov 2026 15:40:02 +0000",
+          "publisher": "m.zhibo8.cc",
+          "rumor": false,
+          "source": "直播吧",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZZUFsaXJROEk2T0gwUE14RDdqZ0NqZXlaR09sR3FldWVrWFlnOWNEMTRGMGtmWDREVGVOc254X0hPRGRsSm1Ia0IzanR0ekNIUlBEZm5YUW1HWWphX0ZiSHVoQWQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "break",
+        "first",
+        "international",
+        "portugal",
+        "retirement",
+        "since",
+        "sport",
+        "team"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 14 Nov 2026 15:54:23 +0000",
+      "id": "7ab4f0626c81ffa7d4",
+      "person": "C罗",
+      "published": "Sat, 14 Nov 2026 15:49:21 +0000",
+      "reports": [
+        {
+          "key": "7ab4f0626c81ffa7d4",
+          "phase": "突发事件",
+          "published": "Sat, 14 Nov 2026 15:49:21 +0000",
+          "publisher": "thesun.ie",
+          "rumor": false,
+          "source": "The Irish Sun",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNWU0dHpvZlF5Rkp2LW5aMkFROGo2UDluanF5alhPTlFERnNYVUhQbm4tWGZjVzFSaTdRb1dEc05kSnZIdWZSWkVUMmllNVFEcWNWNjdPUkxJUEppZ1dYMzhZVF9XUHFLSHplNlFKTENsX2huZDdObFhLRVQzbnRWeWxIbmdrb3FMOTJiQTVyeC1WcktPZ0ZRbUNKb0FmM0k?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sat, 14 Nov 2026 09:20:59 +0000",
+  "last_run": "Sat, 14 Nov 2026 15:54:23 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
