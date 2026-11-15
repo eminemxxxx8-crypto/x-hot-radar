@@ -2,296 +2,6 @@
   "events": [
     {
       "anchors": [
-        "apologize",
-        "check",
-        "did",
-        "fact",
-        "generated",
-        "gina",
-        "hinojosa",
-        "image",
-        "letter",
-        "open"
-      ],
-      "concepts": [],
-      "first_seen": "Thu, 12 Nov 2026 12:43:51 +0000",
-      "id": "461ebdd7d298726bee",
-      "person": "马斯克",
-      "published": "Thu, 12 Nov 2026 04:37:00 +0000",
-      "reports": [
-        {
-          "key": "461ebdd7d298726bee",
-          "phase": "争议线索",
-          "published": "Thu, 12 Nov 2026 04:37:00 +0000",
-          "publisher": "yahoo.com",
-          "rumor": false,
-          "source": "Yahoo",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM1V2bmxRMUpKdnlka3Y1MTR4S3RGcDBLZ2hCck9MM183R1VlZ0VTVjBXMzZCX1ViMXNKQXAzVXUwRjktbVR3VFN3YzlGREQwQnFSdlpkUXNrUkpvQW9OMWc4ek1NeTNMejVVNEdjNXZuOUU2a0cwS094Y24tSHVCZGZvVDl3c3JHN3dvTmpaRW1vUQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "less",
-        "por",
-        "retirement",
-        "son",
-        "than",
-        "week"
-      ],
-      "concepts": [],
-      "first_seen": "Thu, 12 Nov 2026 12:43:51 +0000",
-      "id": "24f959a3f05760a17f",
-      "person": "C罗",
-      "published": "Thu, 12 Nov 2026 05:52:13 +0000",
-      "reports": [
-        {
-          "key": "24f959a3f05760a17f",
-          "phase": "突发事件",
-          "published": "Thu, 12 Nov 2026 05:52:13 +0000",
-          "publisher": "mensxp.com",
-          "rumor": false,
-          "source": "MensXP",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPenVKdUhQMVVIMXFCd0hDYzNIZVVkUDVnNGZMdUt2SDdfcWF3Y0Z6NWZYbzhHNDhPV011ZEU3NFc3dzZ0RWFPX1ljVWxwRG9QNTgzeXJtODZ6ZVpnWmNwRWNIWUpsRVZJcUlWeHVTOGlvRVNlMXJGOF93Z2xHb1dGOU10c0djQUdacTdTbl9JOGo4b3dSblRjWlYtcHVZZHlmei1KTGt3RWQ0WUxST0J2R1FSYjVNclpBV21fcHAxaGN3TUNUNXZNbUhwMEZSc0NIQjFB0gHYAUFVX3lxTE9oOGdkVThMUkt4bXFwQXVEcmxBQlJQMG50YmR3MkY3QmNrdlA2Z0QtdzlmS3VFb2lhZ2Etc0xRLXhodDZJTExZQUpnQXA4NHRpZmJxZGpvU0FCTHE3VnpacURaSURhMHo1SkJpeDhlenE5VkNILU9pc3dFV2tjLUt3WFFGRUxmQ2V6eHlwSkVqR1Y3NzJEMzE1WlNZMDl0cUoybEJMa1ltSHBza24xa1pBaDFPLVU1bE5GdVFPbEo4OWtldXdUT2ZCSzJPOEZqOVRCTU8wWWxJYw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "consider",
-        "early",
-        "getting",
-        "guard",
-        "hate",
-        "jayson",
-        "knicks",
-        "like",
-        "looking",
-        "lost",
-        "posterized",
-        "retirement",
-        "step",
-        "tatum",
-        "urges"
-      ],
-      "concepts": [],
-      "first_seen": "Thu, 12 Nov 2026 12:43:51 +0000",
-      "id": "659a1ab7fcd70ffc46",
-      "person": "詹姆斯",
-      "published": "Thu, 12 Nov 2026 06:25:00 +0000",
-      "reports": [
-        {
-          "key": "659a1ab7fcd70ffc46",
-          "phase": "突发事件",
-          "published": "Thu, 12 Nov 2026 06:25:00 +0000",
-          "publisher": "sports.yahoo.com",
-          "rumor": false,
-          "source": "Yahoo Sports",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OLUVCN3lzV0g3V0tmZjhKcUI2WldFZEhJU1BfYjQ1S0xMY0lTTjJwTWlYMXo4bU1pSl9zNUhSMW03REtjdTRpeHY4azlsVnlUb1J1Q0l0OHVPcF9PdlY5UDJuX3B6UC1jeHJHLThwN2txUTZVaVFmNmdDWGEyaUE?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "chief",
-        "hiring",
-        "hit",
-        "honour",
-        "huang",
-        "jensen",
-        "nvidia",
-        "would"
-      ],
-      "concepts": [],
-      "first_seen": "Thu, 12 Nov 2026 12:43:51 +0000",
-      "id": "402176e2d655e7ce95",
-      "person": "马斯克",
-      "published": "Thu, 12 Nov 2026 06:57:35 +0000",
-      "reports": [
-        {
-          "key": "402176e2d655e7ce95",
-          "phase": "争议线索",
-          "published": "Thu, 12 Nov 2026 06:57:35 +0000",
-          "publisher": "indianexpress.com",
-          "rumor": false,
-          "source": "The Indian Express",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa2FOYXExMjFHV3ZDNklmVDkyOW1wOGYzekdadzhfR3F6UHBoUDh5V2dXNHdZWHdyRldHREZRaEJkUFktWTdUMHhITnFLNE5MOUt3M3RoNThBUGxQckhCVGRISEphdV8wVzZrVkRDZXctZ2pwcXZzSHVBdGp6VXdENmU4VlpFNkx3a1F1Mk92aUprSXIyaE02bXVQeEUxcjFqV0pJMnRGemxyR1NhX3F6dnhKa2xtNHk1XzgydFNUNTRCQXduY21N0gHOAUFVX3lxTE8ydlQ0X0g1bDlIQ3RpMDBsMHhqdTYtVWZiVXlLN2xvWXZoM3lFcENNZ3F5V3REMl9nVjVDcmVPTlU1UGRubk01c2hsV251ek5JOXYwTEVlU2RCU2pIeGxpTWlmdWR6dlJHcm9lMDJNb2VTaThhS2xKRERWVmZiUmpxM192ZWlZaC1ydUxMeEhWWlBlVE90UW5JM3FmaFI2dWVWNHBydHgxd29DZjgwNEE2RGFpNUphY2RVcTQ4YktqTkZNY2dtV0p4R1ItdkF3?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "一种",
-        "丑闻",
-        "仁勋",
-        "他将",
-        "勋陷",
-        "外情",
-        "婚外",
-        "将是",
-        "恐遭",
-        "情丑",
-        "是一",
-        "种荣",
-        "罢免",
-        "聘请",
-        "荣幸",
-        "请他",
-        "遭罢",
-        "闻恐",
-        "陷婚",
-        "黄仁"
-      ],
-      "concepts": [],
-      "first_seen": "Thu, 12 Nov 2026 12:43:51 +0000",
-      "id": "362d68b3b5a9451b05",
-      "person": "马斯克",
-      "published": "Thu, 12 Nov 2026 07:08:49 +0000",
-      "reports": [
-        {
-          "key": "362d68b3b5a9451b05",
-          "phase": "争议线索",
-          "published": "Thu, 12 Nov 2026 07:08:49 +0000",
-          "publisher": "zaobao.com.sg",
-          "rumor": false,
-          "source": "联合早报",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5SnlndXptbjA4ejdHVTFWS3U1dFNSb1BaaUQ0QWFsMDIzdk5FSFo1bTh6NHNCODgzYTl2ZWZMSWk0a2ZtcF9uLTVaU1luNm9iRWV1UDFBNEFOWDFlMWFfMUFGYzZXQ0kzQnc?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "barcelona",
-        "breaks",
-        "claims",
-        "connection",
-        "driving",
-        "journalist",
-        "national",
-        "spanish",
-        "team"
-      ],
-      "concepts": [],
-      "first_seen": "Thu, 12 Nov 2026 12:43:51 +0000",
-      "id": "b1a24bc530ae0d3dbc",
-      "person": "亚马尔",
-      "published": "Thu, 12 Nov 2026 08:00:00 +0000",
-      "reports": [
-        {
-          "key": "b1a24bc530ae0d3dbc",
-          "phase": "争议线索",
-          "published": "Thu, 12 Nov 2026 08:00:00 +0000",
-          "publisher": "sports.yahoo.com",
-          "rumor": false,
-          "source": "Yahoo Sports",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdlh2SnZqaUs4bGwwMGRid3lZdWZpQjZONXQxcDZqb0NmMXFiaUZrbWpQS1QwQl9YUWtVck9ZTnRfZFE2WEFUOUFNVFpDWEpiWGVBV3FmSUNZbWttbjNWQmlZZG5PZXBJSHZPUm5ZMzViQ0Q2NGwtanJTRkVsNzRkcGRsZkl5ejBGbWhjT0p1ektNZWRTR1A3VGp2OA?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "事会",
-        "仁勋",
-        "仓促",
-        "会仓",
-        "伟达",
-        "体发",
-        "佬集",
-        "促解",
-        "反对",
-        "发声",
-        "商界",
-        "大佬",
-        "对英",
-        "带头",
-        "界大",
-        "英伟",
-        "董事",
-        "解雇",
-        "达董",
-        "集体",
-        "雇黄",
-        "黄仁"
-      ],
-      "concepts": [],
-      "first_seen": "Thu, 12 Nov 2026 12:43:51 +0000",
-      "id": "e4dc52503a2dde12aa",
-      "person": "马斯克",
-      "published": "Thu, 12 Nov 2026 08:47:02 +0000",
-      "reports": [
-        {
-          "key": "e4dc52503a2dde12aa",
-          "phase": "突发事件",
-          "published": "Thu, 12 Nov 2026 08:47:02 +0000",
-          "publisher": "wallstreetcn.com",
-          "rumor": false,
-          "source": "华尔街见闻",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqV19Va1dSYks2U3l3NkQ4VThjR2xPdzRWbE1Dd3k3NE5fNkh5b1k3U2dSVFlzUTh4T2JMN2pTNllHRFAxSWpfQnlNTkd5MHQxT0RZ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "一起",
-        "与好",
-        "享受",
-        "友一",
-        "受退",
-        "夫照",
-        "好友",
-        "尔夫",
-        "役生",
-        "打高",
-        "晒与",
-        "照片",
-        "生活",
-        "起打",
-        "退役",
-        "高尔"
-      ],
-      "concepts": [],
-      "first_seen": "Thu, 12 Nov 2026 12:43:51 +0000",
-      "id": "06ef234e80300f60ce",
-      "person": "C罗",
-      "published": "Thu, 12 Nov 2026 10:00:02 +0000",
-      "reports": [
-        {
-          "key": "06ef234e80300f60ce",
-          "phase": "突发事件",
-          "published": "Thu, 12 Nov 2026 10:00:02 +0000",
-          "publisher": "news.china.com",
-          "rumor": false,
-          "source": "中华网",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lLVpuRWw3YW9qRjNLa0dJbG5JcndJbVNMOF9aUmpxamtkakJOaGJ6dnNJdzZFR1RhaDZsaERmaFV4MzhVWldDUlN2b09rdG9LMkl6Ty1pb2NRUFVRQ29PWkVjSFhvcENtd2Raa0tsYWc?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "仁勋",
         "公开",
         "勋辞",
@@ -1407,6 +1117,17 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zV0NlRUJuOXROT2pBTjNaMnViN2lNdC1mcHFHcWdZdXVaeG1pQ3pYVGtiS0dpLU5HMnI1cjEzZ0RzLVBmdlhuREFYUjZBbnE3bHR3STVMQVFfZHdsQ0JyMWJfTGUwREdnRnpNZG1wdjJKckk?oc=5"
+        },
+        {
+          "key": "bd2a5b0a8704ed00ce",
+          "phase": "突发事件",
+          "published": "Sun, 15 Nov 2026 06:13:46 +0000",
+          "publisher": "k.sina.com.cn",
+          "rumor": false,
+          "source": "手机新浪网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qamlBWlhZcmdrZlQ4MC0wZzJDTHpRUDhvQmw2d1ZSTlBaYXpIajg4eFVMNmtOVTY0YXBkeGkxeW9YR1pGWV9DQmVkdjJBTDNLZWNGNlN5VmtyRUhJSG5ibUo3T0FOM2pDdEEtTGp5eklIQTA?oc=5"
         }
       ],
       "stages": []
@@ -2079,6 +1800,17 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXZCOW1kbzNkNlVEa2F5U1ZUc2NSR0FXaExJRXYzdmJmZXdPLWg3RDZhbWo3NTAzaEJqZ1JtcjhyUnNJeW95V2xscU84c01FVnh1U2cxUXNZOWZlczZ3OTdIMzFURFR4cnNNMlE1QktZLXdyS0lrTWlyQ19wTlMtNUhLa2djdnNqT2NULTZWM3RqNTZ1Tkdfalc0Yw?oc=5"
+        },
+        {
+          "key": "8f0e8285cda6a6b931",
+          "phase": "突发事件",
+          "published": "Sun, 15 Nov 2026 07:45:37 +0000",
+          "publisher": "sports.ndtv.com",
+          "rumor": false,
+          "source": "NDTV Sports",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXcxcXVlMFVNaHpZQjB6clRRY1NCSk4yRkhGS0VYdXNDSkI0SVdlUmZlWTZNaEZGdFo5eWx4TUY1M3Joa2NxT05wVVlCbkR1WmlsdHhKWjR3TXhIbzRvdGhzZVM2MVNzTHo2bUVhVkd2bjJPRi15dTdZZkx0Mkg0VlFBZVZLbFlNRlZjRHNnM3BfbU91ZGFNTWZJdng5ZnNKUzdZUzQ5cHd4aThJRnRzcExFUjJxb0h4S3FOMEJaT3o?oc=5"
         }
       ],
       "stages": []
@@ -2452,10 +2184,304 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "next",
+        "portugal",
+        "project",
+        "retirement",
+        "reveals"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 15 Nov 2026 13:57:48 +0000",
+      "id": "08c3c325e544568db4",
+      "person": "C罗",
+      "published": "Sun, 15 Nov 2026 06:26:00 +0000",
+      "reports": [
+        {
+          "key": "08c3c325e544568db4",
+          "phase": "突发事件",
+          "published": "Sun, 15 Nov 2026 06:26:00 +0000",
+          "publisher": "yahoo.com",
+          "rumor": false,
+          "source": "Yahoo",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRmpMLXViMW9oeGtfUlBZOUxkMC1oNGdPa3FSeVoyOVlhVWw3Yjk4VFBrYmVLMDRJWGVpc3VSOW81bWFnaFFLUGpBaG1rVXZ1aWpkLUFyUjg1bGNNeWppdVYwcDNTdm5IX0stN0M0YzdfckJOcDFqWEZVWlFJd1p3RWpPWFM3bjBWYldzZnc2VmlITVpVSnc0UUxaYlltbTBuRFJR?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "das",
+        "denmark",
+        "lose",
+        "portugal",
+        "quinas",
+        "ratings",
+        "retirement",
+        "selecao"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 15 Nov 2026 13:57:48 +0000",
+      "id": "aca464d0c569716d76",
+      "person": "C罗",
+      "published": "Sun, 15 Nov 2026 06:59:04 +0000",
+      "reports": [
+        {
+          "key": "aca464d0c569716d76",
+          "phase": "突发事件",
+          "published": "Sun, 15 Nov 2026 06:59:04 +0000",
+          "publisher": "sportstar.thehindu.com",
+          "rumor": false,
+          "source": "Sportstar",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSjBaOGNYUUVjWXltSHpjNnZ5WEFMZnVEaEkxYjN3R0MyTWhVTkM1ZWFvUm5ycTZWbTd1QXJPS29qTzZmMGdyc05fV0tQRG1ZQ3RHbm9rRjYwLTF4Ml9ENGNmTWw5Ykg3dWxIbDdISXZCQy14V0tZWm1xX1lxSG4tbzBMNHF0cHFsakxqSmtkWW5UUTE4QlJtOGd3bE5jdzI5X2gwdVQwdkRBclVsb3lEcENkaEYxQUZ6b25YS0FXaDAtU2ZWOURpVFRGby1paUdRX0JUbjBFaHhxWXduYzl30gHmAUFVX3lxTE16Y0duTURwc25PWE9KOERpZ05ZV0lHYWZpRjZaR0VERGI3X1F4NFVQdklXQ1pRNnVvTHhoc0tMdGdjc2ZaRGlKNUxkbTdWb0dKQlV0YTE1T2J2ZXZrNF92bTBaQnJ0VXNNMFFrTFZqZ1UxQjhNbHFPVFV5ZGs3aWk0MGpCR2tzcnZGWnJxbVN0LTVyWFg4el9XVFBxX3FXbC1BNXdQankzNExhUXNlczRFRjRxOVJ2cWFSZGwxdHRPcjNSQ1RGN2R0ZURFSU00MkdPQXdMOHJKMWhJUlZaUXlIbFdYdzR3?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "后阿",
+        "尔瓦",
+        "廷首",
+        "役后",
+        "战输",
+        "斯破",
+        "根廷",
+        "瓦雷",
+        "破门",
+        "输球",
+        "退役",
+        "阿尔",
+        "阿根",
+        "雷斯",
+        "首战"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 15 Nov 2026 13:57:48 +0000",
+      "id": "36a0f5af9732fa6ee0",
+      "person": "梅西",
+      "published": "Sun, 15 Nov 2026 07:12:38 +0000",
+      "reports": [
+        {
+          "key": "36a0f5af9732fa6ee0",
+          "phase": "突发事件",
+          "published": "Sun, 15 Nov 2026 07:12:38 +0000",
+          "publisher": "k.sina.com.cn",
+          "rumor": false,
+          "source": "手机新浪网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Ia3hyanJ4UTVMXzZoVlR1VUlEWE04RzhwX2JRTFJnNjF6STlsWlZ6SWRBYWFPRmhQTUxJTmk3eDVSMlNSVmhiVEw0Rzl5Nk5xVWJBNW90Wks5c0JsNTJYbjg2NHFnSHNrXzEwczVhUldQNXM?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "appearances",
+        "capped",
+        "europe",
+        "international",
+        "men",
+        "most",
+        "players",
+        "portugal",
+        "retires"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 15 Nov 2026 13:57:48 +0000",
+      "id": "68bdb8bc756416d238",
+      "person": "C罗",
+      "published": "Sun, 15 Nov 2026 07:17:35 +0000",
+      "reports": [
+        {
+          "key": "68bdb8bc756416d238",
+          "phase": "突发事件",
+          "published": "Sun, 15 Nov 2026 07:17:35 +0000",
+          "publisher": "uefa.com",
+          "rumor": false,
+          "source": "UEFA.com",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd0lweDJ6MkR2QVJLZER6WnB6aFFQNDVxNlNwTjN3N1FlWWlTSzc5NWE4YkVCaHV0c1ZFb01QcDdTTmdtMkhFSjlPb21FM1JsZWJ5dG5uLU5SV2J2VS1ZX2xKR3FUd2ZGLW0tZUlsN2NfaGJJZ21BRnBlSlBBS3NlNnRiQUpqNmVqa0hWeGRSbHVURWN2M0MybXBNb2Y2VFZLbmJtV081b3JaNW1vZXR4T0pyc19odG9UcloyTDEwMXhuTDY5TFdnRmtjME8wb3pLZ1liWQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "character",
+        "driving",
+        "drunk",
+        "eight",
+        "issue",
+        "letter",
+        "pyo",
+        "repeated",
+        "sorry",
+        "speaks",
+        "times"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 15 Nov 2026 13:57:48 +0000",
+      "id": "6d343a33246bcbfb58",
+      "person": "Go Kyung",
+      "published": "Sun, 15 Nov 2026 08:36:16 +0000",
+      "reports": [
+        {
+          "key": "6d343a33246bcbfb58",
+          "phase": "道歉回应",
+          "published": "Sun, 15 Nov 2026 08:36:16 +0000",
+          "publisher": "starnewskorea.com",
+          "rumor": false,
+          "source": "스타뉴스",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QbU9leGZpaU5LNG9FeVpwaEJSTnZWZjJkVWgtQlN4MkplcW9jOXVwQzg3WUlkdEpMVVRLaC1GNVZlZS1BdUhoSVdxRThwZndvVHRWaGZucG9DUnJiUkxJUkNSV1dodnloTjdBcllydUlhVzdxWGM0?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "company",
+        "jesus",
+        "jorge",
+        "keep",
+        "missing",
+        "only",
+        "question",
+        "someone",
+        "what"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 15 Nov 2026 13:57:48 +0000",
+      "id": "66bf471a0bbfed4a19",
+      "person": "C罗",
+      "published": "Sun, 15 Nov 2026 11:43:59 +0000",
+      "reports": [
+        {
+          "key": "66bf471a0bbfed4a19",
+          "phase": "公开回应",
+          "published": "Sun, 15 Nov 2026 11:43:59 +0000",
+          "publisher": "goal.com",
+          "rumor": false,
+          "source": "Goal.com",
+          "stage": "公开回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV2prZFNUVDA1d2FCOHdwODFiNl9qU0h3UjFHdk56WXAyRlVJQUhTQzBJT1dJMEhPX3o4ZjhfLUVKdVJBSGEwd0liVDJZVXFsaWwyN0Q3cjVXdlM4TVVFU0JpRjN0N1VwbTRuNnJiaF8yR1NOWWxDLVRwNkNLWmhYc1IyUFAydm5LekpOMkc0amI1MExRdVVyTnpjc2VLUlk?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "corrido",
+        "performing",
+        "queretaro"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 15 Nov 2026 13:57:48 +0000",
+      "id": "67eb87652a22f5f994",
+      "person": "Gabito Ballesteros",
+      "published": "Sun, 15 Nov 2026 12:21:21 +0000",
+      "reports": [
+        {
+          "key": "67eb87652a22f5f994",
+          "phase": "法律进展:被捕",
+          "published": "Sun, 15 Nov 2026 12:21:21 +0000",
+          "publisher": "parriva.com",
+          "rumor": false,
+          "source": "Parriva",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTEROb3E0SnVBaktkMnZxQ2RObFo5UHk3bHNxZ0lpSWVjblQ4ME8tM3YybV9HS3FURzU1SXFXMFJVcnBiRDJQdjZoVXp3UHpaU1M3U2xNT2dlcGlVM1podldRSURqazlXZjBHV1gyZHc4QThBUXVvYjRxSDIyeXlvbkNBRUpjY0dhQjE0SnJ4eWhCLVJoSlU0WEl1eXNOSEF0ekFJTHphRVpUY1lDdmM3bg?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "addressed",
+        "boss",
+        "historic",
+        "loss",
+        "portugal",
+        "retirement",
+        "turn"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 15 Nov 2026 13:57:48 +0000",
+      "id": "5cd6b94811931be333",
+      "person": "C罗",
+      "published": "Sun, 15 Nov 2026 12:35:25 +0000",
+      "reports": [
+        {
+          "key": "5cd6b94811931be333",
+          "phase": "突发事件",
+          "published": "Sun, 15 Nov 2026 12:35:25 +0000",
+          "publisher": "livescore.com",
+          "rumor": false,
+          "source": "LiveScore",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVXVOZ2JDZTJ4WWtMZU90OUFkLWZmdi1fSkN5OWR5dEJNdjZiUk9TbXdXRl9pblR1c2RsVjJqck9ndXRaUHJ6WXN2RERGSTNJVmFUdUFRVjVQaEtPenUteThZMFZoc2Y5MjNxTGdpNmhMSDYzWnc2eVQ0cGdJRVRtM3VYOU9FeUxBajRSQ1Y3TXVablduc1ktdGtaQmVxZUhwYjBMcGE3V21uQWhNZFJDUk9aQWZDREZvMkFrVkJSWWY1OVBUeUw5Y004NTBBb28?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "不堪",
+        "主场",
+        "众率",
+        "后阿",
+        "场观",
+        "失利",
+        "廷首",
+        "役后",
+        "惨淡",
+        "战失",
+        "朝落",
+        "根廷",
+        "淡不",
+        "率仅",
+        "王朝",
+        "落幕",
+        "观众",
+        "退役",
+        "阿根",
+        "首战"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 15 Nov 2026 13:57:48 +0000",
+      "id": "dc82cb00b88ae21cb0",
+      "person": "梅西",
+      "published": "Sun, 15 Nov 2026 13:09:24 +0000",
+      "reports": [
+        {
+          "key": "dc82cb00b88ae21cb0",
+          "phase": "突发事件",
+          "published": "Sun, 15 Nov 2026 13:09:24 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSFhqUlZlRGlFZGt0czg1TGROS2MyT2pCaEY4X3dxdXJsMWtONWxuUmpWTURGVTkxTmlIaVF5NTlfWjB2Mm1xcGd1MC1pQTZfdWpyOUFELXBoaGk0U3NoXzljaHNhbWdhQXBzeG5QXzRxYUNzY0o5UWdET08wZk5lblAyVUVUenpBeFc2Mg?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sun, 15 Nov 2026 06:13:08 +0000",
+  "last_run": "Sun, 15 Nov 2026 13:57:48 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
