@@ -2376,6 +2376,17 @@
           "stage": "公开回应",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV2prZFNUVDA1d2FCOHdwODFiNl9qU0h3UjFHdk56WXAyRlVJQUhTQzBJT1dJMEhPX3o4ZjhfLUVKdVJBSGEwd0liVDJZVXFsaWwyN0Q3cjVXdlM4TVVFU0JpRjN0N1VwbTRuNnJiaF8yR1NOWWxDLVRwNkNLWmhYc1IyUFAydm5LekpOMkc0amI1MExRdVVyTnpjc2VLUlk?oc=5"
+        },
+        {
+          "key": "f427a1c101630120c1",
+          "phase": "公开回应",
+          "published": "Sun, 15 Nov 2026 13:56:14 +0000",
+          "publisher": "beinsports.com",
+          "rumor": false,
+          "source": "beIN SPORTS",
+          "stage": "公开回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQS0xRRGZfM1BSSDk2STFWWWxPRExTMlBXeGZXZUNHX1lwWWgtWjZvTUF3YnZMUENNRzlUcExqXzJlT09scVdwcU5ZT3l1ZmliNzRCN25zTmpWVjJXenp1Yll1empaMUstejE0RHlkMURKQzdkMVlaaXNtczdCS3UzMFlNTkw3MExSbTN6cnlvcV9DRk9iQk9Zc1VCT1BRYlBYT0VORG03VmtDMGlzWVBzMEtKLWdSNHVzbG5jUFBJcEVsdlJnVERJQUMyQVlKMVRlQzlPVWlJSW1YWHgxSmR5TjRvT3RFTXVQV3B5WllmSUJrZnVNTnd3d25GUG8?oc=5"
         }
       ],
       "stages": []
@@ -2478,10 +2489,67 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "defea",
+        "fifa",
+        "heavy",
+        "low",
+        "marks",
+        "portugal",
+        "retirement",
+        "top"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 15 Nov 2026 19:41:54 +0000",
+      "id": "ae5a89a60dbf602a3f",
+      "person": "C罗",
+      "published": "Sun, 15 Nov 2026 17:55:25 +0000",
+      "reports": [
+        {
+          "key": "ae5a89a60dbf602a3f",
+          "phase": "突发事件",
+          "published": "Sun, 15 Nov 2026 17:55:25 +0000",
+          "publisher": "worldsoccertalk.com",
+          "rumor": false,
+          "source": "World Soccer Talk",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbXB3WnJhQldXY3htT3dMdktQSGlsUTY0Ml9MblhOX2wxaFhGTjR4MTQ2cVF5a2FDbXduTnZpQVBYdjlPd1RPSGFWSnRsV2RKVTdxNlRfWmw0VXRUQUFPV3Vka0p5bG5HbDExREs1TS1zQmFyWFJlcFhCRDVKSkRNUTBWa2ZmeGVuMThWU3F4eGpNeTJtM1FGRFFQel9YMmxxX3NtU19QdXREaVZ4OEVjd005N09pZWczblg2X3EzaHZpWVB1bXZHOV9hakFzVTNGX1NlOHd4QUhJZTlTWlI2RlBnZG5uVFJhcDliSkxoa2dDeWo0dG1pUUg5d3U0Y3prWG9VbUNn0gGKAkFVX3lxTE1lN3lGWENrWWdtWldScGRiNl83N0ZHQmFPeU1JbGxqMTdJOUlieVNES2t4cGpEOV9xbVlaSmZuZGJpY01YdUlXSkJPXzV3cE1mSFhOZVJpN0pQb3NYbVlxSW5yOGp1Q2l4S1JsRzZxVkVJQldsd2xDWWYwcXJGQUNPUXRwQmFnV2NWdFVWUlo5RV9BRU81WTdnQi1wUHVUdXJNMU55RG0xUEtvS2FNWjQ5bnBBQ09DWk1oa1JGem4zczZMY1ZTbklIZW03RUdBX1laOFdISGtoYUhNbV93eFd4ekNPWmJLTXVtaXZvZTFpTEItaGFTNWh0RDQ2alJmbEI3Q2VuNmZlM0tB?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "block",
+        "indiana",
+        "pacers"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 15 Nov 2026 19:41:54 +0000",
+      "id": "3452da8982199911a5",
+      "person": "詹姆斯",
+      "published": "Sun, 15 Nov 2026 19:05:34 +0000",
+      "reports": [
+        {
+          "key": "3452da8982199911a5",
+          "phase": "公开回应",
+          "published": "Sun, 15 Nov 2026 19:05:34 +0000",
+          "publisher": "espn.com.sg",
+          "rumor": false,
+          "source": "ESPN Singapore",
+          "stage": "公开回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1FxcnVHZndvbEliTFVkTUhvb3JIVXpLaTZ5aFUxWUZGc2E1UlVrbWNTRmM3cHJibDJtMjY1X3cyZUIyUmd3eWh6WG9IR0FkS3lDMUpoc3ZFWTFiUGxSMVhXMi1GekJvbk9VYldibk1VWTMxNGJCNW44Q2hORldJMWMwQWNaanBjSzZUb1JiRi1jcUE?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sun, 15 Nov 2026 13:57:48 +0000",
+  "last_run": "Sun, 15 Nov 2026 19:41:54 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
