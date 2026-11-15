@@ -2,87 +2,6 @@
   "events": [
     {
       "anchors": [
-        "佛州",
-        "州新",
-        "州邀",
-        "州长",
-        "当选",
-        "德州",
-        "拉迁",
-        "斯拉",
-        "新当",
-        "特斯",
-        "请特",
-        "迁址",
-        "选州",
-        "道歉",
-        "邀请",
-        "长向"
-      ],
-      "concepts": [],
-      "first_seen": "Thu, 12 Nov 2026 04:10:10 +0000",
-      "id": "3b6d0d569cc3aa765e",
-      "person": "马斯克",
-      "published": "Wed, 11 Nov 2026 23:40:00 +0000",
-      "reports": [
-        {
-          "key": "3b6d0d569cc3aa765e",
-          "phase": "道歉回应",
-          "published": "Wed, 11 Nov 2026 23:40:00 +0000",
-          "publisher": "news.ifeng.com",
-          "rumor": false,
-          "source": "凤凰网",
-          "stage": "道歉回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51YUdsclNPcmluUnFUcUdUU3AxNEF3ZEN6YlBuckswQ3g5aTdTY05WZURRREZkN1l0ZElQVjNTcnJ2MjJNUk4yWDJZckU?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "上任",
-        "从国",
-        "位太",
-        "刚刚",
-        "发声",
-        "国家",
-        "太惊",
-        "家队",
-        "岗位",
-        "工作",
-        "式上",
-        "怪从",
-        "惊喜",
-        "新岗",
-        "新工",
-        "正式",
-        "退役",
-        "队退",
-        "难怪"
-      ],
-      "concepts": [],
-      "first_seen": "Thu, 12 Nov 2026 04:10:10 +0000",
-      "id": "7fcbecd505493a555b",
-      "person": "C罗",
-      "published": "Thu, 12 Nov 2026 02:21:29 +0000",
-      "reports": [
-        {
-          "key": "7fcbecd505493a555b",
-          "phase": "突发事件",
-          "published": "Thu, 12 Nov 2026 02:21:29 +0000",
-          "publisher": "m.sohu.com",
-          "rumor": false,
-          "source": "Sohu",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdVhWM2lQcFphOGJ3TFFvUXkzUm5FaG9TZkFVcU5GbUhyMGloNTlpM1hCQXJZemlRZGhJek5jZEFkMUdRVlhoTFVvUzB0OFYxcU9FR0t0M2JUT0IyN1l5MTg2LUZVMERISHJVQjN4OXNIUThaMGlEUm9HTTZERkk4OWF2c3VwaTd1TW55LQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "apologize",
         "check",
         "did",
@@ -1477,6 +1396,17 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdE5YNFZVR2Rvc2ZTZ0VFaFI1WjNraWY5SEFxUmhNMGlZYTZXRHdldXV4bkx3NVpKVFNfT3ZVNnFFOEt3VUVBTTh3RU8xRUc4OVU2dHZ2TEw3SlRHME05SDBWRXdITHpkRzVxX2xicS1SYXJ1WG9nTzRjd1YwcHItUVQtdFhLOFFQODdQZw?oc=5"
+        },
+        {
+          "key": "06b57ccdf77a611a95",
+          "phase": "突发事件",
+          "published": "Sun, 15 Nov 2026 03:08:58 +0000",
+          "publisher": "k.sina.com.cn",
+          "rumor": false,
+          "source": "手机新浪网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zV0NlRUJuOXROT2pBTjNaMnViN2lNdC1mcHFHcWdZdXVaeG1pQ3pYVGtiS0dpLU5HMnI1cjEzZ0RzLVBmdlhuREFYUjZBbnE3bHR3STVMQVFfZHdsQ0JyMWJfTGUwREdnRnpNZG1wdjJKckk?oc=5"
         }
       ],
       "stages": []
@@ -2392,10 +2322,140 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "divorce",
+        "kelce",
+        "meeting",
+        "neighbor",
+        "outrage",
+        "prediction",
+        "town",
+        "travis"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 15 Nov 2026 06:13:08 +0000",
+      "id": "495477e2d5d887bca2",
+      "person": "泰勒斯威夫特",
+      "published": "Sat, 14 Nov 2026 23:51:50 +0000",
+      "reports": [
+        {
+          "key": "495477e2d5d887bca2",
+          "phase": "争议线索",
+          "published": "Sat, 14 Nov 2026 23:51:50 +0000",
+          "publisher": "sports.ndtv.com",
+          "rumor": false,
+          "source": "NDTV Sports",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTnhzaWY0dmNXeHhCVm1aTjJCS3NuZ3dFaHZGSWFHVkppOHA4SUo1dUVtTW04NjdLUVc2clJlMGFqTERaUU1aclRiWUVQSG9vcDlSRG5IT3ZvdGNBcW40SVlDNWdYNTRwOS1EZm8tM054UmRHWGh3NFZTQjNKS01Ua1Z5d0lOOU1fREd2WEV4dkZJMXNiR0dJNXkzRlN1RmswNVRzWmJmZEJSMXlvTVJieEVqYmc1MWtxXy1tNkFTVV9FeHZUVE05Njd4MGpVRmtzOVlhZi1R?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "bruno",
+        "denmark",
+        "explains",
+        "fernandes",
+        "forget",
+        "nights",
+        "portugal",
+        "retirement",
+        "there",
+        "thrashing",
+        "went",
+        "what",
+        "wrong"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 15 Nov 2026 06:13:08 +0000",
+      "id": "84540b90fbd5a3caf0",
+      "person": "C罗",
+      "published": "Sun, 15 Nov 2026 05:50:07 +0000",
+      "reports": [
+        {
+          "key": "84540b90fbd5a3caf0",
+          "phase": "突发事件",
+          "published": "Sun, 15 Nov 2026 05:50:07 +0000",
+          "publisher": "goal.com",
+          "rumor": false,
+          "source": "Goal.com",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVHAxRVMxZ2s0d3BicF9TeXZkeHFNdVVfQWNRQ1FyMjhOTkltRjFOeDFWMVBaYzlvWExLZ3dzdHR5aXNBTVF5S1NoM2lmZnNHVEVWZDl3MWpNZ05iXzBxNjdFWldPaHBEVzBPd2FIS3J4R2R2N1pmN25YSHZ2bmkwdXZNSklnSy1sVi1FYmRIZld0NGQ2cmZoeF9WNG5CUjdNVnc2Y0s1azFzMEVyTzBxbERRd3ZTTjZvVDVvQzJHRHhPVFZvdHpDbmxZU2M?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "cleaning",
+        "crashing",
+        "driving",
+        "drunk",
+        "hours",
+        "morning",
+        "street",
+        "vehicle",
+        "wee"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 15 Nov 2026 06:13:08 +0000",
+      "id": "c1067b75de370c500e",
+      "person": "Go Kyung Pyo",
+      "published": "Sun, 15 Nov 2026 05:53:02 +0000",
+      "reports": [
+        {
+          "key": "c1067b75de370c500e",
+          "phase": "法律进展:被捕",
+          "published": "Sun, 15 Nov 2026 05:53:02 +0000",
+          "publisher": "koalasplayground.com",
+          "rumor": false,
+          "source": "A Koala's Playground",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNDczc1lOVFlhOEN5X1ZKODFfVURndU4yOFZud0RZSUpqS0FLM2Y3MDlYUk56a3U3VjNmdXJwRUZDMEhJbHpabWZ1RjZ6WU1yeDhNdFdKRlZOcGdYekdzSDQ1VDZCanY2SlkzaUhsb3pDc1NmTFF0ZmFCcmtQNzd2eHRYdWdLODNpSG9DWXJPOHZvcGVSV3JwTGJmVXBab3NyelNHN2VJa3hJUnFlU1RNWUItaTFHY1lKTWw3LTZRNzNDMW5wV1lFYnZ5UHVwamoxMXVKZzJVRHBBU3gtQmRCVEdSMlV5ZEp0LTc3dUkzN0hvZw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "ballesteros",
+        "cartel",
+        "concert",
+        "gabito",
+        "halted",
+        "probe",
+        "separate",
+        "songs"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 15 Nov 2026 06:13:08 +0000",
+      "id": "7cad9965056d8bb054",
+      "person": "Later Arrested",
+      "published": "Sun, 15 Nov 2026 05:56:17 +0000",
+      "reports": [
+        {
+          "key": "7cad9965056d8bb054",
+          "phase": "法律进展:被捕",
+          "published": "Sun, 15 Nov 2026 05:56:17 +0000",
+          "publisher": "news.ssbcrack.com",
+          "rumor": false,
+          "source": "SSBCrack",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2FRZTE0NXRtNjl1ODhGYmt3TTlRWVp1U2FnTFdlSkFSVlluNXYyNEluVWNTN1d0dVZyekxDTzIyR1NodnZ6MnFETFdRcXJHOEhtMVo2aFg5VkZZcUdsakYwX2hHOEJQTEpkS3AycEJvYmozTThCMjZEdDdQcmhYN29TY0xWU1dxMlhsM293a3VZUXNyZGxlVm9nZE9CWU9iOU4tZ2tEZ0Z6VnMzSG8wQ2FmTEJEQzUwQmc?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sat, 14 Nov 2026 23:59:46 +0000",
+  "last_run": "Sun, 15 Nov 2026 06:13:08 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
