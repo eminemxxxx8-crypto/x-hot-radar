@@ -2,46 +2,6 @@
   "events": [
     {
       "anchors": [
-        "上市",
-        "了上",
-        "仁勋",
-        "公司",
-        "勋辞",
-        "司吗",
-        "回应",
-        "己突",
-        "市公",
-        "没了",
-        "然没",
-        "知道",
-        "突然",
-        "自己",
-        "辞职",
-        "道自",
-        "黄仁"
-      ],
-      "concepts": [],
-      "first_seen": "Fri, 13 Nov 2026 08:30:14 +0000",
-      "id": "d65dbf9fba09c1f4f9",
-      "person": "马斯克",
-      "published": "Fri, 13 Nov 2026 04:00:00 +0000",
-      "reports": [
-        {
-          "key": "d65dbf9fba09c1f4f9",
-          "phase": "突发事件",
-          "published": "Fri, 13 Nov 2026 04:00:00 +0000",
-          "publisher": "sina.cn",
-          "rumor": false,
-          "source": "新浪网",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yV1ZPcUkwM3Jra1h6SG56UThnelpwOXJCMGZyM2R4TF9rcjE4a3ZiaER2S3BNbk5BUW9URWFSbmhsOUhITU14eDdjZmZRWlpvUEJBemxVRWxRUFp2NFRpemF1Zw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "业核",
         "产业",
         "人物",
@@ -2212,10 +2172,105 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "争议",
+        "仅支",
+        "价惹",
+        "会票",
+        "低票",
+        "元备",
+        "唱会",
+        "场次",
+        "备注",
+        "多场",
+        "大屏",
+        "惹争",
+        "持看",
+        "支持",
+        "最低",
+        "次最",
+        "注仅",
+        "演唱",
+        "看大",
+        "票价"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 16 Nov 2026 10:58:58 +0000",
+      "id": "c9af5a73798ffaac53",
+      "person": "周杰伦",
+      "published": "Mon, 16 Nov 2026 08:33:25 +0000",
+      "reports": [
+        {
+          "key": "c9af5a73798ffaac53",
+          "phase": "争议线索",
+          "published": "Mon, 16 Nov 2026 08:33:25 +0000",
+          "publisher": "news.ifeng.com",
+          "rumor": false,
+          "source": "凤凰网",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4cWQ3TXV4WEJvTG54T1B3TlI1SzBSb2ctMFdQQVZNbEhjUlJ6dzBqQk9FM2xfbFExUXFqRXRSZWpzR0VkMTFRbUR5MV8?oc=5"
+        },
+        {
+          "key": "a522d8e3cd3f5f48bb",
+          "phase": "争议线索",
+          "published": "Mon, 16 Nov 2026 08:38:11 +0000",
+          "publisher": "ctdsb.net",
+          "rumor": false,
+          "source": "极目新闻",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90VU5sVVVLd05RUXc3M1lVNFdZa1IxbmtvYVg0SEhvNEJfVGJPZ1B3Rk1xS1dNeENvdDNFN194VUxxZjJQZmZWZFBUWmNIYkduTkxNVGVUUHZvcTA?oc=5"
+        },
+        {
+          "key": "14239194439e1fa130",
+          "phase": "争议线索",
+          "published": "Mon, 16 Nov 2026 10:01:16 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX1RJYTJtdjBJdmFNdklrOG9PaTYyVFdnbTJkRFI3dDFBdjZXNTZaTXA2dEZVUGZ6aG00R0NJR2U2R1VQQzBPRUVQeDNxdG1XLWFQOHQ4dk53b1ZqdEdlVDBRS0hmcHNoaUYtTEc5VlVldVlqOV9sSHJHUmYtUlo2V0FvUDc2d2J2?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "eastenders",
+        "heat",
+        "pics",
+        "raunchy",
+        "snaps",
+        "sparking",
+        "turns"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 16 Nov 2026 10:58:58 +0000",
+      "id": "942b5ba57b7a2fef18",
+      "person": "Ellie Dadd",
+      "published": "Mon, 16 Nov 2026 10:00:00 +0000",
+      "reports": [
+        {
+          "key": "942b5ba57b7a2fef18",
+          "phase": "争议线索",
+          "published": "Mon, 16 Nov 2026 10:00:00 +0000",
+          "publisher": "thesun.co.uk",
+          "rumor": false,
+          "source": "The Sun",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVpmLVF5UzBlekpUY3BWM2FVZjZIWkJYVFJxeGFuaWpJNEdERmxSSHd2Z3RHZUIzanRlOVdQekNFZDBOamJJdkFBSF8zTmdxWHRSQXNPbktoeUxncXVDNjJ5XzY5OUdhd2htOEZnZVpnSmNHTGxUX0JqVVFmRmd1SS1uY1FQY295UjJuZlI4VWpzTmVIcVE?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Mon, 16 Nov 2026 02:59:50 +0000",
+  "last_run": "Mon, 16 Nov 2026 10:58:58 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
