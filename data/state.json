@@ -2,136 +2,6 @@
   "events": [
     {
       "anchors": [
-        "divorce",
-        "kelce",
-        "meeting",
-        "neighbor",
-        "outrage",
-        "prediction",
-        "town",
-        "travis"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 15 Nov 2026 06:13:08 +0000",
-      "id": "495477e2d5d887bca2",
-      "person": "泰勒斯威夫特",
-      "published": "Sat, 14 Nov 2026 23:51:50 +0000",
-      "reports": [
-        {
-          "key": "495477e2d5d887bca2",
-          "phase": "争议线索",
-          "published": "Sat, 14 Nov 2026 23:51:50 +0000",
-          "publisher": "sports.ndtv.com",
-          "rumor": false,
-          "source": "NDTV Sports",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTnhzaWY0dmNXeHhCVm1aTjJCS3NuZ3dFaHZGSWFHVkppOHA4SUo1dUVtTW04NjdLUVc2clJlMGFqTERaUU1aclRiWUVQSG9vcDlSRG5IT3ZvdGNBcW40SVlDNWdYNTRwOS1EZm8tM054UmRHWGh3NFZTQjNKS01Ua1Z5d0lOOU1fREd2WEV4dkZJMXNiR0dJNXkzRlN1RmswNVRzWmJmZEJSMXlvTVJieEVqYmc1MWtxXy1tNkFTVV9FeHZUVE05Njd4MGpVRmtzOVlhZi1R?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "bruno",
-        "denmark",
-        "explains",
-        "fernandes",
-        "forget",
-        "nights",
-        "portugal",
-        "retirement",
-        "there",
-        "thrashing",
-        "went",
-        "what",
-        "wrong"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 15 Nov 2026 06:13:08 +0000",
-      "id": "84540b90fbd5a3caf0",
-      "person": "C罗",
-      "published": "Sun, 15 Nov 2026 05:50:07 +0000",
-      "reports": [
-        {
-          "key": "84540b90fbd5a3caf0",
-          "phase": "突发事件",
-          "published": "Sun, 15 Nov 2026 05:50:07 +0000",
-          "publisher": "goal.com",
-          "rumor": false,
-          "source": "Goal.com",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVHAxRVMxZ2s0d3BicF9TeXZkeHFNdVVfQWNRQ1FyMjhOTkltRjFOeDFWMVBaYzlvWExLZ3dzdHR5aXNBTVF5S1NoM2lmZnNHVEVWZDl3MWpNZ05iXzBxNjdFWldPaHBEVzBPd2FIS3J4R2R2N1pmN25YSHZ2bmkwdXZNSklnSy1sVi1FYmRIZld0NGQ2cmZoeF9WNG5CUjdNVnc2Y0s1azFzMEVyTzBxbERRd3ZTTjZvVDVvQzJHRHhPVFZvdHpDbmxZU2M?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "cleaning",
-        "crashing",
-        "driving",
-        "drunk",
-        "hours",
-        "morning",
-        "street",
-        "vehicle",
-        "wee"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 15 Nov 2026 06:13:08 +0000",
-      "id": "c1067b75de370c500e",
-      "person": "Go Kyung Pyo",
-      "published": "Sun, 15 Nov 2026 05:53:02 +0000",
-      "reports": [
-        {
-          "key": "c1067b75de370c500e",
-          "phase": "法律进展:被捕",
-          "published": "Sun, 15 Nov 2026 05:53:02 +0000",
-          "publisher": "koalasplayground.com",
-          "rumor": false,
-          "source": "A Koala's Playground",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNDczc1lOVFlhOEN5X1ZKODFfVURndU4yOFZud0RZSUpqS0FLM2Y3MDlYUk56a3U3VjNmdXJwRUZDMEhJbHpabWZ1RjZ6WU1yeDhNdFdKRlZOcGdYekdzSDQ1VDZCanY2SlkzaUhsb3pDc1NmTFF0ZmFCcmtQNzd2eHRYdWdLODNpSG9DWXJPOHZvcGVSV3JwTGJmVXBab3NyelNHN2VJa3hJUnFlU1RNWUItaTFHY1lKTWw3LTZRNzNDMW5wV1lFYnZ5UHVwamoxMXVKZzJVRHBBU3gtQmRCVEdSMlV5ZEp0LTc3dUkzN0hvZw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "ballesteros",
-        "cartel",
-        "concert",
-        "gabito",
-        "halted",
-        "probe",
-        "separate",
-        "songs"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 15 Nov 2026 06:13:08 +0000",
-      "id": "7cad9965056d8bb054",
-      "person": "Later Arrested",
-      "published": "Sun, 15 Nov 2026 05:56:17 +0000",
-      "reports": [
-        {
-          "key": "7cad9965056d8bb054",
-          "phase": "法律进展:被捕",
-          "published": "Sun, 15 Nov 2026 05:56:17 +0000",
-          "publisher": "news.ssbcrack.com",
-          "rumor": false,
-          "source": "SSBCrack",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2FRZTE0NXRtNjl1ODhGYmt3TTlRWVp1U2FnTFdlSkFSVlluNXYyNEluVWNTN1d0dVZyekxDTzIyR1NodnZ6MnFETFdRcXJHOEhtMVo2aFg5VkZZcUdsakYwX2hHOEJQTEpkS3AycEJvYmozTThCMjZEdDdQcmhYN29TY0xWU1dxMlhsM293a3VZUXNyZGxlVm9nZE9CWU9iOU4tZ2tEZ0Z6VnMzSG8wQ2FmTEJEQzUwQmc?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "next",
         "portugal",
         "project",
@@ -1727,6 +1597,17 @@
           "stage": "争议线索",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQXowWjRmdXVKYWpqSlJTUnJpNTRoMHpnSjJyT0kzc1FFWE1NcjdTS0ZyN2lGZjNfNFQ1c0pkNkRtbE43WXEzdzljRF9STGd0Q0pKdHBJaDlKbjhNX1RTeVQwekh0N3piRHhwOFdJSGY5eDNPZjZNVFlaMWs1NmNmSkVQVQ?oc=5"
+        },
+        {
+          "key": "13507223b204ed3913",
+          "phase": "争议线索",
+          "published": "Wed, 18 Nov 2026 10:30:17 +0000",
+          "publisher": "app.myzaker.com",
+          "rumor": false,
+          "source": "ZAKER新闻",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ycTBaMl9OTFpqVkFwZVMweE91ajBIQmxZaTlkU1FXSVhDTFlnN0FxTUVBQVZGRXRGQnRSX2NmTGUyY3FDQi1EWXhYak5DVjV2SW9qMnBiX2NneDluVFJiRXI3YnZES284SW9ucWlvX1FZTi1sVVh3?oc=5"
         }
       ],
       "stages": []
@@ -1859,6 +1740,17 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YOHlka016Rkh1Vjhsbkc3bkN4NWJUYk9rNE1vN2tzcERyM0FRT0ZUYWNZeUZjbnh4VFVUc3ZadUl0LWFFNWMxTXV5UHZjQUk?oc=5"
+        },
+        {
+          "key": "9bbfab34c16dde2fb7",
+          "phase": "突发事件",
+          "published": "Wed, 18 Nov 2026 04:20:00 +0000",
+          "publisher": "geosuper.tv",
+          "rumor": false,
+          "source": "Geo Super",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdXktREVDYk1rSE9vZFZyZFBqMWUwMFBfNnNaV1QyY1dTeTRuUTZOdEY4eG0tcmc4ZFZMdFdqTmx4QTd0SG9JNVFnVE9JRDE1ZWRUUnRYRmRJbVdzTkhoTERXczduLW9XMmstZGVUcUtyNFcxQTNYT01fZ2ZkUG5qcjR4MzRQRFFheFlCYnFGb3gxZnBJaVpoa2tqWkp6bkRWeFFTSDNTODBxdkhK0gGoAUFVX3lxTFBiT29HaUNLVTVqMEItZ05lREhUYlNPaGFNUzNqdnB6UW1URTJiQ3JRX3pYN1dYSEN2UWVZOXhoZkF6NGpjbVZxcFlva0dFa0ZsTjV6NnB0UFBEcURsSm1faHF6RlhTZ3NtRExDRFhvTDZXQTJTeXFMakhQdmg2el9VS3padzZyeEJEU2JrM0lFU3pMTjVfRkVJVlJLQ3VBYzZrLUdPeEt3Wg?oc=5"
         }
       ],
       "stages": [
@@ -2431,10 +2323,74 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "全力",
+        "再见",
+        "冲击",
+        "划曝",
+        "力冲",
+        "夏退",
+        "役计",
+        "明夏",
+        "曝光",
+        "计划",
+        "退役"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 18 Nov 2026 10:49:03 +0000",
+      "id": "775f6632fb7803dc9f",
+      "person": "C罗",
+      "published": "Wed, 18 Nov 2026 04:18:13 +0000",
+      "reports": [
+        {
+          "key": "775f6632fb7803dc9f",
+          "phase": "突发事件",
+          "published": "Wed, 18 Nov 2026 04:18:13 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQREdKWDEtWnZaS3VFOGFHZUFBQWVHeW9xR1BfSHBaMWxRNGJFclNESkVSb1Q4QkxWZUxVLXRaQlp4dzdqU1Ria3YzUVczMF85NjItTGVzQ2ZZMGVzZDQ1el83TEh6ZDJwVm1lM2VKdW5ob1dxdGdJZ0l4SzYxeGlfdy1uSERQbjhaLV9uTA?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "boycott",
+        "cameo",
+        "infinity",
+        "mother",
+        "nikki",
+        "players",
+        "threaten"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 18 Nov 2026 10:49:03 +0000",
+      "id": "da029d97c906c9b7cb",
+      "person": "马斯克",
+      "published": "Wed, 18 Nov 2026 06:16:48 +0000",
+      "reports": [
+        {
+          "key": "da029d97c906c9b7cb",
+          "phase": "争议线索",
+          "published": "Wed, 18 Nov 2026 06:16:48 +0000",
+          "publisher": "uz.kursiv.media",
+          "rumor": false,
+          "source": "Kursiv Media Узбекистан",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByTHFKcXF6c0wwblJyRnZ5X2tBdTNDOXhqWnpNWUtzLW9DWExRTkx0QUlfT28wWmRONm5iU04yay0yNzYwc0lwR25veW5kRFRqd1RmWkdRczBPTTEtV21NY3p3bklzN0I3Z3h2S0tkTm8tckJXQTVLdGRHbw?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Wed, 18 Nov 2026 02:51:44 +0000",
+  "last_run": "Wed, 18 Nov 2026 10:49:03 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
