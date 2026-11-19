@@ -2,608 +2,6 @@
   "events": [
     {
       "anchors": [
-        "上热",
-        "下利",
-        "与本",
-        "之后",
-        "乳业",
-        "事毫",
-        "亚马",
-        "人迷",
-        "以下",
-        "件事",
-        "伪造",
-        "作俑",
-        "俑者",
-        "公司",
-        "共沉",
-        "关系",
-        "内容",
-        "利用",
-        "又拉",
-        "司合",
-        "合理",
-        "后又",
-        "品牌",
-        "始作",
-        "容系",
-        "尔种",
-        "带品",
-        "形象",
-        "抹黑",
-        "拉与",
-        "搜之",
-        "族歧",
-        "无关",
-        "是造",
-        "本件",
-        "歧视",
-        "毫无",
-        "沉沦",
-        "涉亚",
-        "热搜",
-        "牌形",
-        "牛乳",
-        "理维",
-        "的始",
-        "的红",
-        "的节",
-        "种族",
-        "系伪",
-        "系的",
-        "维权",
-        "罗人",
-        "节奏",
-        "蒙牛",
-        "视内",
-        "诉以",
-        "谣上",
-        "谣抹",
-        "谣的",
-        "象的",
-        "贵公",
-        "起诉",
-        "迷是",
-        "造谣",
-        "马尔",
-        "黑品"
-      ],
-      "concepts": [
-        "racism"
-      ],
-      "first_seen": "Mon, 16 Nov 2026 20:56:38 +0000",
-      "id": "eb7e67dbc1a67db03c",
-      "person": "梅西",
-      "published": "Mon, 16 Nov 2026 13:08:00 +0000",
-      "reports": [
-        {
-          "key": "eb7e67dbc1a67db03c",
-          "phase": "法律进展:起诉",
-          "published": "Mon, 16 Nov 2026 13:08:00 +0000",
-          "publisher": "sina.cn",
-          "rumor": false,
-          "source": "新浪网",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1adWxjNGVHbHppY29ndUVHYTJWQ3NnTDZmNVAyZy12YXh3NlJQeXN0Q3dZSkhqM2VvaGtVVzZxUVk4RzFxcWMzMkctVDdiTDlubjg2MmhaaFZ4cGJHNGpZbFBRYw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "argentina",
-        "being",
-        "fights",
-        "reputation",
-        "stop",
-        "tarnished"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 16 Nov 2026 20:56:38 +0000",
-      "id": "b72b650fc7fc250b5a",
-      "person": "梅西",
-      "published": "Mon, 16 Nov 2026 15:46:53 +0000",
-      "reports": [
-        {
-          "key": "b72b650fc7fc250b5a",
-          "phase": "争议线索",
-          "published": "Mon, 16 Nov 2026 15:46:53 +0000",
-          "publisher": "goal.com",
-          "rumor": false,
-          "source": "Goal.com",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHZ4R3Q3aThlNXFORFNfcTNHNXpwN2ZzeFNNV2tydmtSakRlbGluSjRxTzJZT2h1eHpxYTdtWGctczV5SWZJZ2s4M2lxSjByWnQ1b1Y1ZExsS0haeF9MQUJfUXpoWUhOdGZVeHdkYXpqMTVwWjNzazU2cnVLcW1uazNpcTRieFM0cWxFSXR5bVZyR1VTcXFodWRvcWNuUzZlLTVUTjViX0t6V0xtSTJ6Y1R6OW9fMGUweWw5bTF3?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "defeat",
-        "denmark",
-        "happy",
-        "mother",
-        "national",
-        "portugal",
-        "team"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 16 Nov 2026 20:56:38 +0000",
-      "id": "9c7457487d7cd881d1",
-      "person": "C罗",
-      "published": "Mon, 16 Nov 2026 16:01:00 +0000",
-      "reports": [
-        {
-          "key": "9c7457487d7cd881d1",
-          "phase": "争议线索",
-          "published": "Mon, 16 Nov 2026 16:01:00 +0000",
-          "publisher": "dailysports.net",
-          "rumor": false,
-          "source": "Dailysports",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUFJRTEdMV2xGN1ZGQkhVbTB5cXpGTTExVG5rWnJFMnVEeWM0bjVJN28wOVR0MS1JVHY1TkZlNWdxdmgxWXNUZGVhRlJEOWUxX3BJUS0wal9DRm16RlhJWkVVNkU1dWpzVmJ2WnpxOWUxeUtvaUVabWFQWURYREhjVGNNOWdYal84YmhtQUw0SzJ5QmZnS3l2TkpiY09nNDFsQ0k3dGt1VS1yQnVUT2VoakE1UTRuSlBXbXl5cXN0Z1JkU3hzVF9Z?oc=5"
-        },
-        {
-          "key": "fe6f0211a974b828f8",
-          "phase": "争议线索",
-          "published": "Tue, 17 Nov 2026 11:37:00 +0000",
-          "publisher": "khelnow.com",
-          "rumor": false,
-          "source": "Khel Now",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdU5vMHlJYmVlY3NQTFhnR3BnZ2VacWZYd0xQTlZxVGR5N3FuR0stUDQtWFZOVjQ0bU1fWEEwRjY3aEdVZmZhT3hnbjI3TU1TUnJKblRhYU83dlNfMnRYVnVGWFBMU011LW9WYXJOUURFMnBoYy1qN3d3OTB1SlR1bFc5Z0pYcFVTMWNyZDNVdGVYdzFDRUVpS2VJUV9IUQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "ceos",
-        "diagram",
-        "explaining",
-        "humor",
-        "sketch",
-        "snl",
-        "tech",
-        "venn"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 16 Nov 2026 20:56:38 +0000",
-      "id": "22fe2269136086c10f",
-      "person": "马斯克",
-      "published": "Mon, 16 Nov 2026 16:59:18 +0000",
-      "reports": [
-        {
-          "key": "22fe2269136086c10f",
-          "phase": "公开回应",
-          "published": "Mon, 16 Nov 2026 16:59:18 +0000",
-          "publisher": "People",
-          "rumor": false,
-          "source": "People.com",
-          "stage": "公开回应",
-          "trusted": true,
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsMDVyZDI3aXEzWVRpbWh2YzFRRi1VenZDb3EwTDctaERtcktnZm5EMzE3Zm9rM0ZkTFpFNEFRR291M2NQWFVBdjE4WkZOZV9yTEhRaWd4cXZlZGNNZE54c0hWRi05SmlfWHJpV3R3ZTJQcUs3SzFTenBR?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "culhane",
-        "delivers",
-        "five",
-        "impression",
-        "jeremy",
-        "snl",
-        "verdict",
-        "word"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 16 Nov 2026 20:56:38 +0000",
-      "id": "27ccfcee7258adb7ad",
-      "person": "马斯克",
-      "published": "Mon, 16 Nov 2026 17:13:00 +0000",
-      "reports": [
-        {
-          "key": "27ccfcee7258adb7ad",
-          "phase": "法律进展:判决",
-          "published": "Mon, 16 Nov 2026 17:13:00 +0000",
-          "publisher": "independent.co.uk",
-          "rumor": false,
-          "source": "The Independent",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd2tyZldvNTZNUFRxNnotQzFPVDdPM3ZtWGxoY1Z3dnpXbjFUTXNzN1FxOHNtVDNvVjlRZzhIamZMdFBCSXk4cXNBTVJZUUFyQlRyNmtnR0pxV1J0SndjLUJ5NFNzTUc3akJCaGFBS2QyMDljaFdSaEEydWI5YkN6LUtVZEdvZFJsVm9SV1JhMWRISTZWVURvLXY1THJQNzlr?oc=5"
-        },
-        {
-          "key": "09429a937d4734fc34",
-          "phase": "公开回应",
-          "published": "Tue, 17 Nov 2026 04:14:09 +0000",
-          "publisher": "bleedingcool.com",
-          "rumor": false,
-          "source": "Bleeding Cool News",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVUFnTlZmY2FnQjRyT2lvNmdJN1lQanZjX3FqSFVwOW1qVndESXRmRnpib0R2MXFKZHZJcnBmYnVsb1BqdVBtaTRwNzdqMklVV0tWT3hTeHpwRmpVQmhKM3dTVnZIbGtqQjJPZnAtM0I2Sjl5YTFNYmxKVHU2WFpXSVp5MHBqWk1pQ2tKeFQ5aklrRTBDRjVnbmZRS08?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "世界",
-        "人仍",
-        "仍是",
-        "他人",
-        "但其",
-        "其他",
-        "去世",
-        "失去",
-        "戴维",
-        "是顶",
-        "牙失",
-        "球员",
-        "界级",
-        "级球",
-        "级的",
-        "维斯",
-        "萄牙",
-        "葡萄",
-        "顶级"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 16 Nov 2026 20:56:38 +0000",
-      "id": "b167e49c17cc4d5477",
-      "person": "C罗",
-      "published": "Mon, 16 Nov 2026 17:40:14 +0000",
-      "reports": [
-        {
-          "key": "b167e49c17cc4d5477",
-          "phase": "突发事件",
-          "published": "Mon, 16 Nov 2026 17:40:14 +0000",
-          "publisher": "m.qie.tv",
-          "rumor": false,
-          "source": "企鹅体育",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KSmM5bGYzVXZkak91dkJtejUwZ1lhQmc2ZkZsaTNVT0J2ZFlLVzVoVEdTbTdBZ1lVSXMzUjNIMjZrazd0YjRmbXlLZEl4SkcySVlkZEVtSndrZGR4aUY1Nw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "affect",
-        "aim",
-        "claims",
-        "doesn",
-        "explosive",
-        "mother",
-        "neves",
-        "noise",
-        "ruben"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 16 Nov 2026 20:56:38 +0000",
-      "id": "9a62bcfeafeae179df",
-      "person": "C罗",
-      "published": "Mon, 16 Nov 2026 17:40:25 +0000",
-      "reports": [
-        {
-          "key": "9a62bcfeafeae179df",
-          "phase": "争议线索",
-          "published": "Mon, 16 Nov 2026 17:40:25 +0000",
-          "publisher": "goal.com",
-          "rumor": false,
-          "source": "Goal.com",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTW5zNmF1WHZVVWttUDNKajNQR295YU1fTUhXWTltZkhQQXZndjQxQ1pZOTlxRVFUblJTcmNSa1pPazdFd0t0MFlDT1hzSTZsSzkybVF0U3hDRGNKMTlSNTR6Q0dGY3I0ZmlDMkg5YS1ERDVvSWU3M01PMDhIQUlLajZiR1p3aWtUb1Qzc2ZrZ3ktaE56emNSbGpDQm1JWmR2Yk1zWF9qYXVaM2RfX3lzSGxadFhXdF90N1l3?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "coach",
-        "criticises",
-        "jesus",
-        "jorge",
-        "loss",
-        "mother",
-        "portugal",
-        "team"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 16 Nov 2026 20:56:38 +0000",
-      "id": "eaaef46a38c12548b3",
-      "person": "C罗",
-      "published": "Mon, 16 Nov 2026 17:42:37 +0000",
-      "reports": [
-        {
-          "key": "eaaef46a38c12548b3",
-          "phase": "公开回应",
-          "published": "Mon, 16 Nov 2026 17:42:37 +0000",
-          "publisher": "thenewsmill.com",
-          "rumor": false,
-          "source": "The News Mill",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS05JLVpxWHV1QVUxR296SVljUmVhdlYtQzBCQVNLdzVGYUwxend6cno4NWtGMTIyOHRpcUtrSUhZcGZnc3ZvM2dVNG04RHNDOGNidGhGeVVxM000SWVqNUt6MmoxLThwOC1CMDlzeVltTDhjd1hmc3RKLXBYZXFZUHY1QmtwUmFhOVBjNXhMQkprOTQzQTFTenpzYTZVZ0ZHcFgtTmtMVHhkeS1naUlNaGJUVk9LRUpNa09sUWFSRW1tTGc?oc=5"
-        },
-        {
-          "key": "fae4d912dfd9e88fc2",
-          "phase": "争议线索",
-          "published": "Mon, 16 Nov 2026 19:34:49 +0000",
-          "publisher": "yardbarker.com",
-          "rumor": false,
-          "source": "Yardbarker",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYnNPWEg0a2VyZFEzS3NpbzVxbUdlSkxFTGk5bGN5LUEzb3Ric3JWek1IODk4NVNsVTRxUEU4QWxOODZfUmJmM1huaEg3LTJwdVNHTF95TVJoVlZ6bkNDYWJaNG1XS0ljb0NtbUFtVl8wSEpFT2h2NjRNWkxDRHhySU1OLUhxQUxpNV85N3ROeDJIc1ZmYXVVNnUxdzYwMTZsaUpUa0ZUckxGcW8xdHFQLUIxMXhQZXAwWnhJVnoxczFhcGozb3E1bER2YV9FZ2xFQ29wdFF6Y0dmUWNVS2c3LTVpb0FVekhueVE?oc=5"
-        },
-        {
-          "key": "a42885ba9d9e4d2785",
-          "phase": "公开回应",
-          "published": "Mon, 16 Nov 2026 21:08:06 +0000",
-          "publisher": "BBC",
-          "rumor": false,
-          "source": "BBC",
-          "stage": "公开回应",
-          "trusted": true,
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tYXhRRmczMEFRci1HS2N6WXA0YWxKdzNmN3ZZd3hQUndUNDVnU3k3NGRwS3l6S3BsaDFacXR3WlJiam54ZkFLRV9EYlZDNnV0eTFEdXFFMmMwV0dtQUl6VC1OSVpscThn?oc=5"
-        },
-        {
-          "key": "1d5b5aa7d163655995",
-          "phase": "公开回应",
-          "published": "Mon, 16 Nov 2026 23:18:22 +0000",
-          "publisher": "Sky",
-          "rumor": false,
-          "source": "Sky Sports",
-          "stage": "公开回应",
-          "trusted": true,
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ1dOb0lEZmZ6bHQ1T01udDJaTU9lczc3Tmk2eTBBZDh4ekFTbzBiOURlcTA2VEhQYXB2b0o1RWlCbzB3RDMyZXpIQnFmMjdybk1tMVFTVEF6aWJHNDhUWm1hTVpsYVJlUjRjRG9PdmtVRVVVZnBiMl9MVE5rWmVjUXdvZTk3QU82LWluQV9qVHJrd0xseVRKRnZTWDFQeUlTdTZWWTFOYU03V0N6M1I4R2tkMS0wWGNHOFVKTWk2N0lCWDZob21mZmtRZW9laU5L?oc=5"
-        },
-        {
-          "key": "a1b5a45d85cb8ae6f6",
-          "phase": "公开回应",
-          "published": "Tue, 17 Nov 2026 07:30:36 +0000",
-          "publisher": "aljazeera.com",
-          "rumor": false,
-          "source": "Al Jazeera",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTRDYXpDLXQ0bUxyMEc2SVF6WUVra3ZiMk5CTzlOX1RobXotalVTRWhYaHEyWG84aVBvRzA0V3N1ZGdITFYzVGR4amlXUTR0WENXWFBndmV4cWM2cEQyY0l1S1RwdjJFVHJvcVBqM2NhQ3JRUXFTa0RMWDY2Wm5KZzZRWlRPX3I5dDQyZE5JeEdMS2ZsM2JPWUhEQdIBoAFBVV95cUxNWmpya3lLTlhSVzZhdWVUTnlqYVp2OTg2M1Rzem83SmxxQkZjcUF3emRTMGtaU01VZk5UUU14OWhFNkc3VS1iSS14WjlBdWpnUFRFeGRtUEVhNDhCUVFmV29VM0RTaWQ3eVd1RVQxNzRCX0VyNDhHLWRhalJjOG9yZnRtcWhOYVM1cHNzbXJjOGE5dFVnOC1MV1Iyc2hxcHhX?oc=5"
-        },
-        {
-          "key": "66a922291a3f55e43d",
-          "phase": "公开回应",
-          "published": "Tue, 17 Nov 2026 10:58:01 +0000",
-          "publisher": "NYT",
-          "rumor": false,
-          "source": "The New York Times",
-          "stage": "公开回应",
-          "trusted": true,
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLWduU3RNNHBfNWZ5UXpVWFdmenl6cWwyN0FTRk90ZUNHYVpyYmNoLUNZMVF2TFc0cUZmZ1JKV281SnlBWlNJel8xZGd0dDBDYlduTjlGa1Nfbm5rcmxSSDE0RGlRVG5EWi0yVl96Q1RXM2RYaFQzUzVwMHFhVUZRcnNaMW8zQk1YTk85Z09ETG9xVlE?oc=5"
-        },
-        {
-          "key": "58e5420fa7e6f1a489",
-          "phase": "公开回应",
-          "published": "Tue, 17 Nov 2026 13:48:00 +0000",
-          "publisher": "plataformamedia.com",
-          "rumor": false,
-          "source": "Plataforma Media",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkJQdnp5U0RyUzV2SFpXOW1peERCRmxQOFhZQkVLV2NWRmowWWN1R2x0ZnlkX1ZsOGo3LVFZZS1acUxiNW0xT09SenVUMWtJbVhrM0RUcTlvOG1uQTRrZWtYdFdQQ3F2MVIyX3FfRFVUWDhLNWd6R2ZPVGlBN0RxeUNSQnI2aldvOFY2SEpMU0lRam43OU9OSHVTYkdJdlo4Z2RpSUtwZXpCQkFIRTA4QVlKQ1BiV1dKVXlVTG0zTkdYZUdLQU9pRA?oc=5"
-        }
-      ],
-      "stages": [
-        "公开回应",
-        "争议线索"
-      ]
-    },
-    {
-      "anchors": [
-        "从国",
-        "佳阵",
-        "内马",
-        "员最",
-        "国家",
-        "在列",
-        "家队",
-        "尔在",
-        "役球",
-        "德转",
-        "最佳",
-        "球员",
-        "评从",
-        "转评",
-        "退役",
-        "队退",
-        "马尔"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 16 Nov 2026 20:56:38 +0000",
-      "id": "d0b91af6d4cc55b7cd",
-      "person": "梅西",
-      "published": "Mon, 16 Nov 2026 17:50:25 +0000",
-      "reports": [
-        {
-          "key": "d0b91af6d4cc55b7cd",
-          "phase": "突发事件",
-          "published": "Mon, 16 Nov 2026 17:50:25 +0000",
-          "publisher": "m.zhibo8.com",
-          "rumor": false,
-          "source": "直播吧",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yQWhKb2Zpd0w5Z3YzcDBQSnhITVU1LUl0bXM3M0JzT1QzVjZBSFA5dEFhVEhIbmNYSkVHdVlrd19lbE1PN00yVlA0cndIV0xtdlJOXzkyeE0tSkJTRkFncDZfUXdwamlNTUJ1R2lvTTlUbS11dnVPQW9B?oc=5"
-        },
-        {
-          "key": "31e6a573466266b433",
-          "phase": "突发事件",
-          "published": "Tue, 17 Nov 2026 04:28:00 +0000",
-          "publisher": "m.dongqiudi.com",
-          "rumor": false,
-          "source": "懂球帝",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUcTA2Z1Fnd0xaTDRVZlhTQllXN05Ibmd0dWNMeTMwZ1UzVHNhLWhFMGZ2Tl9VSXpYcUlneVFRUWtId2VRamwtLVpGNmtGUTZ3LWd0MWN6Yw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "home",
-        "kelce",
-        "neighborly",
-        "ohio",
-        "support",
-        "travis",
-        "unexpected"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 16 Nov 2026 20:56:38 +0000",
-      "id": "43dedce573bd6a5739",
-      "person": "泰勒斯威夫特",
-      "published": "Mon, 16 Nov 2026 18:10:00 +0000",
-      "reports": [
-        {
-          "key": "43dedce573bd6a5739",
-          "phase": "争议线索",
-          "published": "Mon, 16 Nov 2026 18:10:00 +0000",
-          "publisher": "si.com",
-          "rumor": false,
-          "source": "Sports Illustrated",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSVA0allPYUF0eXY2N0JUdkxMMl9fYkVxejF3Y1liRjNYSkR0YlJUa2tyTjE2NWhJSlFTRGFROExCUldzaGl5V0lWakxkN09OSHN0cXZ0YXgxSGZMR1g4RGFRdDhudm55dmpsdHJJNTFYVHRmR1Etdk0wTC1TM1hONnVKNHFrX2x5TGF1MU1TRF9MMXUxZEtFamxlb0hQQUJwOUVvb2wzRDlPcjFmU01IMU90d2Jldmg4dnRCeg?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "aveiro",
-        "dolores",
-        "exit",
-        "fresh",
-        "maria",
-        "neves",
-        "portugal",
-        "reaction",
-        "ruben"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 16 Nov 2026 20:56:38 +0000",
-      "id": "b15c85a12618ca1097",
-      "person": "C罗",
-      "published": "Mon, 16 Nov 2026 18:37:22 +0000",
-      "reports": [
-        {
-          "key": "b15c85a12618ca1097",
-          "phase": "公开回应",
-          "published": "Mon, 16 Nov 2026 18:37:22 +0000",
-          "publisher": "worldsoccertalk.com",
-          "rumor": false,
-          "source": "World Soccer Talk",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZ3VwVGZZNzVmbEUybXFzdDhZeWNrX0U5Ry1oTmxobURMaldSa256Y3JUV1VIOEItNFFLcS1LbWtMRnlNeFVzUnBWUExrQ2VxbG9aYmJNdWp4TXp3dTEtN3JaRElINFFzU3ljVXMyZHMxNEpQdDQ4NVhyeFY3c2MxMG1FRC0xcnNicWxGWkNaMl9LeVQ5ZDlVUVZUckZGUHhBRm9Kcm5UdmJmZkFJQUtaaDV5Sm9HaGRrN1hxTzVxZDZfNTZiQnAwU2U3amFjV1BaOWdKN2t5MTRDR0c4NkFxX1BualNva1l6cnpscFF5SDNNX3JQUWtob005d3dJUlVlOXI2VVBhRdIBiwJBVV95cUxPQzByTGRtb3hheVFkSXdRbk94MmRXa3lic25UbTh6UE40dF9LOEpUYktsTGM5VlFPTjVsX3ZQZXgydzQyM190NlBCVEtwcWozNWo3UkthWU5BbElfOExFSWRxbk5SN21pd09SNEZQTmhsajVGOGQtTl9zUTJoRDhDSmNkZXFjQk5BVmM5dTZVWUNrWlJ3ekd0bnhUNEdTZWwwc0tfdWZ5ck9EeGY5T21JanlJa0dzcVFCX0JXbUtCQngzYXdBdWxxeERhUnF0YjBPMGlsLTZZUm1CMXEyWDhkb0J3SEpNMjJGWHRfNktvZFVVcFE3b0Jkb3dGWnRRZ1RiUlZDeTJjVGU5ZGM?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "criticism",
-        "jesus",
-        "jorge",
-        "mum",
-        "portugal",
-        "retirement",
-        "rumbles"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 16 Nov 2026 20:56:38 +0000",
-      "id": "f68e29a6d0f2d967ae",
-      "person": "C罗",
-      "published": "Mon, 16 Nov 2026 18:50:00 +0000",
-      "reports": [
-        {
-          "key": "f68e29a6d0f2d967ae",
-          "phase": "公开回应",
-          "published": "Mon, 16 Nov 2026 18:50:00 +0000",
-          "publisher": "independent.co.uk",
-          "rumor": false,
-          "source": "The Independent",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORURvQzJBdFJCLUhkRHota2VFQlktazhGZkg1dWV6enBmZW8xaURfTzZnTjNzamV2OGtxWVg1UFJhSndyUlozdG5PV3BhMlFBbzVrSUZZaGtVNlFqelBHZzg5MG9nRlVSZTdkaDcxUWdvZE5yRzdGOGQxU05xMFBkSEtucnFBVk5qQm1KWmpEeUpvamJmRENJN21xcmNmZlltSDF5dnl5a3lXdnc3aVNvblRR?oc=5"
-        },
-        {
-          "key": "12d1ab579c9add332f",
-          "phase": "公开回应",
-          "published": "Mon, 16 Nov 2026 20:50:25 +0000",
-          "publisher": "givemesport.com",
-          "rumor": false,
-          "source": "GiveMeSport",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLV9nOG9wZzJpUEE4SmRuTjFsSTRqcDMwQkZqVlJQQ2FkY1pUeEFtTktoOVV1ajVBb3ZGQmdKS0ZVNnpRMDdfWnNCcXlTdVJMOTlON0JlQ2lZV21vMWtXc2x2al9xMjBiY0FQb0ZZQlZpTUkxSWtwSzgzSmxRUHJVM2VRVXAxWWFVejMxbzdYU0RURkpGS1dmcXBjbS04WWRf?oc=5"
-        },
-        {
-          "key": "1580f30cfd1f3d3734",
-          "phase": "公开回应",
-          "published": "Tue, 17 Nov 2026 20:41:00 +0000",
-          "publisher": "thesun.co.uk",
-          "rumor": false,
-          "source": "The Sun",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdTQ1T3VZdVFXM0J0MFgwRGpiTGVIcXlDZ2RmM3NiZTI2Y2tDLTdSdGQ4aE00NFQ0QnNTWUw0UGo1ZVhWUUtoTW5YX05XaldTY0o3TWVxTHJxYlNwYnIxZXBHWUpYTUVWZFhwRTIwcjFqd09HR0dlMDhiZVNOUHdWQ3JnOENJejR1QXNETUF5Tzg5WHlJLVhKNG03Snd1bmM?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "backs",
-        "defends",
-        "director",
-        "here",
-        "nobody",
-        "spain",
-        "technical"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 16 Nov 2026 20:56:38 +0000",
-      "id": "2027b449536628469c",
-      "person": "亚马尔",
-      "published": "Mon, 16 Nov 2026 20:00:52 +0000",
-      "reports": [
-        {
-          "key": "2027b449536628469c",
-          "phase": "争议线索",
-          "published": "Mon, 16 Nov 2026 20:00:52 +0000",
-          "publisher": "barcauniversal.com",
-          "rumor": false,
-          "source": "Barca Universal",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ1RTUGhxSjJWRFJHY2NLd1dTZDF6aHQtY3ZlRVVzZDJyVTc5eXJDRGJDQVdhTzFEWFA2cS1pSTVJbDlSanBuU04tWjhRdzFqTXUxaWM3RFZmc1UxS0ZxUW9WRW5rRi1yQmZxOGthQUtIVjhJU29mX051SWtDblB2ZzcwMWM2cWNJUXFZWWZmZmtyVDNlcmdhZDJsT3Y3Y3JRbktaWnNnbXo5ZnNxSTk3M3VuZEUyRTVnQUE?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "already",
         "back",
         "billionaire",
@@ -2530,6 +1928,17 @@
           "stage": "公开回应",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVnc2eXU1cFI1cWtBNndicFRjd3dkcWxXYlV3cl9ZMzdnV2pWbkU4T0pxUVFRdDlSSVlzbzE2ZU9jTzVQRjZyaDJyRW1idUE0YzFRNWdjamlYZm9HWU9RbktGVDhVSGxxVWJwczFuTFZFc3F1dXdaSTBSajRGSjVzR09YYzRFRXozZk1udUpYWkFPYTdsVHF1S3duMF82WkdL?oc=5"
+        },
+        {
+          "key": "7c3c38368e0c93be3a",
+          "phase": "突发事件",
+          "published": "Thu, 19 Nov 2026 17:55:22 +0000",
+          "publisher": "axios.com",
+          "rumor": false,
+          "source": "Axios",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BYUJGU2lFdnBiWVNtUExRSWF2bFU2UjNqd0ZCYUtoeDFJTUo0emt6UGJZXzc2LVpHX2FzYktWVFZfVWd2VXRMTWlhNE02SmhDZC1fX1VJcWJtM21EamFrb2JYWDhZUTItRmkxZ0JmVTMwZw?oc=5"
         }
       ],
       "stages": []
@@ -2567,10 +1976,98 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "humiliation",
+        "midterms",
+        "split",
+        "tries",
+        "trump"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 19 Nov 2026 23:54:41 +0000",
+      "id": "50233785bf872d0887",
+      "person": "马斯克",
+      "published": "Thu, 19 Nov 2026 17:12:11 +0000",
+      "reports": [
+        {
+          "key": "50233785bf872d0887",
+          "phase": "突发事件",
+          "published": "Thu, 19 Nov 2026 17:12:11 +0000",
+          "publisher": "newrepublic.com",
+          "rumor": false,
+          "source": "The New Republic",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wSno3Ql9oXzliM2dQMGtPRGV4Y2Q5RHVMVVFzd3RNeTQ2bzR0Tm9oUi14VVdvOXloeW9obXBNMFhSTGNuUE9PdW9xcEg0cFgyWjhHWFVvRFo3bnhaWTF4SEwtNTlkaV9SamxRMkhGaWVQenRYdnZ2V0tjNF85Zw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "ataul",
+        "detained",
+        "dhaka",
+        "dolon",
+        "former",
+        "haque",
+        "lawmaker"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 19 Nov 2026 23:54:41 +0000",
+      "id": "bc34e25912aac795fd",
+      "person": "Tomal Mahbub",
+      "published": "Thu, 19 Nov 2026 19:36:02 +0000",
+      "reports": [
+        {
+          "key": "bc34e25912aac795fd",
+          "phase": "法律进展:被捕",
+          "published": "Thu, 19 Nov 2026 19:36:02 +0000",
+          "publisher": "thedailystar.net",
+          "rumor": false,
+          "source": "The Daily Star",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT09jbEZOMG1icjFUWU02SGVFTldBME1MZWpPVkFzOXJTWkZrV0x0Z1hqR1dzaFg2RXFhbVV2My1maGkxLVM4OHJjVUZZeklHNERVc01NWTlqcF9xTHNhYzVLQ0dvX1lsa0s5WUZmb05nQVB2NERpUThoWXpyVDRXV2ZvOWhmUmJYbkExV09OUUpLTm9vbTRZX2Z2NnFnQ2hXek9heHJjMl9Pd0ZUSmp4c1dGQmctbXVNS0tjY0RDVmZuQVp2WkJYeTFNN0tVYWN2NnozbHN0RQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "ballads",
+        "banned",
+        "detained",
+        "halted",
+        "narco",
+        "queretaro",
+        "show"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 19 Nov 2026 23:54:41 +0000",
+      "id": "019fce3070a69d5956",
+      "person": "Gabito Ballesteros",
+      "published": "Thu, 19 Nov 2026 22:52:04 +0000",
+      "reports": [
+        {
+          "key": "019fce3070a69d5956",
+          "phase": "突发事件",
+          "published": "Thu, 19 Nov 2026 22:52:04 +0000",
+          "publisher": "mexiconewsdaily.com",
+          "rumor": false,
+          "source": "Mexico News Daily",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQejMzQVpJOHdNMlJuSlh6YTF0VGUwRGxMdllwcFgxdHRhVjZxd0NjMk5INjUwekd1RHp0UmNKcm8yVmNPUFFwMWtNRmdIMmxNZndPX0pVQ1V6bHNVUGVLOU9LYUU1RDdXQnBhZWZqTXN4VTlZVV9ERS1OLWhjU2t1ejJGbldJWkRzR3I3a2F3d1p2UVpuX0Q2d2xCQ29vUDdQdnlpS2tLaDcwcHMwVERJc2lKRld6bUF2QS1KNnRlRjh4OHc?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Thu, 19 Nov 2026 17:47:14 +0000",
+  "last_run": "Thu, 19 Nov 2026 23:54:41 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
