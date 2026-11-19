@@ -2,108 +2,6 @@
   "events": [
     {
       "anchors": [
-        "defea",
-        "fifa",
-        "heavy",
-        "low",
-        "marks",
-        "portugal",
-        "retirement",
-        "top"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 15 Nov 2026 19:41:54 +0000",
-      "id": "ae5a89a60dbf602a3f",
-      "person": "C罗",
-      "published": "Sun, 15 Nov 2026 17:55:25 +0000",
-      "reports": [
-        {
-          "key": "ae5a89a60dbf602a3f",
-          "phase": "突发事件",
-          "published": "Sun, 15 Nov 2026 17:55:25 +0000",
-          "publisher": "worldsoccertalk.com",
-          "rumor": false,
-          "source": "World Soccer Talk",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbXB3WnJhQldXY3htT3dMdktQSGlsUTY0Ml9MblhOX2wxaFhGTjR4MTQ2cVF5a2FDbXduTnZpQVBYdjlPd1RPSGFWSnRsV2RKVTdxNlRfWmw0VXRUQUFPV3Vka0p5bG5HbDExREs1TS1zQmFyWFJlcFhCRDVKSkRNUTBWa2ZmeGVuMThWU3F4eGpNeTJtM1FGRFFQel9YMmxxX3NtU19QdXREaVZ4OEVjd005N09pZWczblg2X3EzaHZpWVB1bXZHOV9hakFzVTNGX1NlOHd4QUhJZTlTWlI2RlBnZG5uVFJhcDliSkxoa2dDeWo0dG1pUUg5d3U0Y3prWG9VbUNn0gGKAkFVX3lxTE1lN3lGWENrWWdtWldScGRiNl83N0ZHQmFPeU1JbGxqMTdJOUlieVNES2t4cGpEOV9xbVlaSmZuZGJpY01YdUlXSkJPXzV3cE1mSFhOZVJpN0pQb3NYbVlxSW5yOGp1Q2l4S1JsRzZxVkVJQldsd2xDWWYwcXJGQUNPUXRwQmFnV2NWdFVWUlo5RV9BRU81WTdnQi1wUHVUdXJNMU55RG0xUEtvS2FNWjQ5bnBBQ09DWk1oa1JGem4zczZMY1ZTbklIZW03RUdBX1laOFdISGtoYUhNbV93eFd4ekNPWmJLTXVtaXZvZTFpTEItaGFTNWh0RDQ2alJmbEI3Q2VuNmZlM0tB?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "block",
-        "indiana",
-        "pacers"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 15 Nov 2026 19:41:54 +0000",
-      "id": "3452da8982199911a5",
-      "person": "詹姆斯",
-      "published": "Sun, 15 Nov 2026 19:05:34 +0000",
-      "reports": [
-        {
-          "key": "3452da8982199911a5",
-          "phase": "公开回应",
-          "published": "Sun, 15 Nov 2026 19:05:34 +0000",
-          "publisher": "espn.com.sg",
-          "rumor": false,
-          "source": "ESPN Singapore",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1FxcnVHZndvbEliTFVkTUhvb3JIVXpLaTZ5aFUxWUZGc2E1UlVrbWNTRmM3cHJibDJtMjY1X3cyZUIyUmd3eWh6WG9IR0FkS3lDMUpoc3ZFWTFiUGxSMVhXMi1GekJvbk9VYldibk1VWTMxNGJCNW44Q2hORldJMWMwQWNaanBjSzZUb1JiRi1jcUE?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "不同",
-        "却各",
-        "原因",
-        "各有",
-        "同原",
-        "和葡",
-        "国家",
-        "家队",
-        "廷和",
-        "开门",
-        "有不",
-        "根廷",
-        "牙的",
-        "的开",
-        "罗国",
-        "萄牙",
-        "葡萄",
-        "退役",
-        "门黑",
-        "队退",
-        "阿根",
-        "黑却"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 15 Nov 2026 23:31:10 +0000",
-      "id": "46ea455748cd62975d",
-      "person": "梅西",
-      "published": "Sun, 15 Nov 2026 22:35:44 +0000",
-      "reports": [
-        {
-          "key": "46ea455748cd62975d",
-          "phase": "突发事件",
-          "published": "Sun, 15 Nov 2026 22:35:44 +0000",
-          "publisher": "m.sohu.com",
-          "rumor": false,
-          "source": "Sohu",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWkJSLW5zTE1HNDY1d003WE9qLVZVdmV6QXY2WU54U0xmUk1HckFJZGFpLTR2ODVvZGlfakt2RFNuT2ppMXJra3hsLTZIdF9aVXAteHBEcEptbW5tY0plSVpJX0laMnpjV090VGs3SHp2UlhRQmpXWE1WeEx3OEJwdjBjSzBQbDdYMmxQWQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "不同",
         "与葡",
         "却经",
@@ -1650,6 +1548,17 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRXNuTWZudlFJV25sUEVzWDByZGFDX05FQnJIZEFyUWc1QjBHdUV1MlRGaW00ZzRHOXhRRWpmZ2dSLUVKMFJJblZDY0hIVm9BTXFTWU5EZ1VyenZZNThfTG5YRmtmX1ItWk5PdGQxS1dIbkc4S2JBSFpwTUk1V1pEYU51Q0k4Ry1POWN0d3JaQUMydw?oc=5"
+        },
+        {
+          "key": "39523be8e03e19827d",
+          "phase": "突发事件",
+          "published": "Thu, 19 Nov 2026 00:43:26 +0000",
+          "publisher": "news.china.com",
+          "rumor": false,
+          "source": "中华网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52ZTJDcnVSZHR4S3N4S3JRakVRSi1POHBNOURXblhiZTRwbDROUXBqVHBzaDhBSHRXYVQ5OUI1Y3VGNVpSTUQ3djFldzUwaXJYbHM5T0pIdDY5V3B1YjlTMFIxQll0Z3c1MmlyZllrTE0?oc=5"
         }
       ],
       "stages": []
@@ -2186,10 +2095,172 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "armband",
+        "bruno",
+        "cancelo",
+        "fernandes",
+        "joao",
+        "moment",
+        "portugal",
+        "reti"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 19 Nov 2026 01:13:48 +0000",
+      "id": "5b973c1453f4bc8f0a",
+      "person": "C罗",
+      "published": "Wed, 18 Nov 2026 19:31:50 +0000",
+      "reports": [
+        {
+          "key": "5b973c1453f4bc8f0a",
+          "phase": "争议线索",
+          "published": "Wed, 18 Nov 2026 19:31:50 +0000",
+          "publisher": "worldsoccertalk.com",
+          "rumor": false,
+          "source": "World Soccer Talk",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMGNQUXRFc3dhZWE5UWVoVDFxR3BZc1haaUN1dUFsYXVPUG44Y3IzNkl4WkF4Y0hsR2U2RXdKR203bHJBR0hpb0RGRUlYSS1IVkRadDB3ZjNCal8xUEg1VkpOVVhzR1hjTVJRTDVTT1ZJaktSbkpKaHlockVLMHRwcVVqdVJhaFVuM3JQMF9uM1hRN243Y2RBQmNWRjlqWFVfTWxJbWJ6WEJNbHdvY0c1a0YzakN3RVY0QUNZbkJBTGE3U09yVTAxc2hwaXJGeExPZHotbl9lUmduNnhMOWfSAeIBQVVfeXFMTjJVVFczZFBoOUQ3cEZieURDRXNCT0NZakdKa3ZxeWZOOWtwYlRCZWUwVnBsZVhSbnFMdnl4cW0xeXNRcXNITk5fa1doOFdmekRLcTlGcmlXdFl5dDdPUnpCNGMzSWJac09WY0R2V2l6ei04YnE1MWppWHZLRWVldmlmcXZWYm9VZ0FhcVZubHY1R3F6ZnVNQlRRUHEtU2YwS0gwWXlsZWc1anQ1a0VIZE85U3RwTkhfZzFHdTFtZWVWWXNDUXVTVjJfOTczQ2w4VzFhdFBwQ3ZuWDRmdDhDQzZFdw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "comes",
+        "focus",
+        "former",
+        "goncalo",
+        "jesus",
+        "jorge",
+        "makes",
+        "portugal",
+        "ramos",
+        "role",
+        "strong",
+        "verdict"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 19 Nov 2026 01:13:48 +0000",
+      "id": "748aa9080df9f8c5a1",
+      "person": "C罗",
+      "published": "Wed, 18 Nov 2026 22:33:06 +0000",
+      "reports": [
+        {
+          "key": "748aa9080df9f8c5a1",
+          "phase": "法律进展:判决",
+          "published": "Wed, 18 Nov 2026 22:33:06 +0000",
+          "publisher": "worldsoccertalk.com",
+          "rumor": false,
+          "source": "World Soccer Talk",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbEVKeU9lUGljNXlRcUpwaDRURGdraXlzWDNGdk1Ra1I4WDNZVHpFQngyUTBuWWpDWC13VkZZa0I1eWhfVFVGalpPNkgtLUJ5d2Raa1UwcEtjOUFHcnlzY1JrTW10ZFNmdnNpNUVRMVNBaFdMdkV4SU82WGp1Qy01UU5PdWxRVmVORURobjVHcXFHRFBIREpGQW9BSUFEQkFscFpsX0NzMnMxNUp6Y0NsS2NGTTBvMVFmMFdfMXJCNDJ4dWtyUmdlZHFOYXFaRHFUbWoySjRqODJJOGwyVmZ2a3hYQ2hZTkVCV0NGUlcyNWlweW9ISDBR0gH7AUFVX3lxTE1MNnluN1Z0VEVlbG5uRDRxb1FZb1pzQ1RqSEsyWnFxbGh1QWw1VjNuUWpCcTdlaThTOWNUcjllbjkxcTdtNlNrelNaTFhEUXl0RWxhX2RYbGw2Z1dHZWlBV3pMWnpiVDdHNVM5NUNuaXF0OWlFQ0I1R0hGTWNtZzQtY0dQVmJBcUVEcjdRbUM3VXBNMWlUWTQ5c05FU1g4U2tnMm5TbVFmLTM3RmlvbEU3VDBWTGJFTHlkQkVsV1FEejV3U2hPMmZ6ZXVKZTg2bmJxb05wYVlkcDdSMXdsMjJfSi05UDY2cGtWVWRmaHp1RTNmS0wxc0t2MkR3?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "argentina",
+        "association",
+        "football",
+        "leadership"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 19 Nov 2026 01:13:48 +0000",
+      "id": "f485e007c600a0a01a",
+      "person": "梅西",
+      "published": "Wed, 18 Nov 2026 22:37:35 +0000",
+      "reports": [
+        {
+          "key": "f485e007c600a0a01a",
+          "phase": "品牌解约",
+          "published": "Wed, 18 Nov 2026 22:37:35 +0000",
+          "publisher": "operativmm.az",
+          "rumor": false,
+          "source": "Operativ Məlumat Mərkəzi",
+          "stage": "品牌解约",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0dUazJTNVd1VU9XMWZKUjU1X1dTVndPZDNQZ2lZUmR1ZURMbjlfZV9oTFZzaXVfVUtNVjhmMG5IZ2Y1Y01ZM3Rpd0NlMWtNbFZ6Q3ZCSGZzUGQ2WFZ4OEI1cExyMjRkcmdhVWVUb3RTU3lwUU81TGVWWWVqSlIyZFFWaHhiX01MX1lTMXlsb2M0b0VQYnZGY2NJbFNBaTg?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "argentine",
+        "leadership",
+        "lionel",
+        "major",
+        "rupture",
+        "total"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 19 Nov 2026 01:13:48 +0000",
+      "id": "79bbea86597c11851c",
+      "person": "梅西",
+      "published": "Wed, 18 Nov 2026 22:51:32 +0000",
+      "reports": [
+        {
+          "key": "79bbea86597c11851c",
+          "phase": "争议线索",
+          "published": "Wed, 18 Nov 2026 22:51:32 +0000",
+          "publisher": "dailysports.net",
+          "rumor": false,
+          "source": "Dailysports",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0dPWWhQaHZuWEg5VUFRQzNmdnd6bEFsVnRIbXJ5RnFnNUhraXUwdnpkeENFaVduQlcxOG1GMmFUU1BUN3NfX0VwdF9jeHdwT0xXbmF6ZG8wTGg5RDVNM3lkOEhiTF9FYjBPNHNraUNIQTdtXzRBc2NEcGFPYXM5c05iZ1VfaWpTLUJ2RWNXaFpTZWhLdnE0b1pHZ1haclhodXdfcFMtRUZmNHJsVnQ2NmlzenRmU2lRQmc?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "了争",
+        "争议",
+        "发了",
+        "开后",
+        "引发",
+        "承引",
+        "标继",
+        "牙队",
+        "的袖",
+        "离开",
+        "继承",
+        "萄牙",
+        "葡萄",
+        "袖标",
+        "长的",
+        "队长",
+        "马卡"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 19 Nov 2026 01:13:48 +0000",
+      "id": "6eb2e1e99ddd96beae",
+      "person": "C罗",
+      "published": "Wed, 18 Nov 2026 23:04:00 +0000",
+      "reports": [
+        {
+          "key": "6eb2e1e99ddd96beae",
+          "phase": "争议线索",
+          "published": "Wed, 18 Nov 2026 23:04:00 +0000",
+          "publisher": "m.dongqiudi.com",
+          "rumor": false,
+          "source": "懂球帝",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UYXF3amJja2NnaXFpQXN5ckRiVEMtQy1BakFERFVmeFhqZUFPNHpUZVN5c0FyUXJ5VHA3UHpab1NjSHpNR0dkOHJfdGFPaHQtalhhUHVHVQ?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Wed, 18 Nov 2026 19:10:28 +0000",
+  "last_run": "Thu, 19 Nov 2026 01:13:48 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
