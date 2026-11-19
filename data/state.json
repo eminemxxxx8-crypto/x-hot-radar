@@ -2,112 +2,6 @@
   "events": [
     {
       "anchors": [
-        "争议",
-        "仅支",
-        "价惹",
-        "会票",
-        "低票",
-        "元备",
-        "唱会",
-        "场次",
-        "备注",
-        "多场",
-        "大屏",
-        "惹争",
-        "持看",
-        "支持",
-        "最低",
-        "次最",
-        "注仅",
-        "演唱",
-        "看大",
-        "票价"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 16 Nov 2026 10:58:58 +0000",
-      "id": "c9af5a73798ffaac53",
-      "person": "周杰伦",
-      "published": "Mon, 16 Nov 2026 08:33:25 +0000",
-      "reports": [
-        {
-          "key": "c9af5a73798ffaac53",
-          "phase": "争议线索",
-          "published": "Mon, 16 Nov 2026 08:33:25 +0000",
-          "publisher": "news.ifeng.com",
-          "rumor": false,
-          "source": "凤凰网",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4cWQ3TXV4WEJvTG54T1B3TlI1SzBSb2ctMFdQQVZNbEhjUlJ6dzBqQk9FM2xfbFExUXFqRXRSZWpzR0VkMTFRbUR5MV8?oc=5"
-        },
-        {
-          "key": "a522d8e3cd3f5f48bb",
-          "phase": "争议线索",
-          "published": "Mon, 16 Nov 2026 08:38:11 +0000",
-          "publisher": "ctdsb.net",
-          "rumor": false,
-          "source": "极目新闻",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90VU5sVVVLd05RUXc3M1lVNFdZa1IxbmtvYVg0SEhvNEJfVGJPZ1B3Rk1xS1dNeENvdDNFN194VUxxZjJQZmZWZFBUWmNIYkduTkxNVGVUUHZvcTA?oc=5"
-        },
-        {
-          "key": "14239194439e1fa130",
-          "phase": "争议线索",
-          "published": "Mon, 16 Nov 2026 10:01:16 +0000",
-          "publisher": "m.sohu.com",
-          "rumor": false,
-          "source": "Sohu",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX1RJYTJtdjBJdmFNdklrOG9PaTYyVFdnbTJkRFI3dDFBdjZXNTZaTXA2dEZVUGZ6aG00R0NJR2U2R1VQQzBPRUVQeDNxdG1XLWFQOHQ4dk53b1ZqdEdlVDBRS0hmcHNoaUYtTEc5VlVldVlqOV9sSHJHUmYtUlo2V0FvUDc2d2J2?oc=5"
-        },
-        {
-          "key": "fbe1947b5af694e624",
-          "phase": "争议线索",
-          "published": "Tue, 17 Nov 2026 09:00:00 +0000",
-          "publisher": "news.qq.com",
-          "rumor": false,
-          "source": "腾讯新闻",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ud2VlOE1KMWRUUk5vQ0JnOUFYNVZncmpNTVNTcVlfdGNOUDZIeEV3NF8tRnlkSG5pRzB6YlA2YktlSXp4S3BHVzBVVXdQbURsUW16T0VERzVkU3VyZGpzUElaQXVIeEQ0eVp2SQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "eastenders",
-        "heat",
-        "pics",
-        "raunchy",
-        "snaps",
-        "sparking",
-        "turns"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 16 Nov 2026 10:58:58 +0000",
-      "id": "942b5ba57b7a2fef18",
-      "person": "Ellie Dadd",
-      "published": "Mon, 16 Nov 2026 10:00:00 +0000",
-      "reports": [
-        {
-          "key": "942b5ba57b7a2fef18",
-          "phase": "争议线索",
-          "published": "Mon, 16 Nov 2026 10:00:00 +0000",
-          "publisher": "thesun.co.uk",
-          "rumor": false,
-          "source": "The Sun",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVpmLVF5UzBlekpUY3BWM2FVZjZIWkJYVFJxeGFuaWpJNEdERmxSSHd2Z3RHZUIzanRlOVdQekNFZDBOamJJdkFBSF8zTmdxWHRSQXNPbktoeUxncXVDNjJ5XzY5OUdhd2htOEZnZVpnSmNHTGxUX0JqVVFmRmd1SS1uY1FQY295UjJuZlI4VWpzTmVIcVE?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "上热",
         "下利",
         "与本",
@@ -2431,9 +2325,33 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY3FBV2lPTVRaLXBOdlQwb3Z6QVZKZUxZOTBRUVFhM3BPc1dsT0dJaTc5TGt0OUZlNzFjWUk3RUxMR2RlUXd5eHltSFo1cHhCSlczTEMzLV9aS3pqMlgwekdFWl82bXZLUHF0YmFJX2dnbWx6ZXVvendzampxQzJJdHg0cUdTdHVINzZ5YkE1NmFCMjJya0lMc3YzamxfNFA2Vi0wa2QtQXl6TWRVMzRVd2ZmaThSZnJORUx0M0JKdlJhOVdDTk96Rnp5cDFGNnhXd1NrSl9zZkVZNjA?oc=5"
+        },
+        {
+          "key": "dbdfcb1315db3cdf96",
+          "phase": "突发事件",
+          "published": "Thu, 19 Nov 2026 12:07:05 +0000",
+          "publisher": "NYT",
+          "rumor": false,
+          "source": "The New York Times",
+          "stage": "突发事件",
+          "trusted": true,
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNakxEc3VPY1Y1dXljQkV2V090RmhGWHFpQzd5QlpkcGtSM2d4SzRuUU8yWU10V1VVbHg3T0RlaDdxamNoTkw1eFI4Ull0Ulk0N0lmTklOb1ZHVkQzR3Jvenl0am5YbUl5a0NCd1dzS1lObUo5N0ZiYWQ4Rkd6V1YzSy1YYzUtRTNSRXVucE1KbmlfZ3BCZGZxV2FaMDFyNnVRdm0wbw?oc=5"
+        },
+        {
+          "key": "fab6b997d960b12a2c",
+          "phase": "突发事件",
+          "published": "Thu, 19 Nov 2026 14:03:32 +0000",
+          "publisher": "beinsports.com",
+          "rumor": false,
+          "source": "beIN SPORTS",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTVpXQnVsUWJ0SVdtMkhnTV9NN3JRU01zWHNmSE1NdW0yLVNJUHlCYzA5QW8xaWlrckZqYy1LeVNLVUR5S004LWFIcU1QaFJINFRDWWtTWDBFQXEySUdnYU5BMzlHVGVMRjBGM25EUHZLOEJrdC1tZmFvSHZUcFdCWWJzUmZ6RmMzaXJiLTF3Q2lPYTVXZHZyM0NLVjIyZFdhMnJZS0V0dFg1Zm1Icmljd194S3JYT3E2R2pKMkdueGZaeDV2ZlVsVzNEb19rZmU5cXBTbEMzSGVEd2ZWLTc5U2VyQkVkUQ?oc=5"
         }
       ],
-      "stages": []
+      "stages": [
+        "突发事件"
+      ]
     },
     {
       "anchors": [
@@ -2466,10 +2384,193 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "change",
+        "climate",
+        "comments",
+        "destruction",
+        "environmental",
+        "linking",
+        "patriarchy"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 19 Nov 2026 17:47:14 +0000",
+      "id": "2e028a4f38fe38cb78",
+      "person": "Dia Mirza Addresses",
+      "published": "Thu, 19 Nov 2026 11:32:46 +0000",
+      "reports": [
+        {
+          "key": "2e028a4f38fe38cb78",
+          "phase": "争议线索",
+          "published": "Thu, 19 Nov 2026 11:32:46 +0000",
+          "publisher": "zoomtventertainment.com",
+          "rumor": false,
+          "source": "Zoom TV",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLUdWMldYYU5EY3o2X3VjMnhFVzl4Z19tV1JiSzAtbXZmUzgxYnMzaklBczZzd19ieW5QbDlLNnlUbFREbkxtNG9yM0M4anF2ZzYxWllVenl5M2Jwc0lXY0ZkMG9OTG90djRPRzh4ZndPSUdCQnFjZWtVMFBrbUNtTkphR3ljRXVKcVFBU2ZuYXlBUEVmT0dEVlRTQm1kdUdRb21FcHBNbVRObUhjamNWRzJlbXlGT3JhdmRaMzRNTTdPZkhBRzgwcHpSSFN1U1BZckE?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "allegedly",
+        "cheated",
+        "five",
+        "fraud",
+        "investment",
+        "mahabharat"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 19 Nov 2026 17:47:14 +0000",
+      "id": "fcff937e9e8d88cf21",
+      "person": "Aayush Shah",
+      "published": "Thu, 19 Nov 2026 12:34:16 +0000",
+      "reports": [
+        {
+          "key": "fcff937e9e8d88cf21",
+          "phase": "法律进展:被捕",
+          "published": "Thu, 19 Nov 2026 12:34:16 +0000",
+          "publisher": "moneycontrol.com",
+          "rumor": true,
+          "source": "Moneycontrol.com",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSkFJQk1sVDVFczFSbFhSd2JsNDRWZTAyVFhsT1VpejN5cHJfQm9HVGZ0UlB5VUNYR1BmY1pBWWQxLWxqdURZWHg4UlJCWWhiajZIMjk1ZW1DSkhyREQycnlwcmdCLWVZSWJaUWlaa05CelBJQ0Y4aURjcW9yMGZObEVFaS1ROWFLd1VZT0ZnUWVFRG5kSFQzdGgwZFE2TkI0MjdjNVFXT2NhVWRTa2JBQUphaGpwcWhvVEpVaHZJT2lKQzlPeWxYU3RQX2szLTBsX2R3cm16cHpWa0x3YzlMSlctbDUxTkVfUGxlR3hmRlPSAfYBQVVfeXFMT0QtSzJVcmVoSkppUVhMdExxT3lIdWlCb2tFZXp2TG9DZ2RNN1prUG5ZcUJCZ0JrdFFVZ0lZbHpuTi1CajJzcXVGa21mWGZWTWZVRTBRTEVBbjl4X3NVRkV2SmE5N3hIWlRYV2ZkVGNnM2dDNEx2NUp4WXN3REEyOVhjNGxwMVNtTHpsWHpoSXVHcjJnTzdvUHFkRDdzTVVLVnV5UHJ3RUJUSXJMRUhTaXVEMHZnS1FwZ1NETlZBX0lDY1FLTUtsRjNoU2RwM0hOdFM3WHZxMVRMR2hoU0JpYWV1Nmk5VjF1S2ZHQkxSejlHcEEyUTln?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "alongside",
+        "boots",
+        "closer",
+        "getting",
+        "hanging",
+        "luis",
+        "retirement",
+        "suarez",
+        "talks"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 19 Nov 2026 17:47:14 +0000",
+      "id": "54305bd403f367e828",
+      "person": "梅西",
+      "published": "Thu, 19 Nov 2026 14:46:06 +0000",
+      "reports": [
+        {
+          "key": "54305bd403f367e828",
+          "phase": "突发事件",
+          "published": "Thu, 19 Nov 2026 14:46:06 +0000",
+          "publisher": "beinsports.com",
+          "rumor": false,
+          "source": "beIN SPORTS",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSDRVYVdlVktJRlhneU43aHdrM1gwRWMwNWNVcGh0eTJmaWhrS1haOXk0djZtcnNQZldtOXBWQ2FFU3otLWJndzVld19RSWpaZ0dOR2g1QXUwZDBHem9MU2Q1MFJ0ODc5X2c3YmFIdmR4Ujk1NFRhNzBZTkhyTGdQNGJwTUYzZE5OSVRxWVR1cVJMMGFGa1JWMFdxTnQyTmR2S0F5d3JQZkdia29vU3I0SzJXcmE0SGctcHZFekIxTVVVT3E5VVhaN2dFcGE4dkx0cHN3WE1mLU8yOGs0ckxIbDR2WVBkTGNCXzFOcHpISQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "announces",
+        "banega",
+        "even",
+        "ever",
+        "inter",
+        "miami",
+        "retirement",
+        "reunion",
+        "rules"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 19 Nov 2026 17:47:14 +0000",
+      "id": "6886c811ca9bf5043b",
+      "person": "梅西",
+      "published": "Thu, 19 Nov 2026 15:34:26 +0000",
+      "reports": [
+        {
+          "key": "6886c811ca9bf5043b",
+          "phase": "突发事件",
+          "published": "Thu, 19 Nov 2026 15:34:26 +0000",
+          "publisher": "goal.com",
+          "rumor": false,
+          "source": "Goal.com",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRkpBeFN6Xy1TOUhpdTdaM3lNTXpIZDZMX19pYTE1eGs0X3Q3VEVLZy03MWgxWVhiSDR4c1YzdEN5OXdGdzhLVW9kS1RvNzlhb2k1aVF5cENodUZKNGhfYnpBeFFkd0ZQOHpKbzFEZUlrNW40bnU5WUVEc25qVmxkbXkxUUM1TU16WS1MOXM0d1ZvM0FySUdEWmdMWW9PZ212Y3JoTQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "comments",
+        "maga",
+        "trump"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 19 Nov 2026 17:47:14 +0000",
+      "id": "d9890b692ae9139810",
+      "person": "马斯克",
+      "published": "Thu, 19 Nov 2026 16:45:42 +0000",
+      "reports": [
+        {
+          "key": "d9890b692ae9139810",
+          "phase": "公开回应",
+          "published": "Thu, 19 Nov 2026 16:45:42 +0000",
+          "publisher": "nbcnews.com",
+          "rumor": false,
+          "source": "NBC News",
+          "stage": "公开回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVnc2eXU1cFI1cWtBNndicFRjd3dkcWxXYlV3cl9ZMzdnV2pWbkU4T0pxUVFRdDlSSVlzbzE2ZU9jTzVQRjZyaDJyRW1idUE0YzFRNWdjamlYZm9HWU9RbktGVDhVSGxxVWJwczFuTFZFc3F1dXdaSTBSajRGSjVzR09YYzRFRXozZk1udUpYWkFPYTdsVHF1S3duMF82WkdL?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "maga",
+        "出资",
+        "切割",
+        "割川",
+        "后悔",
+        "否认",
+        "川普",
+        "悔出",
+        "普阵",
+        "认是",
+        "阵营"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 19 Nov 2026 17:47:14 +0000",
+      "id": "894b78383263ddf6a6",
+      "person": "马斯克",
+      "published": "Thu, 19 Nov 2026 16:58:16 +0000",
+      "reports": [
+        {
+          "key": "894b78383263ddf6a6",
+          "phase": "公开回应",
+          "published": "Thu, 19 Nov 2026 16:58:16 +0000",
+          "publisher": "wenxuecity.com",
+          "rumor": false,
+          "source": "文学城",
+          "stage": "公开回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQelJxaXllTHR1dTg2TF8ya2gtb3BScVVzQlhsLVVabXJLNVdRYkd2T0JCeWowWFQwOWNUSENsYTRxNXVLTVIyU2hrNXVHRXBtbmtkWnNGRTBpMUxKTkl3RXRYbFBUck00WGd4ZXc2QVNkSS0yNmY1WGlPbzhDZFRxcg?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Thu, 19 Nov 2026 08:50:31 +0000",
+  "last_run": "Thu, 19 Nov 2026 17:47:14 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
@@ -2552,7 +2653,10 @@
     "005d8bab1f89ab6d81",
     "64b53fa7429bef6c93",
     "256ac8540cf247b4b4",
-    "3433547ed32766daf9"
+    "3433547ed32766daf9",
+    "2ae96a2fe2d76654c9",
+    "dbdfcb1315db3cdf96",
+    "fab6b997d960b12a2c"
   ],
   "version": 2
 }
