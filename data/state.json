@@ -2,312 +2,6 @@
   "events": [
     {
       "anchors": [
-        "与葡",
-        "举办",
-        "仪式",
-        "体人",
-        "利雅",
-        "办退",
-        "协沟",
-        "可能",
-        "在利",
-        "媒体",
-        "役仪",
-        "得举",
-        "拒绝",
-        "沙特",
-        "沟通",
-        "特媒",
-        "绝与",
-        "能在",
-        "葡足",
-        "足协",
-        "退役",
-        "雅得"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 17 Nov 2026 21:04:09 +0000",
-      "id": "ffa3fceeb90aa94a0f",
-      "person": "C罗",
-      "published": "Tue, 17 Nov 2026 14:11:14 +0000",
-      "reports": [
-        {
-          "key": "ffa3fceeb90aa94a0f",
-          "phase": "突发事件",
-          "published": "Tue, 17 Nov 2026 14:11:14 +0000",
-          "publisher": "m.qie.tv",
-          "rumor": false,
-          "source": "企鹅体育",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vcXVsRjJWYXAzdnQ1dFAzZGMyR3ZTWThTemNTbXpZWGk3TktJcnpoSVl4U0w2ZkdfTXIxSVJ0M196VzVsRkUtbkVOTWlBZFN4eWliaTlQSmQtdnRFa3JSRA?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "与葡",
-        "于本",
-        "倾向",
-        "前拒",
-        "协合",
-        "合作",
-        "后退",
-        "向于",
-        "季结",
-        "拒绝",
-        "本赛",
-        "束后",
-        "目前",
-        "结束",
-        "绝与",
-        "葡足",
-        "赛季",
-        "足协",
-        "退役"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 17 Nov 2026 21:04:09 +0000",
-      "id": "e69488cc5eb2c24d44",
-      "person": "C罗",
-      "published": "Tue, 17 Nov 2026 15:10:45 +0000",
-      "reports": [
-        {
-          "key": "e69488cc5eb2c24d44",
-          "phase": "突发事件",
-          "published": "Tue, 17 Nov 2026 15:10:45 +0000",
-          "publisher": "m.sohu.com",
-          "rumor": false,
-          "source": "Sohu",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOek93M0hWUXM1NDNRMmh5aEFjeFRWbC11VUFZNlJwTjMxWFpjVUxkSkw2OUlnTTdsc09IWWdXckplR3AtOE8xM2FMa1k4TkhGYXl5TTZHcDJPZmktZm91OGlyUGpRQ0I5S0I4MkY0Nkl1ZjhHMHowZFpubm1hdmJyYU5YeHZhV2Z3bGNWQw?oc=5"
-        },
-        {
-          "key": "a5e0e6af48b81f87b4",
-          "phase": "突发事件",
-          "published": "Wed, 18 Nov 2026 01:48:21 +0000",
-          "publisher": "k.sina.com.cn",
-          "rumor": false,
-          "source": "手机新浪网",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRXNuTWZudlFJV25sUEVzWDByZGFDX05FQnJIZEFyUWc1QjBHdUV1MlRGaW00ZzRHOXhRRWpmZ2dSLUVKMFJJblZDY0hIVm9BTXFTWU5EZ1VyenZZNThfTG5YRmtmX1ItWk5PdGQxS1dIbkc4S2JBSFpwTUk1V1pEYU51Q0k4Ry1POWN0d3JaQUMydw?oc=5"
-        },
-        {
-          "key": "39523be8e03e19827d",
-          "phase": "突发事件",
-          "published": "Thu, 19 Nov 2026 00:43:26 +0000",
-          "publisher": "news.china.com",
-          "rumor": false,
-          "source": "中华网",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52ZTJDcnVSZHR4S3N4S3JRakVRSi1POHBNOURXblhiZTRwbDROUXBqVHBzaDhBSHRXYVQ5OUI1Y3VGNVpSTUQ3djFldzUwaXJYbHM5T0pIdDY5V3B1YjlTMFIxQll0Z3c1MmlyZllrTE0?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "honor",
-        "portugal",
-        "rare",
-        "receives",
-        "retirement"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 17 Nov 2026 21:04:09 +0000",
-      "id": "1b38247cf60fb2c3e8",
-      "person": "C罗",
-      "published": "Tue, 17 Nov 2026 15:55:00 +0000",
-      "reports": [
-        {
-          "key": "1b38247cf60fb2c3e8",
-          "phase": "突发事件",
-          "published": "Tue, 17 Nov 2026 15:55:00 +0000",
-          "publisher": "si.com",
-          "rumor": false,
-          "source": "Sports Illustrated",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSnA1MU1wZ245eDM5Q1dpSmdaT1JvbGtkaTczZXBaUU9yeWJYSS1IbEhzaURtck5rZGdVRjl2SUJkM2hVVThFRkdJZGxkSlNRc3NEQTN3YjdPNHBBWjYzeG9oRkdTWFotdHZZVjY1UHZZSnpldjRBUXByaHB5QTJ5RzktdVJ6SmRCZU5PUzJPQnZsUF81R25iNGpPQk1oWFJLdTctb3g0bjcxdmQxVk1OMlc1dDlBWDNHcEE?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "asked",
-        "career",
-        "ers",
-        "low",
-        "numbers",
-        "patience",
-        "scoring"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 17 Nov 2026 21:04:09 +0000",
-      "id": "7a2330d5163b6a8d8c",
-      "person": "詹姆斯",
-      "published": "Tue, 17 Nov 2026 17:05:16 +0000",
-      "reports": [
-        {
-          "key": "7a2330d5163b6a8d8c",
-          "phase": "公开回应",
-          "published": "Tue, 17 Nov 2026 17:05:16 +0000",
-          "publisher": "cbssports.com",
-          "rumor": false,
-          "source": "CBS Sports",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUlVobEkxbUJMZUVmVTQyb2JYMHV4UE8zQ2YxM2NhQ0xWTDNXekllcHNlWWZwcjBVMWQ5WlBjaGhRYnBYdGw3VFFmOTdONUo5OHd0YUR6MmlLTW5WUjEyamdtYXlYZ3lSVlh0Yk01VUsyMFIydXI4NjhVTTlvNXN4bHEydFV1Q3Y4RHhyUklmaWlpZU5V?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "亚雷",
-        "先退",
-        "准哪",
-        "哪天",
-        "天我",
-        "太强",
-        "强烈",
-        "役了",
-        "我先",
-        "望太",
-        "欲望",
-        "没准",
-        "球的",
-        "的欲",
-        "继续",
-        "续踢",
-        "苏亚",
-        "踢球",
-        "退役",
-        "雷斯"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 17 Nov 2026 21:04:09 +0000",
-      "id": "929c5b976e67641c47",
-      "person": "梅西",
-      "published": "Tue, 17 Nov 2026 19:50:25 +0000",
-      "reports": [
-        {
-          "key": "929c5b976e67641c47",
-          "phase": "突发事件",
-          "published": "Tue, 17 Nov 2026 19:50:25 +0000",
-          "publisher": "m.sohu.com",
-          "rumor": false,
-          "source": "Sohu",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMl85eUhTZVQyXzNsZVRCTHpOek9sMkpfTDNwcVpobXVDRjYwYng2M3pCZndndnRpMTNteWRDaElJVGV6NUUyaWpKX2JscHZLUXdWZ1cwVDJJanRRMGVITGliVENrcTV0YlAwR3Y1QldGZC1nLWJON25rZExQSG9QYXhvNmNlS2lp?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "delaying",
-        "retirement",
-        "reveals",
-        "secret",
-        "stop",
-        "suarez",
-        "together"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 17 Nov 2026 21:04:09 +0000",
-      "id": "6f787a4eb1130720aa",
-      "person": "梅西",
-      "published": "Tue, 17 Nov 2026 20:54:23 +0000",
-      "reports": [
-        {
-          "key": "6f787a4eb1130720aa",
-          "phase": "突发事件",
-          "published": "Tue, 17 Nov 2026 20:54:23 +0000",
-          "publisher": "livescore.com",
-          "rumor": false,
-          "source": "LiveScore",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3dhZXdjVkhLeUhKREVKanVJd0Z1aU5LOGREOUhGTXJSa1NIajhralhOdk54enZ1UUp6c3B0MERiQTg1S0R1c2pGRmZoTDJweEhpWWltMWF4R2lMZUZNVUJrbXF1bE9ldnhWZEtUd2lQZmFoSmRyc2xvNG9rR00zdWpzejFOSTlZVnhlQUc0WWJZYjBpOUVkWldwYVRHdGd0SEktRFN0ZDJ6NGNRLVhFZlc2cUFUdVNZSHlXRzV2SmYxVWdfWldyNA?oc=5"
-        },
-        {
-          "key": "fbcf5053039be378e3",
-          "phase": "突发事件",
-          "published": "Tue, 17 Nov 2026 23:24:54 +0000",
-          "publisher": "worldsoccertalk.com",
-          "rumor": true,
-          "source": "World Soccer Talk",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQzlwVmRvMndQS09HaUFVS1hsQkRaWm92ZkpFbkRYLXJrWGZTemRjUDB0ZzRzODVndUdpSkRTM1k4ZlFOc1QwaGx0c0RMVnBSS214MmtvMkgtM1pJS1dHSmZDZVNTRXR4aGJHci00UFV2dzFwellNbjFUOVljRVN2cHQyTnFDdHJudzlUT2xxMElETWp3NFFTYUpCMExBRHNXanA4eEtYb1lVUldObzA1SGYyeTVEU0V1Z2VVWVFxYUc1NUVFemZfZ0JuNEhDdDhSd2l2MDhR0gHaAUFVX3lxTFBVeS1rS3U3TGZBWGRNQ0s5aWJ5QVZCVTFkSzNSLVZGdjVQc1NscFdDQkFlMW1TZ3lHWXpkUU1JLTdONzBFaTdZeEVxSzhqTWp2R3dsZTdfNjFBNU1acTJQd2p1MmlrbWZnYk1wM0RacVdUbzVjTEl5Y0liaEVmZFZBVDViY3luTHA3SnhoTjFCS3dPRE9rSGl3TG96azlQSnRfUEc5bktHTWE5X0MtbmIyQ0RaWUpYWXlJYjV1Y2ZzTVplTUtzWjMwYlRfMHp2U080WklIbUNDczFR?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "但球",
-        "倾向",
-        "利考",
-        "向赛",
-        "员倾",
-        "季末",
-        "末退",
-        "沙特",
-        "流言",
-        "特记",
-        "独家",
-        "球员",
-        "续约",
-        "考虑",
-        "者独",
-        "胜利",
-        "虑续",
-        "言板",
-        "记者",
-        "赛季",
-        "退役"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 17 Nov 2026 21:04:09 +0000",
-      "id": "0e7814a0a6296a3393",
-      "person": "C罗",
-      "published": "Tue, 17 Nov 2026 20:55:36 +0000",
-      "reports": [
-        {
-          "key": "0e7814a0a6296a3393",
-          "phase": "突发事件",
-          "published": "Tue, 17 Nov 2026 20:55:36 +0000",
-          "publisher": "m.hupu.com",
-          "rumor": false,
-          "source": "虎扑",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wUDR1U0lkWXZNOXhQRmFwc2lwMFpROWY2XzZJYllXNHNWMW9CM0tjQjRIWnZMdUlpa1lzVjVac2pCZm1RS2FjRXlRZlk4QQ?oc=5"
-        },
-        {
-          "key": "08573902d9ef1fce1a",
-          "phase": "突发事件",
-          "published": "Wed, 18 Nov 2026 02:15:14 +0000",
-          "publisher": "news.7m.com.cn",
-          "rumor": false,
-          "source": "7M足球新闻",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qNHMwajg3Ym5OdTAyWjdyNHZHQVhIZHNEaDdLNEd6dzFkZE16MlRGeW9ycTNiaDZvek9WZERGVWs4VTB5ZnJyb1dxMzFUQjE4Q0pwSlZsWFU5c2tQT0E?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "app",
         "betting",
         "files",
@@ -1716,10 +1410,151 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "avery",
+        "bensimon",
+        "business",
+        "golden",
+        "kelly",
+        "life",
+        "shading"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 20 Nov 2026 21:49:58 +0000",
+      "id": "ad2d9c2b6bfd6c7744",
+      "person": "Is Waiting",
+      "published": "Fri, 20 Nov 2026 14:52:04 +0000",
+      "reports": [
+        {
+          "key": "ad2d9c2b6bfd6c7744",
+          "phase": "道歉回应",
+          "published": "Fri, 20 Nov 2026 14:52:04 +0000",
+          "publisher": "tasteofreality.com",
+          "rumor": false,
+          "source": "Taste of Reality",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUnBESnhXLWNxTGdRcHhzY0pSRDA1ZTVtMlhoeXRvSy05NFVIa1hBZVMzUkNtTTZzQ3AybE9fUU1uVWhDX2JYaVFGaXZReVNfX19HcVJtU3l6ejFMcmVqcml4dzFRZ1RZcXVDT3dQSUVwZTZPa203cHhJc09nRlJrZDVXZHBib0Z1MW9tMVhB?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "afro",
+        "historic",
+        "peruvian",
+        "pope",
+        "reflects",
+        "singing"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 20 Nov 2026 21:49:58 +0000",
+      "id": "c9b9bd125ee7d0fa1a",
+      "person": "Susana Baca",
+      "published": "Fri, 20 Nov 2026 15:16:01 +0000",
+      "reports": [
+        {
+          "key": "c9b9bd125ee7d0fa1a",
+          "phase": "道歉回应",
+          "published": "Fri, 20 Nov 2026 15:16:01 +0000",
+          "publisher": "wral.com",
+          "rumor": false,
+          "source": "WRAL",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWFJPZXpYM3p0V04tTzNTWjdHYUxLSDBzUHVDblZEZlRyaldnRGFWY0YwNFhaZ2ZTdE1JUjEyOW1zMTVocmNZTWpnb1pnUGVSdHdZYWw3RGFoSUFTbnNBOFFaS055cnZMUDZOTUtBb3o0WWZtSkpxbGNOMnY0M20tNEVEa05XelEwZlVBamYtTFJQa3BEMDNLbHJLWlg2aVQtMkdsWkdHZUl5UVZ6Uk5NVmtFMGh6TUNic3VCMThIRDdkUlVQLXZjbQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "both",
+        "breakup",
+        "early",
+        "lakers",
+        "like",
+        "look",
+        "winners"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 20 Nov 2026 21:49:58 +0000",
+      "id": "3aebb7f98545c145af",
+      "person": "詹姆斯",
+      "published": "Fri, 20 Nov 2026 16:32:42 +0000",
+      "reports": [
+        {
+          "key": "3aebb7f98545c145af",
+          "phase": "突发事件",
+          "published": "Fri, 20 Nov 2026 16:32:42 +0000",
+          "publisher": "lakeshowlife.com",
+          "rumor": false,
+          "source": "Lake Show Life",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOEJlY09vd2ZUbFdJTDB6dWRPdm9aeDlaamVhRXdDWGE1NVRGaEF4dWlROGlsV0hqZURqM01PbUUzUVJwSWFvNmZlekFFUktFTGtPY253ZzVjbi03WWVkZ1AxTVAyVHZheHVQcjBSa2M3UkxQRHh0eTB4dGxVczVNajltMzBTRGlKY05SU2VPbWJOZw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "court",
+        "dismisses",
+        "election",
+        "judge",
+        "supreme",
+        "tied",
+        "wisconsin"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 20 Nov 2026 21:49:58 +0000",
+      "id": "13ec5d4c498a694b5b",
+      "person": "马斯克",
+      "published": "Fri, 20 Nov 2026 16:54:00 +0000",
+      "reports": [
+        {
+          "key": "13ec5d4c498a694b5b",
+          "phase": "法律进展:起诉",
+          "published": "Fri, 20 Nov 2026 16:54:00 +0000",
+          "publisher": "wbay.com",
+          "rumor": false,
+          "source": "WBAY",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd3UzVkNsNnZfVVF0cEhEREI3QWJESTd2ZzRoLTltNTV3NTJoTnNWZkMzcUFfN21oN0ptNUc0c1lSMW05dVE2Ul9YbkFlOHVZc3Z1UnF5Nm91V3h1UGV2SE1tbUZxQWc1c1VWTGtpdFhuUURoQmJIRVRNbjR6UE5DTzYzSVdXOURmTXNvSUp3QjAyQ1RyRTVhZklFNWZGcWRRR0UwbllpWWtfMS1zcjZEbTRaTDZVWnkw?oc=5"
+        },
+        {
+          "key": "50c2533a5ccf0cee76",
+          "phase": "法律进展:起诉",
+          "published": "Fri, 20 Nov 2026 20:05:10 +0000",
+          "publisher": "wisconsinexaminer.com",
+          "rumor": false,
+          "source": "Wisconsin Examiner",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOanVlZTF0S0YtTGg1VXlrUjRoVkFhN191YUVYa0ZiSmNHXzRTQWdGRFExY2lmX3V1aGFDaktnRmttM3lobWdKbkdKeV9lbVhHcHFGLUVRN05BNF9nc0h5Y1ZjWHdnaUhWTUhIVjE2bHpIOHQwcW5LZmFHQmpRcjVmNTBnbTJ4ZHltSVhDUDl3LXBoMVVyZDVaSlhVOUhibDY3OFk1dzlWc3lNeEZoVjczZEtOSGh3NmFITzlxRTBjWGtnMHlMNW1XYzhB?oc=5"
+        },
+        {
+          "key": "3e47517480b0a77145",
+          "phase": "法律进展:起诉",
+          "published": "Fri, 20 Nov 2026 21:39:19 +0000",
+          "publisher": "wpr.org",
+          "rumor": false,
+          "source": "WPR",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRFotMVV4WEQxSS1TZVpLbXNUTG5tdkpkTmdVZElON2YwV1A3ZDFucXV2Z0RfZ1F1YzZiOHlmVHJHajI0eW9kVUM1YzBENUJRVm43aVpvQkVXSGxERlluOVhrX196UWxkQkpEOGFrZ2ZXWGpMOVlOVWJzeHpCZHU3cTZsTzBLSXo4U0sxaUJ1Zw?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Fri, 20 Nov 2026 14:12:07 +0000",
+  "last_run": "Fri, 20 Nov 2026 21:49:58 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
