@@ -2,39 +2,6 @@
   "events": [
     {
       "anchors": [
-        "already",
-        "back",
-        "billionaire",
-        "ceo",
-        "him",
-        "job",
-        "pushing",
-        "resigned",
-        "sex",
-        "trump"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 17 Nov 2026 03:25:42 +0000",
-      "id": "341a6e3d22b606735d",
-      "person": "马斯克",
-      "published": "Mon, 16 Nov 2026 22:48:52 +0000",
-      "reports": [
-        {
-          "key": "341a6e3d22b606735d",
-          "phase": "争议线索",
-          "published": "Mon, 16 Nov 2026 22:48:52 +0000",
-          "publisher": "People",
-          "rumor": false,
-          "source": "People.com",
-          "stage": "争议线索",
-          "trusted": true,
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWWxial9SOG1pX1JWV1NPRGpSSl85V3R1Ulh3aXhiMnpRaFdLNnlpaUJhbjFDVjA5ZnhMWUlmbEppYkRJMjBIbWFEYzJIR1FYaGZYUktyLXQtdW5INEFqNlRzT200WEJEUkltRURKUl9Bc1AzV0t6cXNVNmotLTBxc3J4RlJpWTNrT3NIejZwaDA4dUJrUnFlMzJOS2F6ZDRHa0VsYw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "asking",
         "came",
         "mouth",
@@ -1585,6 +1552,17 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UUWJUMGFYdi1GV09yZ24yZmF0NkZDNTNnME41cW9La0s0ZzBTMVU2ZUVoZEI3MU9oa2JNWTlFTXlZM1dfSW9nQXBpTlZxLUtlVHg2ZXBaLWwtZFR6QVYzSGt2Y0lqeWJfaXBIejlvcVRhSzl1T0t6V2dn?oc=5"
+        },
+        {
+          "key": "ab0013298571b6b632",
+          "phase": "突发事件",
+          "published": "Fri, 20 Nov 2026 02:18:50 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXoyVlRKQkhqbktjQldoYnd2ZEpsaGJjeG02QlNacGw4bW5zUXBmLUw0bC1iN1FuYXVYdFFOcHp2WlBqTHBKSGI4bWxfQ3g2V1JDTk43QU9nWGEyeEU2alIyNzVQNldMOVVlYmFCSHdZX1drZzJkTGQ5M2NNdUFFQ1cwVEo2R1Q0?oc=5"
         }
       ],
       "stages": []
@@ -2064,10 +2042,106 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "bay",
+        "boy",
+        "break",
+        "byron",
+        "mansion",
+        "teenage"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 20 Nov 2026 05:19:12 +0000",
+      "id": "915e7499420730c148",
+      "person": "Chris Hemsworth",
+      "published": "Fri, 20 Nov 2026 00:23:00 +0000",
+      "reports": [
+        {
+          "key": "915e7499420730c148",
+          "phase": "法律进展:起诉",
+          "published": "Fri, 20 Nov 2026 00:23:00 +0000",
+          "publisher": "7news.com.au",
+          "rumor": false,
+          "source": "7NEWS",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYjR2b2w2Q0RSSWlVanR5ck4wdHBMZ0hWeTdqanZHXy1xblMweUUtWUNZalBZMjJuMGY4QnYxMzZGSHh0RHlKRFJ0MnYxejZ3M1NjTVdPT1B2Sy1fU3ZIbVlzdE5MbWNsYU0tRmRMbFl0SjcyaEtjaUY3UDFRcWdjdnVkMEpfSGE4cHY2Z1prbFB1SzRxM2dTa1I2OWJmRHlpeE44aHJzb1hlRm1uNHpoRmpYYzVKTzczTFBILW5RY1Z2VDl3bW1pa1RPLTVUY3dIX2Jn0gHYAUFVX3lxTE4wc3YxSVV2U050T2hpWEIxeWp2VjNMdTQ0WlF4NUNBNGlGLVFwSjl5aXRPbWJjVDA3WU9qbmJ3dTdiS1JGTDIydHlnNVpNWmU2YWhFczE2SDJoVHlURmUxRmduNHhuc2FkLURYY2xwRTdlWE1jdUtjNDFMQ25KV0ZxOHhWQ1ZDY0NUbnctVHNMenhtc0I3eVpueDZZODVZRXk2VXY4NUhMS05QQTRIdEowcmxvR0VBdTQ5X2UyUlloU1diNG5KQko4aURhVU92aUw1cG16NWtBQQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "不实",
+        "亲现",
+        "人出",
+        "出面",
+        "实消",
+        "本人",
+        "母亲",
+        "消息",
+        "深圳",
+        "清不",
+        "澄清",
+        "现身",
+        "网传",
+        "谣澄",
+        "身深",
+        "辟谣",
+        "面辟"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 20 Nov 2026 05:19:12 +0000",
+      "id": "abccd54b835ada5349",
+      "person": "马斯克",
+      "published": "Fri, 20 Nov 2026 04:08:37 +0000",
+      "reports": [
+        {
+          "key": "abccd54b835ada5349",
+          "phase": "公开回应",
+          "published": "Fri, 20 Nov 2026 04:08:37 +0000",
+          "publisher": "k.sina.com.cn",
+          "rumor": true,
+          "source": "手机新浪网",
+          "stage": "公开回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9POXBkT00teE9xVFZKeWhndm95UGkwOXE5VVo4N2FiYTR0QlI0MTZUbTZqTDVXbXhJSzl4TDlOa2NjaVZkWGhkOFJMYnJ2R0RIS2NIMnNQbjRVVnNTR2pvNS01VFBnS1Y1R0NiN0NlU2JtQQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "action",
+        "afa",
+        "legal",
+        "turns"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 20 Nov 2026 05:19:12 +0000",
+      "id": "793eec1eff20e6f331",
+      "person": "梅西",
+      "published": "Fri, 20 Nov 2026 04:23:15 +0000",
+      "reports": [
+        {
+          "key": "793eec1eff20e6f331",
+          "phase": "品牌解约",
+          "published": "Fri, 20 Nov 2026 04:23:15 +0000",
+          "publisher": "observerbd.com",
+          "rumor": false,
+          "source": "Daily Observer",
+          "stage": "品牌解约",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5SSnFJU0thYUVwdTlodlc1bTdYMjlidW5oZ0wzZk1vZUpxNDB6NXRIci1SUGwwQ0FRbTNkdUVLWTYyMmhsZHZUdEZB?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Thu, 19 Nov 2026 23:54:41 +0000",
+  "last_run": "Fri, 20 Nov 2026 05:19:12 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
