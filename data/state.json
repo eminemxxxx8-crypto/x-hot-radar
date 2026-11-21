@@ -2,141 +2,6 @@
   "events": [
     {
       "anchors": [
-        "app",
-        "betting",
-        "files",
-        "nba",
-        "portrait",
-        "sports",
-        "unauthorized"
-      ],
-      "concepts": [
-        "betting"
-      ],
-      "first_seen": "Wed, 18 Nov 2026 02:51:44 +0000",
-      "id": "8eee21d798cc648265",
-      "person": "詹姆斯",
-      "published": "Tue, 17 Nov 2026 22:46:45 +0000",
-      "reports": [
-        {
-          "key": "8eee21d798cc648265",
-          "phase": "法律进展:起诉",
-          "published": "Tue, 17 Nov 2026 22:46:45 +0000",
-          "publisher": "news.sbs.co.kr",
-          "rumor": false,
-          "source": "news.sbs.co.kr",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TQUtVR2VlNzFjcC1BczVvTEs4Y096Qmd6TF9pZmxkTTdfM2s5R09aRzUxbmFpS1RXMkg0ZUdQNVB6UjFYNVRYSmRlSTZiQ0xJdEVaOFptQzU2d3pyd25uQnJScWdPc1ZhclJETm1B?oc=5"
-        },
-        {
-          "key": "b1b6bc79a4f70a2467",
-          "phase": "法律进展:起诉",
-          "published": "Wed, 18 Nov 2026 01:58:10 +0000",
-          "publisher": "foxnews.com",
-          "rumor": false,
-          "source": "Fox News",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3drcW5PNXVNU2hiZ2trcjdYVGU5N0Nza1JkMGw5SXhWaGhwU0tJaUlmWGxPMzlmQV9jTEIzWTJWaU14TmJhNHR5em9vOGdURVVpazJDWjJiWUxTMFhRMnlzZlROMmczS0JQTUMxVDJHbDNLQl9wRkt1enhPTVVMUVVTR0pYeXo1LVNFbzdKTUJpQzY5QnpQYjhLZ2dOSWMzcXJidTJwRVBSa0VGQ3ZjX1BGdlNNazBYRllwVUZQajNTdmVaT19vSDJqcnQ3UQ?oc=5"
-        },
-        {
-          "key": "e7826d0ff49c783f69",
-          "phase": "法律进展:起诉",
-          "published": "Wed, 18 Nov 2026 15:28:46 +0000",
-          "publisher": "complex.com",
-          "rumor": false,
-          "source": "Complex",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSUFRODJVcVhDaVJqazBUZWZUdGNLbUZFZ3hfV3Z6SEhXdTl2LU9tOWwycmlhTklJdHRjbXFoRUwwckZMaEF1NTUyampLbmo0b3ZpX0s5cXVScVZnM1NXQ1cxQkJybEVHZWFzcXp1Sk9vbjgyeE14VXFkOUhJQzRJd2ttbDVfWnh4c01jNWZSMA?oc=5"
-        },
-        {
-          "key": "c178eff310fe0e5082",
-          "phase": "法律进展:起诉",
-          "published": "Wed, 18 Nov 2026 16:12:03 +0000",
-          "publisher": "afrotech.com",
-          "rumor": false,
-          "source": "AfroTech",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mNzNUV211WWdFNUtSUk5XUVJGVV82d0JQWHNrako5Skw1c0d4LVhCN193UFpoZ2xuVVJwWDU1VzFrZFN0REZudlNhWXpkX1MxVUNlVUtEa2xTOXJ6QUZ0NTJkMW1ZaTdNNC01dA?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "coaches",
-        "patience",
-        "request",
-        "sixers"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 18 Nov 2026 02:51:44 +0000",
-      "id": "5abc12ba45591367f1",
-      "person": "詹姆斯",
-      "published": "Tue, 17 Nov 2026 22:47:14 +0000",
-      "reports": [
-        {
-          "key": "5abc12ba45591367f1",
-          "phase": "公开回应",
-          "published": "Tue, 17 Nov 2026 22:47:14 +0000",
-          "publisher": "sports.yahoo.com",
-          "rumor": false,
-          "source": "Yahoo Sports",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ3Fyam9yRHU2Y19lTjlMOHhFTGRUXzBCVjZtRlphRHNsU0VMN0JKNXRTQXNoekUzVmNPWUd3ek4tdi13dmNtdExfQUNXWmRHdmpSWVhQNS1nSkcwZFRjMWEtMnVITGJCSTA3TEhlR0tnR0s0M2RWc1gxVFhxQ0pPUUFqRzFlcGZVMWQtSFZR?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "亚雷",
-        "他们",
-        "们会",
-        "会联",
-        "原因",
-        "役的",
-        "手挂",
-        "挂靴",
-        "推迟",
-        "揭秘",
-        "斯揭",
-        "正原",
-        "的真",
-        "真正",
-        "联手",
-        "苏亚",
-        "迟退",
-        "退役",
-        "雷斯",
-        "靴吗"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 18 Nov 2026 02:51:44 +0000",
-      "id": "4ab764bedd7426ca2c",
-      "person": "梅西",
-      "published": "Wed, 18 Nov 2026 00:41:46 +0000",
-      "reports": [
-        {
-          "key": "4ab764bedd7426ca2c",
-          "phase": "突发事件",
-          "published": "Wed, 18 Nov 2026 00:41:46 +0000",
-          "publisher": "m.sohu.com",
-          "rumor": false,
-          "source": "Sohu",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb19jekhWQkdaSkdGSzJldTBVdUNZcjlnTFRHOWFvUjQta1Y2Nm53aGZwNDl1ejlFOExlZWhPQUVYZXpKZmlXb0RDRUlXOTdhVkE1UUN5ZFBRckhTTXdrVnRyVXpSelNaWXV1dmdud1lRZVlCTDV3bHZtcDhNTHo5SzRpbWV0M2lfS3dfRQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "全力",
         "再见",
         "冲击",
@@ -713,6 +578,17 @@
           "stage": "法律进展",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZXVGcFpvcEhBTHduUkdLOTBuRzJVcUgyeTZkcnJsSXZrZUtfVXZoUFIyMkFobk5LQnVUOHN3amhscnlhMjktNlJLcWswSy03QmxpNmJBSUNaX0lSQlYwTEN3MFJ1YWdKOXVFSDBCbU5IdGthaXlUZkVobGdzOHBlZVg4Z3hSNzZfbjZVampldXRLaF9ER2Y5YmdsaXpaWHE3MDZiaEdyZWRwY2lZRS1yOGZNZk1COVZ1TjBNbkhTN2JsNUxGODROeDBwaEZNaEo1MEJDNWJtbldlSlNCTlF0SNIB5gFBVV95cUxOQlR0ZEZ6NlN3TFhTci1HcHhRMDZCNEpESjNXMHh2TWlDTVBiMFExTGJYa0dDZlRfQnNqdWpTTnZfeGF0bUxTUnFTc3pLZVJ2aEVuYzhfd3ZpZ01xUlNOX1BpbEhuU0g3a2RRTU5TVmxHS3VwanRLQUpLYzZ4dDFaVVhkNVZjTzByS2ZQeXB2cmYydDFHT05PaTZRckVPQ2ltOVhxSENzbUFXLU42bndUeEk4S1FTb2J0ZzJLOHc5cld2NU5tX1JzUmN5VE05SndLSmNaSzRzWU85MEdMeWNqeWw5Y3pZQQ?oc=5"
+        },
+        {
+          "key": "403d3b8edb6edca93e",
+          "phase": "法律进展:被捕",
+          "published": "Fri, 20 Nov 2026 23:58:49 +0000",
+          "publisher": "the420.in",
+          "rumor": true,
+          "source": "The 420.in",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdW03NU9xWVBjbmlnYXY0Zk1NTEtpQVRFVG40SmF4cUhrM0d1RXQwZXNkNXBDOGlMZkFKeFdjS3BRLUNXZ3lYY2FjZlJCRFRHU1VKa0dILU1tZHdyb1hJakJqX1p4Qm1PYmJqMGtKaEdQWVEtQi1uSlVkaHlFUWplZnJxcnlQZ3YyU29sU3c4cHVnQnZvR0RwYg?oc=5"
         }
       ],
       "stages": []
@@ -1551,10 +1427,108 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "alleging",
+        "bribery",
+        "brown",
+        "county",
+        "dismissed"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 21 Nov 2026 10:29:45 +0000",
+      "id": "0be2aa3cad2c522d7f",
+      "person": "马斯克",
+      "published": "Fri, 20 Nov 2026 22:43:00 +0000",
+      "reports": [
+        {
+          "key": "0be2aa3cad2c522d7f",
+          "phase": "法律进展:起诉",
+          "published": "Fri, 20 Nov 2026 22:43:00 +0000",
+          "publisher": "greenbaypressgazette.com",
+          "rumor": false,
+          "source": "Green Bay Press-Gazette",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMHZIWjNlTXlFVDVjcDBHRkpRMmY4TS1KUTA3Tjl0RDVSamxCN0FncmQ3eVJoVGpjbk1mRWRBQ0oxWVVzazVEdFlZRnByVnJSX2lVcjdxbWI3RHFFalpHbFp3SVBjTWlxQzhBTFJPazhvR0FyVDdmckZBMDhPQTNldW9tM1pqRVk4OUVkOHN2XzdVZEZfSk5jNXRZTVhONVd2OGcyaHJROUJTTWJUNGhFM1FrT1RpeEZSNzM2dVVFcjg3RFNXLVRJeWN0TkEzZFRnWkV6OVAxV2szU1lyMllEa0hNOWR1V0s1QVF6ejViRFQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "内加",
+        "加宣",
+        "加盟",
+        "可能",
+        "国际",
+        "宣布",
+        "密国",
+        "巴内",
+        "布退",
+        "排除",
+        "的可",
+        "盟迈",
+        "聚的",
+        "迈阿",
+        "退役",
+        "重聚",
+        "阿密",
+        "际与",
+        "除加"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 21 Nov 2026 10:29:45 +0000",
+      "id": "bba4d7d9dbae7f0881",
+      "person": "梅西",
+      "published": "Sat, 21 Nov 2026 01:43:00 +0000",
+      "reports": [
+        {
+          "key": "bba4d7d9dbae7f0881",
+          "phase": "突发事件",
+          "published": "Sat, 21 Nov 2026 01:43:00 +0000",
+          "publisher": "m.dongqiudi.com",
+          "rumor": false,
+          "source": "懂球帝",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hN0NCZWJuV0ZYQlVFZ0RqZ3lMYVNBZVNKQ0VtYThTTERHa2lrM2ZWd0FfMkdVSS1MVXhNNmhocDdUTmVvYldBV29KMU9WdGZUVGFCM3Bpaw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "crore",
+        "five",
+        "fraud",
+        "investment",
+        "mumbai"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 21 Nov 2026 10:29:45 +0000",
+      "id": "3888e3e908657820a3",
+      "person": "Allegedly Cheated",
+      "published": "Sat, 21 Nov 2026 06:43:22 +0000",
+      "reports": [
+        {
+          "key": "3888e3e908657820a3",
+          "phase": "法律进展:被捕",
+          "published": "Sat, 21 Nov 2026 06:43:22 +0000",
+          "publisher": "newsmobile.in",
+          "rumor": true,
+          "source": "News Mobile",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVVExaTJzakNDRmJtS0NVZkdiQkNhUWRYUG9JUFlFYUFua3YwSTdiQ2hZSTY1ajN6ZldFZElCXzIyeE15NjM3S0tMOXFkZDJGV1l5NmFuOGtnU3JWbjF1c0hyRHpFU2ctX3N3U1RZcUJHNV9keHJfMFhYaVlRa3FKVnhmd3QzV2NZSlNDYnNMMHMwTzc2UXFwVkk4UjNXRnRldUlTcWlGRVdZd0Rxb29yTGNYekNhbHJsNGdYR2ptdVl1R25a?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Fri, 20 Nov 2026 21:49:58 +0000",
+  "last_run": "Sat, 21 Nov 2026 10:29:45 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
