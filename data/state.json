@@ -2,70 +2,6 @@
   "events": [
     {
       "anchors": [
-        "全力",
-        "再见",
-        "冲击",
-        "划曝",
-        "力冲",
-        "夏退",
-        "役计",
-        "明夏",
-        "曝光",
-        "计划",
-        "退役"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 18 Nov 2026 10:49:03 +0000",
-      "id": "775f6632fb7803dc9f",
-      "person": "C罗",
-      "published": "Wed, 18 Nov 2026 04:18:13 +0000",
-      "reports": [
-        {
-          "key": "775f6632fb7803dc9f",
-          "phase": "突发事件",
-          "published": "Wed, 18 Nov 2026 04:18:13 +0000",
-          "publisher": "m.sohu.com",
-          "rumor": false,
-          "source": "Sohu",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQREdKWDEtWnZaS3VFOGFHZUFBQWVHeW9xR1BfSHBaMWxRNGJFclNESkVSb1Q4QkxWZUxVLXRaQlp4dzdqU1Ria3YzUVczMF85NjItTGVzQ2ZZMGVzZDQ1el83TEh6ZDJwVm1lM2VKdW5ob1dxdGdJZ0l4SzYxeGlfdy1uSERQbjhaLV9uTA?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "boycott",
-        "cameo",
-        "infinity",
-        "mother",
-        "nikki",
-        "players",
-        "threaten"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 18 Nov 2026 10:49:03 +0000",
-      "id": "da029d97c906c9b7cb",
-      "person": "马斯克",
-      "published": "Wed, 18 Nov 2026 06:16:48 +0000",
-      "reports": [
-        {
-          "key": "da029d97c906c9b7cb",
-          "phase": "争议线索",
-          "published": "Wed, 18 Nov 2026 06:16:48 +0000",
-          "publisher": "uz.kursiv.media",
-          "rumor": false,
-          "source": "Kursiv Media Узбекистан",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByTHFKcXF6c0wwblJyRnZ5X2tBdTNDOXhqWnpNWUtzLW9DWExRTkx0QUlfT28wWmRONm5iU04yay0yNzYwc0lwR25veW5kRFRqd1RmWkdRczBPTTEtV21NY3p3bklzN0I3Z3h2S0tkTm8tckJXQTVLdGRHbw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "asked",
         "bouncers",
         "breaks",
@@ -1528,7 +1464,7 @@
     }
   ],
   "initialized": true,
-  "last_run": "Sat, 21 Nov 2026 10:29:45 +0000",
+  "last_run": "Sat, 21 Nov 2026 17:44:49 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
