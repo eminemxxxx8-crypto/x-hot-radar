@@ -2,143 +2,6 @@
   "events": [
     {
       "anchors": [
-        "asked",
-        "bouncers",
-        "breaks",
-        "dhanush",
-        "fan",
-        "him",
-        "only",
-        "push",
-        "selfie",
-        "silence"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 18 Nov 2026 19:10:28 +0000",
-      "id": "738d6559eb2c56bef2",
-      "person": "Faces Backlash",
-      "published": "Wed, 18 Nov 2026 10:40:13 +0000",
-      "reports": [
-        {
-          "key": "738d6559eb2c56bef2",
-          "phase": "争议线索",
-          "published": "Wed, 18 Nov 2026 10:40:13 +0000",
-          "publisher": "freepressjournal.in",
-          "rumor": false,
-          "source": "Free Press Journal",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUVptOE1VMXZOU2ExUDZ0VVdYNWtiS1lxR0NZS25uazduaVhmNFFhclVpazM3LWk4MFQwa19pTEdRWVB6TW15eng3emdRUnlwRWR5M0hFV0Z3V0pIV3l0OGUzSmxGSVBHTzVCODhfNlhrRkxESWlmMWZnU0FDYXhlOXZNbWNhWFJVNEFTUld6c3d6ZzJDWmFJbjlROHB5SFJiVVpjaC1LalZrWU9zRlBQbDB1NVdNREJYSWxDQmJ5UTRHT2c4Qm9xV0JIbDBTT0RyRUNpcWc2dW5vU1ZWeU92WEk3eUJFVVVhV1p5dlFoVm43NUswTWJFdnVDSjXSAYICQVVfeXFMTjJyekgzaXc3WXcxdVhHckxJS2V6TWpiRzhvbGFQYlJ1WWRyaEJsS2NTT29vTGpfTUNuMUZBMFQ2ZG5QcWh3bm1DaTlFUFU0WXRtMnN0MlJ3UWJBWE5NR3VhSEcxU0pkblZOblNuX2YtOUVELXBxdlVGWkIxVWtqaS11UnpfY3FCVkRRbVJCTV9wZWxsbzRKeUw3b2s4NGxnSHRMX3JwS1ExandQWGlLbEFBNnRTMmd2NWJUZmJoRnJwOFlhRnBqOG1vWk5jRmtRSDZxbExZUTdyNHRfSVY0V3pRc204aFNQQkZaRjM0RGw5X2RwMnJkcXhXQkVSclpCWU13?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "不干",
-        "也不",
-        "内加",
-        "前国",
-        "加宣",
-        "去迈",
-        "哪怕",
-        "国脚",
-        "宣布",
-        "巴内",
-        "布退",
-        "廷前",
-        "我也",
-        "我去",
-        "根廷",
-        "脚巴",
-        "请我",
-        "迈阿",
-        "退役",
-        "邀请",
-        "阿密",
-        "阿根"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 18 Nov 2026 19:10:28 +0000",
-      "id": "4cdd88c05add8f9117",
-      "person": "梅西",
-      "published": "Wed, 18 Nov 2026 16:22:00 +0000",
-      "reports": [
-        {
-          "key": "4cdd88c05add8f9117",
-          "phase": "突发事件",
-          "published": "Wed, 18 Nov 2026 16:22:00 +0000",
-          "publisher": "m.dongqiudi.com",
-          "rumor": false,
-          "source": "懂球帝",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aUWF3bmY2WGdkYjlmd1o2SkUyblJwR1ZoMkF4RGM4bFFGcmpfNTZIQVMzYVpuZGRLX0R3U0pDMFJsN01xYXFocDRpRzBHWjJRa1djNnpXZw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "finds",
-        "patient",
-        "philadelphia",
-        "rhythm",
-        "telling"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 18 Nov 2026 19:10:28 +0000",
-      "id": "dad228b38a09d547df",
-      "person": "詹姆斯",
-      "published": "Wed, 18 Nov 2026 18:09:52 +0000",
-      "reports": [
-        {
-          "key": "dad228b38a09d547df",
-          "phase": "公开回应",
-          "published": "Wed, 18 Nov 2026 18:09:52 +0000",
-          "publisher": "nbcsports.com",
-          "rumor": false,
-          "source": "NBC Sports",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZGRac1YwdHAzQXprUEhyV0NENk1UYzgwb2MyRU5JTjV1Z0VyRWZYQ0RvWEg0YjFjVDlTbEdVa2pzMTdpM0phbUd2dC1SZ01OSWNMQmI4eV96UGUtOW9lRXNnQWVhT21CTklIVXF0SnU2TEFJSlpnekZGTk12dm0zR2hxdG5RME5JMXQzMGVjZ3l1OWZVYVZWSzd6RGhFTFVmR24wVlhaa1k1YkpW?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "insight",
-        "level",
-        "lionel",
-        "luis",
-        "personal",
-        "provides",
-        "retirement",
-        "suarez"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 18 Nov 2026 19:10:28 +0000",
-      "id": "848f19ca308732150b",
-      "person": "梅西",
-      "published": "Wed, 18 Nov 2026 19:00:01 +0000",
-      "reports": [
-        {
-          "key": "848f19ca308732150b",
-          "phase": "突发事件",
-          "published": "Wed, 18 Nov 2026 19:00:01 +0000",
-          "publisher": "si.com",
-          "rumor": false,
-          "source": "Sports Illustrated",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNHdzU1hMOHd5RTZySDlFdzF5WXNGVFBUNnRmU2dCY0JQVGZJSTIyUW0tSzRtZTd2ZlF0NWdUTVpYeF9TUlFBVklidVRqRTZxaFZaY0FjakxsU05FaTJROGhOZGt5R1JCc24zcVpDWEtwbnVVSlFVRHNQLW5JazRjSTVqSWM?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "armband",
         "bruno",
         "cancelo",
@@ -1461,10 +1324,52 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "争议",
+        "官网",
+        "射手",
+        "手榜",
+        "托尼",
+        "暂都",
+        "未计",
+        "沙特",
+        "特联",
+        "球暂",
+        "球领",
+        "联赛",
+        "计入",
+        "议进",
+        "赛官",
+        "跑射",
+        "进球",
+        "都未",
+        "领跑"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 21 Nov 2026 22:27:26 +0000",
+      "id": "09e9c75baf653da644",
+      "person": "C罗",
+      "published": "Sat, 21 Nov 2026 21:56:08 +0000",
+      "reports": [
+        {
+          "key": "09e9c75baf653da644",
+          "phase": "争议线索",
+          "published": "Sat, 21 Nov 2026 21:56:08 +0000",
+          "publisher": "k.sina.com.cn",
+          "rumor": false,
+          "source": "手机新浪网",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41UW50SkloaW5uTXozQ1hDSnBUMk82a2xxMzhTVW1xdTB2OGYxXzRNYUJCZVh6cm9fM19lMHd1NWlvZ3hQRlFrZW51S0FKN3FqYll1bTkwdEtKclBnVUdPSDh2YkU4aURIV1ZRN3J2am5Tdw?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sat, 21 Nov 2026 17:44:49 +0000",
+  "last_run": "Sat, 21 Nov 2026 22:27:26 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
