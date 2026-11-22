@@ -423,6 +423,17 @@
           "stage": "道歉回应",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWFJPZXpYM3p0V04tTzNTWjdHYUxLSDBzUHVDblZEZlRyaldnRGFWY0YwNFhaZ2ZTdE1JUjEyOW1zMTVocmNZTWpnb1pnUGVSdHdZYWw3RGFoSUFTbnNBOFFaS055cnZMUDZOTUtBb3o0WWZtSkpxbGNOMnY0M20tNEVEa05XelEwZlVBamYtTFJQa3BEMDNLbHJLWlg2aVQtMkdsWkdHZUl5UVZ6Uk5NVmtFMGh6TUNic3VCMThIRDdkUlVQLXZjbQ?oc=5"
+        },
+        {
+          "key": "e4493ba988d74f190f",
+          "phase": "道歉回应",
+          "published": "Sun, 22 Nov 2026 18:25:00 +0000",
+          "publisher": "tri-statedefender.com",
+          "rumor": false,
+          "source": "Tri-State Defender",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa0xPcW1rYTFNaUFXYmk0dEh0U192Zm5BdVN0TzVuZXkwcWRRYW9vQjVwY0dtYUV3WFVEUWwtMEZlS2dvWEQ3MENhNzE5RDg0b1FHTmxaUElncWtIZ255NzJ6aDlBZWVfNXpYcDFqQkp1VkdJYTVRdGp0Z29xVXQyTHNrTThXczNrcHpzVi1IM3BQLXRqVmZDMHJiRVdYUWNuTDJiajBJT1VjRHZ1MW1DYVROZllSWnA2VXA1WU0waW9jMEtuSk1LYw?oc=5"
         }
       ],
       "stages": []
@@ -723,6 +734,17 @@
           "stage": "争议线索",
           "trusted": true,
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWVg4WjAwWXFUTHNDR1d0Um9pUmRHa2g3MmVadFdDaVJzUlYzRWlOUlZNVVoyZzhmY3RaV0I5VFl5YkpxLTZGRTNGQ1JCaVRRY01LclhlaTNmaDJXWDNDZ1JYZWJOQ3ZNcEhHSGVUM00wcUNMSEloTVBKaUMtMXVsWDc2UTdlenVOZkVJZnJKZHZ5bjlHcjlQZkRBRGdkN0EyR000WEhhMF9TdTNjTndnS1hSbkRyVnZJenJtNkl3?oc=5"
+        },
+        {
+          "key": "1a5cf9391ead23516e",
+          "phase": "争议线索",
+          "published": "Sun, 22 Nov 2026 17:57:49 +0000",
+          "publisher": "bleacherreport.com",
+          "rumor": false,
+          "source": "Bleacher Report",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY1gxQXdMa1dmMnBTT2ZQLUM1eWdnS0d3SGhobWY3eV9CdzRLZVZKanl6UThFRzlrM0MtbzJtVFYyUDhKT0VWd1BqSElwRnlhUWVLWjlmaDJrbmZ6VGd6dFJ3WDA0Wlo5V0hiLU5qUnpEU2lKQnJaNkZWVndiNEVWX2RQa1dYRUl1cVJhdmExUW9IZnRSV0xBNHVSYnR0bmpGNEVOMXdEZWVWcmRpUzFqa1ZsWklOODBXVUpNZXpwTTJzbXk1aFh1R1Rn?oc=5"
         }
       ],
       "stages": []
@@ -1268,10 +1290,120 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "coach",
+        "columbus",
+        "courtoi",
+        "crew",
+        "cristiano",
+        "incident",
+        "laurent",
+        "lionel",
+        "revives",
+        "ronaldo"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 22 Nov 2026 22:54:39 +0000",
+      "id": "23d6c27fc0084efd2e",
+      "person": "梅西",
+      "published": "Sun, 22 Nov 2026 21:22:32 +0000",
+      "reports": [
+        {
+          "key": "23d6c27fc0084efd2e",
+          "phase": "争议线索",
+          "published": "Sun, 22 Nov 2026 21:22:32 +0000",
+          "publisher": "worldsoccertalk.com",
+          "rumor": false,
+          "source": "World Soccer Talk",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMTY1WmY1NE1QVk9tQzVvTU5HV1NvdTlSbkpseUEzclhEeUZUdjBOUmdyeUFwV2ZOWm1hNkFaZDFLamRyNmVWNFByMElQU2NmSE9fZGRlRE9Cd1NsT2ZlX1ZxdUcwQWdQVHVDM3hTWHVKbG4wSVJXRGgxMDZkOE1keWs0WE5iOU9Vd0FJa0kwcU9lUlFmTTVNSTkycjQwZ3ZOYzI4SFlRUXl3NzltQVQ0bTJHQm5senV6REdvXzhLU1E0Q25SNE9oa0JzOVotR25obGk0UU5LZW1QNUxHV1Nub2dkSTNkM0dKUy1TUjk3RzHSAfQBQVVfeXFMT3ltWlFRWUs0QktQWFVJTUVIQlQ3WWhIVjNpSHZQR2NyaVRyM3gzWkF0Q3lRUE13R2hHWlE4NmJ0ZVVSYjFtYVRBa2I2ZmVZaGZtcHRRT2hGLUkyUmZISlB4VG81b0JNMXEzM0Y0Z0x1R2Q2QzdPaXBoQ2VPc3hJY2hoMXluZUdMR0F2aGJic200emczbTV5LW1fQVJGNkZyc0drYWNEcEZFUXUtVGprd0Nya0JQajBsbzlCMDFTUnMzdERZVlJqbXU4WUdTZkhCM3BLc1JZSDNIQldpNEkzRnRFZkNPSnI1N202ZkRLRDRDMzJpMg?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "clear",
+        "far",
+        "inspires",
+        "kelce",
+        "love",
+        "makes",
+        "retirement",
+        "travis"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 22 Nov 2026 22:54:39 +0000",
+      "id": "4f4ce5dd4386c4a5a2",
+      "person": "泰勒斯威夫特",
+      "published": "Sun, 22 Nov 2026 21:57:28 +0000",
+      "reports": [
+        {
+          "key": "4f4ce5dd4386c4a5a2",
+          "phase": "突发事件",
+          "published": "Sun, 22 Nov 2026 21:57:28 +0000",
+          "publisher": "marca.com",
+          "rumor": false,
+          "source": "MARCA",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYTJSQzFXVGFsVU1wNHo4cFZJYkNqTS0xMnd4dTMwYWNnVzYwQTZYSFNqMVh4TDJmOFcyY3FPNHNRNGgwZkhObHgwSFhkcEk3RnRfYUQ0YWZ1NERwZUhMRjNfcGZSc1pLZF9QaUdrQmRjMDBVbVdLZWl0azBQQXdHc0JaSmk5TzNjaXBfYjJnWkdTbzhyXzEwTFBUSW1pN0VzTmNpOW85bUVJRndWU25DOEVOTXlfSURBSFQyOUp6cFJGcVpnWmZTSWNUVkxzS2d6ajJZVmlQVXg2ekRMakRyaWZEQzBvOXpkc2fSAeoBQVVfeXFMTndYalZWSTIzX1VGZmMxTlpoTkZ6Zi13bXc1cllkczR5Y0FGS3Y2MW5uTkVHbWIzWEJVeEtXSkRYMjdxRGI2V3YtLU4ydU4yamc2Nk1lb0NjZEtxNngycFdwOEltWU9Jc3pyS1cxWHpWbWoxN0R5djhVQWp2elh0MnBPZW5Ua0IxbldRTmtCYmdpbDgtanZhTXdnNVJ2bDVhNjB3b3JMMVhpVmwwdUlIZC00b2h3bUNlSV8zNWtKM1ZxR2d3MFhPeF9PeUNtVnJJbjVDakpLM2RXZTl5THRIczBzYWlTT25QTE5n?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "为他",
+        "举动",
+        "了发",
+        "他辩",
+        "动并",
+        "友为",
+        "发球",
+        "对手",
+        "并非",
+        "恶意",
+        "手阻",
+        "排队",
+        "是对",
+        "王的",
+        "球王",
+        "的举",
+        "碍了",
+        "辩护",
+        "道歉",
+        "队友",
+        "队给",
+        "阻碍",
+        "非恶"
+      ],
+      "concepts": [],
+      "first_seen": "Sun, 22 Nov 2026 22:54:39 +0000",
+      "id": "366777a1af026fc3bf",
+      "person": "梅西",
+      "published": "Sun, 22 Nov 2026 22:32:24 +0000",
+      "reports": [
+        {
+          "key": "366777a1af026fc3bf",
+          "phase": "道歉回应",
+          "published": "Sun, 22 Nov 2026 22:32:24 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT2dUaTJjNjZDWmRYa2YtTGpLT3RxaUVYM2d6YzNyMGx5NVJYZl9CNTNSZEFSM0otY0E0SGNpcmFyNy1QSE90VDNjRko5aHpuYlZBOG54djVtaTVYeWVGT1RzQ0R3c1NKeXZ5Nzh2TGl5bjNDdDFoSVp6cEZSRFpHajhRMmFpX3N4bjBnOQ?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sun, 22 Nov 2026 17:52:26 +0000",
+  "last_run": "Sun, 22 Nov 2026 22:54:39 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
