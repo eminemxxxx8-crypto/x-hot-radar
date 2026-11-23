@@ -2,102 +2,6 @@
   "events": [
     {
       "anchors": [
-        "bay",
-        "boy",
-        "break",
-        "byron",
-        "mansion",
-        "teenage"
-      ],
-      "concepts": [],
-      "first_seen": "Fri, 20 Nov 2026 05:19:12 +0000",
-      "id": "915e7499420730c148",
-      "person": "Chris Hemsworth",
-      "published": "Fri, 20 Nov 2026 00:23:00 +0000",
-      "reports": [
-        {
-          "key": "915e7499420730c148",
-          "phase": "法律进展:起诉",
-          "published": "Fri, 20 Nov 2026 00:23:00 +0000",
-          "publisher": "7news.com.au",
-          "rumor": false,
-          "source": "7NEWS",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYjR2b2w2Q0RSSWlVanR5ck4wdHBMZ0hWeTdqanZHXy1xblMweUUtWUNZalBZMjJuMGY4QnYxMzZGSHh0RHlKRFJ0MnYxejZ3M1NjTVdPT1B2Sy1fU3ZIbVlzdE5MbWNsYU0tRmRMbFl0SjcyaEtjaUY3UDFRcWdjdnVkMEpfSGE4cHY2Z1prbFB1SzRxM2dTa1I2OWJmRHlpeE44aHJzb1hlRm1uNHpoRmpYYzVKTzczTFBILW5RY1Z2VDl3bW1pa1RPLTVUY3dIX2Jn0gHYAUFVX3lxTE4wc3YxSVV2U050T2hpWEIxeWp2VjNMdTQ0WlF4NUNBNGlGLVFwSjl5aXRPbWJjVDA3WU9qbmJ3dTdiS1JGTDIydHlnNVpNWmU2YWhFczE2SDJoVHlURmUxRmduNHhuc2FkLURYY2xwRTdlWE1jdUtjNDFMQ25KV0ZxOHhWQ1ZDY0NUbnctVHNMenhtc0I3eVpueDZZODVZRXk2VXY4NUhMS05QQTRIdEowcmxvR0VBdTQ5X2UyUlloU1diNG5KQko4aURhVU92aUw1cG16NWtBQQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "不实",
-        "亲现",
-        "人出",
-        "出面",
-        "实消",
-        "本人",
-        "母亲",
-        "消息",
-        "深圳",
-        "清不",
-        "澄清",
-        "现身",
-        "网传",
-        "谣澄",
-        "身深",
-        "辟谣",
-        "面辟"
-      ],
-      "concepts": [],
-      "first_seen": "Fri, 20 Nov 2026 05:19:12 +0000",
-      "id": "abccd54b835ada5349",
-      "person": "马斯克",
-      "published": "Fri, 20 Nov 2026 04:08:37 +0000",
-      "reports": [
-        {
-          "key": "abccd54b835ada5349",
-          "phase": "公开回应",
-          "published": "Fri, 20 Nov 2026 04:08:37 +0000",
-          "publisher": "k.sina.com.cn",
-          "rumor": true,
-          "source": "手机新浪网",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9POXBkT00teE9xVFZKeWhndm95UGkwOXE5VVo4N2FiYTR0QlI0MTZUbTZqTDVXbXhJSzl4TDlOa2NjaVZkWGhkOFJMYnJ2R0RIS2NIMnNQbjRVVnNTR2pvNS01VFBnS1Y1R0NiN0NlU2JtQQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "action",
-        "afa",
-        "legal",
-        "turns"
-      ],
-      "concepts": [],
-      "first_seen": "Fri, 20 Nov 2026 05:19:12 +0000",
-      "id": "793eec1eff20e6f331",
-      "person": "梅西",
-      "published": "Fri, 20 Nov 2026 04:23:15 +0000",
-      "reports": [
-        {
-          "key": "793eec1eff20e6f331",
-          "phase": "品牌解约",
-          "published": "Fri, 20 Nov 2026 04:23:15 +0000",
-          "publisher": "observerbd.com",
-          "rumor": false,
-          "source": "Daily Observer",
-          "stage": "品牌解约",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5SSnFJU0thYUVwdTlodlc1bTdYMjlidW5oZ0wzZk1vZUpxNDB6NXRIci1SUGwwQ0FRbTNkdUVLWTYyMmhsZHZUdEZB?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "being",
         "football",
         "greatest",
@@ -1664,10 +1568,84 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "下令",
+        "不澄",
+        "主党",
+        "乌克",
+        "令限",
+        "克兰",
+        "党威",
+        "切断",
+        "如不",
+        "威胁",
+        "将切",
+        "断资",
+        "星盾",
+        "民主",
+        "清谁",
+        "澄清",
+        "谁下",
+        "资金",
+        "速乌",
+        "限速"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 23 Nov 2026 13:34:05 +0000",
+      "id": "ef86528fcf45e16406",
+      "person": "马斯克",
+      "published": "Mon, 23 Nov 2026 07:34:33 +0000",
+      "reports": [
+        {
+          "key": "ef86528fcf45e16406",
+          "phase": "公开回应",
+          "published": "Mon, 23 Nov 2026 07:34:33 +0000",
+          "publisher": "k.sina.com.cn",
+          "rumor": false,
+          "source": "手机新浪网",
+          "stage": "公开回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UbVp6ZUZFQkxWcWJxcUp5Q2FmYVJNV2NDT3FiWThsbDdQYnBtV25MV3Yyd2NfNkNGdW9memZBa0dZSmlSTmptYWRhNUFmNDc3alFDV3VNSHZkYXppVFplQ2ZHUjVHMmVmaWJZQ05sTWp4dw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "fsd",
+        "不是",
+        "争议",
+        "倍数",
+        "全倍",
+        "回应",
+        "安全",
+        "数争"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 23 Nov 2026 13:34:05 +0000",
+      "id": "4623dedcf67ae3e2e1",
+      "person": "马斯克",
+      "published": "Mon, 23 Nov 2026 11:56:06 +0000",
+      "reports": [
+        {
+          "key": "4623dedcf67ae3e2e1",
+          "phase": "争议线索",
+          "published": "Mon, 23 Nov 2026 11:56:06 +0000",
+          "publisher": "k.sina.com.cn",
+          "rumor": false,
+          "source": "手机新浪网",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CMnQyajBEQ3dQekxJS3BPNEZtTW0xZnZTMlpiUFpja0tUVVphdmpyeDgyZDg1cV9aeEdjWFZjWnFDQUU4N3FaVEtMNjdBWF9lbjRaNDJVNEZJdnloOFhubjNZb2M1MmNlYnhXcnNRRHFyUQ?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Mon, 23 Nov 2026 03:27:22 +0000",
+  "last_run": "Mon, 23 Nov 2026 13:34:05 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
