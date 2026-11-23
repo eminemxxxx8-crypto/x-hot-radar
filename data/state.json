@@ -2,94 +2,6 @@
   "events": [
     {
       "anchors": [
-        "humiliation",
-        "midterms",
-        "split",
-        "tries",
-        "trump"
-      ],
-      "concepts": [],
-      "first_seen": "Thu, 19 Nov 2026 23:54:41 +0000",
-      "id": "50233785bf872d0887",
-      "person": "马斯克",
-      "published": "Thu, 19 Nov 2026 17:12:11 +0000",
-      "reports": [
-        {
-          "key": "50233785bf872d0887",
-          "phase": "突发事件",
-          "published": "Thu, 19 Nov 2026 17:12:11 +0000",
-          "publisher": "newrepublic.com",
-          "rumor": false,
-          "source": "The New Republic",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wSno3Ql9oXzliM2dQMGtPRGV4Y2Q5RHVMVVFzd3RNeTQ2bzR0Tm9oUi14VVdvOXloeW9obXBNMFhSTGNuUE9PdW9xcEg0cFgyWjhHWFVvRFo3bnhaWTF4SEwtNTlkaV9SamxRMkhGaWVQenRYdnZ2V0tjNF85Zw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "ataul",
-        "detained",
-        "dhaka",
-        "dolon",
-        "former",
-        "haque",
-        "lawmaker"
-      ],
-      "concepts": [],
-      "first_seen": "Thu, 19 Nov 2026 23:54:41 +0000",
-      "id": "bc34e25912aac795fd",
-      "person": "Tomal Mahbub",
-      "published": "Thu, 19 Nov 2026 19:36:02 +0000",
-      "reports": [
-        {
-          "key": "bc34e25912aac795fd",
-          "phase": "法律进展:被捕",
-          "published": "Thu, 19 Nov 2026 19:36:02 +0000",
-          "publisher": "thedailystar.net",
-          "rumor": false,
-          "source": "The Daily Star",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT09jbEZOMG1icjFUWU02SGVFTldBME1MZWpPVkFzOXJTWkZrV0x0Z1hqR1dzaFg2RXFhbVV2My1maGkxLVM4OHJjVUZZeklHNERVc01NWTlqcF9xTHNhYzVLQ0dvX1lsa0s5WUZmb05nQVB2NERpUThoWXpyVDRXV2ZvOWhmUmJYbkExV09OUUpLTm9vbTRZX2Z2NnFnQ2hXek9heHJjMl9Pd0ZUSmp4c1dGQmctbXVNS0tjY0RDVmZuQVp2WkJYeTFNN0tVYWN2NnozbHN0RQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "ballads",
-        "banned",
-        "detained",
-        "halted",
-        "narco",
-        "queretaro",
-        "show"
-      ],
-      "concepts": [],
-      "first_seen": "Thu, 19 Nov 2026 23:54:41 +0000",
-      "id": "019fce3070a69d5956",
-      "person": "Gabito Ballesteros",
-      "published": "Thu, 19 Nov 2026 22:52:04 +0000",
-      "reports": [
-        {
-          "key": "019fce3070a69d5956",
-          "phase": "突发事件",
-          "published": "Thu, 19 Nov 2026 22:52:04 +0000",
-          "publisher": "mexiconewsdaily.com",
-          "rumor": false,
-          "source": "Mexico News Daily",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQejMzQVpJOHdNMlJuSlh6YTF0VGUwRGxMdllwcFgxdHRhVjZxd0NjMk5INjUwekd1RHp0UmNKcm8yVmNPUFFwMWtNRmdIMmxNZndPX0pVQ1V6bHNVUGVLOU9LYUU1RDdXQnBhZWZqTXN4VTlZVV9ERS1OLWhjU2t1ejJGbldJWkRzR3I3a2F3d1p2UVpuX0Q2d2xCQ29vUDdQdnlpS2tLaDcwcHMwVERJc2lKRld6bUF2QS1KNnRlRjh4OHc?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "bay",
         "boy",
         "break",
@@ -848,6 +760,17 @@
           "stage": "道歉回应",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcDlNOW9rN0ZacFVSazJtcVQ3MURFblVURHlvWnRfb2l6QmlXc0F1SW9BQThTcmVCYVBSRDJZcVIzcFZpT09ab1FmcUpON1NTWmEzUmdNSUM3YTllZWo1alJrS1hrRkMwcGVKS2YwSlZnNEdTZnluaUJxRFZPa1Z1Ym5DOUdTa3F0OWdZUw?oc=5"
+        },
+        {
+          "key": "cff104c4b3596b9c74",
+          "phase": "道歉回应",
+          "published": "Sun, 22 Nov 2026 23:25:18 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTzFjQWxJVGdoU21tQVRhenhKZVpPZmFtMTZLOEhRc0Zxb0xpY044VGlqVndTVnJmMlhic0h3WUZJNEtXNmVRdEhJS0doYmVZOENEUlJfcUV4N3ZkWE5fUmFHbW93THBXcnV6RENneHRjU1FpMFdScXVzTWk4NEtuLXpOblk0eFA4Ym1IRw?oc=5"
         }
       ],
       "stages": []
@@ -910,6 +833,17 @@
           "stage": "争议线索",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GZUg5SzRZSU1zNmJYU2FTeml3Mks4cGdzWVdQYVkzd0FFQ1UxNGVtOGZ5S2pJVUZ6MC1hbjNhWFZTWVZWeFE5WXZVSW5HUDZ0NlAwcmFDTnhkcklGcmZHV0EyOVhPMTQ?oc=5"
+        },
+        {
+          "key": "8740c93e1c7452c693",
+          "phase": "争议线索",
+          "published": "Mon, 23 Nov 2026 00:03:58 +0000",
+          "publisher": "news.china.com",
+          "rumor": false,
+          "source": "中华网",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZOEpsd2hmMXRXVkh5M0tXSWZwWUVndnlQdXY1X2RBQlRpSXhkTmU0UU4tTk1EdTYtM2hNcGEzY09vV2hkODc1bVh3YzI3ZWNkU0k5Vko3MkpFeUJmWVFqZ3JneXVxbWk1VndKd1ZMY1c?oc=5"
         }
       ],
       "stages": []
@@ -1184,6 +1118,28 @@
           "stage": "争议线索",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDdkWHh0cUJOcEVkNm9teUFWNHpUcVRWeTRWOHYyX1M1QkIxMmNMbG5Gb0hOcVdfY2t3My1Nc2JxWFdjWm05b3lRSF9wX0hERnNBTHZESVFqQU5FZ2tCNDB6TW8zdV9rNVN5VXdOT1V5QVV4bmFRVHBtQmswTTlNZE1FVThGZ2hY?oc=5"
+        },
+        {
+          "key": "7fe89b64eb0edda633",
+          "phase": "争议线索",
+          "published": "Sun, 22 Nov 2026 22:49:51 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYTZGRlVqS2FpT2tNOElxem9CU0lmOWpFQmdpdldMSUE4QmcwOWp5emtJVF9abC1BZFU2bENzTzROU25tbFp0VTFYZXlFUlptdkpGZGVHU3U3SHIxOVlhSHhyUm1yV2xSNlNaa2U1MFhKdWFrOGhkR2o4ZGZRWnQxRWZxNm40aHRicHNRNg?oc=5"
+        },
+        {
+          "key": "30b9c2a1057c2465f0",
+          "phase": "争议线索",
+          "published": "Sun, 22 Nov 2026 23:51:19 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWHF6TUU3Rnk0QUpLakNiUk1aTDNUSm1TQ2o0UTU1TTUxcXBMTHRQT3JETHVSaEZOdl96MWtQRjNnVnF0eEUyRlEzS2J0SmdNZEpaT0NGT0lUZGhsaXdDNjFLTXZPazFCT3FOUk5jZWpTNGtNdlEzbU0ybjRkNEJTdDAybTIxdnp1SHhzUw?oc=5"
         }
       ],
       "stages": []
@@ -1400,10 +1356,318 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "一小",
+        "内社",
+        "媒点",
+        "宣布",
+        "小时",
+        "布退",
+        "役短",
+        "时内",
+        "点赞",
+        "短一",
+        "短短",
+        "社媒",
+        "突破",
+        "赞突",
+        "退役"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 23 Nov 2026 03:27:22 +0000",
+      "id": "deb521960cce5936ba",
+      "person": "C罗",
+      "published": "Sun, 22 Nov 2026 22:35:51 +0000",
+      "reports": [
+        {
+          "key": "deb521960cce5936ba",
+          "phase": "突发事件",
+          "published": "Sun, 22 Nov 2026 22:35:51 +0000",
+          "publisher": "k.sina.com.cn",
+          "rumor": false,
+          "source": "手机新浪网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tSHcwM2VadmkyNFg0SHJkaG54VlFYUW5xdjUzSExEeWlpdURrSTlmOUNPVnVhOTk3X1BBUlRrRHdtLURNXzZkZzVtR1gzYzN3djFURTRVdUZBR3Y3X1dlVUFnV2pGMFZkNnlIZTVhNXlwQWs?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "不断",
+        "中对",
+        "争议",
+        "击中",
+        "发热",
+        "处罚",
+        "外球",
+        "对手",
+        "引发",
+        "手面",
+        "热议",
+        "牌处",
+        "球击",
+        "界外",
+        "被黄",
+        "议不",
+        "部被",
+        "面部",
+        "黄牌"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 23 Nov 2026 03:27:22 +0000",
+      "id": "9544f198c8caa75ec1",
+      "person": "梅西",
+      "published": "Sun, 22 Nov 2026 22:56:36 +0000",
+      "reports": [
+        {
+          "key": "9544f198c8caa75ec1",
+          "phase": "争议线索",
+          "published": "Sun, 22 Nov 2026 22:56:36 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaWlBMGsyVEYxLTZuTU9EZ3Z1bXBkR1k1QkhuZ0tqcWxVMm9TZkxvVkJudVZVaTNSNUlLU0J3VFlxTENsOEU3Qk1sc0RKMVFXa1VmcEQ5eWpkTEtUXzZueUc2WDVhZjNSc2wxelFQNm1HMTM2TW1XeHI3ckpNWFQ5QV9iZ2xHcHZuTEhwdQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "不忠",
+        "不是",
+        "不认",
+        "为他",
+        "仁勋",
+        "他对",
+        "伟达",
+        "决定",
+        "勋不",
+        "国不",
+        "对美",
+        "我不",
+        "明智",
+        "是明",
+        "智决",
+        "美国",
+        "英伟",
+        "解雇",
+        "认为",
+        "达解",
+        "雇黄",
+        "黄仁"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 23 Nov 2026 03:27:22 +0000",
+      "id": "4a695482a702a742b4",
+      "person": "马斯克",
+      "published": "Mon, 23 Nov 2026 00:06:36 +0000",
+      "reports": [
+        {
+          "key": "4a695482a702a742b4",
+          "phase": "突发事件",
+          "published": "Mon, 23 Nov 2026 00:06:36 +0000",
+          "publisher": "k.sina.com.cn",
+          "rumor": false,
+          "source": "手机新浪网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qMnlEcUxMNE5WWnFIdG9VamRxeTdHUGU0TzhjaU9QS3ZEcGV3Sm51Mmw2VHJBeFRvZk0zaktUdE1USFctcV9XX2J4d3ZMdGQ4MzJRMHdOZ0ZDekZNYnM1aDdYSEN0MUY5dnFVc1RVcXIyZw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "争议",
+        "卡塞",
+        "发争",
+        "塞米",
+        "引发",
+        "护引",
+        "热议",
+        "球迷",
+        "的言",
+        "米罗",
+        "罗的",
+        "言论",
+        "让球",
+        "论让",
+        "辩护",
+        "迷热"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 23 Nov 2026 03:27:22 +0000",
+      "id": "6b104407f74c3ed190",
+      "person": "梅西",
+      "published": "Mon, 23 Nov 2026 00:21:03 +0000",
+      "reports": [
+        {
+          "key": "6b104407f74c3ed190",
+          "phase": "争议线索",
+          "published": "Mon, 23 Nov 2026 00:21:03 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYVJVc1RoaEN0UGlxVE0ySmY4NE9Mckozd2ZaWThmclpYZFBIMmh2Z2ZjWm5pQkY1bFFEQlBEME5QcTZTSGR3WWlDdXRPVmgzTXJTYi1HNFRjWWhMR1U5VFdtdjkwalJyem9sWE8yTFE0Mzh0YmU5ajc4d2NpNzQzQjVHMzlOR2ZWNjlCNg?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "中对",
+        "为应",
+        "争议",
+        "出示",
+        "击中",
+        "名记",
+        "外球",
+        "对手",
+        "应出",
+        "手脸",
+        "球击",
+        "界外",
+        "示红",
+        "红牌",
+        "脸部",
+        "认为",
+        "记认",
+        "遭黄",
+        "部遭",
+        "黄牌"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 23 Nov 2026 03:27:22 +0000",
+      "id": "81f3a864a76b9c8dc8",
+      "person": "梅西",
+      "published": "Mon, 23 Nov 2026 00:23:10 +0000",
+      "reports": [
+        {
+          "key": "81f3a864a76b9c8dc8",
+          "phase": "争议线索",
+          "published": "Mon, 23 Nov 2026 00:23:10 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVVM2amZzdGhSVm1sbUtpTGdUMkJ5MXJpbmo4aWpmeExRWmk0QkhseV9kU3ZwaHBoV1MwZFZZX0xrZkd0ZDlwUzRDamU2a0dSWHFDWkgxOWowOUxDQ3ZhR3hEUkM3NFNJMXFjTy1QYlNUTjhGSUhBVzNSTmxqN1ZLM3dyVnpyalZKbXJ0Nw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "crore",
+        "relatives",
+        "sharafali",
+        "transferred"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 23 Nov 2026 03:27:22 +0000",
+      "id": "0805d6d769a94aea7a",
+      "person": "梅西",
+      "published": "Mon, 23 Nov 2026 01:12:54 +0000",
+      "reports": [
+        {
+          "key": "0805d6d769a94aea7a",
+          "phase": "争议线索",
+          "published": "Mon, 23 Nov 2026 01:12:54 +0000",
+          "publisher": "onmanorama.com",
+          "rumor": false,
+          "source": "Onmanorama",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUEFaNnZmdFpnVDFBdHhwc1RUYW9yaHhma3hWRGRXT1lGajhJN25hWkV1LWM3aDB6bkY5bXMyWnBNd3I3YmlGaHBfOHlMeXpfOGxESWV1ODJjUGtBVjEzc054QjJXMVR3Vi1LNDBwbzJqeVV3NlZlT1g3N0VHem52ZFVWTk83elRhLVl2YkVHUWRvQUx3bGMzV09MTzdkRUhZZUlBcWdVejM4eHltM1F5eVd0Z2dyZWF6dTJsOGRfQkFtWUJLRkh0MTQ5Zw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "乐部",
+        "他了",
+        "何时",
+        "俱乐",
+        "冠别",
+        "利怒",
+        "利雅",
+        "别想",
+        "受够",
+        "在俱",
+        "够他",
+        "夺冠",
+        "得胜",
+        "怒了",
+        "想了",
+        "我受",
+        "时在",
+        "胜利",
+        "退役",
+        "部退",
+        "雅得"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 23 Nov 2026 03:27:22 +0000",
+      "id": "a6a9d31e1f6c1e8a81",
+      "person": "C罗",
+      "published": "Mon, 23 Nov 2026 01:48:39 +0000",
+      "reports": [
+        {
+          "key": "a6a9d31e1f6c1e8a81",
+          "phase": "突发事件",
+          "published": "Mon, 23 Nov 2026 01:48:39 +0000",
+          "publisher": "k.sina.com.cn",
+          "rumor": false,
+          "source": "手机新浪网",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQTVd3SExtYm9LTl9mMWtLSXZOaTkyYXdLOTM2SnBYaUh4V051aWI5Y2dib2VWUGVZaG1VVDQ5UXFsa2VzeDdTdzhCSUs3X3FwWERqZXVvY0NqMVVCSTRYZlEtV2ZYakRneENRbHVMQlE?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "ataul",
+        "detained",
+        "dhaka",
+        "dolon",
+        "former",
+        "haque",
+        "lawmaker"
+      ],
+      "concepts": [],
+      "first_seen": "Mon, 23 Nov 2026 03:27:22 +0000",
+      "id": "bc34e25912aac795fd",
+      "person": "Tomal Mahbub",
+      "published": "Mon, 23 Nov 2026 02:29:26 +0000",
+      "reports": [
+        {
+          "key": "bc34e25912aac795fd",
+          "phase": "法律进展:被捕",
+          "published": "Mon, 23 Nov 2026 02:29:26 +0000",
+          "publisher": "thedailystar.net",
+          "rumor": false,
+          "source": "The Daily Star",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT09jbEZOMG1icjFUWU02SGVFTldBME1MZWpPVkFzOXJTWkZrV0x0Z1hqR1dzaFg2RXFhbVV2My1maGkxLVM4OHJjVUZZeklHNERVc01NWTlqcF9xTHNhYzVLQ0dvX1lsa0s5WUZmb05nQVB2NERpUThoWXpyVDRXV2ZvOWhmUmJYbkExV09OUUpLTm9vbTRZX2Z2NnFnQ2hXek9heHJjMl9Pd0ZUSmp4c1dGQmctbXVNS0tjY0RDVmZuQVp2WkJYeTFNN0tVYWN2NnozbHN0RQ?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sun, 22 Nov 2026 22:54:39 +0000",
+  "last_run": "Mon, 23 Nov 2026 03:27:22 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
