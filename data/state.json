@@ -1449,6 +1449,28 @@
           "stage": "争议线索",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEtXaU5JRnh6cVU2RkM2aTZzejIyUFFSd2s3QnJLXzRsMDJtVlNJYUZxRWNOWXI5Zzhmc1czT0RKdlVkRUZxZWY5aURZU0pzbzRlYndsY1R3c1E2YVAxX216NEdRcGNvWXhacHJmQU9Bd0s3M2xYaXRVcE5BeXNRQ0g5enFQYlgxQ3ppWkM3ZEdRLWpjbHlaUGRfVVNzRTloaUlZaW5Ldi1GQ1U?oc=5"
+        },
+        {
+          "key": "036e724cc639658191",
+          "phase": "争议线索",
+          "published": "Tue, 24 Nov 2026 16:23:21 +0000",
+          "publisher": "washingtontimes.com",
+          "rumor": false,
+          "source": "Washington Times",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORmRhTzFTQTRkMlZzd0NMQVJSYTFHc2tlSTVyWHdOdUR1VVdkRWJpTnllbkh0ajE2bTdhMXJTeVBQRDRKcVZSeEpfdzNDNkZEeTRFWmNIWE9iLUxXMHhRWGhISzR0ZkVqc2kyLVMyUjFSTE5ZOEtRV2xhNVcxTkZlT2pFVHQxVURhaEhnVWtnaHQ5VmhoemtUYVBqMGk3YkhLMWdOaXlqTDl0X1BXaTJjcmhIeS0tRy1D?oc=5"
+        },
+        {
+          "key": "115856c546814c125c",
+          "phase": "公开回应",
+          "published": "Tue, 24 Nov 2026 18:37:00 +0000",
+          "publisher": "sheknows.com",
+          "rumor": true,
+          "source": "SheKnows",
+          "stage": "公开回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSzJsTFUzeDNJT1d6aHYtcDhIX04teVZRb1pWaENodEk5eDdEWXRrNUtxUGZLTDV1TjFOTm1ROWliOHJqWExlTkhnUjI2dmxxa0R3c1NjT09DUGU0QXQ1MlF3b2pCTVNPYXhpU0hqem02cmhZdHoySUpXOHBnUWJveTJxNi1USUxNeHY0SkN2WXlwSjJuUkpoSS1wRGZUU0F6VVJWSXdNeG5ZNVE0U1QwcVVVT1hYSnZ5VW8tUQ?oc=5"
         }
       ],
       "stages": []
@@ -1513,10 +1535,407 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "twitter",
+        "上诉",
+        "判决",
+        "埃隆",
+        "推翻",
+        "欺诈",
+        "求上",
+        "法院",
+        "诈判",
+        "诉法",
+        "请求",
+        "院推"
+      ],
+      "concepts": [],
+      "first_seen": "Tue, 24 Nov 2026 20:59:29 +0000",
+      "id": "4d0d43be6123339d7b",
+      "person": "马斯克",
+      "published": "Tue, 24 Nov 2026 12:34:00 +0000",
+      "reports": [
+        {
+          "key": "4d0d43be6123339d7b",
+          "phase": "法律进展:判决",
+          "published": "Tue, 24 Nov 2026 12:34:00 +0000",
+          "publisher": "mezha.net",
+          "rumor": false,
+          "source": "Mezha.net",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVVNhN2h2U1BYdWsyVEJPZTBNOWVVejhGdUVrRFItTUxhakw5SExQanVhcjNpYmRjYWgtUGtDUmFLMDFxX3FBclJEeER5eXdFMUczekpxa0VVNi0wSGdLbll2T012c0NjT3doSmxwT3lVdjVKVGV5QVRNVGN5UE5ZS1h5bzgxc3NQX0VoelB1SjhablE?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "declaring",
+        "guy",
+        "himself",
+        "maga",
+        "trump",
+        "unusual",
+        "very"
+      ],
+      "concepts": [],
+      "first_seen": "Tue, 24 Nov 2026 20:59:29 +0000",
+      "id": "b7973e2792d48e4623",
+      "person": "马斯克",
+      "published": "Tue, 24 Nov 2026 12:48:22 +0000",
+      "reports": [
+        {
+          "key": "b7973e2792d48e4623",
+          "phase": "公开回应",
+          "published": "Tue, 24 Nov 2026 12:48:22 +0000",
+          "publisher": "indy100.com",
+          "rumor": false,
+          "source": "Indy100",
+          "stage": "公开回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tbF9aa1lYSkNLVm9udzQ3V18tRHFFTllZcEdzOEpXNUhLU3FWZ1ZEbkd5MkNHMzkxTVNkSjFpSnNxdWNPOHJCaVl2WWwxU2o5RkFKX0VYU1pOaXlKcGVCUWp6RFRGTVBiNFVyMndqeHk?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "celebrate",
+        "fair",
+        "hall",
+        "rock",
+        "vanity"
+      ],
+      "concepts": [],
+      "first_seen": "Tue, 24 Nov 2026 20:59:29 +0000",
+      "id": "82abb2e428b529f1dd",
+      "person": "泰勒斯威夫特",
+      "published": "Tue, 24 Nov 2026 15:18:35 +0000",
+      "reports": [
+        {
+          "key": "82abb2e428b529f1dd",
+          "phase": "争议线索",
+          "published": "Tue, 24 Nov 2026 15:18:35 +0000",
+          "publisher": "amp.axios.com",
+          "rumor": false,
+          "source": "Axios",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM04wWlJ6SjdwQ0NwWjI5a3dNeDJCUmN3eDdjWTFOTVJ5Q0FkUkw0Tkkwdmp3d3FUa2R3NkZoWXJKTldoMTlZTWVFYTRUYWozVHNlOThkalZzX1FDbDBMTEpYenhRakhQb0dZUjRGQ0ROYmlnbGJmLUVLRS1ZQUlESDN2QlFkR3BGdzFJdVYtUS1wYWtoMXYtT0JOMDA5ZXZpUzhZZ3lsRUFtVEVNMnhuNG1HSQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "一针",
+        "下去",
+        "不讳",
+        "也没",
+        "了也",
+        "争议",
+        "关系",
+        "发争",
+        "国引",
+        "引发",
+        "样下",
+        "没关",
+        "照这",
+        "直言",
+        "美国",
+        "见血",
+        "言不",
+        "输了",
+        "这样",
+        "针见"
+      ],
+      "concepts": [],
+      "first_seen": "Tue, 24 Nov 2026 20:59:29 +0000",
+      "id": "47158f6be161a4874b",
+      "person": "孙兴慜",
+      "published": "Tue, 24 Nov 2026 15:42:00 +0000",
+      "reports": [
+        {
+          "key": "47158f6be161a4874b",
+          "phase": "争议线索",
+          "published": "Tue, 24 Nov 2026 15:42:00 +0000",
+          "publisher": "starnewskorea.com",
+          "rumor": false,
+          "source": "스타뉴스",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QbmFYaXRNSzV6bmJWa0NjODZVOWxqWTg5MHJITGp6WHFGcklNWngwNDVFYXdWRVFYQXhFOVhlRnQyWFdWYTh1YUxKVC1TT2FKQUJXX3FUaThkVGJBSTg0bWxoZmFTemZQTXRUazJ3eng1amN4SXlLdE5R?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "三年",
+        "争议",
+        "内必",
+        "发争",
+        "夺冠",
+        "年内",
+        "引发",
+        "必夺",
+        "斯言",
+        "未来",
+        "来三",
+        "纳斯",
+        "言论",
+        "论引",
+        "里纳",
+        "阿里"
+      ],
+      "concepts": [],
+      "first_seen": "Tue, 24 Nov 2026 20:59:29 +0000",
+      "id": "e00242ddcd2dc1c671",
+      "person": "东契奇",
+      "published": "Tue, 24 Nov 2026 15:43:00 +0000",
+      "reports": [
+        {
+          "key": "e00242ddcd2dc1c671",
+          "phase": "争议线索",
+          "published": "Tue, 24 Nov 2026 15:43:00 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWEZNdVVycGVHX2Q1cWcxQ3YzWTgyc1FpNEt0LWUzcXBlVmZtQjY2WlUxQlRpNzVsQnphbjdYd0V2bUNTNENSWDNGYjZpcG9WT2EwZ1QwWkJ4ZTVKZnBuc012MFJhWFNzeVdYRVN6Q2J6Yl9DZkxROTlVdExMQ2ZwUUNCeDhJNUtTNnJyZA?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "anthem",
+        "botched",
+        "induced",
+        "menopause",
+        "tearful"
+      ],
+      "concepts": [],
+      "first_seen": "Tue, 24 Nov 2026 20:59:29 +0000",
+      "id": "06dd30e185291bbb25",
+      "person": "Blames Cancer",
+      "published": "Tue, 24 Nov 2026 16:57:00 +0000",
+      "reports": [
+        {
+          "key": "06dd30e185291bbb25",
+          "phase": "道歉回应",
+          "published": "Tue, 24 Nov 2026 16:57:00 +0000",
+          "publisher": "dailycaller.com",
+          "rumor": false,
+          "source": "The Daily Caller",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZTVIVDZsSDQxWndWcElMOTItaThRM0swWXlYbl9vdW82UGJTaXdtRFVqdFkwb2x5bFQwUHF6VlRaQVZLa0otTHNtRDlyOGs3TjVhVVpGVmVaWlpGMVA3cDVtTzFXLTZweHNKRTFuM3RKZVZWNHN5d2N5OXVHRXY3ZUprb2pqWUxXbUJLUkdiV2FYRFc1bHowMFhjNlFoZm1qZ2VwZUxuT3k2ZmpkMHE1bjg4d0VkeVQ2dGw0VVFfVGlHRU1vaEhDeXoxYi0yVmhsRG9nQ1Q1VmlWUnlJY1ptVWdqUnNWQkoyaFN1YXdKc01sNHAwVDlmRWJjQTA4VEo2Tm9z?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "appeals",
+        "asks",
+        "court",
+        "fraud",
+        "throw",
+        "twitter",
+        "verdict"
+      ],
+      "concepts": [],
+      "first_seen": "Tue, 24 Nov 2026 20:59:29 +0000",
+      "id": "31bc4edb9df2e50bd4",
+      "person": "马斯克",
+      "published": "Tue, 24 Nov 2026 17:32:53 +0000",
+      "reports": [
+        {
+          "key": "31bc4edb9df2e50bd4",
+          "phase": "法律进展:判决",
+          "published": "Tue, 24 Nov 2026 17:38:54 +0000",
+          "publisher": "Reuters",
+          "rumor": false,
+          "source": "Reuters",
+          "stage": "法律进展",
+          "trusted": true,
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY2RYYWp5emZ0cUZ0dVRlUWpfYlpWV0FoOE92VVM1bkNhalo3ejViOENfTnVOMmpVRG5pX1JJMWNMZzJpUmdMdnhuVDd2VlFXT2JBZkZEaGFieUZISTZ3TUF3TGkwRzY0MHlPLWk3eHBBbGRoZVkzeGJ1NjItekh0M24taDVqd2lyT1dQRWlaeVZ6YzJUVERUODNKanNGc2ZjQ0cyRFZkZjhORG9wRU1kcTR1Z3hqYVlYVlh5VGdzMA?oc=5"
+        },
+        {
+          "key": "ddacd1e86c106a7d43",
+          "phase": "法律进展:判决",
+          "published": "Tue, 24 Nov 2026 18:36:07 +0000",
+          "publisher": "mezha.net",
+          "rumor": false,
+          "source": "Mezha.net",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54clFpbllac0ZUc3U5ZGFNTVYxX0NfQUFqQ3hZLTBBUTFaUHhYc2xXS0VMdmRZNmcwZFROaXpsbFZGZHFfNU13X2lNQkRMYUp3X3kwYVJhMlctMnktV0p1MmNTa09haUR6UkpZbUhrM2pmV1Z0QTQ3SXRXSFlhQQ?oc=5"
+        }
+      ],
+      "stages": [
+        "法律进展:判决"
+      ]
+    },
+    {
+      "anchors": [
+        "不会",
+        "会撤",
+        "会退",
+        "决定",
+        "出国",
+        "利合",
+        "到期",
+        "合同",
+        "同到",
+        "后不",
+        "回退",
+        "国家",
+        "家队",
+        "撤回",
+        "期后",
+        "母亲",
+        "的决",
+        "胜利",
+        "退出",
+        "退役",
+        "队的"
+      ],
+      "concepts": [],
+      "first_seen": "Tue, 24 Nov 2026 20:59:29 +0000",
+      "id": "60e5b7495dd0fc2752",
+      "person": "C罗",
+      "published": "Tue, 24 Nov 2026 17:44:57 +0000",
+      "reports": [
+        {
+          "key": "60e5b7495dd0fc2752",
+          "phase": "突发事件",
+          "published": "Tue, 24 Nov 2026 17:44:57 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYjJrQjRGQXZqNVBlbVJ2Znc2Y3hzT3hOOGtEUTFuU1JBR3NJTXI5TE5ucURsVk1MbFpXN3NWRlNqNDlPOVRHeDRoVHZYSHFUNUpEWm9OM0FPemFUMmwxRUhldDZ0MmdfVzc1aWJzSVFHWFdEeEV1Q2habFQ2bEFKS1h4UEtQeENV?oc=5"
+        },
+        {
+          "key": "4d4e8349b021aad55d",
+          "phase": "突发事件",
+          "published": "Tue, 24 Nov 2026 18:10:10 +0000",
+          "publisher": "m.qie.tv",
+          "rumor": false,
+          "source": "企鹅体育",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05ZFpsRTZKc29RckJRZzhlRlFZOFRHcUhZejNhY3hoWEpVLW1WZzVIUHJGQTU0Z2JxZ2VmdGdIMTkxUFZTWFZDSTBGTFNSU24wZnhicmNTekZydkxyQmNHcw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "believe",
+        "brunson",
+        "end",
+        "jalen",
+        "knicks",
+        "try"
+      ],
+      "concepts": [],
+      "first_seen": "Tue, 24 Nov 2026 20:59:29 +0000",
+      "id": "cefd9e2ae5e9afdc19",
+      "person": "泰勒斯威夫特",
+      "published": "Tue, 24 Nov 2026 17:46:00 +0000",
+      "reports": [
+        {
+          "key": "cefd9e2ae5e9afdc19",
+          "phase": "争议线索",
+          "published": "Tue, 24 Nov 2026 17:46:00 +0000",
+          "publisher": "nypost.com",
+          "rumor": false,
+          "source": "New York Post",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR1A2cmtYd3dPZ1RhSlJpWC05RGhvRGF4TkllVGl4TURNRG1wanc0UGVtU19CeUFQMVBIZmNMOTh2a3NEMDh6WGd4NTJHRmg0OGs2R24xTzcxaEp5dUx6WDExY3FHdmdvYkRwaVBuampicF9MSEYta0ppdHB6SmtPV080RG9tZzhpYmZ3Z0JiaHp3MmN3MF9ON096RTluT01NR2VuLW5KcjJSY2JESDFVaXlBcllmQQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "ave",
+        "dolores",
+        "expires",
+        "fresh",
+        "mother",
+        "nassr",
+        "plans",
+        "retirement",
+        "twist"
+      ],
+      "concepts": [],
+      "first_seen": "Tue, 24 Nov 2026 20:59:29 +0000",
+      "id": "d78faf0b1213fa3f33",
+      "person": "C罗",
+      "published": "Tue, 24 Nov 2026 18:36:07 +0000",
+      "reports": [
+        {
+          "key": "d78faf0b1213fa3f33",
+          "phase": "突发事件",
+          "published": "Tue, 24 Nov 2026 18:36:07 +0000",
+          "publisher": "worldsoccertalk.com",
+          "rumor": false,
+          "source": "World Soccer Talk",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMXhKX1FNVXlnU25lbHhERmp1SEZtWURxWlVQclhGWGl3N3dxVVZFeFdKeC1mYTNGRTN4bUl3eU1jTXlRYWVsZUZ6TVhvM3QyQ0JULTNmbzQ3QkdMTTljcFV3amxkSm9qQlVqWXc1Q2Y0N2MxRXY2UlVoTW5vTzBKaWhrc3JGX29ncG8xai1xQlZhaTdnYmU0Q0c3SXA0ZEFvLVlFbUJlRnkzbExaU1BtN0N3a0lfTkZ0ZXp0VEVybG03N2pDQlJWNlJjeXJtT2RlbFNRa2hrRncyVUFka3hRb1djMDNlQjBUSkE5MW5QaVFDVTTSAfMBQVVfeXFMTzF4Sl9RTVV5Z1NuZWx4REZqdUhGbVlEcVpVUHJYRlhpdzd3cVVWRXhXSngtZmEzRkUzeG1Jd3lNY015UWFlbGVGek1YbzN0MkNCVC0zZm80N0JHTE05Y3BVd2psZEpvakJVall3NUNmNDdjMUV2NlJVaE1ub08wSmloa3NyRl9vZ3BvMWotcUJWYWk3Z2JlNENHN0lwNGRBby1ZRW1CZUZ5M2xMWlNQbTdDd2tJX05GdGV6dFRFcmxtNzdqQ0JSVjZSY3lybU9kZWxTUWtoa0Z3MlVBZGt4UW9XYzAzZUIwVEpBOTFuUGlRQ1U0?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "blue",
+        "foot",
+        "inside",
+        "istanbul",
+        "launched",
+        "mosque",
+        "odour",
+        "probe",
+        "reacting",
+        "turkish",
+        "video",
+        "watch"
+      ],
+      "concepts": [],
+      "first_seen": "Tue, 24 Nov 2026 20:59:29 +0000",
+      "id": "05a0eceb968a745647",
+      "person": "Sparks Controversy",
+      "published": "Tue, 24 Nov 2026 18:56:37 +0000",
+      "reports": [
+        {
+          "key": "05a0eceb968a745647",
+          "phase": "争议线索",
+          "published": "Tue, 24 Nov 2026 18:56:37 +0000",
+          "publisher": "sundayguardianlive.com",
+          "rumor": false,
+          "source": "The Sunday Guardian",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMXNhcnBlTUpNbXlXeVBvTzYtZkFVUXFpMEg1TTM5V0lkczg4V0ZzdElaXzlkeWFkcFdQNTlJbDR2c0JpUWdseC1UanE1XzhCcmJhRWhtVUk1QjU5eDlTblRBY1FxZ21oOWxlVXFmZkJHX0lyZ3gxUGhPREViMUF2akpoTE5kZG1laFZYZmtXVWFKaE12TlR2QXdQVFgtTG4zUmZ5RGZ3cDJRTnVnRFptcGczSXg0SmhQVEFZelZUblRwSDhObE0zdXR1ZFVnTHh0aU5TWUhYdFd2X0daMUo3bzhTMjFVM0FTeEItckdNd0hpY0pKWURmblloZ9IBgAJBVV95cUxPdEFqVFVzT0JBN2RRWXJwTTJJY0l4Sk5XS09LenRidmFrXzdSSjhrTDhKWVhBOXgxTXp6VThQMHp6UzlDWlN5OThuMklNaVEwOHN1YWxrS19SX0F3MVNHM2dsc1JjNVZGclB2eWkxWmwzSnZkc3lRRlFBVEpBTW5jeW1IWEYwaVhGcHUzOXRUenp1MWJ3Rk9tbUo5dzVId2NSWWdJTmRybS1aOXFDaTFUVTFkcXpVTTBBN2ZGd1g3MWNOWmMwWUFONlU4NzE3VlBMb2x4OU1KdU1xcS0xOGM5QkhCbnc1RlN5UzNNLUJNWlVlMWtBZ1d1RlJ6ajhyYUNq?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Tue, 24 Nov 2026 10:56:22 +0000",
+  "last_run": "Tue, 24 Nov 2026 20:59:29 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
@@ -1602,7 +2021,9 @@
     "3433547ed32766daf9",
     "2ae96a2fe2d76654c9",
     "dbdfcb1315db3cdf96",
-    "fab6b997d960b12a2c"
+    "fab6b997d960b12a2c",
+    "31bc4edb9df2e50bd4",
+    "ddacd1e86c106a7d43"
   ],
   "version": 2
 }
