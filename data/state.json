@@ -2,104 +2,6 @@
   "events": [
     {
       "anchors": [
-        "alleging",
-        "bribery",
-        "brown",
-        "county",
-        "dismissed"
-      ],
-      "concepts": [],
-      "first_seen": "Sat, 21 Nov 2026 10:29:45 +0000",
-      "id": "0be2aa3cad2c522d7f",
-      "person": "马斯克",
-      "published": "Fri, 20 Nov 2026 22:43:00 +0000",
-      "reports": [
-        {
-          "key": "0be2aa3cad2c522d7f",
-          "phase": "法律进展:起诉",
-          "published": "Fri, 20 Nov 2026 22:43:00 +0000",
-          "publisher": "greenbaypressgazette.com",
-          "rumor": false,
-          "source": "Green Bay Press-Gazette",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMHZIWjNlTXlFVDVjcDBHRkpRMmY4TS1KUTA3Tjl0RDVSamxCN0FncmQ3eVJoVGpjbk1mRWRBQ0oxWVVzazVEdFlZRnByVnJSX2lVcjdxbWI3RHFFalpHbFp3SVBjTWlxQzhBTFJPazhvR0FyVDdmckZBMDhPQTNldW9tM1pqRVk4OUVkOHN2XzdVZEZfSk5jNXRZTVhONVd2OGcyaHJROUJTTWJUNGhFM1FrT1RpeEZSNzM2dVVFcjg3RFNXLVRJeWN0TkEzZFRnWkV6OVAxV2szU1lyMllEa0hNOWR1V0s1QVF6ejViRFQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "内加",
-        "加宣",
-        "加盟",
-        "可能",
-        "国际",
-        "宣布",
-        "密国",
-        "巴内",
-        "布退",
-        "排除",
-        "的可",
-        "盟迈",
-        "聚的",
-        "迈阿",
-        "退役",
-        "重聚",
-        "阿密",
-        "际与",
-        "除加"
-      ],
-      "concepts": [],
-      "first_seen": "Sat, 21 Nov 2026 10:29:45 +0000",
-      "id": "bba4d7d9dbae7f0881",
-      "person": "梅西",
-      "published": "Sat, 21 Nov 2026 01:43:00 +0000",
-      "reports": [
-        {
-          "key": "bba4d7d9dbae7f0881",
-          "phase": "突发事件",
-          "published": "Sat, 21 Nov 2026 01:43:00 +0000",
-          "publisher": "m.dongqiudi.com",
-          "rumor": false,
-          "source": "懂球帝",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hN0NCZWJuV0ZYQlVFZ0RqZ3lMYVNBZVNKQ0VtYThTTERHa2lrM2ZWd0FfMkdVSS1MVXhNNmhocDdUTmVvYldBV29KMU9WdGZUVGFCM3Bpaw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "crore",
-        "five",
-        "fraud",
-        "investment",
-        "mumbai"
-      ],
-      "concepts": [],
-      "first_seen": "Sat, 21 Nov 2026 10:29:45 +0000",
-      "id": "3888e3e908657820a3",
-      "person": "Allegedly Cheated",
-      "published": "Sat, 21 Nov 2026 06:43:22 +0000",
-      "reports": [
-        {
-          "key": "3888e3e908657820a3",
-          "phase": "法律进展:被捕",
-          "published": "Sat, 21 Nov 2026 06:43:22 +0000",
-          "publisher": "newsmobile.in",
-          "rumor": true,
-          "source": "News Mobile",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVVExaTJzakNDRmJtS0NVZkdiQkNhUWRYUG9JUFlFYUFua3YwSTdiQ2hZSTY1ajN6ZldFZElCXzIyeE15NjM3S0tMOXFkZDJGV1l5NmFuOGtnU3JWbjF1c0hyRHpFU2ctX3N3U1RZcUJHNV9keHJfMFhYaVlRa3FKVnhmd3QzV2NZSlNDYnNMMHMwTzc2UXFwVkk4UjNXRnRldUlTcWlGRVdZd0Rxb29yTGNYekNhbHJsNGdYR2ptdVl1R25a?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "争议",
         "官网",
         "射手",
@@ -1550,10 +1452,71 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "confirms",
+        "eisha",
+        "responsibility",
+        "singh",
+        "split",
+        "taking"
+      ],
+      "concepts": [],
+      "first_seen": "Tue, 24 Nov 2026 10:56:22 +0000",
+      "id": "8986899498ba84b080",
+      "person": "Avinash Mishra Addresses",
+      "published": "Tue, 24 Nov 2026 05:32:40 +0000",
+      "reports": [
+        {
+          "key": "8986899498ba84b080",
+          "phase": "突发事件",
+          "published": "Tue, 24 Nov 2026 05:32:40 +0000",
+          "publisher": "zoomtventertainment.com",
+          "rumor": false,
+          "source": "Zoom TV",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYzBwd1I2UTc5Nm9tRVBYLUh5MGdrR1N4azU2X2p2ZDQ2TktzbGxMS2ltN3VGUk9hU25TRzlvdEt3R1NBRWJrcHJKRFFWdHpZZ3Rpd1NYUXJsRDdZenNxR2VZR3dWZlVwczVkYzVfRF9qNjM3aDMzUXZjZ1NRZDVWeTNNa3dWeC1OblFfQnA3aTZRQUpwOFdkNlp5Mm53UjVJamRCZVRnX1hmRkQ4czRwOERKaEY0bW11UXQ3RkJVZ0twNEpYTF9zVGtWN0lhUzdwOVBkaFpCWkttNDh2X0w1LVhCSnMyUQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "ditches",
+        "gta",
+        "joystick",
+        "mouth",
+        "neuralink",
+        "participant",
+        "play",
+        "playing",
+        "trial"
+      ],
+      "concepts": [],
+      "first_seen": "Tue, 24 Nov 2026 10:56:22 +0000",
+      "id": "a438cb3c59d8ba7960",
+      "person": "马斯克",
+      "published": "Tue, 24 Nov 2026 06:45:00 +0000",
+      "reports": [
+        {
+          "key": "a438cb3c59d8ba7960",
+          "phase": "公开回应",
+          "published": "Tue, 24 Nov 2026 06:45:00 +0000",
+          "publisher": "timesofindia.indiatimes.com",
+          "rumor": false,
+          "source": "The Times of India",
+          "stage": "公开回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOd3R0eGptVVg4elU1RXEzYXo0TXdNWEh1TnlQbDhCVG5wLUE0X2h3cU9GVzZ0UGdtSjVBb1ZXX0FOMmI3d0dDRzUzNlpXdkJxSzRUcC01NmFoMVh4M2FlNXlyNEptZFVkcVdyNXJ2WFNOTkt5clNrRTBxTnVfSlVFWUlFUVdZSTRfZ0M0cWRxMTRveFY3bS1wR0hiOGJNMGtKZ3NROVlQSHdQZEFGVFcweW1MbUljcDdvbHNnU2Z6YW1keFh5Q2V4SXZDbmNBZjVFZHJYNm1rNFB0S1FVTlowT0VMa0toX2EwS0VuOUNIZVRDZS00Q093MkFoNGZzeThVRnlYMWRDZDlkQmZaUFJrMjQ1c25FbktW0gGeAkFVX3lxTE1mbXQtN3g5SGFScmJ3VzBCbDE5b3BYMG5UaE8wZExsN0cwaDlCcFJkS0ZXVlpoRWFjc3BYZmZycXpQQUFETHZxYnZVS3JQcVY0dDIySVhhMkE2RUhoMFYxZ3VWNkpNb1BRTXRJQXBqWnJvcGMxTXluRmttZU8xai1qazlRYkhLNEdkaGZXay1iVDJvOW1yUzlWdDIzOTBPVEtFSlFBdW9RQnFzanlaZmRCM1BWSkFZajlmZHpGejhZelAwSEpmQi01VVlCYWs4UnZMU3FWQjRLcWpFQk5lWHY2Vnh3a1pURXN0X1N0NllKczRmVVoxakctX1E3OEpsUkRPbW1jSXlLcjVTLTJ1MlFhb3JpZ2xSM1N6RnZqNFE?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Tue, 24 Nov 2026 01:10:51 +0000",
+  "last_run": "Tue, 24 Nov 2026 10:56:22 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
