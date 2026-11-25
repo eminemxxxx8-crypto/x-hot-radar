@@ -2,137 +2,6 @@
   "events": [
     {
       "anchors": [
-        "争议",
-        "官网",
-        "射手",
-        "手榜",
-        "托尼",
-        "暂都",
-        "未计",
-        "沙特",
-        "特联",
-        "球暂",
-        "球领",
-        "联赛",
-        "计入",
-        "议进",
-        "赛官",
-        "跑射",
-        "进球",
-        "都未",
-        "领跑"
-      ],
-      "concepts": [],
-      "first_seen": "Sat, 21 Nov 2026 22:27:26 +0000",
-      "id": "09e9c75baf653da644",
-      "person": "C罗",
-      "published": "Sat, 21 Nov 2026 21:56:08 +0000",
-      "reports": [
-        {
-          "key": "09e9c75baf653da644",
-          "phase": "争议线索",
-          "published": "Sat, 21 Nov 2026 21:56:08 +0000",
-          "publisher": "k.sina.com.cn",
-          "rumor": false,
-          "source": "手机新浪网",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41UW50SkloaW5uTXozQ1hDSnBUMk82a2xxMzhTVW1xdTB2OGYxXzRNYUJCZVh6cm9fM19lMHd1NWlvZ3hQRlFrZW51S0FKN3FqYll1bTkwdEtKclBnVUdPSDh2YkU4aURIV1ZRN3J2am5Tdw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "享受",
-        "卡塞",
-        "受跟",
-        "塞米",
-        "小法",
-        "廷退",
-        "建议",
-        "当队",
-        "根廷",
-        "法建",
-        "米罗",
-        "罗享",
-        "议阿",
-        "退役",
-        "队友",
-        "阿根"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 22 Nov 2026 02:36:39 +0000",
-      "id": "1c30f2925853c5da39",
-      "person": "梅西",
-      "published": "Sun, 22 Nov 2026 00:28:37 +0000",
-      "reports": [
-        {
-          "key": "1c30f2925853c5da39",
-          "phase": "突发事件",
-          "published": "Sun, 22 Nov 2026 00:28:37 +0000",
-          "publisher": "m.sohu.com",
-          "rumor": false,
-          "source": "Sohu",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOXZzX25fOEFZbnZ2bGJnTW9iWDh4T2hndFJDNGxMaG5FZEQ0aG9uSFJDa3FpdmIzdkRTSTJJY3gwdFVvQ0Y3aGhNT1NleVJDbEd4MHEzRDJqRWg1S1pJTUlrMW1GWnN1eUpZaDhSOGxvckdlMm1TN09Va2pnU1lOblpHNm5WdThU?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "incident",
-        "inter",
-        "lionel",
-        "loss",
-        "miami"
-      ],
-      "concepts": [],
-      "first_seen": "Sun, 22 Nov 2026 02:36:39 +0000",
-      "id": "f7c15016525792560c",
-      "person": "梅西",
-      "published": "Sun, 22 Nov 2026 01:46:00 +0000",
-      "reports": [
-        {
-          "key": "f7c15016525792560c",
-          "phase": "争议线索",
-          "published": "Sun, 22 Nov 2026 01:46:00 +0000",
-          "publisher": "heavy.com",
-          "rumor": false,
-          "source": "Heavy.com",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYXU3V2JSLXBqakgxZ2dMNG53NWJLX2h2azZ0NWZMUVh1eXBidUE1NTJWNk13VjlXTERNdzJOUWxLR2ViblUwTFpkQ2xkTEw3alItRVBSSlF3YmV3eWo1c1VueHdDV0RtcEdEQ3RUbjhocG42dXNTbUxLRkpfLVNzaXNlZDFfNnIweWxnam45R1o3UUsyR1FMVGpCcWV0TVU?oc=5"
-        },
-        {
-          "key": "d6000ea69cbee7a98e",
-          "phase": "争议线索",
-          "published": "Sun, 22 Nov 2026 03:17:00 +0000",
-          "publisher": "Guardian",
-          "rumor": false,
-          "source": "The Guardian",
-          "stage": "争议线索",
-          "trusted": true,
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWVg4WjAwWXFUTHNDR1d0Um9pUmRHa2g3MmVadFdDaVJzUlYzRWlOUlZNVVoyZzhmY3RaV0I5VFl5YkpxLTZGRTNGQ1JCaVRRY01LclhlaTNmaDJXWDNDZ1JYZWJOQ3ZNcEhHSGVUM00wcUNMSEloTVBKaUMtMXVsWDc2UTdlenVOZkVJZnJKZHZ5bjlHcjlQZkRBRGdkN0EyR000WEhhMF9TdTNjTndnS1hSbkRyVnZJenJtNkl3?oc=5"
-        },
-        {
-          "key": "1a5cf9391ead23516e",
-          "phase": "争议线索",
-          "published": "Sun, 22 Nov 2026 17:57:49 +0000",
-          "publisher": "bleacherreport.com",
-          "rumor": false,
-          "source": "Bleacher Report",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY1gxQXdMa1dmMnBTT2ZQLUM1eWdnS0d3SGhobWY3eV9CdzRLZVZKanl6UThFRzlrM0MtbzJtVFYyUDhKT0VWd1BqSElwRnlhUWVLWjlmaDJrbmZ6VGd6dFJ3WDA0Wlo5V0hiLU5qUnpEU2lKQnJaNkZWVndiNEVWX2RQa1dYRUl1cVJhdmExUW9IZnRSV0xBNHVSYnR0bmpGNEVOMXdEZWVWcmRpUzFqa1ZsWklOODBXVUpNZXpwTTJzbXk1aFh1R1Rn?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "activities",
         "crash",
         "driving",
@@ -1471,6 +1340,17 @@
           "stage": "公开回应",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSzJsTFUzeDNJT1d6aHYtcDhIX04teVZRb1pWaENodEk5eDdEWXRrNUtxUGZLTDV1TjFOTm1ROWliOHJqWExlTkhnUjI2dmxxa0R3c1NjT09DUGU0QXQ1MlF3b2pCTVNPYXhpU0hqem02cmhZdHoySUpXOHBnUWJveTJxNi1USUxNeHY0SkN2WXlwSjJuUkpoSS1wRGZUU0F6VVJWSXdNeG5ZNVE0U1QwcVVVT1hYSnZ5VW8tUQ?oc=5"
+        },
+        {
+          "key": "8634a904827f90a7f3",
+          "phase": "争议线索",
+          "published": "Tue, 24 Nov 2026 22:03:00 +0000",
+          "publisher": "cbc.ca",
+          "rumor": false,
+          "source": "CBC",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTE14ZVRCMHZobzdRYnJRNXhOQndtZk94N21CSm5XSGZpZDctVV9hYzg0VkxrdTdkdG1kNFZ1OHZSdldiUWtvN2prLXNqMmFhM3dGd1hsb29RNy1PZHRsZ092ZzRPSExvVC1zYlZKa190dVppTkluQ3BXc2tLSmRGUWRCWmdhNDl1d0o3dkJFVE9GMExRZVE?oc=5"
         }
       ],
       "stages": []
@@ -1776,6 +1656,17 @@
           "stage": "法律进展",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54clFpbllac0ZUc3U5ZGFNTVYxX0NfQUFqQ3hZLTBBUTFaUHhYc2xXS0VMdmRZNmcwZFROaXpsbFZGZHFfNU13X2lNQkRMYUp3X3kwYVJhMlctMnktV0p1MmNTa09haUR6UkpZbUhrM2pmV1Z0QTQ3SXRXSFlhQQ?oc=5"
+        },
+        {
+          "key": "ec10e6a846e6454068",
+          "phase": "法律进展:判决",
+          "published": "Tue, 24 Nov 2026 21:33:00 +0000",
+          "publisher": "independent.co.uk",
+          "rumor": false,
+          "source": "The Independent",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLXZoMjdMRjRmV1g0ZGpjOWlKeHl1MVhzYnlmY2hIM3BDeGx1WkVUTm5GaHJnc3ViQWM0Y2FSWk41NFVlRWZvNGdwYlFXVHZPSGxiRjd1ZjhxdW5Sd282ZWxNXzZXNXhTMUMzLVZxQkRvRlRQdlludGMyNDl1dlR2U1FpX255MGEwcjBUbnZIc1BuTlp4U0E?oc=5"
         }
       ],
       "stages": [
@@ -1862,6 +1753,17 @@
           "stage": "争议线索",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR1A2cmtYd3dPZ1RhSlJpWC05RGhvRGF4TkllVGl4TURNRG1wanc0UGVtU19CeUFQMVBIZmNMOTh2a3NEMDh6WGd4NTJHRmg0OGs2R24xTzcxaEp5dUx6WDExY3FHdmdvYkRwaVBuampicF9MSEYta0ppdHB6SmtPV080RG9tZzhpYmZ3Z0JiaHp3MmN3MF9ON096RTluT01NR2VuLW5KcjJSY2JESDFVaXlBcllmQQ?oc=5"
+        },
+        {
+          "key": "6c70e5b0708eee3f8d",
+          "phase": "争议线索",
+          "published": "Tue, 24 Nov 2026 21:43:47 +0000",
+          "publisher": "sports.yahoo.com",
+          "rumor": false,
+          "source": "Yahoo Sports",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnRLZGIzc0xHcGM5RUtmVmd1Y3BHMVZ0T1NjZ0xZSXNHLUpjbjIydlNZN04yeGJxX2FTU2VXYXFmMGxDeTJPUmFlRjYzWDIyaFF1OUkxemtwY2M2N1RoVTFSNGEyM2d0SnJ4UXU5Ykc4bjRvSmRUTHAxV3JIdHpGd1I3NUhGTTJOcnpiTURWRQ?oc=5"
         }
       ],
       "stages": []
@@ -1932,10 +1834,209 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "extraordinary",
+        "finds",
+        "goal",
+        "looking",
+        "night",
+        "surprise",
+        "vinicius",
+        "what"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 25 Nov 2026 04:05:21 +0000",
+      "id": "0f683b9e207486e689",
+      "person": "姆巴佩",
+      "published": "Tue, 24 Nov 2026 22:43:49 +0000",
+      "reports": [
+        {
+          "key": "0f683b9e207486e689",
+          "phase": "道歉回应",
+          "published": "Tue, 24 Nov 2026 22:43:49 +0000",
+          "publisher": "goal.com",
+          "rumor": false,
+          "source": "Goal.com",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVGlXZVZ1cTlROVZDSk5MV1ZTQnN3eWswcXFUTzlDSkh4ZzNnbmN1MDFzUDFIbUVzV2tvT3d5R3N4UGJuRVpiMERteTlOWXhtLWxoeFB5MDVQclU3ZHBfdE1qMzVDbVhTYm1YSnFudTJHMFl2cnpreGJWUjdmRWtIZ2tYUlB1SXY4djRULVIzRlhmZmtNcDVCUGRpb3RvbzFrMXhacEgxTmNiNmxYdjBTbUFnUXJJZHQ0OU1mS1NNQkNvbVUxaGcyeTZzNXFYWjUtSmJEWXo0T1htZXJhaWNFd2lZY1daMHItOXppWnZvUQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "万人",
+        "人唱",
+        "加拿",
+        "唱错",
+        "国歌",
+        "大国",
+        "女歌",
+        "当着",
+        "拿大",
+        "歌女",
+        "歌手",
+        "道歉",
+        "错加"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 25 Nov 2026 04:05:21 +0000",
+      "id": "304e135e94c8a579e8",
+      "person": "含泪",
+      "published": "Tue, 24 Nov 2026 23:44:12 +0000",
+      "reports": [
+        {
+          "key": "304e135e94c8a579e8",
+          "phase": "道歉回应",
+          "published": "Tue, 24 Nov 2026 23:44:12 +0000",
+          "publisher": "info.vanpeople.com",
+          "rumor": false,
+          "source": "VanPeople",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yelBMZy1YTUpUT0xFUWNPUGpZMnNIUUduRTlZaVJoTVNQcUhSN3RZY3JLY0hodXIzdE1pR3lCYVB6NnphSlZzR05ITUhmakxX?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "explosive",
+        "fair",
+        "kelce",
+        "major",
+        "profile",
+        "stands",
+        "travis",
+        "vanity"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 25 Nov 2026 04:05:21 +0000",
+      "id": "bde22d5aadacfc4ad1",
+      "person": "泰勒斯威夫特",
+      "published": "Tue, 24 Nov 2026 23:58:11 +0000",
+      "reports": [
+        {
+          "key": "bde22d5aadacfc4ad1",
+          "phase": "争议线索",
+          "published": "Tue, 24 Nov 2026 23:58:11 +0000",
+          "publisher": "sports.ndtv.com",
+          "rumor": false,
+          "source": "NDTV Sports",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT3VQdEZmWnhYQUM4RVh5QzktY0RhVWtDNk5iN1V0Y1ZxOFhlT0RXUllFZ0ItVlVRLUhIcXdaelZ0eTJFdHI2TVpNTXlfYnl6UVVzbDhiOENNb21KLTg5RC14VHVsRzJ5LWJiY2ZMVGJyNk9YVTAwM1FnbWtURHpPYnIwemh4OEJxd1M3Y1JicFBSNmp1RDMyVk9iVk5wQ3VaVF9kZHB3R3pCM1Ata254MkVQaDUyVl9tZUE4LS1TNnpkNS1QNmpGUmhnZlM?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "下公",
+        "两州",
+        "公司",
+        "州起",
+        "旗下",
+        "美两",
+        "起诉"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 25 Nov 2026 04:05:21 +0000",
+      "id": "d6bbbf0d791a276875",
+      "person": "马斯克",
+      "published": "Wed, 25 Nov 2026 00:31:00 +0000",
+      "reports": [
+        {
+          "key": "d6bbbf0d791a276875",
+          "phase": "法律进展:起诉",
+          "published": "Wed, 25 Nov 2026 00:31:00 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY2NXTUpzNW83cGRIMklNSmJNa1ZtbzZDazVacXg3a00tVFBSejZKQk1YTzFfVFF6dGtUUEo4OTctMGRUb3p1aDB0dHctOUFFZl9QaEozOG10MkZqczdaQVhFbHVDWndEOVZRVTI0UzJ2MlJRbkJDcXZoYlFlR0RQUHpfT3hYeDZZV0V4Rw?oc=5"
+        },
+        {
+          "key": "eec739f02bbd8ff3dc",
+          "phase": "法律进展:起诉",
+          "published": "Wed, 25 Nov 2026 02:10:26 +0000",
+          "publisher": "sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOXzNKSkdULUY4Y1hIRVg1czNaa0tXSVBSMFJjbEczSlJWSXZjbEhQYmpPOG9EaFozb0p0alNZa2pQU2RPNElZdG1sTHhxc2JGMGJ0ZXhpWmhSam5VZ1p0QjZuVHMyY0NOXzRicGE4T0lOSDlMOF9vNklOckFibk9mMXJrYnRhU2FzT2RJZ09YNA?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "三连",
+        "业生",
+        "亚冠",
+        "亲否",
+        "其将",
+        "冠三",
+        "利斩",
+        "利雅",
+        "否认",
+        "回葡",
+        "国家",
+        "家队",
+        "将重",
+        "带领",
+        "得胜",
+        "收获",
+        "斩获",
+        "来源",
+        "林靓",
+        "母亲",
+        "涯第",
+        "牙国",
+        "球报",
+        "生涯",
+        "编辑",
+        "职业",
+        "胜利",
+        "获亚",
+        "获职",
+        "萄牙",
+        "葡萄",
+        "认其",
+        "足球",
+        "连胜",
+        "重回",
+        "雅得",
+        "领利"
+      ],
+      "concepts": [],
+      "first_seen": "Wed, 25 Nov 2026 04:05:21 +0000",
+      "id": "c07a4d892a3571e48a",
+      "person": "C罗",
+      "published": "Wed, 25 Nov 2026 03:47:16 +0000",
+      "reports": [
+        {
+          "key": "c07a4d892a3571e48a",
+          "phase": "公开回应",
+          "published": "Wed, 25 Nov 2026 03:47:16 +0000",
+          "publisher": "m.sohu.com",
+          "rumor": false,
+          "source": "Sohu",
+          "stage": "公开回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWlIVzZXWVZkbXdGaG9BRDVWcm5NZV9OXzN5R0s1ZWo0eHhReXFBd0xYRVJXRWpNZEg0d0VHV2w0Y2NteTRvT2RQUmNzNHppTHlFVUs0RGFIOHl4cXlXSTZnLUFOSEhrT3lEZUpndUg4R0hrRHRXeGQ4NTZKRXFvMEZTS2FfZFhy?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Tue, 24 Nov 2026 20:59:29 +0000",
+  "last_run": "Wed, 25 Nov 2026 04:05:21 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
