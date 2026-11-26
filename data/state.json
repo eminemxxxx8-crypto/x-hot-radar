@@ -1646,6 +1646,17 @@
           "stage": "争议线索",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVb3R4WGpPcG0xQ3I2TlRnN0VGMUN3Ty1LMmcxSF9SeTAzMlZxUGtyUktpR2FfRDRwX3N1V0I0c3ZHd0lsQ2VrS0NhOWVQcEQydWxETVRUSGJLVnFmc3A1dWFKOFJ2bXZKLUE?oc=5"
+        },
+        {
+          "key": "60ed39b19e086fcdfa",
+          "phase": "争议线索",
+          "published": "Thu, 26 Nov 2026 18:22:40 +0000",
+          "publisher": "yahoo.com",
+          "rumor": false,
+          "source": "Yahoo",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVIyLXlwQjNaZURvMm9MQzFBQTYzM1c1ekFuTjV2S0lhRmdxMXBWRFVhZDdUTFpKZk9kWXVmUHJ3ZHV2V2VULXFuenRhQmtIM3NRYm9SdTRoM1MwRndMQWtNQnJOUTNmSmZNWVR1cFc3MTVCaUU2aHdYQmMzQ1ZyOV8yeUliZXNZeXJ0UXJIRkI3LTRMMkFCb0JmTDlqazNFSE51bzVrQVFZZDVlVEpqUlBudk5WV3Zm?oc=5"
         }
       ],
       "stages": []
@@ -1790,10 +1801,105 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "aicwa",
+        "ban",
+        "bothering",
+        "drama",
+        "indian",
+        "pakistani",
+        "slamming"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 26 Nov 2026 23:43:56 +0000",
+      "id": "ed04419773c4e294f3",
+      "person": "Mishi Khan",
+      "published": "Thu, 26 Nov 2026 14:52:04 +0000",
+      "reports": [
+        {
+          "key": "ed04419773c4e294f3",
+          "phase": "争议线索",
+          "published": "Thu, 26 Nov 2026 14:52:04 +0000",
+          "publisher": "indiatimes.com",
+          "rumor": false,
+          "source": "Indiatimes",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTmZPbnJWWHNUb25XQkxZZ3E4U1F5emJ5WFhReXJZRUdQNEdOc20xMDFIR1JWV2hkVmpPQ040bWRMSUsyOXpRb1NoTjVtcHdzUmlwZXJhUk9EbDZWN3pDeVY2WVNQQTJjalVIRXNWc3VqSXA5dERuT0JvcWdUeWJXb3pXelRybTlZbklRX05DcnBiQjdwQVk5RG04cnFnVHQtYmxiRGMtZ21VSk1MRXpDdXhrS0M2ZHo5NURmSl9NY0VwWE5CeHFOb0p4MTBCMEdjMEJ6djIxOWVNMXBHZ2VHSWJFdXZkZnoxREZuanB1R3RKVTlONW5iQ2ZTdWhTLTl6a3BMXzZ30gGLAkFVX3lxTE9rV253OHNiZXZucWFNaC1iczlKYTN1eXhpNWZ4LUctOGkweDZKQzZEbkctQ29oSmxtU2FuaTJPRXR4LTQ2RkRoMFRNc19lLUtJQ1hOcldGRF9DWGZyVV9qekhiVXJ4NG84b1A3THVfM0Y0OHN3YkxwbVNqZy1OMHIxM09XOWYzeGw4MXhWMjdtZzZoR0NmeTh6aWx0SDJlbVF0VUItWDlSWHU5RWE2bnlOcTZQVS1iei1lUzc0LXNmN0xYM19ZNlUwSks5TUV1WWJCNkliUVFFT3lJX3hDUUt0Y0ZEdU1td095dlctNGI3cTNKcFR5UnI4VXAxYlZwVTI3dHdRNjdiVkx1VQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "brownsville",
+        "erected",
+        "mounts",
+        "spacex",
+        "statue",
+        "themed"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 26 Nov 2026 23:43:56 +0000",
+      "id": "0e7e0242018e5afee4",
+      "person": "马斯克",
+      "published": "Thu, 26 Nov 2026 19:18:34 +0000",
+      "reports": [
+        {
+          "key": "0e7e0242018e5afee4",
+          "phase": "争议线索",
+          "published": "Thu, 26 Nov 2026 19:18:34 +0000",
+          "publisher": "glasstire.com",
+          "rumor": false,
+          "source": "Glasstire",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTDl3dzZyRU5JLXJlRlBTOG5FQkdWWFdTLUhkMkc0ZW9pREc3S0VkWEFwclBkWm4zT1hpeGVjN1NhaU9HcEdlRTJNR0JJMGxLWU9zSG03bVBrU2RQRjJrSzdEQVN6QTEtYjBCRzV4aGFWRTZtcVd6MFNlcFIyaHQ4c1luaTlQd3d1X2haanZQb1p5bDFRRnVhUFFFWUlUNXF4bmtINkNncGF6Nmh3d2c?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "comments",
+        "defends",
+        "died",
+        "editing",
+        "exclusive",
+        "guitar",
+        "hit",
+        "piece",
+        "positive",
+        "probably",
+        "room",
+        "teacher",
+        "writer"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 26 Nov 2026 23:43:56 +0000",
+      "id": "8e1be4a2d2e1eb8994",
+      "person": "泰勒斯威夫特",
+      "published": "Thu, 26 Nov 2026 23:26:00 +0000",
+      "reports": [
+        {
+          "key": "8e1be4a2d2e1eb8994",
+          "phase": "突发事件",
+          "published": "Thu, 26 Nov 2026 23:26:00 +0000",
+          "publisher": "pagesix.com",
+          "rumor": false,
+          "source": "Page Six",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPamFTU1h1VXlQZjdSU2xKNTlXeEJ3TVlCTlh1X3M0Uk8yQjN6YlFMQkhrLVhhbnRoa2Z6ZDNWMUVubU1abTdLYmdtQ21MUU5MSWVBLWhzaFdZdU1uTUY3SWRSa0pObDVsN2Y0TXBDdnN3cGhuWTVpaUhIenRLNlpPQWlwTWF0X3ZGVjB3YVNMLXFyQXk0cWdXbDZ3TTExWmxRR0NDemZEeFBiT3AwcmR5eTJrZVFpaVExOEs0Q0ZTLW1wRm1GczFCbll6WThsQTNsTF9Hak04c1VZbHMzM2Q0dnRIbzFPUQ?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Thu, 26 Nov 2026 14:59:13 +0000",
+  "last_run": "Thu, 26 Nov 2026 23:43:56 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
