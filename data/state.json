@@ -2,80 +2,6 @@
   "events": [
     {
       "anchors": [
-        "下令",
-        "不澄",
-        "主党",
-        "乌克",
-        "令限",
-        "克兰",
-        "党威",
-        "切断",
-        "如不",
-        "威胁",
-        "将切",
-        "断资",
-        "星盾",
-        "民主",
-        "清谁",
-        "澄清",
-        "谁下",
-        "资金",
-        "速乌",
-        "限速"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 23 Nov 2026 13:34:05 +0000",
-      "id": "ef86528fcf45e16406",
-      "person": "马斯克",
-      "published": "Mon, 23 Nov 2026 07:34:33 +0000",
-      "reports": [
-        {
-          "key": "ef86528fcf45e16406",
-          "phase": "公开回应",
-          "published": "Mon, 23 Nov 2026 07:34:33 +0000",
-          "publisher": "k.sina.com.cn",
-          "rumor": false,
-          "source": "手机新浪网",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UbVp6ZUZFQkxWcWJxcUp5Q2FmYVJNV2NDT3FiWThsbDdQYnBtV25MV3Yyd2NfNkNGdW9memZBa0dZSmlSTmptYWRhNUFmNDc3alFDV3VNSHZkYXppVFplQ2ZHUjVHMmVmaWJZQ05sTWp4dw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "fsd",
-        "不是",
-        "争议",
-        "倍数",
-        "全倍",
-        "回应",
-        "安全",
-        "数争"
-      ],
-      "concepts": [],
-      "first_seen": "Mon, 23 Nov 2026 13:34:05 +0000",
-      "id": "4623dedcf67ae3e2e1",
-      "person": "马斯克",
-      "published": "Mon, 23 Nov 2026 11:56:06 +0000",
-      "reports": [
-        {
-          "key": "4623dedcf67ae3e2e1",
-          "phase": "争议线索",
-          "published": "Mon, 23 Nov 2026 11:56:06 +0000",
-          "publisher": "k.sina.com.cn",
-          "rumor": false,
-          "source": "手机新浪网",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CMnQyajBEQ3dQekxJS3BPNEZtTW0xZnZTMlpiUFpja0tUVVphdmpyeDgyZDg1cV9aeEdjWFZjWnFDQUU4N3FaVEtMNjdBWF9lbjRaNDJVNEZJdnloOFhubjNZb2M1MmNlYnhXcnNRRHFyUQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "comments",
         "gta",
         "harsh",
@@ -1832,10 +1758,42 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "bans",
+        "celebrity",
+        "drug",
+        "freed",
+        "istanbul",
+        "nine",
+        "others",
+        "probe",
+        "travel"
+      ],
+      "concepts": [],
+      "first_seen": "Thu, 26 Nov 2026 14:59:13 +0000",
+      "id": "4a91c8f746affbafc1",
+      "person": "Ceylan Kaya",
+      "published": "Thu, 26 Nov 2026 07:00:46 +0000",
+      "reports": [
+        {
+          "key": "4a91c8f746affbafc1",
+          "phase": "法律进展:被捕",
+          "published": "Thu, 26 Nov 2026 07:00:46 +0000",
+          "publisher": "turkiyetoday.com",
+          "rumor": false,
+          "source": "Türkiye Today",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWkhycUc2bzQ0VXMwQXkyemJqaUIxVVFSVmIyOXVQeGpTdC1pX201dzRIQUtsQzduR1dnSnE1OU5HQkNBbEFUNnFHUF8xclN5c280RmJKRGRIekFyYkw2Q2N1UWwtTFF5VS0ybkpCQzYxSDBDUTNYOE9mWThFd0NYLTZZYUdqYzZma2tZYXhKQ3NlVElDa1hJU0hLUVBQajk1NFl4clpzbGR6d21EVnp6endPTW5nRU11MC1xaTNnV3YyR0VIOThr?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Thu, 26 Nov 2026 04:58:26 +0000",
+  "last_run": "Thu, 26 Nov 2026 14:59:13 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
