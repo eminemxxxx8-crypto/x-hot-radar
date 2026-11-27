@@ -2,292 +2,6 @@
   "events": [
     {
       "anchors": [
-        "comments",
-        "gta",
-        "harsh",
-        "men",
-        "outrage"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 24 Nov 2026 01:10:51 +0000",
-      "id": "fcb3887e51766555a6",
-      "person": "Lexie Shoaibi",
-      "published": "Mon, 23 Nov 2026 14:00:02 +0000",
-      "reports": [
-        {
-          "key": "fcb3887e51766555a6",
-          "phase": "争议线索",
-          "published": "Mon, 23 Nov 2026 14:00:02 +0000",
-          "publisher": "mundodeportivo.com",
-          "rumor": false,
-          "source": "Mundo Deportivo",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ2lOOHFZcjF4TzU0S3JzbkQzQng0RXkzTEcySkw0MHF0RmF0T0NmajZUZ2pYWV9tQnZ3YVpSYkc3N0xuSkJkOXlLbmhDRzRCcWlSck1GR2FvSTBsRUFlLVNZa3hicWVmWVFCeWxPdE5tYm1iLVljVEkxTkFUUkpUZ1o0cHNSUW1EdmVpeGR1Vlh0b2dqNWpic2dJN3h0VEpGcmM1bHRJaDNEMjE5b29QenYtQzl6NkdKUUp3TU9xRjduYWJtTkZSTGZRM2hnQmJK0gHeAUFVX3lxTFB4WEtDNlFnbkItQjRha0F0TVNrcFFYQmpzY3VuZTF4TWYwMUpIczdrdTRaZmlMYml3LS1JMlF4V08xbTlmLW1icjVrVzVDQ0V5SEJfR3QxczU1c1pQQ3JrTlJJNGdtdUFCeUlZd2tZSDNPY29QR0tJY1QtUTd5aWtucXBGd3A3c0ZCSk5saGFscnYxdzQ5dWtBTTl6RkgwZVg1R0JKNkhxU2tIUjk5MzdSWkQzSTZzRHIzNmJ3R3dzcUVLRDlxbXdMc21ZLXg2eU5pcjlCOXI4eV9WU05xUQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "affair",
-        "don",
-        "feelings",
-        "form",
-        "heart",
-        "issue",
-        "long",
-        "rapper",
-        "understand",
-        "won",
-        "writes"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 24 Nov 2026 01:10:51 +0000",
-      "id": "24aa440920e5114a77",
-      "person": "Yang Hong",
-      "published": "Mon, 23 Nov 2026 14:59:07 +0000",
-      "reports": [
-        {
-          "key": "24aa440920e5114a77",
-          "phase": "争议线索",
-          "published": "Mon, 23 Nov 2026 14:59:07 +0000",
-          "publisher": "starnewskorea.com",
-          "rumor": false,
-          "source": "스타뉴스",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aMG5qSXdLN0dBSVdkODRvRlBYWFdEaEw5OFBhbGpDbS1RaVZzSjIxZWNnX1ZkWldHejVpclZET29QNUpZQ3dqX2oyUU5RR2RTcE9SaFBiTjI5VW82Nk1OWUhtdm1oTDBoOWpSMTBKdGdzMGI0dGxN?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "ceo",
-        "仁勋",
-        "任英",
-        "伟达",
-        "力挺",
-        "勋辞",
-        "天火",
-        "已更",
-        "归来",
-        "更正",
-        "火速",
-        "王者",
-        "者归",
-        "英伟",
-        "误已",
-        "辞职",
-        "速重",
-        "重任",
-        "错误",
-        "黄仁"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 24 Nov 2026 01:10:51 +0000",
-      "id": "28f252c5ca5cbc9152",
-      "person": "马斯克",
-      "published": "Mon, 23 Nov 2026 16:00:00 +0000",
-      "reports": [
-        {
-          "key": "28f252c5ca5cbc9152",
-          "phase": "突发事件",
-          "published": "Mon, 23 Nov 2026 16:00:00 +0000",
-          "publisher": "news.mydrivers.com",
-          "rumor": false,
-          "source": "驱动之家",
-          "stage": "突发事件",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15TE95aEtya0hwdjM2QV9KVm5KUC1ZTHVWWVVWTnNsUVBUX3ZIaC1yb2J4ZTA4SUV6cmlBbEVoRnd4ZlFCdzBDSzhIZXYyWlZtUUJKSXVKNjc?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "abuse",
-        "allegations",
-        "child",
-        "grok",
-        "images",
-        "made",
-        "sex",
-        "spacex"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 24 Nov 2026 01:10:51 +0000",
-      "id": "4d1d3fd4ed528cc1d4",
-      "person": "马斯克",
-      "published": "Mon, 23 Nov 2026 17:03:00 +0000",
-      "reports": [
-        {
-          "key": "4d1d3fd4ed528cc1d4",
-          "phase": "法律进展:起诉",
-          "published": "Mon, 23 Nov 2026 17:03:00 +0000",
-          "publisher": "newsweek.com",
-          "rumor": false,
-          "source": "Newsweek",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQblBXemZkZUIwcE5OYlhlaVNWT1FRaU40QXRld0hUc1FfZTVHTjBKLTU2eUNXcXlGU3pJclEzTDBudTNraDhtd0xKekhZQzRkWlp3VlpzN09mSVU4OWxfSEdzaGI3RUF5a0tyUDh3UGQyYnF0RnRqUkYtcXdUTTZFbzgzekd3NW9xRThQNzBLTi0zYnBSMmNxbGlEU1ZmRDJuTXBpSE1RMzFXdw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "antisemitic",
-        "blast",
-        "bowen",
-        "describe",
-        "groups",
-        "israel",
-        "jewish",
-        "meager",
-        "pro",
-        "slur",
-        "using",
-        "yang"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 24 Nov 2026 01:10:51 +0000",
-      "id": "af946f23e44088eb5c",
-      "person": "Regina Spektor",
-      "published": "Mon, 23 Nov 2026 18:48:00 +0000",
-      "reports": [
-        {
-          "key": "af946f23e44088eb5c",
-          "phase": "道歉回应",
-          "published": "Mon, 23 Nov 2026 18:48:00 +0000",
-          "publisher": "algemeiner.com",
-          "rumor": false,
-          "source": "Algemeiner.com",
-          "stage": "道歉回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNkEzbVBFQWNucWhxS3dKVXo1ZnRueVd3RXcwcEVfeUVaTE5WRXkxNl80WlE3ZzNaSFR1ak4tbmRnY01JS19TNnFWaFlZejV2U0dtNDI0enVoZFRxcGVPT1k3WGVjbjZ6b1h3ODRrelhrOGlHSkFuNTFnSlloSjdRZTFvSXFFMk9hTUtOZy1Td3p1dUZJQ1huZHBXbnpmYVdWaGV3dGJ0NVBiZC0za3VPcG9nT0pEQ2lIWFpvalNSSHVsTk50QVl6cm1LSF85RWxlYkk3WWZsODRKajdWQi1wQll5R1VvVjZFbW1FYlln?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "huang",
-        "jensen",
-        "nvidia",
-        "others",
-        "reinstated",
-        "rejoice"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 24 Nov 2026 01:10:51 +0000",
-      "id": "4490923b2a51448675",
-      "person": "马斯克",
-      "published": "Mon, 23 Nov 2026 21:47:41 +0000",
-      "reports": [
-        {
-          "key": "4490923b2a51448675",
-          "phase": "争议线索",
-          "published": "Mon, 23 Nov 2026 21:47:41 +0000",
-          "publisher": "techcrunch.com",
-          "rumor": false,
-          "source": "TechCrunch",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQk4yM2pqQ2pyak9FMWVyLTdZZTQ0ZkdBVE91U0c1ck13RXBCYW5sR1dJMkUyZ3lISHFvUmpLVWFqa2RFV3lLa3FiNXd4RzJXQWJSQXJtV19wOGtkclVockcwTmw0S2wzQ1l1QkZ5TFh0Q2dtenZNLVQzOWg3WTRtWmFLcGszY2V6R3JtWm1hQ0lOUnE3NlpwSzdJRHRHS0xpSFlyTTBTRi03cFFtU0xzOVc4TldfMXc?oc=5"
-        },
-        {
-          "key": "c3f3245edac864f2ee",
-          "phase": "争议线索",
-          "published": "Wed, 25 Nov 2026 13:48:32 +0000",
-          "publisher": "americanbazaaronline.com",
-          "rumor": false,
-          "source": "The American Bazaar",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcW9ZRmlrNlZzbEtScnJqXzVGOTh2azZLbk0tQWw5WjJXM0xjVi1HN0wzb2RMSFBNa010TWh0ZVBTZkRKN0tyN2ItNG1udDVqZFltRGk3djFmR0R5aUNwV244b3h4djl5cGFSREEtYlZzZVdZbzJwT0F6QXdQQUozWlk0Z1ZLMVEySDc1UmpuT21PNzAtbTBIdXVrRFc5SzQxT293YlBEeUdQNVRDc2FFZw?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "didn",
-        "fair",
-        "hit",
-        "mastermind",
-        "name",
-        "piece",
-        "style",
-        "vanity"
-      ],
-      "concepts": [],
-      "first_seen": "Tue, 24 Nov 2026 01:10:51 +0000",
-      "id": "68af9e291beead46bb",
-      "person": "泰勒斯威夫特",
-      "published": "Tue, 24 Nov 2026 00:53:00 +0000",
-      "reports": [
-        {
-          "key": "68af9e291beead46bb",
-          "phase": "争议线索",
-          "published": "Tue, 24 Nov 2026 00:53:00 +0000",
-          "publisher": "nacionale.com",
-          "rumor": false,
-          "source": "Nacionale",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEtXaU5JRnh6cVU2RkM2aTZzejIyUFFSd2s3QnJLXzRsMDJtVlNJYUZxRWNOWXI5Zzhmc1czT0RKdlVkRUZxZWY5aURZU0pzbzRlYndsY1R3c1E2YVAxX216NEdRcGNvWXhacHJmQU9Bd0s3M2xYaXRVcE5BeXNRQ0g5enFQYlgxQ3ppWkM3ZEdRLWpjbHlaUGRfVVNzRTloaUlZaW5Ldi1GQ1U?oc=5"
-        },
-        {
-          "key": "036e724cc639658191",
-          "phase": "争议线索",
-          "published": "Tue, 24 Nov 2026 16:23:21 +0000",
-          "publisher": "washingtontimes.com",
-          "rumor": false,
-          "source": "Washington Times",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORmRhTzFTQTRkMlZzd0NMQVJSYTFHc2tlSTVyWHdOdUR1VVdkRWJpTnllbkh0ajE2bTdhMXJTeVBQRDRKcVZSeEpfdzNDNkZEeTRFWmNIWE9iLUxXMHhRWGhISzR0ZkVqc2kyLVMyUjFSTE5ZOEtRV2xhNVcxTkZlT2pFVHQxVURhaEhnVWtnaHQ5VmhoemtUYVBqMGk3YkhLMWdOaXlqTDl0X1BXaTJjcmhIeS0tRy1D?oc=5"
-        },
-        {
-          "key": "115856c546814c125c",
-          "phase": "公开回应",
-          "published": "Tue, 24 Nov 2026 18:37:00 +0000",
-          "publisher": "sheknows.com",
-          "rumor": true,
-          "source": "SheKnows",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSzJsTFUzeDNJT1d6aHYtcDhIX04teVZRb1pWaENodEk5eDdEWXRrNUtxUGZLTDV1TjFOTm1ROWliOHJqWExlTkhnUjI2dmxxa0R3c1NjT09DUGU0QXQ1MlF3b2pCTVNPYXhpU0hqem02cmhZdHoySUpXOHBnUWJveTJxNi1USUxNeHY0SkN2WXlwSjJuUkpoSS1wRGZUU0F6VVJWSXdNeG5ZNVE0U1QwcVVVT1hYSnZ5VW8tUQ?oc=5"
-        },
-        {
-          "key": "8634a904827f90a7f3",
-          "phase": "争议线索",
-          "published": "Tue, 24 Nov 2026 22:03:00 +0000",
-          "publisher": "cbc.ca",
-          "rumor": false,
-          "source": "CBC",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTE14ZVRCMHZobzdRYnJRNXhOQndtZk94N21CSm5XSGZpZDctVV9hYzg0VkxrdTdkdG1kNFZ1OHZSdldiUWtvN2prLXNqMmFhM3dGd1hsb29RNy1PZHRsZ092ZzRPSExvVC1zYlZKa190dVppTkluQ3BXc2tLSmRGUWRCWmdhNDl1d0o3dkJFVE9GMExRZVE?oc=5"
-        },
-        {
-          "key": "825ee94a919d644015",
-          "phase": "争议线索",
-          "published": "Wed, 25 Nov 2026 09:00:00 +0000",
-          "publisher": "newsalert.com.pk",
-          "rumor": false,
-          "source": "newsalert.com.pk",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUDRvOTBvLThtYll5VmdFTDNOSFBRWUxQbGUxVTZVSmZCY3JTcUlNdzRuUWVRMF9fbkZJSjJNQ0pPNHBqQXJSLUt4eFNic2ZlTWZLNEhBUEVOVzJiSlBRQUVJbjY2NEpLOW9HLUotM2JIQjVYMEltNkxiSlBUckgwU19HemFPQjhfQWtuVEVWYWY4RnI1WUZfYlJyT0ctbUQx?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "confirms",
         "eisha",
         "responsibility",
@@ -1893,13 +1607,123 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPamFTU1h1VXlQZjdSU2xKNTlXeEJ3TVlCTlh1X3M0Uk8yQjN6YlFMQkhrLVhhbnRoa2Z6ZDNWMUVubU1abTdLYmdtQ21MUU5MSWVBLWhzaFdZdU1uTUY3SWRSa0pObDVsN2Y0TXBDdnN3cGhuWTVpaUhIenRLNlpPQWlwTWF0X3ZGVjB3YVNMLXFyQXk0cWdXbDZ3TTExWmxRR0NDemZEeFBiT3AwcmR5eTJrZVFpaVExOEs0Q0ZTLW1wRm1GczFCbll6WThsQTNsTF9Hak04c1VZbHMzM2Q0dnRIbzFPUQ?oc=5"
+        },
+        {
+          "key": "f516b15d10a27a9a7d",
+          "phase": "突发事件",
+          "published": "Thu, 26 Nov 2026 23:26:44 +0000",
+          "publisher": "yahoo.com",
+          "rumor": false,
+          "source": "Yahoo",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSVdFVk1OMmo5ZXJROFdQRDRVcW5leElXVVVLLWh0c0dhVEs3aW5rNEp3Y1hXM3BiUHcxQlBjaUI0dDZRRzlGU0FNYjFJUHpjQ3ZWRlJIQ3B3TjVneXFSdVM0eW52TzhnTVRBbE9NUmJ4SlJGd1JCRWtMLVMzZFVkcF93anNmRDdMbEJXTVN3ei11bUQtdmxGa0s4ZlRwVHBZWXJkZkI0cFR6c21sVDZQU2NKcG9VazQ?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "不敌",
+        "丹麦",
+        "后葡",
+        "役后",
+        "敌丹",
+        "牙队",
+        "萄牙",
+        "葡萄",
+        "退役",
+        "队首",
+        "首战"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 27 Nov 2026 05:24:28 +0000",
+      "id": "85a08e4c60bede694e",
+      "person": "C罗",
+      "published": "Fri, 27 Nov 2026 01:33:00 +0000",
+      "reports": [
+        {
+          "key": "85a08e4c60bede694e",
+          "phase": "突发事件",
+          "published": "Fri, 27 Nov 2026 01:33:00 +0000",
+          "publisher": "m.dongqiudi.com",
+          "rumor": false,
+          "source": "懂球帝",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43SlY0N2tvbDFFWnAxV2NwQUViN1dLZHVnOFpjY2ViYlpTNjNHM0Z2UHRJaDJ3RUxWWU1UZ20zNkxDV05iUWhGV3pFSjh6dVVXZ2ZVUlA0Yw?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "explaining",
+        "kenny",
+        "makes",
+        "smith",
+        "still",
+        "unstoppable",
+        "what"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 27 Nov 2026 05:24:28 +0000",
+      "id": "19c95f1b35e8e44d53",
+      "person": "詹姆斯",
+      "published": "Fri, 27 Nov 2026 01:38:00 +0000",
+      "reports": [
+        {
+          "key": "19c95f1b35e8e44d53",
+          "phase": "争议线索",
+          "published": "Fri, 27 Nov 2026 01:38:00 +0000",
+          "publisher": "sports.yahoo.com",
+          "rumor": false,
+          "source": "Yahoo Sports",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVVpiUFNnMVBGaWVXM29XOFkxclBfblREV19jV0k3VXhZYzM3dzk4ZlpKY0J3c3VaRWFfd29iVHZWTGVLMWRGcXgxVGZTV3U4UjZGMFpPSTJBQmV1LVFWVFhwRUFlS3RMMk45cHVGTU1FeWRuTkYxZHE1SzZUWW9GOVdzOFNDNTBMMjNpSnZpazgxRGxG?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "center",
+        "ending",
+        "fan",
+        "home",
+        "letters",
+        "mistake",
+        "musical",
+        "recycling",
+        "saying",
+        "tidying",
+        "while",
+        "yeon"
+      ],
+      "concepts": [],
+      "first_seen": "Fri, 27 Nov 2026 05:24:28 +0000",
+      "id": "eefaf771f6eff12df6",
+      "person": "Lee Dong",
+      "published": "Fri, 27 Nov 2026 03:04:20 +0000",
+      "reports": [
+        {
+          "key": "eefaf771f6eff12df6",
+          "phase": "道歉回应",
+          "published": "Fri, 27 Nov 2026 03:04:20 +0000",
+          "publisher": "sportschosun.com",
+          "rumor": false,
+          "source": "스포츠조선",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOWFvLWZyTUliNkxZUzlVREE4ZHAyWktXN1JnV0FrNnFHSGFWUElNV09oSzM0NXg0THJPYzdMT2FGd2hMRWl6NzdHTWJmUHdRZlRNdWVobkQyeXRqSUJRQ0tuN0hHSU9lMTNDUVdkclI4M1FCQ3p6bUYwdWQxY1pJdUFTZw?oc=5"
         }
       ],
       "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Thu, 26 Nov 2026 23:43:56 +0000",
+  "last_run": "Fri, 27 Nov 2026 05:24:28 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
