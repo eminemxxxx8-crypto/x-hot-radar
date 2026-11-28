@@ -1588,6 +1588,28 @@
           "stage": "突发事件",
           "trusted": false,
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcjZvLTBTalFJUzg5VVN3SGVPbXNOUzhjQlNwd2RmaDEwTTVFNmt6anRmTUo2cjZLZU10eUlZUVFEUVZUa25nem9nTjhJMFdUS3FGbGtUelI2RVBIMFBCSWU4QUduR0s2SkhuVXNXTHhBQURJVDE4ZlpOMHUwREsxandoUzFaRjQxSzVuTHdvNlNSdTBtcUc0bmNHZmZ4RVZXWXFNVVUzLXZHSl9LTmc?oc=5"
+        },
+        {
+          "key": "5f3afe4c3dcd168cab",
+          "phase": "突发事件",
+          "published": "Sat, 28 Nov 2026 10:34:47 +0000",
+          "publisher": "newsbreak.com",
+          "rumor": false,
+          "source": "NewsBreak: Local News & Alerts",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcEVWWFZtMWJLNllUZFBkNjNvZlFzZ0dEQVNheWdvbElFMTRDOVNPVWxGVEtsWDIxZE93WU03X2hTU1Y4UmZpLXJKTWxkU1ViUXhGX3RCdmN6RG1SdU9maEdqUkpySXJ4VDE2NGNwaWhQU21nZFlfQUVjQWFUcmJsWFduM0VqWi1oZmlJUVFxTjFoU2xJMWNZZXVVN05vNGV0dnpzVkwySTkydVZyWUViZ1FfdmNJaWhQYlFIcGZfb3lGbjl0N1IxV1l3TW9vNjlEbVc1TnFvR0c1VEk1OVE4WlZLeDBZc1JaX3FITFlWTzBRLU15anZQQg?oc=5"
+        },
+        {
+          "key": "f4db4e7afdeb0fdd62",
+          "phase": "突发事件",
+          "published": "Sat, 28 Nov 2026 13:56:37 +0000",
+          "publisher": "marca.com",
+          "rumor": false,
+          "source": "MARCA",
+          "stage": "突发事件",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRHhJQzBUelZOVW4xd0FyODJtdjBkNS1hb3pfbTh6LWVvM090M2tEc2tNbkZpRHk2bUZjQzVwaDZ1QXIwSmdkc3dpRm5tSGJsWWNMeF83WGg2eUxtS1lJUF92ZG43dzNCeUllckdEREtMNDFIcVBZQ2dzMjFMTjlSM0NFZEpwZDlpLTFBUHhQbkxyajBQbTNPMDQyX1ItMV9JS1pycFZhY1NESDJPY2I1WTVsdHJOSUM0M2s4b25BVklwcW1iM0k3dGdGbnlaLXRwYVZvNDhPTHZvcGswZzlYSDA4cURYdXdCSGZZYldySGg1Z09mUHlxRXlDakZLRnFYMGU3QXVuQWluMFBzbHNYNkdhMTRvZ3l3UkM2OGpXeWk4aGvSAaMCQVVfeXFMTmFBc3N2V0FMbXVwdEdjLWJHLUt0TjkyRzI2QzJvOVhrdEY5YlNLbEpKSzNuNTJyOTNPSTNqc3lDbFd1U0dBS3BNLUo4aTlhdmpoOGNqendxUnJIZGxBUmJQN1pMSEU2LUZ4ZWZHT2xOOGZvR2Y0UWZXclMtUERsUFhHYnB1VHU5TmVDcTdxRTNYd1JRRG9wS2stMTBjVVhUSlRzLVJnXzlGWWRDb25zSFZkcERxdl9NVklKZXRNSWo0Sy1rdFZpZEdIY1ppUk1TaDNQRmFsQUZvd1ItMFFFNnNUbzVMNDZhWTJKamFzbFhBVWtmWXhDcE11cXZXRnZBTU1RY3BaNjF2bDMzc1pSbFpMdEdmVEJsVjUxZWhUb1NIN2FR?oc=5"
         }
       ],
       "stages": []
@@ -1762,10 +1784,129 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "不住",
+        "不起",
+        "伸手",
+        "发声",
+        "国女",
+        "地道",
+        "女歌",
+        "子伸",
+        "对不",
+        "对方",
+        "忍不",
+        "手发",
+        "手触",
+        "方跪",
+        "时被",
+        "歉时",
+        "歌手",
+        "泰国",
+        "男子",
+        "的忍",
+        "真的",
+        "碰胸",
+        "胸部",
+        "被踢",
+        "触碰",
+        "跪地",
+        "踢面",
+        "道歉",
+        "遭男",
+        "面部"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 28 Nov 2026 14:04:05 +0000",
+      "id": "6c7b7ad64629c45a61",
+      "person": "演唱会上",
+      "published": "Sat, 28 Nov 2026 08:34:27 +0000",
+      "reports": [
+        {
+          "key": "6c7b7ad64629c45a61",
+          "phase": "道歉回应",
+          "published": "Sat, 28 Nov 2026 08:34:27 +0000",
+          "publisher": "thepaper.cn",
+          "rumor": false,
+          "source": "ThePaper.cn",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DTVhqQnZyMEpaTkgzNkUxWWdSd1pnOGZobHl0SGpJbDVfX1JtZmJ0cUU4MVQyRUU3UEd2Uklib05FN1otbFozVXctWWdHRXotRGlaMFprT1E5Zm5SaDc2Ug?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "dominates",
+        "goat",
+        "jalen",
+        "jordan",
+        "michael",
+        "pacers",
+        "rose",
+        "tweet",
+        "while"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 28 Nov 2026 14:04:05 +0000",
+      "id": "f1ef991b8e0a21961b",
+      "person": "詹姆斯",
+      "published": "Sat, 28 Nov 2026 10:37:20 +0000",
+      "reports": [
+        {
+          "key": "f1ef991b8e0a21961b",
+          "phase": "争议线索",
+          "published": "Sat, 28 Nov 2026 10:37:20 +0000",
+          "publisher": "basketballnetwork.net",
+          "rumor": false,
+          "source": "Basketball Network",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVHI1OEJmSjJYSFZsaTBDcnVIYUJ2LUVhNmpNY0xrTDlZM0dKVHg5QmIyNzIwQzRGMGp4a0hKaGJHREMwVXlKeUNaZ1NmX2l2R3dWQnJFRVh6WEd3YkRGcV9uMVk1dDYtNnp3SEo0Yjk1TzJYZHdZeTZYZGtva1lPbG1jR2xJblpTUUpkMENwSG5JZHE4Zm1leFdzdTluRVhHY1p3WWZLOV9yR1F1N0RHVS1hNTMwQUhNR3lpSUNqU0RoclU5Wk5jcUlpeUdzUVZLWEVFRA?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "alleged",
+        "concert",
+        "does",
+        "face",
+        "harassm",
+        "harassment",
+        "sexual",
+        "thai",
+        "undo"
+      ],
+      "concepts": [
+        "sexual"
+      ],
+      "first_seen": "Sat, 28 Nov 2026 14:04:05 +0000",
+      "id": "16ff8a22728938b824",
+      "person": "Kicks Fan",
+      "published": "Sat, 28 Nov 2026 12:18:33 +0000",
+      "reports": [
+        {
+          "key": "16ff8a22728938b824",
+          "phase": "道歉回应",
+          "published": "Sat, 28 Nov 2026 12:18:33 +0000",
+          "publisher": "news18.com",
+          "rumor": true,
+          "source": "News18",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQX3ZkM3dUdnJfVmtwVXRiLWVyeWhtNm1nRDNjbDRGaEtleEtiREpSNDhUdDZUTGpfZHVPemw2eS0tZjJGZEhFMy1MMFczZjFjRm9ScDJaLXJRcHBad0pzWmgwbzhRSzhOdkFVNUFMTXZ0ZWgtaTVSSUsydzZRc2Zmd0U5X3BaYWZ4c3NSZ0ZQZGRqbnhyMWE4cnFXRHJjV2dkVlQzMDJmVnJYZ05jQ1ZRbm1lYjhUc05nZlJIcTFYYy0yZ1NzYWJfZzFoX2J0TnQzUExNc3M2azBiVTJKNkM1dWd5MGdPNk8xbUlQVNIB8gFBVV95cUxOTUxFQkFXcDZfMTNqUGRFcFFyMkpLWTVtXzE4YXZQOWFPSUdZMks3bUxJT1Y0SjVqV2RJeGpBQ2tzTmp0TWZtN0RYRkVrZ0djUGh2YWx3UEcwLURsSHpkOVp6MnY0MDVSaWtZbHc4Snp4XzlDcTBNLVZaUUdlV29HcGlFVXp0eFRhM19OSlFqaWpWME00bGNSb2tmd2Q4bW1keTBxNVVPdDh3eDV2UXhqRDJSRXpVMnlwVFNBY29kSkJqRlJybEswX0l2RWdpNVRPT1pSRS1SX3JqSTVMZUtMU0lVZjgwUkhBc2hMVGJfakdXQQ?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Sat, 28 Nov 2026 04:58:46 +0000",
+  "last_run": "Sat, 28 Nov 2026 14:04:05 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
