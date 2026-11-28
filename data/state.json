@@ -2,216 +2,6 @@
   "events": [
     {
       "anchors": [
-        "extraordinary",
-        "finds",
-        "goal",
-        "looking",
-        "night",
-        "surprise",
-        "vinicius",
-        "what"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 25 Nov 2026 04:05:21 +0000",
-      "id": "0f683b9e207486e689",
-      "person": "姆巴佩",
-      "published": "Tue, 24 Nov 2026 22:43:49 +0000",
-      "reports": [
-        {
-          "key": "0f683b9e207486e689",
-          "phase": "道歉回应",
-          "published": "Tue, 24 Nov 2026 22:43:49 +0000",
-          "publisher": "goal.com",
-          "rumor": false,
-          "source": "Goal.com",
-          "stage": "道歉回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVGlXZVZ1cTlROVZDSk5MV1ZTQnN3eWswcXFUTzlDSkh4ZzNnbmN1MDFzUDFIbUVzV2tvT3d5R3N4UGJuRVpiMERteTlOWXhtLWxoeFB5MDVQclU3ZHBfdE1qMzVDbVhTYm1YSnFudTJHMFl2cnpreGJWUjdmRWtIZ2tYUlB1SXY4djRULVIzRlhmZmtNcDVCUGRpb3RvbzFrMXhacEgxTmNiNmxYdjBTbUFnUXJJZHQ0OU1mS1NNQkNvbVUxaGcyeTZzNXFYWjUtSmJEWXo0T1htZXJhaWNFd2lZY1daMHItOXppWnZvUQ?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "万人",
-        "人唱",
-        "加拿",
-        "唱错",
-        "国歌",
-        "大国",
-        "女歌",
-        "当着",
-        "拿大",
-        "歌女",
-        "歌手",
-        "道歉",
-        "错加"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 25 Nov 2026 04:05:21 +0000",
-      "id": "304e135e94c8a579e8",
-      "person": "含泪",
-      "published": "Tue, 24 Nov 2026 23:44:12 +0000",
-      "reports": [
-        {
-          "key": "304e135e94c8a579e8",
-          "phase": "道歉回应",
-          "published": "Tue, 24 Nov 2026 23:44:12 +0000",
-          "publisher": "info.vanpeople.com",
-          "rumor": false,
-          "source": "VanPeople",
-          "stage": "道歉回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yelBMZy1YTUpUT0xFUWNPUGpZMnNIUUduRTlZaVJoTVNQcUhSN3RZY3JLY0hodXIzdE1pR3lCYVB6NnphSlZzR05ITUhmakxX?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "explosive",
-        "fair",
-        "kelce",
-        "major",
-        "profile",
-        "stands",
-        "travis",
-        "vanity"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 25 Nov 2026 04:05:21 +0000",
-      "id": "bde22d5aadacfc4ad1",
-      "person": "泰勒斯威夫特",
-      "published": "Tue, 24 Nov 2026 23:58:11 +0000",
-      "reports": [
-        {
-          "key": "bde22d5aadacfc4ad1",
-          "phase": "争议线索",
-          "published": "Tue, 24 Nov 2026 23:58:11 +0000",
-          "publisher": "sports.ndtv.com",
-          "rumor": false,
-          "source": "NDTV Sports",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT3VQdEZmWnhYQUM4RVh5QzktY0RhVWtDNk5iN1V0Y1ZxOFhlT0RXUllFZ0ItVlVRLUhIcXdaelZ0eTJFdHI2TVpNTXlfYnl6UVVzbDhiOENNb21KLTg5RC14VHVsRzJ5LWJiY2ZMVGJyNk9YVTAwM1FnbWtURHpPYnIwemh4OEJxd1M3Y1JicFBSNmp1RDMyVk9iVk5wQ3VaVF9kZHB3R3pCM1Ata254MkVQaDUyVl9tZUE4LS1TNnpkNS1QNmpGUmhnZlM?oc=5"
-        },
-        {
-          "key": "0e12a23f18949368ba",
-          "phase": "争议线索",
-          "published": "Thu, 26 Nov 2026 03:02:00 +0000",
-          "publisher": "yahoo.com",
-          "rumor": true,
-          "source": "Yahoo",
-          "stage": "争议线索",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOU84S2M0a1BKZ1BLb2xmZ0s3VVhETE10SU1URkVCdW9uODlCdkdjLTZEMlM4M19tY2l0dWlYYTJjUUxuVmpOOXFoRWpNZnJnQ3ViUlBxSF9aa0FoN09SczVhX0FjMnJSMG9TdTlZVW1kZHhzWjc1UUh1LVItM0VBZ2F2emZET2l4RTdKc0R4RUduN3I1aUFXbFU4cElwdkdRc1o5d19aZzBlMGM?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "下公",
-        "两州",
-        "公司",
-        "州起",
-        "旗下",
-        "美两",
-        "起诉"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 25 Nov 2026 04:05:21 +0000",
-      "id": "d6bbbf0d791a276875",
-      "person": "马斯克",
-      "published": "Wed, 25 Nov 2026 00:31:00 +0000",
-      "reports": [
-        {
-          "key": "d6bbbf0d791a276875",
-          "phase": "法律进展:起诉",
-          "published": "Wed, 25 Nov 2026 00:31:00 +0000",
-          "publisher": "m.sohu.com",
-          "rumor": false,
-          "source": "Sohu",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY2NXTUpzNW83cGRIMklNSmJNa1ZtbzZDazVacXg3a00tVFBSejZKQk1YTzFfVFF6dGtUUEo4OTctMGRUb3p1aDB0dHctOUFFZl9QaEozOG10MkZqczdaQVhFbHVDWndEOVZRVTI0UzJ2MlJRbkJDcXZoYlFlR0RQUHpfT3hYeDZZV0V4Rw?oc=5"
-        },
-        {
-          "key": "eec739f02bbd8ff3dc",
-          "phase": "法律进展:起诉",
-          "published": "Wed, 25 Nov 2026 02:10:26 +0000",
-          "publisher": "sohu.com",
-          "rumor": false,
-          "source": "Sohu",
-          "stage": "法律进展",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOXzNKSkdULUY4Y1hIRVg1czNaa0tXSVBSMFJjbEczSlJWSXZjbEhQYmpPOG9EaFozb0p0alNZa2pQU2RPNElZdG1sTHhxc2JGMGJ0ZXhpWmhSam5VZ1p0QjZuVHMyY0NOXzRicGE4T0lOSDlMOF9vNklOckFibk9mMXJrYnRhU2FzT2RJZ09YNA?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
-        "三连",
-        "业生",
-        "亚冠",
-        "亲否",
-        "其将",
-        "冠三",
-        "利斩",
-        "利雅",
-        "否认",
-        "回葡",
-        "国家",
-        "家队",
-        "将重",
-        "带领",
-        "得胜",
-        "收获",
-        "斩获",
-        "来源",
-        "林靓",
-        "母亲",
-        "涯第",
-        "牙国",
-        "球报",
-        "生涯",
-        "编辑",
-        "职业",
-        "胜利",
-        "获亚",
-        "获职",
-        "萄牙",
-        "葡萄",
-        "认其",
-        "足球",
-        "连胜",
-        "重回",
-        "雅得",
-        "领利"
-      ],
-      "concepts": [],
-      "first_seen": "Wed, 25 Nov 2026 04:05:21 +0000",
-      "id": "c07a4d892a3571e48a",
-      "person": "C罗",
-      "published": "Wed, 25 Nov 2026 03:47:16 +0000",
-      "reports": [
-        {
-          "key": "c07a4d892a3571e48a",
-          "phase": "公开回应",
-          "published": "Wed, 25 Nov 2026 03:47:16 +0000",
-          "publisher": "m.sohu.com",
-          "rumor": false,
-          "source": "Sohu",
-          "stage": "公开回应",
-          "trusted": false,
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWlIVzZXWVZkbXdGaG9BRDVWcm5NZV9OXzN5R0s1ZWo0eHhReXFBd0xYRVJXRWpNZEg0d0VHV2w0Y2NteTRvT2RQUmNzNHppTHlFVUs0RGFIOHl4cXlXSTZnLUFOSEhrT3lEZUpndUg4R0hrRHRXeGQ4NTZKRXFvMEZTS2FfZFhy?oc=5"
-        }
-      ],
-      "stages": []
-    },
-    {
-      "anchors": [
         "争议",
         "商回",
         "回应",
@@ -1836,10 +1626,146 @@
         }
       ],
       "stages": []
+    },
+    {
+      "anchors": [
+        "与演",
+        "争议",
+        "前恋",
+        "失踪",
+        "就私",
+        "展开",
+        "已展",
+        "开搜",
+        "开真",
+        "恋人",
+        "战的",
+        "据悉",
+        "搜索",
+        "攻防",
+        "方已",
+        "某失",
+        "活争",
+        "演员",
+        "生活",
+        "的前",
+        "相攻",
+        "真相",
+        "私生",
+        "警方",
+        "议展",
+        "防战"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 28 Nov 2026 04:58:46 +0000",
+      "id": "3f5aecb9e3e85ae147",
+      "person": "洪民基",
+      "published": "Fri, 27 Nov 2026 23:36:43 +0000",
+      "reports": [
+        {
+          "key": "3f5aecb9e3e85ae147",
+          "phase": "争议线索",
+          "published": "Fri, 27 Nov 2026 23:36:43 +0000",
+          "publisher": "mk.co.kr",
+          "rumor": false,
+          "source": "매일경제",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4ZmhTRjBBdlVuaGtGTWUwRy1NVXd1czM2Z0VFblRNNUtsUHJOYVdTYktocDQyZzNvR2k2OU9PX0IzNThsSmhHamJWNDd0VWphMEE?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "california",
+        "fights",
+        "life",
+        "showgirl",
+        "trademark"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 28 Nov 2026 04:58:46 +0000",
+      "id": "6cb6b2e2b77cefcde9",
+      "person": "泰勒斯威夫特",
+      "published": "Sat, 28 Nov 2026 00:23:00 +0000",
+      "reports": [
+        {
+          "key": "6cb6b2e2b77cefcde9",
+          "phase": "法律进展:起诉",
+          "published": "Sat, 28 Nov 2026 00:23:00 +0000",
+          "publisher": "uk.news.yahoo.com",
+          "rumor": false,
+          "source": "Yahoo News UK",
+          "stage": "法律进展",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLXg0R0tMeWNoXzU3LUZPVmp5NjFKS1Ryd2pfd1ZmMXNENTNoa1FXM1NXWVRhdzMtU1JrQzRDTWVUaUtCXzI5UnFPWE50SXVhLV9CVUQ2OVhHYkVKQ0hQcTlwRWE4bmxMUjMzRDJUZnVDWkxKSUZwMjVONTFTT1VRX0tqR3I?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "changing",
+        "fan",
+        "letter",
+        "musical",
+        "reaction",
+        "second"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 28 Nov 2026 04:58:46 +0000",
+      "id": "b44efdaa8ceaf02a54",
+      "person": "Lee Dong Yeon",
+      "published": "Sat, 28 Nov 2026 01:35:55 +0000",
+      "reports": [
+        {
+          "key": "b44efdaa8ceaf02a54",
+          "phase": "道歉回应",
+          "published": "Sat, 28 Nov 2026 01:35:55 +0000",
+          "publisher": "allkpop.com",
+          "rumor": false,
+          "source": "allkpop",
+          "stage": "道歉回应",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdzBsRXNpZDhwU1ZCVzFfSzlybXJuTjVCRU5lLUI1REtESWVNalZNeTNhdzNrQ0hmNVI2VnNCMzgtVXNydV9Zakc0NmhUZzV0VlgzLWptSF84OFVvdEFXQTZUUHpZUWFKM0RNZERvRGxuTkwxQm9rZXFBcDFsSlBqSGpHMjV2SWlEbm9zQjJQMGhGNGxFaUliT3JibE05M2tONEh1cGZObjdIbG1LLUhjekVrUi1CNUdtckpuaWhnV2JBVjNpcFNqeFlnU2ZNSWRmVTVtRlE3Wm1sbUNYWWFQYg?oc=5"
+        }
+      ],
+      "stages": []
+    },
+    {
+      "anchors": [
+        "bills",
+        "hit",
+        "kelce",
+        "ominous",
+        "send",
+        "travis",
+        "warning"
+      ],
+      "concepts": [],
+      "first_seen": "Sat, 28 Nov 2026 04:58:46 +0000",
+      "id": "bf34b52e1bde65a374",
+      "person": "泰勒斯威夫特",
+      "published": "Sat, 28 Nov 2026 02:59:00 +0000",
+      "reports": [
+        {
+          "key": "bf34b52e1bde65a374",
+          "phase": "争议线索",
+          "published": "Sat, 28 Nov 2026 02:59:00 +0000",
+          "publisher": "sports.yahoo.com",
+          "rumor": false,
+          "source": "Yahoo Sports",
+          "stage": "争议线索",
+          "trusted": false,
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSU4zNXR2TjE3ZHQ1OEstYnA4dTBhOHFnUGNVX3pUWVl4QWwtaWlfSU1OeTlManJIdzlNbTJnZ3ZQVFZRaFBYNGU2SVBQTGRLQXV2UHJUNXpYVnBJbzVtTE5kS2xkODZ5dXVIOFJ2U1RXak4zY3VKbkwxQVY1NjlmT0p5UVhDZ2lUb3pz?oc=5"
+        }
+      ],
+      "stages": []
     }
   ],
   "initialized": true,
-  "last_run": "Fri, 27 Nov 2026 23:38:29 +0000",
+  "last_run": "Sat, 28 Nov 2026 04:58:46 +0000",
   "seen": [
     "03038cc5992eba28c0",
     "0a15cae305063cf406",
